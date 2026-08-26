@@ -1,0 +1,37 @@
+---
+kind: source
+slug: d3-scramble-for-formal-methods-mp4
+title: D3_scramble-for-formal-methods.mp4
+drive_id: 1Ruu1aKgpTixZ8tHKW-ae2F47DqFHm7vy
+source_link: https://drive.google.com/file/d/1Ruu1aKgpTixZ8tHKW-ae2F47DqFHm7vy/view?usp=drivesdk
+type: clip
+date: unknown
+tags: ["ar", "trust"]
+created: 2026-08-24T11:24:54Z
+last_updated: 2026-08-24T11:24:54Z
+mentions:
+  entities:
+    - entities/ar
+  concepts:
+    - concepts/trust
+related:
+  - concepts/trust
+  - entities/ar
+---
+# D3_scramble-for-formal-methods.mp4
+
+## Summary
+
+Clip. We probably passed the point where systems are smarter than us a long time ago, but we didn't have the formal methods. Now there's going to be a scramble for formal methods, because formal methods can tell you the degree of trust you can have in an 'oracular pronouncement' from something smarter than you in the domain you're operating in.
+
+## Key Points
+- See summary above.
+
+## Named Entities
+- [[entities/ar]] (AR)
+
+## Related Concepts
+- [[concepts/trust]] — Trust
+
+## Quotes
+- (add memorable direct quotes with timecodes during compile)

@@ -1,0 +1,37 @@
+---
+kind: source
+slug: d2-fog-of-knowability-mp4
+title: D2_fog-of-knowability.mp4
+drive_id: 1_hIVuTAt4NynRgaOCR_6gOb2_xvYHtAL
+source_link: https://drive.google.com/file/d/1_hIVuTAt4NynRgaOCR_6gOb2_xvYHtAL/view?usp=drivesdk
+type: clip
+date: unknown
+tags: ["ar", "fog-of-knowability"]
+created: 2026-08-24T11:24:54Z
+last_updated: 2026-08-24T11:24:54Z
+mentions:
+  entities:
+    - entities/ar
+  concepts:
+    - concepts/fog-of-knowability
+related:
+  - concepts/fog-of-knowability
+  - entities/ar
+---
+# D2_fog-of-knowability.mp4
+
+## Summary
+
+Clip on the 'fog of knowability': when outputs are generated in a domain where a system is relatively superintelligent, how do you know they are accurate? You can't just take it on faith — that's very problematic. And how do you know it isn't gaslighting you? Because we know these things lie, cheat, and steal.
+
+## Key Points
+- See summary above.
+
+## Named Entities
+- [[entities/ar]] (AR)
+
+## Related Concepts
+- [[concepts/fog-of-knowability]] — The fog of knowability
+
+## Quotes
+- (add memorable direct quotes with timecodes during compile)

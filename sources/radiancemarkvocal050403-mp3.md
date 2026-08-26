@@ -1,0 +1,36 @@
+---
+kind: source
+slug: radiancemarkvocal050403-mp3
+title: RadianceMarkVocal050403.mp3
+drive_id: 1IXYNDHMKq2VJKiBDpbd1yOJNayKGoK0Q
+source_link: https://drive.google.com/file/d/1IXYNDHMKq2VJKiBDpbd1yOJNayKGoK0Q/view?usp=drivesdk
+type: talk
+date: unknown
+tags: ["ar"]
+created: 2026-08-24T11:24:54Z
+last_updated: 2026-08-24T11:24:54Z
+mentions:
+  entities:
+    - entities/ar
+  concepts:
+    - (none)
+related:
+  - entities/ar
+---
+# RadianceMarkVocal050403.mp3
+
+## Summary
+
+Music/vocal track from the 'True Hallucinations' project — Mark's vocal take (05/04/03). Music and singing only; no spoken content. (Note: this file exists at both the Recordings root and in True Hallucinations — both copies are indexed.)
+
+## Key Points
+- See summary above.
+
+## Named Entities
+- [[entities/ar]] (AR)
+
+## Related Concepts
+- (none identified)
+
+## Quotes
+- (add memorable direct quotes with timecodes during compile)
