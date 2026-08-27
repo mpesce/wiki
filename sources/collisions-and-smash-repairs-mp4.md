@@ -6,21 +6,18 @@ drive_id: 1ozmZrY7eBsFfqn0pxWFo5BfO_REwtf6z
 source_link: https://drive.google.com/file/d/1ozmZrY7eBsFfqn0pxWFo5BfO_REwtf6z/view?usp=drivesdk
 type: podcast
 date: unknown
-tags: ["ar", "collaboration", "connectivity", "education", "git", "mark-pesce", "mit", "open-source", "podcast", "stanford", "twitter"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["collaboration", "connectivity", "education", "mark-pesce", "mit", "open-source", "stanford", "twitter"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/mit
     - entities/stanford
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/twitter
     - concepts/open-source
     - concepts/education
-    - concepts/podcast
     - concepts/collaboration
     - concepts/connectivity
 related:
@@ -28,10 +25,7 @@ related:
   - concepts/connectivity
   - concepts/education
   - concepts/open-source
-  - concepts/podcast
   - concepts/twitter
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
   - entities/mit
   - entities/stanford
@@ -49,14 +43,11 @@ This recording is a twenty-minute presentation by Mark Pesce, a media and techno
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/mit]] (MIT)
 - [[entities/stanford]] (Stanford)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/twitter]] — Twitter
 - [[concepts/open-source]] — Open source
 - [[concepts/education]] — Education
-- [[concepts/podcast]] — Podcasting
 - [[concepts/collaboration]] — Collaboration
 - [[concepts/connectivity]] — Connectivity
 

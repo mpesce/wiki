@@ -6,22 +6,18 @@ drive_id: 1jondHHQHdM24LDnfsd17bE9ZARItBub8
 source_link: https://drive.google.com/file/d/1jondHHQHdM24LDnfsd17bE9ZARItBub8/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "artificial-intelligence", "git", "google", "surveillance"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "google", "surveillance"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/google
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/surveillance
     - concepts/artificial-intelligence
 related:
   - concepts/artificial-intelligence
   - concepts/surveillance
-  - entities/ar
-  - entities/git
   - entities/google
 ---
 # ntn-20191114-1105-should_we_really_trust_big_tech_with_our_health_data-128.mp3
@@ -35,8 +31,6 @@ This recording is a television interview segment featuring tech correspondent Ma
 
 ## Named Entities
 - [[entities/google]] (Google)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

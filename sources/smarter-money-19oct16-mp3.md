@@ -6,18 +6,17 @@ drive_id: 1Fd-7usdwp1v_aqIz40k30o_5znat0iez
 source_link: https://drive.google.com/file/d/1Fd-7usdwp1v_aqIz40k30o_5znat0iez/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["3d", "abc", "ar", "blockchain", "git", "mark-pesce", "participation", "startups", "usc", "venture-capital"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "abc", "blockchain", "mark-pesce", "participation", "smart-contracts", "startups", "usc", "venture-capital"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/abc
     - entities/usc
     - entities/3d
-    - entities/ar
     - entities/blockchain
-    - entities/git
+    - entities/smart-contracts
   concepts:
     - concepts/startups
     - concepts/venture-capital
@@ -28,10 +27,9 @@ related:
   - concepts/venture-capital
   - entities/3d
   - entities/abc
-  - entities/ar
   - entities/blockchain
-  - entities/git
   - entities/mark-pesce
+  - entities/smart-contracts
   - entities/usc
 ---
 # Smarter Money 19Oct16.mp3
@@ -48,9 +46,8 @@ This recording is a talk delivered by Mark Pesce, a media and technology comment
 - [[entities/abc]] (ABC)
 - [[entities/usc]] (USC)
 - [[entities/3d]] (3D)
-- [[entities/ar]] (AR)
 - [[entities/blockchain]] (blockchain)
-- [[entities/git]] (Git)
+- [[entities/smart-contracts]] (smart contracts)
 
 ## Related Concepts
 - [[concepts/startups]] — Startups

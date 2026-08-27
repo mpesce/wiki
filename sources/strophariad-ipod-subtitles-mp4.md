@@ -6,16 +6,16 @@ drive_id: 1gf8qtJ6PvwudCoGCG2g2NQ7gb98oEJk2
 source_link: https://drive.google.com/file/d/1gf8qtJ6PvwudCoGCG2g2NQ7gb98oEJk2/view?usp=drivesdk
 type: talk
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # Strophariad-iPod-Subtitles.mp4
 
@@ -27,7 +27,7 @@ Music track (iPod export with subtitles) from the 'True Hallucinations' psychede
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

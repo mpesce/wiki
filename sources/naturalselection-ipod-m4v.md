@@ -6,18 +6,16 @@ drive_id: 1wqx9AedzdVtRkLcwlC29QQpH_ZXvmRx3
 source_link: https://drive.google.com/file/d/1wqx9AedzdVtRkLcwlC29QQpH_ZXvmRx3/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "identity", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["identity", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/identity
 related:
   - concepts/identity
-  - entities/ar
   - entities/mark-pesce
 ---
 # naturalselection_ipod.m4v
@@ -31,7 +29,6 @@ This recording is a lecture delivered by Mark Pesce, likely at a conference such
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/identity]] — Identity

@@ -6,14 +6,13 @@ drive_id: 1sJPMzqJDzHt_Zqmmb5hrMuEGy-jDl-zU
 source_link: https://drive.google.com/file/d/1sJPMzqJDzHt_Zqmmb5hrMuEGy-jDl-zU/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["3d", "ar", "broadcast", "stanford", "virtual-reality"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "broadcast", "stanford", "virtual-reality"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/stanford
     - entities/3d
-    - entities/ar
   concepts:
     - concepts/virtual-reality
     - concepts/broadcast
@@ -21,7 +20,6 @@ related:
   - concepts/broadcast
   - concepts/virtual-reality
   - entities/3d
-  - entities/ar
   - entities/stanford
 ---
 # 7_30Report_3DTV_3Jun10.m4v
@@ -36,7 +34,6 @@ This recording is a news broadcast segment from the Australian program 730, focu
 ## Named Entities
 - [[entities/stanford]] (Stanford)
 - [[entities/3d]] (3D)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

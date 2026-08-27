@@ -6,14 +6,12 @@ drive_id: 16m0xPwcBQqmAjRkAAzXskSfgTFFcIW82
 source_link: https://drive.google.com/file/d/16m0xPwcBQqmAjRkAAzXskSfgTFFcIW82/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "attention", "broadcast", "creators", "digital-distribution", "git", "mark-pesce", "peer-to-peer"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["attention", "broadcast", "creators", "digital-distribution", "mark-pesce", "peer-to-peer"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/attention
     - concepts/peer-to-peer
@@ -26,8 +24,6 @@ related:
   - concepts/creators
   - concepts/digital-distribution
   - concepts/peer-to-peer
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # ABC-JJJ-14Mar06-Interview.mp3
@@ -41,8 +37,6 @@ This recording is an interview segment from Australia's National Youth Radio Sta
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/attention]] — Attention

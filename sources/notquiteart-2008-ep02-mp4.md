@@ -6,30 +6,24 @@ drive_id: 1DuIW7aFsax9B5pxoSU9vkakALBrk2r6r
 source_link: https://drive.google.com/file/d/1DuIW7aFsax9B5pxoSU9vkakALBrk2r6r/view?usp=drivesdk
 type: interview
 date: 2008
-tags: ["3d", "ar", "broadcast", "commons", "connectivity", "creators", "git", "mark-pesce", "narrative"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "commons", "connectivity", "creators", "mark-pesce", "narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/3d
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/creators
-    - concepts/broadcast
     - concepts/narrative
     - concepts/connectivity
     - concepts/commons
 related:
-  - concepts/broadcast
   - concepts/commons
   - concepts/connectivity
   - concepts/creators
   - concepts/narrative
   - entities/3d
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # notquiteart_2008_ep02.mp4
@@ -44,12 +38,9 @@ This recording is an episode of the media program Not Quite Art, featuring host 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/3d]] (3D)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/creators]] — Creators
-- [[concepts/broadcast]] — Broadcasting
 - [[concepts/narrative]] — Narrative
 - [[concepts/connectivity]] — Connectivity
 - [[concepts/commons]] — The commons

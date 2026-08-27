@@ -6,22 +6,18 @@ drive_id: 1_YoUWKhevM42ylaxWs0EmEUBGePwVqHl
 source_link: https://drive.google.com/file/d/1_YoUWKhevM42ylaxWs0EmEUBGePwVqHl/view?usp=drivesdk
 type: keynote
 date: 2020
-tags: ["ar", "git", "mark-pesce", "peer-to-peer", "trust"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce", "peer-to-peer", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/trust
     - concepts/peer-to-peer
 related:
   - concepts/peer-to-peer
   - concepts/trust
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # V20 Day One.mp4
@@ -35,8 +31,6 @@ This recording is the opening session of the 2020 Virtual V20 Summit, a virtual 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust

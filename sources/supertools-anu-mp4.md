@@ -6,22 +6,18 @@ drive_id: 1LoYw8CRzGfu8pObCCEPz_SiRwXscgvYK
 source_link: https://drive.google.com/file/d/1LoYw8CRzGfu8pObCCEPz_SiRwXscgvYK/view?usp=drivesdk
 type: keynote
 date: 1979
-tags: ["apple", "ar", "artificial-intelligence", "git", "mark-pesce"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["apple", "artificial-intelligence", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/artificial-intelligence
 related:
   - concepts/artificial-intelligence
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # Supertools-ANU.mp4
@@ -36,8 +32,6 @@ This recording is a keynote talk delivered by Mark Pesce, a technology commentat
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

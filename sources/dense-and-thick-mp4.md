@@ -6,15 +6,13 @@ drive_id: 1OIBd5Lz8ISGmse4qF95aOeQi0bbUiVq3
 source_link: https://drive.google.com/file/d/1OIBd5Lz8ISGmse4qF95aOeQi0bbUiVq3/view?usp=drivesdk
 type: keynote
 date: 1993
-tags: ["apple", "ar", "communication", "connectivity", "git", "mark-pesce", "networks", "participation", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "communication", "connectivity", "mark-pesce", "networks", "participation", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/networks
@@ -28,8 +26,6 @@ related:
   - concepts/participation
   - concepts/the-future
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # dense-and-thick.mp4
@@ -44,8 +40,6 @@ This recording is a closing keynote address delivered by Mark Pesce at the Webst
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

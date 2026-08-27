@@ -6,16 +6,15 @@ drive_id: 1PCCBoo5AeSHzvh68HEzHg2nkVXEjPjVn
 source_link: https://drive.google.com/file/d/1PCCBoo5AeSHzvh68HEzHg2nkVXEjPjVn/view?usp=drivesdk
 type: interview
 date: 2011
-tags: ["3d", "abc", "ar", "identity", "mark-pesce", "microsoft", "social-media", "trust", "twitter", "virtual-reality"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "abc", "identity", "mark-pesce", "microsoft", "social-media", "trust", "twitter", "virtual-reality"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/microsoft
     - entities/abc
     - entities/3d
-    - entities/ar
   concepts:
     - concepts/social-media
     - concepts/twitter
@@ -30,7 +29,6 @@ related:
   - concepts/virtual-reality
   - entities/3d
   - entities/abc
-  - entities/ar
   - entities/mark-pesce
   - entities/microsoft
 ---
@@ -48,7 +46,6 @@ This recording is an interview from ABC Radio National's The Drum, featuring Mar
 - [[entities/microsoft]] (Microsoft)
 - [[entities/abc]] (ABC)
 - [[entities/3d]] (3D)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

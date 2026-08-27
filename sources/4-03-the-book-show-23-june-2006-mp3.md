@@ -6,14 +6,13 @@ drive_id: 1fE4O_-a90EXSlpZsLIVWqxVcZY2uMzEC
 source_link: https://drive.google.com/file/d/1fE4O_-a90EXSlpZsLIVWqxVcZY2uMzEC/view?usp=drivesdk
 type: panel
 date: 2006
-tags: ["3d", "abc", "ar", "narrative", "storytelling"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "abc", "narrative", "storytelling"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/abc
     - entities/3d
-    - entities/ar
   concepts:
     - concepts/storytelling
     - concepts/narrative
@@ -22,7 +21,6 @@ related:
   - concepts/storytelling
   - entities/3d
   - entities/abc
-  - entities/ar
 ---
 # 4-03 The Book Show 23 June 2006.mp3
 
@@ -36,7 +34,6 @@ ABC Radio National 'The Book Show' (Romana Koval, 23 June 2006). A panel of expe
 ## Named Entities
 - [[entities/abc]] (ABC)
 - [[entities/3d]] (3D)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/storytelling]] — Storytelling

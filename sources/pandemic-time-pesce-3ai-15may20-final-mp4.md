@@ -6,23 +6,19 @@ drive_id: 1VRRY9mPkQqhzf74lPz7EJDQGtgqVwy_u
 source_link: https://drive.google.com/file/d/1VRRY9mPkQqhzf74lPz7EJDQGtgqVwy_u/view?usp=drivesdk
 type: news
 date: 2020
-tags: ["apple", "ar", "mark-pesce", "meta", "the-future"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["apple", "mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
-    - entities/meta
-    - entities/ar
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # Pandemic Time Pesce 3Ai 15May20 final.mp4
 
@@ -36,8 +32,6 @@ This recording is a lecture delivered by Mark Pesce, a futurist and former Apple
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

@@ -6,35 +6,27 @@ drive_id: 1WRjjzxCwKEM3PEBsLIamSGyHV7TSfpT5
 source_link: https://drive.google.com/file/d/1WRjjzxCwKEM3PEBsLIamSGyHV7TSfpT5/view?usp=drivesdk
 type: news
 date: 1994
-tags: ["ar", "broadcast", "content-creation", "digital-distribution", "git", "google", "mark-pesce", "meta", "networks", "peer-to-peer", "social-networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["content-creation", "digital-distribution", "google", "mark-pesce", "networks", "peer-to-peer", "social-networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
-    - entities/meta
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-networks
     - concepts/networks
     - concepts/peer-to-peer
     - concepts/digital-distribution
     - concepts/content-creation
-    - concepts/broadcast
 related:
-  - concepts/broadcast
   - concepts/content-creation
   - concepts/digital-distribution
   - concepts/networks
   - concepts/peer-to-peer
   - concepts/social-networks
-  - entities/ar
-  - entities/git
   - entities/google
   - entities/mark-pesce
-  - entities/meta
 ---
 # hypercasting.mp3
 
@@ -48,9 +40,6 @@ This recording is a talk titled "Hypercasting: Part One, The Story So Far," deli
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks
@@ -58,7 +47,6 @@ This recording is a talk titled "Hypercasting: Part One, The Story So Far," deli
 - [[concepts/peer-to-peer]] — Peer-to-peer
 - [[concepts/digital-distribution]] — Digital distribution
 - [[concepts/content-creation]] — Content creation
-- [[concepts/broadcast]] — Broadcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

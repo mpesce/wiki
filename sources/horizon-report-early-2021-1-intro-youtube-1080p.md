@@ -6,20 +6,16 @@ drive_id: 1-6XI-SVxy3SAmHMb-G9Oj4w5Fjij26dC
 source_link: https://drive.google.com/file/d/1-6XI-SVxy3SAmHMb-G9Oj4w5Fjij26dC/view?usp=drivesdk
 type: news
 date: 2020
-tags: ["ar", "llm", "mark-pesce", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/llm
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
-  - entities/ar
-  - entities/llm
   - entities/mark-pesce
 ---
 # Horizon Report Early 2021 - 1 Intro YouTube 1080p.mp4
@@ -33,8 +29,6 @@ In this short audio announcement, Mark Pesce introduces a new series of publicat
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/llm]] (LLM)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

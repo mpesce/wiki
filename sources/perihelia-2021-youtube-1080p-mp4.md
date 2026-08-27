@@ -6,18 +6,16 @@ drive_id: 1wInyxelc-yIk-Ez7fz11xT118J-cG8Ku
 source_link: https://drive.google.com/file/d/1wInyxelc-yIk-Ez7fz11xT118J-cG8Ku/view?usp=drivesdk
 type: talk
 date: 2020
-tags: ["ar", "mark-pesce", "the-future"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
-  - entities/ar
   - entities/mark-pesce
 ---
 # Perihelia 2021 YouTube 1080p.mp4
@@ -31,7 +29,6 @@ In this video recording, Mark Pesce introduces and explains the concept of Parah
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

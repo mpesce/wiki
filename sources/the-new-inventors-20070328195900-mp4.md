@@ -6,17 +6,16 @@ drive_id: 1zjuM81BSexMwZlbZU_UgwM0nNcgeHhPC
 source_link: https://drive.google.com/file/d/1zjuM81BSexMwZlbZU_UgwM0nNcgeHhPC/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["alignment", "ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["alignment"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/alignment
 related:
   - concepts/alignment
-  - entities/ar
 ---
 # The New Inventors-20070328195900.mp4
 
@@ -28,7 +27,7 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/alignment]] — AI alignment

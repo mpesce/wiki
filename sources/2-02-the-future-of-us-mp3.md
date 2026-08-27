@@ -6,20 +6,18 @@ drive_id: 1Seel_pGctWl7_3x2t-O5v_uzYA4fhjbL
 source_link: https://drive.google.com/file/d/1Seel_pGctWl7_3x2t-O5v_uzYA4fhjbL/view?usp=drivesdk
 type: workshop
 date: unknown
-tags: ["ar", "communication", "mark-pesce", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["communication", "mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/communication
 related:
   - concepts/communication
   - concepts/the-future
-  - entities/ar
   - entities/mark-pesce
 ---
 # 2-02 The Future of Us.mp3
@@ -33,7 +31,6 @@ This recording is the second part of a three-day talk series titled The Future o
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

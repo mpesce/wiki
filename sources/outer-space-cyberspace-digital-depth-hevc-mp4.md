@@ -6,9 +6,9 @@ drive_id: 193t-gG6icE1lSXA0xYAI6-OydG-F2_h8
 source_link: https://drive.google.com/file/d/193t-gG6icE1lSXA0xYAI6-OydG-F2_h8/view?usp=drivesdk
 type: news
 date: 2020
-tags: ["apple", "ar", "facebook", "git", "mark-pesce", "microsoft", "narrative", "virtual-reality"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["apple", "ar", "facebook", "mark-pesce", "microsoft", "narrative", "virtual-reality"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,7 +16,6 @@ mentions:
     - entities/microsoft
     - entities/facebook
     - entities/ar
-    - entities/git
   concepts:
     - concepts/virtual-reality
     - concepts/narrative
@@ -26,7 +25,6 @@ related:
   - entities/apple
   - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
   - entities/microsoft
 ---
@@ -45,7 +43,6 @@ This recording is a lecture by Mark Pesce, a media and technology commentator, d
 - [[entities/microsoft]] (Microsoft)
 - [[entities/facebook]] (Facebook)
 - [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

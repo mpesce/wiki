@@ -6,21 +6,17 @@ drive_id: 1PJ9siaQqmHz7pOTNKYlND_1soXdUsJrp
 source_link: https://drive.google.com/file/d/1PJ9siaQqmHz7pOTNKYlND_1soXdUsJrp/view?usp=drivesdk
 type: interview
 date: 2017
-tags: ["3d", "ar", "git", "vr"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "vr"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/3d
     - entities/vr
-    - entities/ar
-    - entities/git
   concepts:
     - (none)
 related:
   - entities/3d
-  - entities/ar
-  - entities/git
   - entities/vr
 ---
 # Pesce - PwC Hong Kong July 2017 Edited.mp3
@@ -35,8 +31,6 @@ Talk at PwC Hong Kong (July 2017, edited) reviewing what he sees as a dominant t
 ## Named Entities
 - [[entities/3d]] (3D)
 - [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - (none identified)

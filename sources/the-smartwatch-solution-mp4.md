@@ -6,18 +6,16 @@ drive_id: 1My0E8n6xJzyRHALcxDyxYrWvku3OuMA4
 source_link: https://drive.google.com/file/d/1My0E8n6xJzyRHALcxDyxYrWvku3OuMA4/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "mark-pesce", "surveillance"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "surveillance"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/surveillance
 related:
   - concepts/surveillance
-  - entities/ar
   - entities/mark-pesce
 ---
 # The Smartwatch Solution.mp4
@@ -31,7 +29,6 @@ This recording captures a segment of an interview or discussion featuring Mark P
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

@@ -6,21 +6,16 @@ drive_id: 13AZNvPgH4HlnEePDaHYpWdK3wVxwXG89
 source_link: https://drive.google.com/file/d/13AZNvPgH4HlnEePDaHYpWdK3wVxwXG89/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "broadcast", "innovation", "mit"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/mit
-    - entities/ar
+    - (none)
   concepts:
-    - concepts/broadcast
-    - concepts/innovation
+    - (none)
 related:
-  - concepts/broadcast
-  - concepts/innovation
-  - entities/ar
-  - entities/mit
+  - (none)
 ---
 # The New Inventors-20070718200000.mp4
 
@@ -32,12 +27,10 @@ This recording is a segment from the Australian Broadcasting Corporation televis
 - See summary above.
 
 ## Named Entities
-- [[entities/mit]] (MIT)
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
-- [[concepts/broadcast]] — Broadcasting
-- [[concepts/innovation]] — Innovation
+- (none identified)
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

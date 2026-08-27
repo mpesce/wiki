@@ -6,15 +6,13 @@ drive_id: 195KXmrXdxwas-83n1kghQpEop0BACBrN
 source_link: https://drive.google.com/file/d/195KXmrXdxwas-83n1kghQpEop0BACBrN/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["apple", "ar", "broadcast", "git", "mark-pesce", "open-source", "peer-to-peer", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "broadcast", "mark-pesce", "open-source", "peer-to-peer", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/peer-to-peer
@@ -26,8 +24,6 @@ related:
   - concepts/peer-to-peer
   - concepts/the-future
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # ABJ-JJJ-5Oct06-Interview.mp3
@@ -42,8 +38,6 @@ This recording is a segment from the Australian radio program Hack, broadcast on
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

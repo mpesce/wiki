@@ -6,25 +6,23 @@ drive_id: 1GogGs61YCfGbM7LDOG_eMOSe4DVUPilU
 source_link: https://drive.google.com/file/d/1GogGs61YCfGbM7LDOG_eMOSe4DVUPilU/view?usp=drivesdk
 type: podcast
 date: unknown
-tags: ["ar", "ethereum", "git", "mark-pesce", "podcast", "remote-work"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["ethereum", "mark-pesce", "podcast", "remote-work", "smart-contracts"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
+    - entities/smart-contracts
     - entities/ethereum
-    - entities/git
   concepts:
     - concepts/podcast
     - concepts/remote-work
 related:
   - concepts/podcast
   - concepts/remote-work
-  - entities/ar
   - entities/ethereum
-  - entities/git
   - entities/mark-pesce
+  - entities/smart-contracts
 ---
 # Beyond the Horizon CFO Series QLD 10Sep20.mp4
 
@@ -37,9 +35,8 @@ This recording is a talk delivered by Mark Pesce, a futurist and host of the pod
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
+- [[entities/smart-contracts]] (smart contracts)
 - [[entities/ethereum]] (Ethereum)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/podcast]] — Podcasting

@@ -6,13 +6,12 @@ drive_id: 1LnNVNi_5DhgKCRoLHWADjNHZraWVtK4m
 source_link: https://drive.google.com/file/d/1LnNVNi_5DhgKCRoLHWADjNHZraWVtK4m/view?usp=drivesdk
 type: keynote
 date: 2016
-tags: ["ar", "blockchain", "innovation", "mark-pesce", "trust"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["blockchain", "innovation", "mark-pesce", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
     - entities/blockchain
   concepts:
     - concepts/trust
@@ -20,7 +19,6 @@ mentions:
 related:
   - concepts/innovation
   - concepts/trust
-  - entities/ar
   - entities/blockchain
   - entities/mark-pesce
 ---
@@ -35,7 +33,6 @@ This recording captures the opening keynote and panel discussion for BlockHack 1
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 - [[entities/blockchain]] (blockchain)
 
 ## Related Concepts

@@ -6,15 +6,14 @@ drive_id: 1DZl17fWrvRv7R9KlhEY2rKPHRtGCPWkU
 source_link: https://drive.google.com/file/d/1DZl17fWrvRv7R9KlhEY2rKPHRtGCPWkU/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["apple", "ar", "artificial-intelligence", "attention", "creators", "mark-pesce", "mozilla", "narrative", "storytelling", "the-future", "virtual-reality"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "artificial-intelligence", "attention", "creators", "mark-pesce", "mozilla", "narrative", "storytelling", "the-future", "virtual-reality"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/virtual-reality
@@ -32,7 +31,6 @@ related:
   - concepts/the-future
   - concepts/virtual-reality
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
   - entities/mozilla
 ---
@@ -49,7 +47,6 @@ This recording is an interview featuring Mark Pesce, a media and technology comm
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

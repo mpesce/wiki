@@ -6,16 +6,16 @@ drive_id: 13Akjr0-yPvPR2T2KAe53-pb0_lpbxshv
 source_link: https://drive.google.com/file/d/13Akjr0-yPvPR2T2KAe53-pb0_lpbxshv/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # F15_specification-over-code.mp4
 
@@ -27,7 +27,7 @@ Clip. Software is 'at the cliff face' because it has been using the tools long e
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

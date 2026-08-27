@@ -6,17 +6,16 @@ drive_id: 1ZshjVrNZxDUd2GmOYV0Aj-D8bRUS_U5V
 source_link: https://drive.google.com/file/d/1ZshjVrNZxDUd2GmOYV0Aj-D8bRUS_U5V/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "podcast"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["podcast"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/podcast
 related:
   - concepts/podcast
-  - entities/ar
 ---
 # Chaser podcast 11Jul21.wav
 
@@ -28,7 +27,7 @@ This recording is a podcast or video interview discussing the escalating Delta v
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/podcast]] — Podcasting

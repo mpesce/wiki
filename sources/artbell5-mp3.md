@@ -6,13 +6,12 @@ drive_id: 15I7B1hsPE7zQbP-732aKBk0Zxd4KLD-c
 source_link: https://drive.google.com/file/d/15I7B1hsPE7zQbP-732aKBk0Zxd4KLD-c/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "artificial-intelligence", "broadcast", "mark-pesce", "storytelling", "the-future"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["artificial-intelligence", "broadcast", "mark-pesce", "storytelling", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
@@ -23,7 +22,6 @@ related:
   - concepts/broadcast
   - concepts/storytelling
   - concepts/the-future
-  - entities/ar
   - entities/mark-pesce
 ---
 # artbell5.mp3
@@ -37,7 +35,6 @@ This recording is a radio interview featuring Mark Pesce, a media and technology
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

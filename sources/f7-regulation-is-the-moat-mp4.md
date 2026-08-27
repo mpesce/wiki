@@ -6,16 +6,16 @@ drive_id: 1tQH6iboZCBOu5Shdda-0sRdunUM1hdA2
 source_link: https://drive.google.com/file/d/1tQH6iboZCBOu5Shdda-0sRdunUM1hdA2/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # F7_regulation-is-the-moat.mp4
 
@@ -27,7 +27,7 @@ Clip. In financial services, regulation — usually considered the bugbear, the 
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

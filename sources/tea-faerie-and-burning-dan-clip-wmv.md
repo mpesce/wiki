@@ -6,17 +6,16 @@ drive_id: 1Q5SQWblbuSbuvfUkYGIgXv2bmExKub1c
 source_link: https://drive.google.com/file/d/1Q5SQWblbuSbuvfUkYGIgXv2bmExKub1c/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "narrative"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/narrative
 related:
   - concepts/narrative
-  - entities/ar
 ---
 # Tea Faerie and Burning Dan Clip.wmv
 
@@ -28,7 +27,7 @@ This recording is a segment from a documentary or news feature focusing on the i
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/narrative]] — Narrative

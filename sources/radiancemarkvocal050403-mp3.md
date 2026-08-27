@@ -6,16 +6,16 @@ drive_id: 1IXYNDHMKq2VJKiBDpbd1yOJNayKGoK0Q
 source_link: https://drive.google.com/file/d/1IXYNDHMKq2VJKiBDpbd1yOJNayKGoK0Q/view?usp=drivesdk
 type: talk
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # RadianceMarkVocal050403.mp3
 
@@ -27,7 +27,7 @@ Music/vocal track from the 'True Hallucinations' project — Mark's vocal take (
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

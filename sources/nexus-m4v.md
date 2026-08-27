@@ -6,23 +6,18 @@ drive_id: 1d4oy611mwZ-Hwc3axRoh3DP9-M4vwldO
 source_link: https://drive.google.com/file/d/1d4oy611mwZ-Hwc3axRoh3DP9-M4vwldO/view?usp=drivesdk
 type: workshop
 date: 2009
-tags: ["ar", "connectivity", "education", "git", "innovation"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["connectivity", "education"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
-    - entities/git
+    - (none)
   concepts:
     - concepts/education
-    - concepts/innovation
     - concepts/connectivity
 related:
   - concepts/connectivity
   - concepts/education
-  - concepts/innovation
-  - entities/ar
-  - entities/git
 ---
 # Nexus.m4v
 
@@ -34,12 +29,10 @@ This recording is a lecture delivered by a researcher at the University of Sydne
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
+- (none named)
 
 ## Related Concepts
 - [[concepts/education]] — Education
-- [[concepts/innovation]] — Innovation
 - [[concepts/connectivity]] — Connectivity
 
 ## Quotes

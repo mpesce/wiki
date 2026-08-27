@@ -6,16 +6,16 @@ drive_id: 190A97wzRUMtFYkOkHwKCwqSacUDWrcDt
 source_link: https://drive.google.com/file/d/190A97wzRUMtFYkOkHwKCwqSacUDWrcDt/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # D12_waze-skynet.mp4
 
@@ -27,7 +27,7 @@ Clip. He used Waze to cross Los Angeles and it gave a set of directions that wor
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

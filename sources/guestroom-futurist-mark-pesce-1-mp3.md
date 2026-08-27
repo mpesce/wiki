@@ -6,17 +6,14 @@ drive_id: 1r6Lbi6a1jn5cbnEJPR_MXLCBVozqw2ip
 source_link: https://drive.google.com/file/d/1r6Lbi6a1jn5cbnEJPR_MXLCBVozqw2ip/view?usp=drivesdk
 type: interview
 date: 2010
-tags: ["abc", "ar", "communication", "connectivity", "cyberpunk", "git", "innovation", "mark-pesce", "networks", "the-future", "virtual-reality", "vr"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "communication", "connectivity", "cyberpunk", "innovation", "mark-pesce", "networks", "the-future", "virtual-reality", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/abc
     - entities/vrml
-    - entities/vr
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/virtual-reality
@@ -34,10 +31,7 @@ related:
   - concepts/the-future
   - concepts/virtual-reality
   - entities/abc
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # Guestroom - Futurist Mark Pesce (1).mp3
@@ -53,9 +47,6 @@ This recording is an interview from the ABC Local Online program The Guestroom, 
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/abc]] (ABC)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

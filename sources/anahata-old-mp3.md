@@ -6,20 +6,16 @@ drive_id: 13cltm1TjdUCnf424oMCCbmJJ7z9aA551
 source_link: https://drive.google.com/file/d/13cltm1TjdUCnf424oMCCbmJJ7z9aA551/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "mark-pesce", "meta"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # anahata-OLD.mp3
 
@@ -32,8 +28,6 @@ This recording is a spoken-word monologue or lecture by Mark Pesce, focusing on 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

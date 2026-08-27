@@ -6,16 +6,16 @@ drive_id: 1f9BP0r8wHyb_DqW2qC4taKxJpYrbxAqC
 source_link: https://drive.google.com/file/d/1f9BP0r8wHyb_DqW2qC4taKxJpYrbxAqC/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # D10_uninsurable.mp4
 
@@ -27,7 +27,7 @@ Clip on auditing costs. Auditing costs won't rival employment costs but will be 
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

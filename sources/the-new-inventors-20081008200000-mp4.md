@@ -6,19 +6,18 @@ drive_id: 10k69rKacPoqFM2TZiZ2ujpmJYNM0B43p
 source_link: https://drive.google.com/file/d/10k69rKacPoqFM2TZiZ2ujpmJYNM0B43p/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "broadcast", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["broadcast", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/the-future
     - concepts/broadcast
 related:
   - concepts/broadcast
   - concepts/the-future
-  - entities/ar
 ---
 # The New Inventors-20081008200000.mp4
 
@@ -30,7 +29,7 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

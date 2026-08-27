@@ -6,21 +6,17 @@ drive_id: 1Ag7pAp-elWz4A6frny44AHRSVWIo8Ji4
 source_link: https://drive.google.com/file/d/1Ag7pAp-elWz4A6frny44AHRSVWIo8Ji4/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "douglas-rushkoff", "git", "mark-pesce"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["douglas-rushkoff", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/douglas-rushkoff
-    - entities/ar
-    - entities/git
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/douglas-rushkoff
-  - entities/git
   - entities/mark-pesce
 ---
 # HighCastleDinner-17Jan26.mp4
@@ -35,8 +31,6 @@ This recording captures a talk by Mark Pesce, an American-Australian author, res
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/douglas-rushkoff]] (Douglas Rushkoff)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - (none identified)

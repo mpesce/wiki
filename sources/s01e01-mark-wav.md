@@ -6,13 +6,12 @@ drive_id: 1KslE4vn0HMAYeItfiSGCz9eq_W3Xh5sl
 source_link: https://drive.google.com/file/d/1KslE4vn0HMAYeItfiSGCz9eq_W3Xh5sl/view?usp=drivesdk
 type: interview
 date: 1995
-tags: ["ar", "blockchain", "journalism", "mark-pesce", "podcast", "startups", "venture-capital"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["blockchain", "journalism", "mark-pesce", "podcast", "startups", "venture-capital"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
     - entities/blockchain
   concepts:
     - concepts/podcast
@@ -24,7 +23,6 @@ related:
   - concepts/podcast
   - concepts/startups
   - concepts/venture-capital
-  - entities/ar
   - entities/blockchain
   - entities/mark-pesce
 ---
@@ -39,7 +37,6 @@ This recording is an episode of the podcast This Week in Startups Australia, fea
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 - [[entities/blockchain]] (blockchain)
 
 ## Related Concepts

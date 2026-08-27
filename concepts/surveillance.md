@@ -4,8 +4,8 @@ slug: surveillance
 title: Surveillance
 tags: ["concept"]
 source_count: 36
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -30,9 +30,9 @@ related:
 - [[sources/ega-mkv]] — EGA.mkv
 - [[sources/rnd-20180319-1825-mp3]] — rnd_20180319_1825.mp3
 - [[sources/arin-2610-internet-transformations-the-ar-dilemm]] — ARIN 2610 Internet Transformations The AR Dilemmas 5Oct21 720p.mp4
+- [[sources/saatchi-wav-2]] — Saatchi.wav
 - [[sources/slv-wav]] — SLV.wav
 - [[sources/ega-wav]] — EGA.wav
-- [[sources/saatchi-wav-2]] — Saatchi.wav
 - [[sources/ega-mp3]] — EGA.mp3
 - [[sources/the-last-days-of-reality-ega-8dec17-mkv]] — The Last Days of Reality - EGA 8Dec17.mkv
 - [[sources/mark-pesce-20nov20-wav]] — Mark Pesce 20Nov20.wav
@@ -73,9 +73,9 @@ related:
 - [[sources/ega-mkv]]
 - [[sources/rnd-20180319-1825-mp3]]
 - [[sources/arin-2610-internet-transformations-the-ar-dilemm]]
+- [[sources/saatchi-wav-2]]
 - [[sources/slv-wav]]
 - [[sources/ega-wav]]
-- [[sources/saatchi-wav-2]]
 - [[sources/ega-mp3]]
 - [[sources/the-last-days-of-reality-ega-8dec17-mkv]]
 - [[sources/mark-pesce-20nov20-wav]]

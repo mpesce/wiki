@@ -6,19 +6,16 @@ drive_id: 1OTlLGJ5WYymDCYVVpHfgfOI0a0jgrmKX
 source_link: https://drive.google.com/file/d/1OTlLGJ5WYymDCYVVpHfgfOI0a0jgrmKX/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "broadcast", "llm"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
-    - entities/llm
+    - (none)
   concepts:
-    - concepts/broadcast
+    - (none)
 related:
-  - concepts/broadcast
-  - entities/ar
-  - entities/llm
+  - (none)
 ---
 # The New Inventors-20081029200000.mp4
 
@@ -30,11 +27,10 @@ This recording is an episode of the Australian Broadcasting Corporation program 
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
-- [[entities/llm]] (LLM)
+- (none named)
 
 ## Related Concepts
-- [[concepts/broadcast]] — Broadcasting
+- (none identified)
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

@@ -6,23 +6,19 @@ drive_id: 1AEbGiY62QbJyKJq5caJGspvvi1Howt2l
 source_link: https://drive.google.com/file/d/1AEbGiY62QbJyKJq5caJGspvvi1Howt2l/view?usp=drivesdk
 type: interview
 date: 2019-10-21
-tags: ["ar", "broadcast", "facebook", "git", "social-media"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["broadcast", "facebook", "social-media"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-media
     - concepts/broadcast
 related:
   - concepts/broadcast
   - concepts/social-media
-  - entities/ar
   - entities/facebook
-  - entities/git
 ---
 # ppm-2019-10-21-tik-tok.mp3
 
@@ -35,8 +31,6 @@ This recording is a news broadcast segment reporting on the rapid growth of TikT
 
 ## Named Entities
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

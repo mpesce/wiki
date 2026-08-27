@@ -6,16 +6,16 @@ drive_id: 1OBTtOALlp2eG-nTf5C1Ktyl0mCNdBH0E
 source_link: https://drive.google.com/file/d/1OBTtOALlp2eG-nTf5C1Ktyl0mCNdBH0E/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # D19_memory-gpu-prices.mp4
 
@@ -27,7 +27,7 @@ Clip. 'The price of memory and GPUs is not coming down, full stop.' There's no p
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

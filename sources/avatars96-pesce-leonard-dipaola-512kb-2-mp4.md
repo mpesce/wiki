@@ -6,17 +6,14 @@ drive_id: 1lL8QSiauvUj3vzpOli25-nBnIbaACOc6
 source_link: https://drive.google.com/file/d/1lL8QSiauvUj3vzpOli25-nBnIbaACOc6/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["3d", "ar", "collaboration", "communication", "git", "identity", "mark-pesce", "open-source", "peer-to-peer", "surveillance", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "collaboration", "communication", "identity", "mark-pesce", "open-source", "peer-to-peer", "surveillance", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vrml
     - entities/3d
-    - entities/vr
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/surveillance
     - concepts/identity
@@ -32,10 +29,7 @@ related:
   - concepts/peer-to-peer
   - concepts/surveillance
   - entities/3d
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # avatars96-pesce-leonard-dipaola_512kb 2.mp4
@@ -51,9 +45,6 @@ This recording is a panel discussion from a conference focused on virtual worlds
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

@@ -6,17 +6,15 @@ drive_id: 1IxxjulKLNrJllzJP2x-SUi7nJhH3SUqn
 source_link: https://drive.google.com/file/d/1IxxjulKLNrJllzJP2x-SUi7nJhH3SUqn/view?usp=drivesdk
 type: lecture
 date: 2017
-tags: ["apple", "ar", "artificial-intelligence", "attention", "facebook", "git", "google", "mark-pesce", "surveillance", "surveillance-capitalism", "the-future"]
-created: 2026-08-26T10:40:11Z
-last_updated: 2026-08-26T10:40:11Z
+tags: ["apple", "artificial-intelligence", "attention", "facebook", "google", "mark-pesce", "surveillance", "surveillance-capitalism", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/google
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/surveillance
@@ -30,9 +28,7 @@ related:
   - concepts/surveillance-capitalism
   - concepts/the-future
   - entities/apple
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/google
   - entities/mark-pesce
 ---
@@ -50,8 +46,6 @@ This recording is a presentation by Mark Pesce, a futurist and former Apple engi
 - [[entities/apple]] (Apple)
 - [[entities/google]] (Google)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

@@ -6,18 +6,16 @@ drive_id: 1aaAWI-hVpkj8vWqFCd8qAMVhhrmeskZ0
 source_link: https://drive.google.com/file/d/1aaAWI-hVpkj8vWqFCd8qAMVhhrmeskZ0/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["abc", "ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/abc
-    - entities/ar
   concepts:
     - (none)
 related:
   - entities/abc
-  - entities/ar
 ---
 # The New Inventors-20090225200000.mp4
 
@@ -30,7 +28,6 @@ This recording is a transcript of an episode of the Australian television progra
 
 ## Named Entities
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

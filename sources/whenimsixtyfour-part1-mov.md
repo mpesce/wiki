@@ -6,17 +6,14 @@ drive_id: 1saqPDF-MoW4Q58Pt9LzSE62LH8nxNTl7
 source_link: https://drive.google.com/file/d/1saqPDF-MoW4Q58Pt9LzSE62LH8nxNTl7/view?usp=drivesdk
 type: keynote
 date: 2010
-tags: ["3d", "ar", "attention", "innovation", "mark-pesce", "meta", "the-future", "virtual-reality", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "attention", "innovation", "mark-pesce", "the-future", "virtual-reality", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
     - entities/vrml
     - entities/3d
-    - entities/vr
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/virtual-reality
@@ -28,10 +25,7 @@ related:
   - concepts/the-future
   - concepts/virtual-reality
   - entities/3d
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
-  - entities/vr
   - entities/vrml
 ---
 # WhenImSixtyFour-part1.mov
@@ -45,11 +39,8 @@ This recording is a keynote address delivered by Mark Pesce, a veteran of the ea
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

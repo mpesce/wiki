@@ -6,20 +6,16 @@ drive_id: 1lD_tIsgpV38bxtBHcNYO8e9pnAGEYRVi
 source_link: https://drive.google.com/file/d/1lD_tIsgpV38bxtBHcNYO8e9pnAGEYRVi/view?usp=drivesdk
 type: interview
 date: 2000
-tags: ["ar", "git", "mark-pesce", "narrative"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/narrative
 related:
   - concepts/narrative
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # JohnHalpern-LSDsymposium.wmv
@@ -33,8 +29,6 @@ This recording appears to be a chaotic and partially unintelligible audio captur
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/narrative]] — Narrative

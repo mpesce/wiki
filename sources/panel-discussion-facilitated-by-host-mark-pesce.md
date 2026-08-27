@@ -6,13 +6,12 @@ drive_id: 1Z7_JTdSItAK_4Ypz17PnNJSvzc-3HRyG
 source_link: https://drive.google.com/file/d/1Z7_JTdSItAK_4Ypz17PnNJSvzc-3HRyG/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "artificial-intelligence", "attention", "education", "entrepreneurship", "google"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "attention", "education", "entrepreneurship", "google"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/google
-    - entities/ar
   concepts:
     - concepts/artificial-intelligence
     - concepts/attention
@@ -23,7 +22,6 @@ related:
   - concepts/attention
   - concepts/education
   - concepts/entrepreneurship
-  - entities/ar
   - entities/google
 ---
 # Panel discussion, facilitated by host Mark Pesce.mp4
@@ -37,7 +35,6 @@ This recording is a panel discussion focused on the theme of democratizing techn
 
 ## Named Entities
 - [[entities/google]] (Google)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

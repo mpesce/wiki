@@ -6,18 +6,16 @@ drive_id: 1o1ewHtUoa-ywYjMkNNOyShACY2dKM7AR
 source_link: https://drive.google.com/file/d/1o1ewHtUoa-ywYjMkNNOyShACY2dKM7AR/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "mark-pesce", "narrative"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/narrative
 related:
   - concepts/narrative
-  - entities/ar
   - entities/mark-pesce
 ---
 # The Moment.mp4
@@ -31,7 +29,6 @@ This recording appears to be a segment from a talk or lecture by Mark Pesce, foc
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/narrative]] — Narrative

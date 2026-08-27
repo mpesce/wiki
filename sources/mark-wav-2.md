@@ -6,19 +6,16 @@ drive_id: 1NQIQevgKNETnuGqMCOzH2e8-nnFEbrTP
 source_link: https://drive.google.com/file/d/1NQIQevgKNETnuGqMCOzH2e8-nnFEbrTP/view?usp=drivesdk
 type: interview
 date: 2020
-tags: ["ar", "meta", "the-future"]
-created: 2026-08-26T10:40:11Z
-last_updated: 2026-08-26T10:40:11Z
+tags: ["the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/meta
-    - entities/ar
+    - (none)
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
-  - entities/ar
-  - entities/meta
 ---
 # Mark.wav
 
@@ -30,8 +27,7 @@ This recording is an interview discussing the state of the global pandemic, like
 - See summary above.
 
 ## Named Entities
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

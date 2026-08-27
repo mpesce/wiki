@@ -6,15 +6,13 @@ drive_id: 1MxaS8815Q4NLAu-INDYk9BMCfU6Ka0AK
 source_link: https://drive.google.com/file/d/1MxaS8815Q4NLAu-INDYk9BMCfU6Ka0AK/view?usp=drivesdk
 type: panel
 date: 2020
-tags: ["ar", "git", "mark-pesce", "remote-work", "the-future", "the-future-of-work", "vr"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce", "remote-work", "the-future", "the-future-of-work", "vr"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vr
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/the-future-of-work
@@ -23,8 +21,6 @@ related:
   - concepts/remote-work
   - concepts/the-future
   - concepts/the-future-of-work
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
   - entities/vr
 ---
@@ -40,8 +36,6 @@ This recording is a panel discussion from the Common Factor series, hosted by Ma
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

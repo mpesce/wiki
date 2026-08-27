@@ -6,16 +6,14 @@ drive_id: 1i78LklYKWMNp0mX9Lh99YZwk-x-8TC5U
 source_link: https://drive.google.com/file/d/1i78LklYKWMNp0mX9Lh99YZwk-x-8TC5U/view?usp=drivesdk
 type: interview
 date: 2011
-tags: ["abc", "ar", "broadcast", "git", "mark-pesce", "microsoft", "networks", "social-media", "social-networks", "trust", "twitter", "virtual-reality"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "mark-pesce", "microsoft", "networks", "social-media", "social-networks", "trust", "twitter", "virtual-reality"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/microsoft
     - entities/abc
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-media
     - concepts/twitter
@@ -23,9 +21,7 @@ mentions:
     - concepts/virtual-reality
     - concepts/trust
     - concepts/networks
-    - concepts/broadcast
 related:
-  - concepts/broadcast
   - concepts/networks
   - concepts/social-media
   - concepts/social-networks
@@ -33,8 +29,6 @@ related:
   - concepts/twitter
   - concepts/virtual-reality
   - entities/abc
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
   - entities/microsoft
 ---
@@ -51,8 +45,6 @@ This recording is an interview segment from the Australian Broadcasting Corporat
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/microsoft]] (Microsoft)
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media
@@ -61,7 +53,6 @@ This recording is an interview segment from the Australian Broadcasting Corporat
 - [[concepts/virtual-reality]] — Virtual reality
 - [[concepts/trust]] — Trust
 - [[concepts/networks]] — Networks
-- [[concepts/broadcast]] — Broadcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

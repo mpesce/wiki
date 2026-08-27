@@ -4,8 +4,8 @@ slug: identity
 title: Identity
 tags: ["concept"]
 source_count: 30
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -30,6 +30,7 @@ related:
 - [[sources/marc-pesce-rushes01-mov]] — Marc Pesce_rushes01.mov
 - [[sources/national-trust-sense-in-place-mp4]] — National Trust - 'Sense in Place'.mp4
 - [[sources/v20-day-three-mp4]] — V20 Day Three.mp4
+- [[sources/anahata2-mp3]] — anahata2.mp3
 - [[sources/3-02-i-am-your-daughter-mp3]] — 3-02 I Am Your Daughter.mp3
 - [[sources/downfall-final-mp4]] — Downfall-final.mp4
 - [[sources/3-03-the-future-of-entheogens-mp3]] — 3-03 The Future of Entheogens.mp3
@@ -44,11 +45,10 @@ related:
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-mp4]] — avatars96-pesce-leonard-dipaola_512kb.mp4
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-2-mp4]] — avatars96-pesce-leonard-dipaola_512kb 2.mp4
 - [[sources/fintech-futures-wav]] — Fintech Futures.wav
-- [[sources/anahata2-mp3]] — anahata2.mp3
 - [[sources/iv-pesce-090219-mp4]] — iv_Pesce_090219.mp4
+- [[sources/twism-3sep11-mp4-2]] — TWiSM-3Sep11.mp4
 - [[sources/00000000196ff427-mpg]] — 00000000196ff427.mpg
 - [[sources/000000001515f0a7-mpg]] — 000000001515f0a7.mpg
-- [[sources/twism-3sep11-mp4-2]] — TWiSM-3Sep11.mp4
 
 ## Debates / Open Questions
 
@@ -67,6 +67,7 @@ related:
 - [[sources/marc-pesce-rushes01-mov]]
 - [[sources/national-trust-sense-in-place-mp4]]
 - [[sources/v20-day-three-mp4]]
+- [[sources/anahata2-mp3]]
 - [[sources/3-02-i-am-your-daughter-mp3]]
 - [[sources/downfall-final-mp4]]
 - [[sources/3-03-the-future-of-entheogens-mp3]]
@@ -81,8 +82,7 @@ related:
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-mp4]]
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-2-mp4]]
 - [[sources/fintech-futures-wav]]
-- [[sources/anahata2-mp3]]
 - [[sources/iv-pesce-090219-mp4]]
+- [[sources/twism-3sep11-mp4-2]]
 - [[sources/00000000196ff427-mpg]]
 - [[sources/000000001515f0a7-mpg]]
-- [[sources/twism-3sep11-mp4-2]]

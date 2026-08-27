@@ -6,13 +6,12 @@ drive_id: 1nm1Tci9d-VSfyQCcxL-dZqV0CmV8Ass_
 source_link: https://drive.google.com/file/d/1nm1Tci9d-VSfyQCcxL-dZqV0CmV8Ass_/view?usp=drivesdk
 type: keynote
 date: 2030
-tags: ["ar", "artificial-intelligence", "connectivity", "mark-pesce", "participation", "peer-to-peer", "the-future", "the-future-of-work"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "connectivity", "mark-pesce", "participation", "peer-to-peer", "the-future", "the-future-of-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
@@ -27,7 +26,6 @@ related:
   - concepts/peer-to-peer
   - concepts/the-future
   - concepts/the-future-of-work
-  - entities/ar
   - entities/mark-pesce
 ---
 # A Series of Tubes WPC 11Sep19.mp3
@@ -41,7 +39,6 @@ This recording is the opening keynote address delivered by futurist Mark Pesce a
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

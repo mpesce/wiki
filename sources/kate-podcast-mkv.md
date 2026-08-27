@@ -6,13 +6,12 @@ drive_id: 1N79jcW1aZDUTU_IXQA5dv-Ywz6B9WCvN
 source_link: https://drive.google.com/file/d/1N79jcW1aZDUTU_IXQA5dv-Ywz6B9WCvN/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "artificial-intelligence", "fog-of-knowability", "mark-pesce", "podcast", "the-future"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["artificial-intelligence", "fog-of-knowability", "mark-pesce", "podcast", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/fog-of-knowability
     - concepts/the-future
@@ -23,7 +22,6 @@ related:
   - concepts/fog-of-knowability
   - concepts/podcast
   - concepts/the-future
-  - entities/ar
   - entities/mark-pesce
 ---
 # kate-podcast.mkv
@@ -37,7 +35,6 @@ This recording is a podcast interview featuring Mark Pesce, a media and technolo
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/fog-of-knowability]] — The fog of knowability

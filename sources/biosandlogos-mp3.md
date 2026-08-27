@@ -6,18 +6,16 @@ drive_id: 1MiAEl7YzDJS8K72VxeJRAoygO2GWuZYN
 source_link: https://drive.google.com/file/d/1MiAEl7YzDJS8K72VxeJRAoygO2GWuZYN/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "communication", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["communication", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/communication
 related:
   - concepts/communication
-  - entities/ar
   - entities/mark-pesce
 ---
 # BiosAndLogos.mp3
@@ -31,7 +29,6 @@ This recording is a lecture or talk by Mark Pesce, likely delivered at the Alche
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/communication]] — Communication

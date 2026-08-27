@@ -6,15 +6,13 @@ drive_id: 1Qi7z6Sptz0CecM-2EmSYNZAxYAVGyZL1
 source_link: https://drive.google.com/file/d/1Qi7z6Sptz0CecM-2EmSYNZAxYAVGyZL1/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["apple", "ar", "education", "git", "mark-pesce", "networks", "social-networks", "surveillance", "trust"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "education", "mark-pesce", "networks", "social-networks", "surveillance", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-networks
     - concepts/surveillance
@@ -28,8 +26,6 @@ related:
   - concepts/surveillance
   - concepts/trust
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # WhenImSixtyFour-part3.mov
@@ -44,8 +40,6 @@ This recording is a lecture or talk by Mark Pesce, a media and technology commen
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks

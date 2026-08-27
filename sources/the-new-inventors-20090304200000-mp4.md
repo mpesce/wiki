@@ -6,20 +6,18 @@ drive_id: 16h5tndWq5z1W5e-BGmTuTjhsYKarmEKp
 source_link: https://drive.google.com/file/d/16h5tndWq5z1W5e-BGmTuTjhsYKarmEKp/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "ar", "broadcast", "wired"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "broadcast", "wired"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/abc
     - entities/wired
-    - entities/ar
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
   - entities/abc
-  - entities/ar
   - entities/wired
 ---
 # The New Inventors-20090304200000.mp4
@@ -34,7 +32,6 @@ This recording is an episode of the Australian television program New Inventors,
 ## Named Entities
 - [[entities/abc]] (ABC)
 - [[entities/wired]] (Wired)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

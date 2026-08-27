@@ -6,24 +6,20 @@ drive_id: 1oY3NvIR67hSSAn3i7Y2Cc3-h0FHRmBD9
 source_link: https://drive.google.com/file/d/1oY3NvIR67hSSAn3i7Y2Cc3-h0FHRmBD9/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "blockchain", "git", "mark-pesce", "peer-to-peer", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["blockchain", "mark-pesce", "peer-to-peer", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
     - entities/blockchain
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/peer-to-peer
 related:
   - concepts/peer-to-peer
   - concepts/the-future
-  - entities/ar
   - entities/blockchain
-  - entities/git
   - entities/mark-pesce
 ---
 # Recording 1.m4a
@@ -37,9 +33,7 @@ This recording is a futurist talk by Mark Pesce, likely delivered at a Blue Sky 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 - [[entities/blockchain]] (blockchain)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

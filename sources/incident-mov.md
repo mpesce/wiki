@@ -6,17 +6,15 @@ drive_id: 1ZiZnuaR-PfKECt-qYmBuCzfaSgmEO28f
 source_link: https://drive.google.com/file/d/1ZiZnuaR-PfKECt-qYmBuCzfaSgmEO28f/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
 ---
 # Incident.mov
@@ -30,7 +28,6 @@ This recording consists entirely of continuous background music with no spoken d
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

@@ -3,9 +3,9 @@ kind: concept
 slug: remote-work
 title: Remote work
 tags: ["concept"]
-source_count: 19
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+source_count: 17
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -13,7 +13,7 @@ related:
 # Remote work
 
 ## TL;DR
-<19 sources engage with Remote work. Synthesize the concept.>
+<17 sources engage with Remote work. Synthesize the concept.>
 
 ## Overview
 <Synthesize how Remote work is treated across the corpus. Themes, debates, evolution.>
@@ -27,17 +27,15 @@ related:
 - [[sources/the-knew-normal-cfo-series-melbourne-10jun20-mp4]] — The Knew Normal CFO Series Melbourne 10Jun20.mp4
 - [[sources/at-the-crossroads-cfo-series-wa-23jul20-mp4]] — At the Crossroads - CFO Series WA - 23Jul20.mp4
 - [[sources/common-factor-1-future-of-work-clean-mp4]] — Common Factor 1_Future of Work_CLEAN.mp4
-- [[sources/business-on-the-edge-21apr21-mp4]] — Business on the Edge 21Apr21.mp4
 - [[sources/ntn-20200402-1107-tech-during-covid-brings-out-t]] — ntn-20200402-1107-tech_during_covid_brings_out_the_bad_the_ugly_and_the_good-128.mp3
 - [[sources/rto-and-brittle-leadership-mp4]] — RTO and Brittle Leadership.mp4
+- [[sources/ptaanz2-mp3-2]] — PTAANZ2.mp3
 - [[sources/mark-pesce-alchemist-23jun21-wav]] — Mark Pesce Alchemist 23Jun21.wav
 - [[sources/ptaanz2-wav]] — PTAANZ2.wav
 - [[sources/both-and-the-hybrid-future-of-events-mea-28apr21]] — Both-And The Hybrid Future of Events MEA 28Apr21 720p.mp4
-- [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]] — The No Normal CFO Series NZ 8Jun21.mp4
 - [[sources/beyond-the-horizon-cfo-series-qld-10sep20-mp4]] — Beyond the Horizon CFO Series QLD 10Sep20.mp4
-- [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]] — Horizons and Trajectories 4Jun20 YouTube 720p.mp4
-- [[sources/ptaanz2-mp3-2]] — PTAANZ2.mp3
 - [[sources/both-and-the-hybrid-future-of-events-mea-28apr21-2]] — Both-And The Hybrid Future of Events MEA 28Apr21.mp4
+- [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]] — Horizons and Trajectories 4Jun20 YouTube 720p.mp4
 
 ## Debates / Open Questions
 
@@ -53,14 +51,12 @@ related:
 - [[sources/the-knew-normal-cfo-series-melbourne-10jun20-mp4]]
 - [[sources/at-the-crossroads-cfo-series-wa-23jul20-mp4]]
 - [[sources/common-factor-1-future-of-work-clean-mp4]]
-- [[sources/business-on-the-edge-21apr21-mp4]]
 - [[sources/ntn-20200402-1107-tech-during-covid-brings-out-t]]
 - [[sources/rto-and-brittle-leadership-mp4]]
+- [[sources/ptaanz2-mp3-2]]
 - [[sources/mark-pesce-alchemist-23jun21-wav]]
 - [[sources/ptaanz2-wav]]
 - [[sources/both-and-the-hybrid-future-of-events-mea-28apr21]]
-- [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]]
 - [[sources/beyond-the-horizon-cfo-series-qld-10sep20-mp4]]
-- [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]]
-- [[sources/ptaanz2-mp3-2]]
 - [[sources/both-and-the-hybrid-future-of-events-mea-28apr21-2]]
+- [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]]

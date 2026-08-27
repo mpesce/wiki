@@ -6,22 +6,18 @@ drive_id: 1HLLrjTf1YE-QLculDML1bwXoXcRxSZn4
 source_link: https://drive.google.com/file/d/1HLLrjTf1YE-QLculDML1bwXoXcRxSZn4/view?usp=drivesdk
 type: workshop
 date: 2011
-tags: ["ar", "connectivity", "git", "mark-pesce", "networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["connectivity", "mark-pesce", "networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/networks
     - concepts/connectivity
 related:
   - concepts/connectivity
   - concepts/networks
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # NewKit-3Aug11.mp3
@@ -35,8 +31,6 @@ This recording is a lecture delivered by Mark Pesce, a digital ethnographer, to 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/networks]] — Networks

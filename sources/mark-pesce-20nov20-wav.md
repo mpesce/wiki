@@ -6,28 +6,22 @@ drive_id: 1CAQlKki3ULnSEdJuLe3-9d_gddMt1_aD
 source_link: https://drive.google.com/file/d/1CAQlKki3ULnSEdJuLe3-9d_gddMt1_aD/view?usp=drivesdk
 type: interview
 date: 2020
-tags: ["ar", "facebook", "git", "mark-pesce", "meta", "surveillance", "vr", "vrml"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["ar", "facebook", "mark-pesce", "surveillance", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/meta
     - entities/vrml
-    - entities/vr
     - entities/ar
-    - entities/git
   concepts:
     - concepts/surveillance
 related:
   - concepts/surveillance
   - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
-  - entities/meta
-  - entities/vr
   - entities/vrml
 ---
 # Mark Pesce 20Nov20.wav
@@ -42,11 +36,8 @@ This recording is an interview with Mark Pesce, author of the recently released 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/meta]] (Meta)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
 - [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

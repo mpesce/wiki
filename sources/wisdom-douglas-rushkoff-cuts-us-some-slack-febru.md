@@ -6,24 +6,18 @@ drive_id: 1zHICJjIz3lZNLuNbN_QhgMi_osdap1Sa
 source_link: https://drive.google.com/file/d/1zHICJjIz3lZNLuNbN_QhgMi_osdap1Sa/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "douglas-rushkoff", "git", "mark-pesce", "narrative", "open-source"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["douglas-rushkoff", "mark-pesce", "open-source"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/douglas-rushkoff
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/open-source
-    - concepts/narrative
 related:
-  - concepts/narrative
   - concepts/open-source
-  - entities/ar
   - entities/douglas-rushkoff
-  - entities/git
   - entities/mark-pesce
 ---
 # Wisdom -- Douglas Rushkoff Cuts Us Some Slack February 2021 1080p.mp4
@@ -38,12 +32,9 @@ This recording is an interview conducted by Mark Pesce as part of a series he ca
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/douglas-rushkoff]] (Douglas Rushkoff)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/open-source]] — Open source
-- [[concepts/narrative]] — Narrative
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

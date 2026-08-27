@@ -6,14 +6,13 @@ drive_id: 1x8ft7ZOy41ccTdY19j7VD72tZsKml-ob
 source_link: https://drive.google.com/file/d/1x8ft7ZOy41ccTdY19j7VD72tZsKml-ob/view?usp=drivesdk
 type: interview
 date: 2009
-tags: ["abc", "ar", "innovation", "mark-pesce", "peer-to-peer"]
-created: 2026-08-26T10:40:11Z
-last_updated: 2026-08-26T10:40:11Z
+tags: ["abc", "innovation", "mark-pesce", "peer-to-peer"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/abc
-    - entities/ar
   concepts:
     - concepts/peer-to-peer
     - concepts/innovation
@@ -21,7 +20,6 @@ related:
   - concepts/innovation
   - concepts/peer-to-peer
   - entities/abc
-  - entities/ar
   - entities/mark-pesce
 ---
 # Afternoon Live.mov
@@ -36,7 +34,6 @@ This recording is a radio interview featuring Mark Pesce, a media and technology
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/peer-to-peer]] — Peer-to-peer

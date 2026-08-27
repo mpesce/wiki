@@ -6,17 +6,16 @@ drive_id: 1f5rYjXRQKBt86Cn-rxknWaKzfaCm9Ck5
 source_link: https://drive.google.com/file/d/1f5rYjXRQKBt86Cn-rxknWaKzfaCm9Ck5/view?usp=drivesdk
 type: podcast
 date: 2010
-tags: ["ar", "podcast"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["podcast"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/podcast
 related:
   - concepts/podcast
-  - entities/ar
 ---
 # Level3.E165.HDTV.XviD-L3cRew.avi
 
@@ -28,7 +27,7 @@ This recording is an episode of the Level 3 Gaming Show, a podcast or radio prog
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/podcast]] — Podcasting

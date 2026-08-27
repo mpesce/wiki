@@ -6,22 +6,18 @@ drive_id: 1qyXp1wZwLpYghSKBZViP9Fiebnaf09np
 source_link: https://drive.google.com/file/d/1qyXp1wZwLpYghSKBZViP9Fiebnaf09np/view?usp=drivesdk
 type: workshop
 date: unknown
-tags: ["ar", "git", "google", "mark-pesce", "microsoft", "remote-work"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["google", "mark-pesce", "microsoft", "remote-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
     - entities/microsoft
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/remote-work
 related:
   - concepts/remote-work
-  - entities/ar
-  - entities/git
   - entities/google
   - entities/mark-pesce
   - entities/microsoft
@@ -39,8 +35,6 @@ This recording is a professional talk delivered by Mark Pesce, a futurist and me
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
 - [[entities/microsoft]] (Microsoft)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/remote-work]] — Remote work

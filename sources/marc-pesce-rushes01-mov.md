@@ -6,14 +6,12 @@ drive_id: 15T2LH0RH6RwSbE_YDpLy7MojT5_eOzzc
 source_link: https://drive.google.com/file/d/15T2LH0RH6RwSbE_YDpLy7MojT5_eOzzc/view?usp=drivesdk
 type: interview
 date: 2015
-tags: ["ar", "attention", "attention-economy", "broadcast", "creators", "git", "identity", "mark-pesce", "narrative", "networks", "social-networks", "storytelling"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["attention", "attention-economy", "broadcast", "creators", "identity", "mark-pesce", "narrative", "networks", "social-networks", "storytelling", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/social-networks
@@ -36,8 +34,6 @@ related:
   - concepts/social-networks
   - concepts/storytelling
   - concepts/the-future
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # Marc Pesce_rushes01.mov
@@ -51,8 +47,6 @@ This recording is an interview with Mark Pesce, identified as an Honorary Associ
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

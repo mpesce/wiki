@@ -6,13 +6,12 @@ drive_id: 1vYLu4O3n_KXOLM7UcBs9qkzzZXZ8WgoA
 source_link: https://drive.google.com/file/d/1vYLu4O3n_KXOLM7UcBs9qkzzZXZ8WgoA/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["3d", "ar", "communication", "networks", "social-networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "communication", "networks", "social-networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/3d
-    - entities/ar
   concepts:
     - concepts/social-networks
     - concepts/networks
@@ -22,7 +21,6 @@ related:
   - concepts/networks
   - concepts/social-networks
   - entities/3d
-  - entities/ar
 ---
 # Telephone Repair Handbook December 2005.mp3
 
@@ -35,7 +33,6 @@ Research talk (with graduate student Angus Fraser) presenting a new ubiquitous-c
 
 ## Named Entities
 - [[entities/3d]] (3D)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks

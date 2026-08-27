@@ -6,22 +6,18 @@ drive_id: 1eylnTGaOGsmugr_E4Vf-d56puvIQcSxf
 source_link: https://drive.google.com/file/d/1eylnTGaOGsmugr_E4Vf-d56puvIQcSxf/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["ar", "git", "mark-pesce", "networks", "trust"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce", "networks", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/trust
     - concepts/networks
 related:
   - concepts/networks
   - concepts/trust
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # mindstates-ispy.mp4
@@ -35,8 +31,6 @@ This recording is a keynote address delivered by Mark Pesce, a media and technol
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust

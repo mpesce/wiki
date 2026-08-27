@@ -6,9 +6,9 @@ drive_id: 1W7wDg1YfUdNmuMaTxmeHACE8bmLaXJrX
 source_link: https://drive.google.com/file/d/1W7wDg1YfUdNmuMaTxmeHACE8bmLaXJrX/view?usp=drivesdk
 type: news
 date: 2016
-tags: ["apple", "ar", "attention", "facebook", "git", "google", "mark-pesce", "meta", "mozilla", "surveillance"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["apple", "ar", "attention", "facebook", "google", "mark-pesce", "mozilla", "surveillance"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,9 +16,7 @@ mentions:
     - entities/mozilla
     - entities/google
     - entities/facebook
-    - entities/meta
     - entities/ar
-    - entities/git
   concepts:
     - concepts/surveillance
     - concepts/attention
@@ -28,10 +26,8 @@ related:
   - entities/apple
   - entities/ar
   - entities/facebook
-  - entities/git
   - entities/google
   - entities/mark-pesce
-  - entities/meta
   - entities/mozilla
 ---
 # ARIN 2610 Internet Transformations The AR Dilemmas 5Oct21 720p.mp4
@@ -49,9 +45,7 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 - [[entities/mozilla]] (Mozilla)
 - [[entities/google]] (Google)
 - [[entities/facebook]] (Facebook)
-- [[entities/meta]] (Meta)
 - [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

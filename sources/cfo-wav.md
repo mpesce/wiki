@@ -6,14 +6,14 @@ drive_id: 1LUtf3QvZbknisR_7Ro5JgAbqOHO8x_Ud
 source_link: https://drive.google.com/file/d/1LUtf3QvZbknisR_7Ro5JgAbqOHO8x_Ud/view?usp=drivesdk
 type: podcast
 date: 2016
-tags: ["ar", "artificial-intelligence", "blockchain", "mark-pesce", "the-future", "the-future-of-work"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "blockchain", "mark-pesce", "smart-contracts", "the-future", "the-future-of-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
     - entities/blockchain
+    - entities/smart-contracts
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
@@ -22,9 +22,9 @@ related:
   - concepts/artificial-intelligence
   - concepts/the-future
   - concepts/the-future-of-work
-  - entities/ar
   - entities/blockchain
   - entities/mark-pesce
+  - entities/smart-contracts
 ---
 # CFO.wav
 
@@ -37,8 +37,8 @@ This recording is a talk delivered by Mark Pesce, a professional futurist, to an
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 - [[entities/blockchain]] (blockchain)
+- [[entities/smart-contracts]] (smart contracts)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

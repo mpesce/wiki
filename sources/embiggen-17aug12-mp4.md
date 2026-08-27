@@ -6,15 +6,13 @@ drive_id: 13n-ikMAZ388a8o1Yb-4jK74i3VS4h4Ok
 source_link: https://drive.google.com/file/d/13n-ikMAZ388a8o1Yb-4jK74i3VS4h4Ok/view?usp=drivesdk
 type: interview
 date: 2045
-tags: ["ar", "connectivity", "git", "mark-pesce", "mit", "narrative", "surveillance"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["connectivity", "mark-pesce", "mit", "narrative", "surveillance"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/mit
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/surveillance
     - concepts/narrative
@@ -23,8 +21,6 @@ related:
   - concepts/connectivity
   - concepts/narrative
   - concepts/surveillance
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
   - entities/mit
 ---
@@ -40,8 +36,6 @@ This recording captures a book launch event in Melbourne featuring Mark Pesce, w
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/mit]] (MIT)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

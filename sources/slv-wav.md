@@ -6,15 +6,13 @@ drive_id: 1Y6dno_WNIPZoYPubyRytxhPZk61KV5IW
 source_link: https://drive.google.com/file/d/1Y6dno_WNIPZoYPubyRytxhPZk61KV5IW/view?usp=drivesdk
 type: interview
 date: 2017
-tags: ["ar", "artificial-intelligence", "facebook", "git", "mark-pesce", "surveillance", "surveillance-capitalism"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "facebook", "mark-pesce", "surveillance", "surveillance-capitalism"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/surveillance
     - concepts/surveillance-capitalism
@@ -23,9 +21,7 @@ related:
   - concepts/artificial-intelligence
   - concepts/surveillance
   - concepts/surveillance-capitalism
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
 ---
 # SLV.wav
@@ -40,8 +36,6 @@ This recording is a public lecture delivered by Mark Pesce at the State Library 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

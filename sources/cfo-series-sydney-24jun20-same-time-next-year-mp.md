@@ -6,23 +6,19 @@ drive_id: 1h_AgWPCeW_Mr5uOX-Fnas8s8hnk9G17d
 source_link: https://drive.google.com/file/d/1h_AgWPCeW_Mr5uOX-Fnas8s8hnk9G17d/view?usp=drivesdk
 type: lecture
 date: 2020
-tags: ["apple", "ar", "git", "mark-pesce", "mozilla", "remote-work"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["apple", "mark-pesce", "mozilla", "remote-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/remote-work
 related:
   - concepts/remote-work
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
   - entities/mozilla
 ---
@@ -39,8 +35,6 @@ This recording is a presentation by Mark Pesce, a professional futurist and form
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/remote-work]] — Remote work

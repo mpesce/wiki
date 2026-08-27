@@ -6,9 +6,9 @@ drive_id: 1L5a3e40pEq8Lo3e8Ghh7_zcA7-55o2sq
 source_link: https://drive.google.com/file/d/1L5a3e40pEq8Lo3e8Ghh7_zcA7-55o2sq/view?usp=drivesdk
 type: podcast
 date: 1991
-tags: ["3d", "apple", "ar", "mark-pesce", "mozilla", "virtual-reality", "vr", "vrml"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["3d", "apple", "mark-pesce", "mozilla", "virtual-reality", "vr", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -17,14 +17,12 @@ mentions:
     - entities/vrml
     - entities/3d
     - entities/vr
-    - entities/ar
   concepts:
     - concepts/virtual-reality
 related:
   - concepts/virtual-reality
   - entities/3d
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
   - entities/mozilla
   - entities/vr
@@ -46,7 +44,6 @@ This recording is a talk by Mark Pesce, a media and technology commentator and f
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
 - [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

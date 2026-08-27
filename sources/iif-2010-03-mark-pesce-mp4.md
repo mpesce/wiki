@@ -6,16 +6,13 @@ drive_id: 1FL1GwdjZ3GnHcZercZy4l0OarX2qSEfT
 source_link: https://drive.google.com/file/d/1FL1GwdjZ3GnHcZercZy4l0OarX2qSEfT/view?usp=drivesdk
 type: news
 date: 2010-03
-tags: ["ar", "attention", "connectivity", "git", "mark-pesce", "narrative", "the-future", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["attention", "connectivity", "mark-pesce", "narrative", "the-future", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vrml
-    - entities/vr
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/attention
@@ -26,10 +23,7 @@ related:
   - concepts/connectivity
   - concepts/narrative
   - concepts/the-future
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # iif-2010-03-Mark_Pesce.mp4
@@ -44,9 +38,6 @@ This recording captures a lecture by Mark Pesce, a media and technology commenta
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

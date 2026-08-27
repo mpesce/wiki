@@ -6,20 +6,16 @@ drive_id: 1mcRK906YZX1D5bTlsVkJiy8iE6cmtFkZ
 source_link: https://drive.google.com/file/d/1mcRK906YZX1D5bTlsVkJiy8iE6cmtFkZ/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "broadcast", "education", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["broadcast", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
-    - concepts/education
     - concepts/broadcast
 related:
   - concepts/broadcast
-  - concepts/education
-  - entities/ar
   - entities/mark-pesce
 ---
 # Strophariad.mov
@@ -33,10 +29,8 @@ This recording consists entirely of instrumental music and vocal lyrics, with no
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
-- [[concepts/education]] — Education
 - [[concepts/broadcast]] — Broadcasting
 
 ## Quotes

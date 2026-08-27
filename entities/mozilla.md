@@ -4,8 +4,8 @@ slug: mozilla
 title: Mozilla
 tags: ["organization"]
 source_count: 35
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -34,6 +34,8 @@ related:
 - [[sources/pesce-pandemic-time-anu-3ai-15may20-mp4]] — Pesce Pandemic Time ANU 3Ai 15May20.mp4
 - [[sources/business-on-the-edge-21apr21-mp4]] — Business on the Edge 21Apr21.mp4
 - [[sources/aija-wav]] — AIJA.wav
+- [[sources/markpesce-hi-mov]] — markpesce_hi.mov
+- [[sources/f13-the-agent-is-using-you-mp4]] — F13_the-agent-is-using-you.mp4
 - [[sources/unknown-knowns-31oct19-mp3]] — Unknown Knowns 31Oct19.mp3
 - [[sources/1-02-the-poetry-of-wallace-stevens-mp3]] — 1-02 The Poetry of Wallace Stevens.mp3
 - [[sources/a4-repricing-cognition-mp4]] — A4_repricing-cognition.mp4
@@ -50,8 +52,6 @@ related:
 - [[sources/digirupt-preview-mp4]] — digirupt-preview.mp4
 - [[sources/thefuturists-mp4]] — TheFuturists.mp4
 - [[sources/saatchi-wav]] — Saatchi.wav
-- [[sources/markpesce-hi-mov]] — markpesce_hi.mov
-- [[sources/f13-the-agent-is-using-you-mp4]] — F13_the-agent-is-using-you.mp4
 - [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]] — The No Normal CFO Series NZ 8Jun21.mp4
 - [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]] — Horizons and Trajectories 4Jun20 YouTube 720p.mp4
 
@@ -84,6 +84,8 @@ related:
 - [[sources/pesce-pandemic-time-anu-3ai-15may20-mp4]]
 - [[sources/business-on-the-edge-21apr21-mp4]]
 - [[sources/aija-wav]]
+- [[sources/markpesce-hi-mov]]
+- [[sources/f13-the-agent-is-using-you-mp4]]
 - [[sources/unknown-knowns-31oct19-mp3]]
 - [[sources/1-02-the-poetry-of-wallace-stevens-mp3]]
 - [[sources/a4-repricing-cognition-mp4]]
@@ -100,7 +102,5 @@ related:
 - [[sources/digirupt-preview-mp4]]
 - [[sources/thefuturists-mp4]]
 - [[sources/saatchi-wav]]
-- [[sources/markpesce-hi-mov]]
-- [[sources/f13-the-agent-is-using-you-mp4]]
 - [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]]
 - [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]]

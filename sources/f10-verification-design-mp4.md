@@ -6,12 +6,11 @@ drive_id: 1_7HTzU0MhcstOtRCLWGDOBeLi7ofLJUX
 source_link: https://drive.google.com/file/d/1_7HTzU0MhcstOtRCLWGDOBeLi7ofLJUX/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["agentic", "agentic-systems", "ar", "trust", "verification-design"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["agentic", "agentic-systems", "trust", "verification-design"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
     - entities/agentic
   concepts:
     - concepts/verification-design
@@ -22,7 +21,6 @@ related:
   - concepts/trust
   - concepts/verification-design
   - entities/agentic
-  - entities/ar
 ---
 # F10_verification-design.mp4
 
@@ -34,7 +32,6 @@ Clip. He has identified what he calls 'verification design' — the name for thi
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
 - [[entities/agentic]] (agentic)
 
 ## Related Concepts

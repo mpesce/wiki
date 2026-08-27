@@ -6,16 +6,13 @@ drive_id: 1ekuGi3aFu92zlc1kVT92qZ2RTu-uU80c
 source_link: https://drive.google.com/file/d/1ekuGi3aFu92zlc1kVT92qZ2RTu-uU80c/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["ar", "artificial-intelligence", "git", "mark-pesce", "participation", "the-future", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "mark-pesce", "participation", "the-future", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vrml
-    - entities/vr
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
@@ -24,10 +21,7 @@ related:
   - concepts/artificial-intelligence
   - concepts/participation
   - concepts/the-future
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # WPC.wav
@@ -42,9 +36,6 @@ This recording captures the opening keynote address by Mark Pesce at the 12th Wo
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

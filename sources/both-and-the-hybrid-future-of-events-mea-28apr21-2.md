@@ -6,15 +6,14 @@ drive_id: 1yRM_4Z4P9NjyeOLTCYCki_3G37T8q2_F
 source_link: https://drive.google.com/file/d/1yRM_4Z4P9NjyeOLTCYCki_3G37T8q2_F/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "google", "mark-pesce", "microsoft", "participation", "remote-work", "the-future"]
-created: 2026-08-26T11:01:33Z
-last_updated: 2026-08-26T11:01:33Z
+tags: ["google", "mark-pesce", "microsoft", "participation", "remote-work", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
     - entities/microsoft
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/remote-work
@@ -23,7 +22,6 @@ related:
   - concepts/participation
   - concepts/remote-work
   - concepts/the-future
-  - entities/ar
   - entities/google
   - entities/mark-pesce
   - entities/microsoft
@@ -41,7 +39,6 @@ This recording is a professional talk delivered by Mark Pesce, a futurist and fo
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
 - [[entities/microsoft]] (Microsoft)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

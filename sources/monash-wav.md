@@ -6,9 +6,9 @@ drive_id: 1RucGYudGgk9sBjNrH9w_DrnlyyjqOtFx
 source_link: https://drive.google.com/file/d/1RucGYudGgk9sBjNrH9w_DrnlyyjqOtFx/view?usp=drivesdk
 type: podcast
 date: unknown
-tags: ["ar", "communication", "mark-pesce", "monash", "participation", "virtual-reality", "vr", "vrml", "wired"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["communication", "mark-pesce", "monash", "participation", "virtual-reality", "vr", "vrml", "wired"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,7 +16,6 @@ mentions:
     - entities/monash
     - entities/vrml
     - entities/vr
-    - entities/ar
   concepts:
     - concepts/virtual-reality
     - concepts/communication
@@ -25,7 +24,6 @@ related:
   - concepts/communication
   - concepts/participation
   - concepts/virtual-reality
-  - entities/ar
   - entities/mark-pesce
   - entities/monash
   - entities/vr
@@ -47,7 +45,6 @@ This recording is a lecture delivered by Mark Pesce to an audience of university
 - [[entities/monash]] (Monash)
 - [[entities/vrml]] (VRML)
 - [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

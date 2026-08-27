@@ -6,19 +6,16 @@ drive_id: 1TmHgLSqkQj52CBe_GMVnRzNSH0bm5Xyq
 source_link: https://drive.google.com/file/d/1TmHgLSqkQj52CBe_GMVnRzNSH0bm5Xyq/view?usp=drivesdk
 type: podcast
 date: 2050
-tags: ["ar", "podcast", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/the-future
-    - concepts/podcast
 related:
-  - concepts/podcast
   - concepts/the-future
-  - entities/ar
 ---
 # Canterbury INSPIRE19.mp3
 
@@ -30,11 +27,10 @@ Talk at INSPIRE (Canterbury, NZ). He notes his voice may be familiar from appear
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
-- [[concepts/podcast]] — Podcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

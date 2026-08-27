@@ -6,17 +6,16 @@ drive_id: 1-3VaTURIgy9raiUu3IWmdEDZL28-zYqH
 source_link: https://drive.google.com/file/d/1-3VaTURIgy9raiUu3IWmdEDZL28-zYqH/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "transhumanism"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["transhumanism"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/transhumanism
 related:
   - concepts/transhumanism
-  - entities/ar
 ---
 # BecomingTranshuman.mp3
 
@@ -28,7 +27,7 @@ A poetic/lyrical piece (likely an audio or spoken-word work) on the theme of tra
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/transhumanism]] — Transhumanism

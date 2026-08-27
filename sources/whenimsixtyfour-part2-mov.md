@@ -6,15 +6,12 @@ drive_id: 19bfmbIt_BLe1rMQBj17sSTNM4JVWbqF0
 source_link: https://drive.google.com/file/d/19bfmbIt_BLe1rMQBj17sSTNM4JVWbqF0/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "git", "identity", "llm", "mark-pesce", "networks", "social-networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["identity", "mark-pesce", "networks", "social-networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
-    - entities/llm
   concepts:
     - concepts/social-networks
     - concepts/identity
@@ -23,9 +20,6 @@ related:
   - concepts/identity
   - concepts/networks
   - concepts/social-networks
-  - entities/ar
-  - entities/git
-  - entities/llm
   - entities/mark-pesce
 ---
 # WhenImSixtyFour-part2.mov
@@ -39,9 +33,6 @@ This recording is a lecture or talk by Mark Pesce discussing the evolution of hu
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
-- [[entities/llm]] (LLM)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks

@@ -6,15 +6,14 @@ drive_id: 1aKOUv-Pb8hKws4s1Jq5SIoEZTtpJpNZq
 source_link: https://drive.google.com/file/d/1aKOUv-Pb8hKws4s1Jq5SIoEZTtpJpNZq/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "attention", "facebook", "google", "mark-pesce", "social-media", "surveillance"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["attention", "facebook", "google", "mark-pesce", "social-media", "surveillance"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
     - entities/facebook
-    - entities/ar
   concepts:
     - concepts/social-media
     - concepts/surveillance
@@ -23,7 +22,6 @@ related:
   - concepts/attention
   - concepts/social-media
   - concepts/surveillance
-  - entities/ar
   - entities/facebook
   - entities/google
   - entities/mark-pesce
@@ -41,7 +39,6 @@ This recording is a video commentary produced by Mark Pesce, a media and technol
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

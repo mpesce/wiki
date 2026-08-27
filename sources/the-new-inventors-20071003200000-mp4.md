@@ -6,18 +6,16 @@ drive_id: 18yCLfbPyZhbdsbmGgcSpaYCE0Bg5YtKw
 source_link: https://drive.google.com/file/d/18yCLfbPyZhbdsbmGgcSpaYCE0Bg5YtKw/view?usp=drivesdk
 type: interview
 date: 2007
-tags: ["ar", "mark-pesce", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
-  - entities/ar
   - entities/mark-pesce
 ---
 # The New Inventors-20071003200000.mp4
@@ -31,7 +29,6 @@ This recording is a segment from an Australian television program, likely a scie
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

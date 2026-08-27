@@ -6,15 +6,14 @@ drive_id: 1tvvivab_DJeAyR6EtbXMmsp0Tln5lTzE
 source_link: https://drive.google.com/file/d/1tvvivab_DJeAyR6EtbXMmsp0Tln5lTzE/view?usp=drivesdk
 type: keynote
 date: 2019
-tags: ["ar", "facebook", "git", "mark-pesce", "podcast", "the-future", "the-future-of-work"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["facebook", "mark-pesce", "podcast", "smart-contracts", "the-future", "the-future-of-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
-    - entities/git
+    - entities/smart-contracts
   concepts:
     - concepts/the-future
     - concepts/podcast
@@ -23,10 +22,9 @@ related:
   - concepts/podcast
   - concepts/the-future
   - concepts/the-future-of-work
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
+  - entities/smart-contracts
 ---
 # Trench_Talk_EP57_-_Mark_Pesce.mp3
 
@@ -40,8 +38,7 @@ This recording is an episode of the Trench Talk podcast, hosted by Matt Reynolds
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
+- [[entities/smart-contracts]] (smart contracts)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

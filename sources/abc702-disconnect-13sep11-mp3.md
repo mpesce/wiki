@@ -6,22 +6,18 @@ drive_id: 1yrdHOv4UInp_lnnsXjWBRd7IJTMwd0ly
 source_link: https://drive.google.com/file/d/1yrdHOv4UInp_lnnsXjWBRd7IJTMwd0ly/view?usp=drivesdk
 type: interview
 date: 2011
-tags: ["ar", "connectivity", "git", "mark-pesce", "social-media"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["connectivity", "mark-pesce", "social-media"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-media
     - concepts/connectivity
 related:
   - concepts/connectivity
   - concepts/social-media
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # abc702-disconnect-13Sep11.mp3
@@ -35,8 +31,6 @@ This recording is a radio interview featuring Mark Pesce, a media and technology
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

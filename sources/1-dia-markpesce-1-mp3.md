@@ -6,29 +6,25 @@ drive_id: 1jYk4WAxS1n8cbL5XordFnOijmsWCJ3LX
 source_link: https://drive.google.com/file/d/1jYk4WAxS1n8cbL5XordFnOijmsWCJ3LX/view?usp=drivesdk
 type: podcast
 date: unknown
-tags: ["ar", "broadcast", "facebook", "mark-pesce", "networks", "social-media", "social-networks", "the-future", "twitter"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["facebook", "mark-pesce", "networks", "social-media", "social-networks", "the-future", "twitter"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/social-media
     - concepts/twitter
     - concepts/social-networks
     - concepts/networks
-    - concepts/broadcast
 related:
-  - concepts/broadcast
   - concepts/networks
   - concepts/social-media
   - concepts/social-networks
   - concepts/the-future
   - concepts/twitter
-  - entities/ar
   - entities/facebook
   - entities/mark-pesce
 ---
@@ -44,7 +40,6 @@ This recording is a talk by Mark Pesce, a media and technology commentator, like
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
@@ -52,7 +47,6 @@ This recording is a talk by Mark Pesce, a media and technology commentator, like
 - [[concepts/twitter]] — Twitter
 - [[concepts/social-networks]] — Social networks
 - [[concepts/networks]] — Networks
-- [[concepts/broadcast]] — Broadcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

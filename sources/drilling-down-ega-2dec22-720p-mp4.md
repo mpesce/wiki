@@ -6,21 +6,17 @@ drive_id: 1ibk13aFqOkZmBDjl0Pll3J0woLAm8k5e
 source_link: https://drive.google.com/file/d/1ibk13aFqOkZmBDjl0Pll3J0woLAm8k5e/view?usp=drivesdk
 type: interview
 date: 2020
-tags: ["ar", "mark-pesce", "meta", "narrative"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce", "narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/ar
   concepts:
     - concepts/narrative
 related:
   - concepts/narrative
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # Drilling Down EGA 2Dec22 720p.mp4
 
@@ -33,8 +29,6 @@ This recording is a personal talk delivered by Mark Pesce, a media and technolog
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/narrative]] — Narrative

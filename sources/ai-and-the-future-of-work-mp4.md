@@ -6,13 +6,12 @@ drive_id: 1VjTKytsjloGIzYhH36W6F97JPENhTeMT
 source_link: https://drive.google.com/file/d/1VjTKytsjloGIzYhH36W6F97JPENhTeMT/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "artificial-intelligence", "chatgpt", "education", "mark-pesce", "virtual-reality"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "chatgpt", "education", "mark-pesce", "virtual-reality"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
     - entities/chatgpt
   concepts:
     - concepts/virtual-reality
@@ -22,7 +21,6 @@ related:
   - concepts/artificial-intelligence
   - concepts/education
   - concepts/virtual-reality
-  - entities/ar
   - entities/chatgpt
   - entities/mark-pesce
 ---
@@ -37,7 +35,6 @@ This recording is a segment from a panel discussion or interview featuring Mark 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 - [[entities/chatgpt]] (ChatGPT)
 
 ## Related Concepts

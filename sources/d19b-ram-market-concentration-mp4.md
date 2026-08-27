@@ -6,17 +6,15 @@ drive_id: 16yx_iFDqzfaR9BcGql9dMbOA2ZgtHZ72
 source_link: https://drive.google.com/file/d/16yx_iFDqzfaR9BcGql9dMbOA2ZgtHZ72/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "mark-pesce"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
 ---
 # D19b_ram-market-concentration.mp4
@@ -30,7 +28,6 @@ This recording is a brief audio clip featuring a monologue by Mark Pesce, a medi
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

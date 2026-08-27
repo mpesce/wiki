@@ -6,18 +6,16 @@ drive_id: 1dt3HolEvBQmrqxYZREP0ahIhaStkWtdO
 source_link: https://drive.google.com/file/d/1dt3HolEvBQmrqxYZREP0ahIhaStkWtdO/view?usp=drivesdk
 type: podcast
 date: 2021
-tags: ["ar", "mark-pesce", "podcast"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce", "podcast"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/podcast
 related:
   - concepts/podcast
-  - entities/ar
   - entities/mark-pesce
 ---
 # Final Thoughts.mp3
@@ -31,7 +29,6 @@ This recording is the final episode of a six-part podcast series hosted by Mark 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/podcast]] — Podcasting

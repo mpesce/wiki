@@ -6,15 +6,12 @@ drive_id: 1zfye98f-VEN5kY5tNcl69Zy0Fjw1TMQE
 source_link: https://drive.google.com/file/d/1zfye98f-VEN5kY5tNcl69Zy0Fjw1TMQE/view?usp=drivesdk
 type: panel
 date: 1994
-tags: ["ar", "artificial-intelligence", "attention", "creators", "git", "identity", "mark-pesce", "mit", "social-media", "surveillance"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["artificial-intelligence", "attention", "creators", "identity", "mark-pesce", "social-media", "surveillance"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/mit
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-media
     - concepts/surveillance
@@ -29,10 +26,7 @@ related:
   - concepts/identity
   - concepts/social-media
   - concepts/surveillance
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
-  - entities/mit
 ---
 # technospirit.mkv
 
@@ -45,9 +39,6 @@ This recording is a panel discussion hosted by Marina, featuring speakers Ines, 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/mit]] (MIT)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

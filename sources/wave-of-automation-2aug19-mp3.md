@@ -6,19 +6,17 @@ drive_id: 1qQvHCypvmPeTWnwZw0qlTrwT94dhlrMg
 source_link: https://drive.google.com/file/d/1qQvHCypvmPeTWnwZw0qlTrwT94dhlrMg/view?usp=drivesdk
 type: workshop
 date: 2019
-tags: ["anu", "ar", "education"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["anu", "education"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/anu
-    - entities/ar
   concepts:
     - concepts/education
 related:
   - concepts/education
   - entities/anu
-  - entities/ar
 ---
 # Wave of Automation 2Aug19.mp3
 
@@ -31,7 +29,6 @@ Talk to educators (2 Aug 2019) on the wave of automation. He opens with the stor
 
 ## Named Entities
 - [[entities/anu]] (ANU)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/education]] — Education

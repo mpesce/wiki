@@ -6,9 +6,9 @@ drive_id: 1-MziWrudOMin2ANjQ6-HZpG3uYNcnmVV
 source_link: https://drive.google.com/file/d/1-MziWrudOMin2ANjQ6-HZpG3uYNcnmVV/view?usp=drivesdk
 type: news
 date: 2005
-tags: ["abc", "apple", "ar", "broadcast", "connectivity", "content-creation", "git", "identity", "mark-pesce", "microsoft", "mozilla"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["abc", "apple", "connectivity", "content-creation", "identity", "mark-pesce", "microsoft", "mozilla"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,22 +16,16 @@ mentions:
     - entities/mozilla
     - entities/microsoft
     - entities/abc
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/identity
     - concepts/content-creation
-    - concepts/broadcast
     - concepts/connectivity
 related:
-  - concepts/broadcast
   - concepts/connectivity
   - concepts/content-creation
   - concepts/identity
   - entities/abc
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
   - entities/microsoft
   - entities/mozilla
@@ -51,13 +45,10 @@ This recording is a presentation delivered by Mark Pesce, a media futurist and f
 - [[entities/mozilla]] (Mozilla)
 - [[entities/microsoft]] (Microsoft)
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/identity]] — Identity
 - [[concepts/content-creation]] — Content creation
-- [[concepts/broadcast]] — Broadcasting
 - [[concepts/connectivity]] — Connectivity
 
 ## Quotes

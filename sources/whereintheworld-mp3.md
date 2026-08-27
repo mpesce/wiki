@@ -6,9 +6,9 @@ drive_id: 1_bcXF-jIFyjlFzddL6A53JLCBg0Ds1eA
 source_link: https://drive.google.com/file/d/1_bcXF-jIFyjlFzddL6A53JLCBg0Ds1eA/view?usp=drivesdk
 type: interview
 date: 1994
-tags: ["3d", "apple", "ar", "digital-distribution", "economic-viability", "git", "google", "mark-pesce", "networks", "social-networks", "trust", "virtual-reality"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "apple", "digital-distribution", "economic-viability", "google", "mark-pesce", "networks", "social-networks", "virtual-reality", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,14 +16,10 @@ mentions:
     - entities/google
     - entities/vrml
     - entities/3d
-    - entities/vr
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-networks
     - concepts/virtual-reality
     - concepts/economic-viability
-    - concepts/trust
     - concepts/networks
     - concepts/digital-distribution
 related:
@@ -31,15 +27,11 @@ related:
   - concepts/economic-viability
   - concepts/networks
   - concepts/social-networks
-  - concepts/trust
   - concepts/virtual-reality
   - entities/3d
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/google
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # whereintheworld.mp3
@@ -57,15 +49,11 @@ This recording is a presentation and subsequent Q&A session by Mark Pesce, a med
 - [[entities/google]] (Google)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks
 - [[concepts/virtual-reality]] — Virtual reality
 - [[concepts/economic-viability]] — Economic viability
-- [[concepts/trust]] — Trust
 - [[concepts/networks]] — Networks
 - [[concepts/digital-distribution]] — Digital distribution
 

@@ -6,29 +6,21 @@ drive_id: 1QMTVcL_29119SUVGZ2WgQjoNJ1yCZ0ap
 source_link: https://drive.google.com/file/d/1QMTVcL_29119SUVGZ2WgQjoNJ1yCZ0ap/view?usp=drivesdk
 type: lecture
 date: 2020
-tags: ["ar", "attention", "git", "identity", "mark-pesce", "meta", "narrative", "trust"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["attention", "identity", "mark-pesce", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/trust
     - concepts/identity
     - concepts/attention
-    - concepts/narrative
 related:
   - concepts/attention
   - concepts/identity
-  - concepts/narrative
   - concepts/trust
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
-  - entities/meta
 ---
 # National Trust - 'Sense in Place'.mp4
 
@@ -41,15 +33,11 @@ Mark Pesce delivers a talk to the National Trust, discussing how augmented reali
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust
 - [[concepts/identity]] — Identity
 - [[concepts/attention]] — Attention
-- [[concepts/narrative]] — Narrative
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

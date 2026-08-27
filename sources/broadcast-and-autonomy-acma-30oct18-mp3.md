@@ -6,24 +6,18 @@ drive_id: 1BCNvyX4bog3bZq1_-pcoydRSrNIN4ulN
 source_link: https://drive.google.com/file/d/1BCNvyX4bog3bZq1_-pcoydRSrNIN4ulN/view?usp=drivesdk
 type: podcast
 date: 2018
-tags: ["3d", "ar", "broadcast", "communication", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "broadcast", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/vrml
     - entities/3d
-    - entities/vr
-    - entities/ar
   concepts:
     - concepts/broadcast
-    - concepts/communication
 related:
   - concepts/broadcast
-  - concepts/communication
   - entities/3d
-  - entities/ar
-  - entities/vr
   - entities/vrml
 ---
 # Broadcast_and_Autonomy_ACMA_30Oct18.mp3
@@ -38,12 +32,9 @@ Address to the ACMA (Australian Communications and Media Authority, 30 Oct 2018)
 ## Named Entities
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting
-- [[concepts/communication]] — Communication
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

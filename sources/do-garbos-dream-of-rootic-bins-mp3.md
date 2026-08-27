@@ -6,19 +6,15 @@ drive_id: 1myQg9PxlmBqB_rO0T3Qw8_icfn3hBnA8
 source_link: https://drive.google.com/file/d/1myQg9PxlmBqB_rO0T3Qw8_icfn3hBnA8/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "git", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - (none)
 related:
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # Do Garbos Dream of Rootic Bins.mp3
@@ -32,8 +28,6 @@ This recording is a lecture or talk delivered by Mark Pesce, an Honorary Associa
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - (none identified)

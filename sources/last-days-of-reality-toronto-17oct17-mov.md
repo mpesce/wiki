@@ -6,23 +6,21 @@ drive_id: 11L1WN5RFXkorpgE7b_b0SyelgiY4kNpl
 source_link: https://drive.google.com/file/d/11L1WN5RFXkorpgE7b_b0SyelgiY4kNpl/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["ar", "facebook", "git", "google", "mark-pesce", "surveillance"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["ar", "facebook", "google", "mark-pesce", "surveillance"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
     - entities/facebook
     - entities/ar
-    - entities/git
   concepts:
     - concepts/surveillance
 related:
   - concepts/surveillance
   - entities/ar
   - entities/facebook
-  - entities/git
   - entities/google
   - entities/mark-pesce
 ---
@@ -40,7 +38,6 @@ This recording is a keynote address delivered by Mark Pesce, a media and technol
 - [[entities/google]] (Google)
 - [[entities/facebook]] (Facebook)
 - [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

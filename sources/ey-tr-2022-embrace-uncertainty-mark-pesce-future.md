@@ -6,17 +6,15 @@ drive_id: 1wE_mvqWqicqmHy-5K6DRcdSJgB-0UGvs
 source_link: https://drive.google.com/file/d/1wE_mvqWqicqmHy-5K6DRcdSJgB-0UGvs/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "mark-pesce"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
 ---
 # Ey Tr 2022 - Embrace Uncertainty - Mark Pesce Future Back-1.mkv
@@ -30,7 +28,6 @@ The provided transcript consists entirely of repeated instances of the placehold
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

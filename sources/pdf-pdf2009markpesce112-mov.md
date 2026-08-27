@@ -6,22 +6,18 @@ drive_id: 14LIiSlsDZTydU9lLwlsIgvlH8EhS1kW9
 source_link: https://drive.google.com/file/d/14LIiSlsDZTydU9lLwlsIgvlH8EhS1kW9/view?usp=drivesdk
 type: lecture
 date: 2008
-tags: ["ar", "connectivity", "git", "mark-pesce", "participation"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["connectivity", "mark-pesce", "participation"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/connectivity
     - concepts/participation
 related:
   - concepts/connectivity
   - concepts/participation
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # Pdf-PDF2009MarkPesce112.mov
@@ -35,8 +31,6 @@ This recording is a conference talk delivered by Mark Pesce, a media and technol
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/connectivity]] — Connectivity

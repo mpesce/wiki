@@ -6,16 +6,14 @@ drive_id: 1MZFgJdn9j80tKKwjFIzKpgFAikQ-tzPu
 source_link: https://drive.google.com/file/d/1MZFgJdn9j80tKKwjFIzKpgFAikQ-tzPu/view?usp=drivesdk
 type: panel
 date: 1968
-tags: ["abc", "ar", "artificial-intelligence", "mark-pesce", "the-future", "virtual-reality", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "artificial-intelligence", "mark-pesce", "the-future", "virtual-reality", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/abc
     - entities/vrml
-    - entities/vr
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/virtual-reality
@@ -25,9 +23,7 @@ related:
   - concepts/the-future
   - concepts/virtual-reality
   - entities/abc
-  - entities/ar
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # UQ.wav
@@ -43,8 +39,6 @@ This recording is a lecture delivered by Mark Pesce, a computer scientist and fu
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/abc]] (ABC)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

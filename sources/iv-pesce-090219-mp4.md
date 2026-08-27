@@ -6,13 +6,12 @@ drive_id: 1ojHNHr9iyetexS1HHK282aSJHB8w4US6
 source_link: https://drive.google.com/file/d/1ojHNHr9iyetexS1HHK282aSJHB8w4US6/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "broadcast", "identity", "mark-pesce", "trust"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["broadcast", "identity", "mark-pesce", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/trust
     - concepts/identity
@@ -21,7 +20,6 @@ related:
   - concepts/broadcast
   - concepts/identity
   - concepts/trust
-  - entities/ar
   - entities/mark-pesce
 ---
 # iv_Pesce_090219.mp4
@@ -35,7 +33,6 @@ This recording is a radio interview featuring Mark Pesce, identified as a futuri
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust

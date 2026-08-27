@@ -6,26 +6,22 @@ drive_id: 1u4kbvlwE6yArTp2BBATwuz0a8NWQ2ca7
 source_link: https://drive.google.com/file/d/1u4kbvlwE6yArTp2BBATwuz0a8NWQ2ca7/view?usp=drivesdk
 type: interview
 date: 2011
-tags: ["apple", "ar", "bitcoin", "connectivity", "mark-pesce", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "bitcoin", "connectivity", "mark-pesce", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/vrml
-    - entities/vr
-    - entities/ar
     - entities/bitcoin
   concepts:
     - concepts/connectivity
 related:
   - concepts/connectivity
   - entities/apple
-  - entities/ar
   - entities/bitcoin
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # hypereconomics 2.flv
@@ -41,8 +37,6 @@ This recording captures a public lecture by Mark Pesce, a media and technology c
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 - [[entities/bitcoin]] (Bitcoin)
 
 ## Related Concepts

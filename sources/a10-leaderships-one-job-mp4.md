@@ -6,20 +6,18 @@ drive_id: 1QrDKVmpoOreqA5M61pObXe05C-For5CK
 source_link: https://drive.google.com/file/d/1QrDKVmpoOreqA5M61pObXe05C-For5CK/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "artificial-intelligence", "mark-pesce", "narrative"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "mark-pesce", "narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/artificial-intelligence
     - concepts/narrative
 related:
   - concepts/artificial-intelligence
   - concepts/narrative
-  - entities/ar
   - entities/mark-pesce
 ---
 # A10_leaderships-one-job.mp4
@@ -33,7 +31,6 @@ This recording appears to be an excerpt from a talk or interview featuring Mark 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

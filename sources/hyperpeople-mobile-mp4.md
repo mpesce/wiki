@@ -6,30 +6,24 @@ drive_id: 1puY7ahbayrz9Gl47gGUJ13Jaev1TBMae
 source_link: https://drive.google.com/file/d/1puY7ahbayrz9Gl47gGUJ13Jaev1TBMae/view?usp=drivesdk
 type: interview
 date: 2004
-tags: ["ar", "broadcast", "git", "mark-pesce", "networks", "peer-to-peer", "social-networks", "the-swarm", "trust"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "networks", "peer-to-peer", "social-networks", "the-swarm", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-networks
     - concepts/trust
     - concepts/networks
     - concepts/peer-to-peer
     - concepts/the-swarm
-    - concepts/broadcast
 related:
-  - concepts/broadcast
   - concepts/networks
   - concepts/peer-to-peer
   - concepts/social-networks
   - concepts/the-swarm
   - concepts/trust
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # hyperpeople-mobile.mp4
@@ -43,8 +37,6 @@ This recording features a talk by Mark Pesce, a media and technology commentator
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks
@@ -52,7 +44,6 @@ This recording features a talk by Mark Pesce, a media and technology commentator
 - [[concepts/networks]] — Networks
 - [[concepts/peer-to-peer]] — Peer-to-peer
 - [[concepts/the-swarm]] — The swarm
-- [[concepts/broadcast]] — Broadcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

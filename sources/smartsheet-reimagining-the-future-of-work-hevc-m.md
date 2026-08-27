@@ -6,16 +6,13 @@ drive_id: 1eiY3YJHUl-CBPbX6xNkMQhrPPrN6Is9l
 source_link: https://drive.google.com/file/d/1eiY3YJHUl-CBPbX6xNkMQhrPPrN6Is9l/view?usp=drivesdk
 type: news
 date: 1947
-tags: ["apple", "ar", "git", "mark-pesce", "meta", "remote-work", "the-future", "the-future-of-work"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["apple", "mark-pesce", "remote-work", "the-future", "the-future-of-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
-    - entities/meta
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/the-future-of-work
@@ -25,10 +22,7 @@ related:
   - concepts/the-future
   - concepts/the-future-of-work
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
-  - entities/meta
 ---
 # Smartsheet - Reimagining the Future of Work HEVC.mp4
 
@@ -42,9 +36,6 @@ This recording is a talk delivered by a speaker, likely Mark Pesce, discussing t
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

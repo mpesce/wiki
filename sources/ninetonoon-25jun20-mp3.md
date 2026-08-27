@@ -6,21 +6,19 @@ drive_id: 1pJY6dLNik_EegzWMxvn3vNe4VkrjbUG6
 source_link: https://drive.google.com/file/d/1pJY6dLNik_EegzWMxvn3vNe4VkrjbUG6/view?usp=drivesdk
 type: interview
 date: 2010
-tags: ["apple", "ar", "facebook", "mark-pesce", "social-media"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "facebook", "mark-pesce", "social-media"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/facebook
-    - entities/ar
   concepts:
     - concepts/social-media
 related:
   - concepts/social-media
   - entities/apple
-  - entities/ar
   - entities/facebook
   - entities/mark-pesce
 ---
@@ -37,7 +35,6 @@ This recording is a news interview featuring Mark Pesce, identified as a tech co
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

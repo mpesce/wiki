@@ -6,20 +6,18 @@ drive_id: 10BlrdbLLbO_YkHVqWJwwQqRLbn2avMUw
 source_link: https://drive.google.com/file/d/10BlrdbLLbO_YkHVqWJwwQqRLbn2avMUw/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["apple", "ar", "mark-pesce", "public-speaking"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["apple", "mark-pesce", "public-speaking"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
-    - entities/ar
   concepts:
     - concepts/public-speaking
 related:
   - concepts/public-speaking
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
 ---
 # Horizons and Trajectories 4Jun20.mp4
@@ -34,7 +32,6 @@ This recording is a talk delivered by Mark Pesce, a futurist and former Apple en
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/public-speaking]] — Public speaking

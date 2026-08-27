@@ -3,9 +3,9 @@ kind: concept
 slug: podcast
 title: Podcasting
 tags: ["concept"]
-source_count: 41
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+source_count: 33
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -13,7 +13,7 @@ related:
 # Podcasting
 
 ## TL;DR
-<41 sources engage with Podcasting. Synthesize the concept.>
+<33 sources engage with Podcasting. Synthesize the concept.>
 
 ## Overview
 <Synthesize how Podcasting is treated across the corpus. Themes, debates, evolution.>
@@ -23,7 +23,6 @@ related:
 - [[sources/mark-pesce-session-1-wav]] — Mark Pesce session 1.wav
 - [[sources/sca-wav]] — SCA.wav
 - [[sources/s01e01-mark-wav]] — S01E01 Mark.wav
-- [[sources/4-02-hyperdistribution-mp3]] — 4-02 Hyperdistribution.mp3
 - [[sources/alcove-interview-23jun08-m4v]] — alcove-interview-23Jun08.m4v
 - [[sources/post-classical-finance-cfo-series-sydney-11may21]] — Post-Classical Finance CFO Series Sydney 11May21.mp4
 - [[sources/level3-e165-hdtv-xvid-l3crew-avi]] — Level3.E165.HDTV.XviD-L3cRew.avi
@@ -38,8 +37,6 @@ related:
 - [[sources/adam-wav]] — Adam.wav
 - [[sources/thefuturists-thewatershed-mkv]] — TheFuturists-TheWatershed.mkv
 - [[sources/business-on-the-edge-21apr21-mp4]] — Business on the Edge 21Apr21.mp4
-- [[sources/canterbury-inspire19-mp3]] — Canterbury INSPIRE19.mp3
-- [[sources/4-01-participation-mp3]] — 4-01 Participation.mp3
 - [[sources/pollenizerpodcast-20100728-1-mp3]] — PollenizerPodcast-20100728 (1).mp3
 - [[sources/pollenizerpodcast-20100728-mp3]] — PollenizerPodcast-20100728.mp3
 - [[sources/thescoop-3dec09-mp3]] — thescoop-3Dec09.mp3
@@ -47,19 +44,14 @@ related:
 - [[sources/chaser-podcast-11jul21-wav]] — Chaser podcast 11Jul21.wav
 - [[sources/mark-chaser-podcast-21jul21-wav]] — Mark Chaser podcast 21Jul21.wav
 - [[sources/genevieve-bell-mp3]] — Genevieve Bell.mp3
-- [[sources/ptaanz2-mp3]] — PTAANZ2.mp3
-- [[sources/collisions-and-smash-repairs-mp4]] — Collisions-and-Smash-Repairs.mp4
 - [[sources/ozwater-wav]] — OzWater.wav
 - [[sources/mark-pesce-alchemist-23jun21-wav]] — Mark Pesce Alchemist 23Jun21.wav
 - [[sources/thefuturists-mp4]] — TheFuturists.mp4
-- [[sources/ptaanz2-wav]] — PTAANZ2.wav
+- [[sources/thefuturists-mp4-2]] — TheFuturists.mp4
 - [[sources/kate-podcast-mkv]] — kate-podcast.mkv
 - [[sources/leap-interview-13oct22-mp4]] — LEAP interview 13Oct22.mp4
-- [[sources/epic-interview-12oct21-mp4]] — EPIC Interview 12Oct21.mp4
 - [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]] — The No Normal CFO Series NZ 8Jun21.mp4
 - [[sources/beyond-the-horizon-cfo-series-qld-10sep20-mp4]] — Beyond the Horizon CFO Series QLD 10Sep20.mp4
-- [[sources/ptaanz2-mp3-2]] — PTAANZ2.mp3
-- [[sources/thefuturists-mp4-2]] — TheFuturists.mp4
 
 ## Debates / Open Questions
 
@@ -71,7 +63,6 @@ related:
 - [[sources/mark-pesce-session-1-wav]]
 - [[sources/sca-wav]]
 - [[sources/s01e01-mark-wav]]
-- [[sources/4-02-hyperdistribution-mp3]]
 - [[sources/alcove-interview-23jun08-m4v]]
 - [[sources/post-classical-finance-cfo-series-sydney-11may21]]
 - [[sources/level3-e165-hdtv-xvid-l3crew-avi]]
@@ -86,8 +77,6 @@ related:
 - [[sources/adam-wav]]
 - [[sources/thefuturists-thewatershed-mkv]]
 - [[sources/business-on-the-edge-21apr21-mp4]]
-- [[sources/canterbury-inspire19-mp3]]
-- [[sources/4-01-participation-mp3]]
 - [[sources/pollenizerpodcast-20100728-1-mp3]]
 - [[sources/pollenizerpodcast-20100728-mp3]]
 - [[sources/thescoop-3dec09-mp3]]
@@ -95,16 +84,11 @@ related:
 - [[sources/chaser-podcast-11jul21-wav]]
 - [[sources/mark-chaser-podcast-21jul21-wav]]
 - [[sources/genevieve-bell-mp3]]
-- [[sources/ptaanz2-mp3]]
-- [[sources/collisions-and-smash-repairs-mp4]]
 - [[sources/ozwater-wav]]
 - [[sources/mark-pesce-alchemist-23jun21-wav]]
 - [[sources/thefuturists-mp4]]
-- [[sources/ptaanz2-wav]]
+- [[sources/thefuturists-mp4-2]]
 - [[sources/kate-podcast-mkv]]
 - [[sources/leap-interview-13oct22-mp4]]
-- [[sources/epic-interview-12oct21-mp4]]
 - [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]]
 - [[sources/beyond-the-horizon-cfo-series-qld-10sep20-mp4]]
-- [[sources/ptaanz2-mp3-2]]
-- [[sources/thefuturists-mp4-2]]

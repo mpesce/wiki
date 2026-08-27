@@ -6,20 +6,16 @@ drive_id: 1jWfKVcHvEcFGrOjqcy_PWCeraTFV-90Z
 source_link: https://drive.google.com/file/d/1jWfKVcHvEcFGrOjqcy_PWCeraTFV-90Z/view?usp=drivesdk
 type: news
 date: 2020
-tags: ["ar", "git", "microsoft", "remote-work"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["microsoft", "remote-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/microsoft
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/remote-work
 related:
   - concepts/remote-work
-  - entities/ar
-  - entities/git
   - entities/microsoft
 ---
 # At the Crossroads - CFO Series WA - 23Jul20.mp4
@@ -33,8 +29,6 @@ This recording is a futurist talk delivered to an audience of Chief Financial Of
 
 ## Named Entities
 - [[entities/microsoft]] (Microsoft)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/remote-work]] — Remote work

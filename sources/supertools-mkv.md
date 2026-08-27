@@ -6,15 +6,13 @@ drive_id: 1Duqn42aIILgJBjeRfqP77F4TewdobeAT
 source_link: https://drive.google.com/file/d/1Duqn42aIILgJBjeRfqP77F4TewdobeAT/view?usp=drivesdk
 type: keynote
 date: 1968
-tags: ["ar", "artificial-intelligence", "attention", "git", "mark-pesce", "meta"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["ar", "artificial-intelligence", "attention", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
     - entities/ar
-    - entities/git
   concepts:
     - concepts/artificial-intelligence
     - concepts/attention
@@ -22,9 +20,7 @@ related:
   - concepts/artificial-intelligence
   - concepts/attention
   - entities/ar
-  - entities/git
   - entities/mark-pesce
-  - entities/meta
 ---
 # supertools.mkv
 
@@ -37,9 +33,7 @@ This recording is a keynote talk delivered by Mark Pesce, a media and technology
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
 - [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

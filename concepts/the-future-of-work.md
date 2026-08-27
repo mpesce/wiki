@@ -3,9 +3,9 @@ kind: concept
 slug: the-future-of-work
 title: The future of work
 tags: ["concept"]
-source_count: 14
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+source_count: 13
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -13,7 +13,7 @@ related:
 # The future of work
 
 ## TL;DR
-<14 sources engage with The future of work. Synthesize the concept.>
+<13 sources engage with The future of work. Synthesize the concept.>
 
 ## Overview
 <Synthesize how The future of work is treated across the corpus. Themes, debates, evolution.>
@@ -29,7 +29,6 @@ related:
 - [[sources/gio-pc1-mark-pesce-video-02-final-4x5-mp4]] — GIO-PC1_MARK_PESCE-VIDEO_02-FINAL-4x5.mp4
 - [[sources/common-factor-1-future-of-work-clean-mp4]] — Common Factor 1_Future of Work_CLEAN.mp4
 - [[sources/a-series-of-tubes-wpc-11sep19-mp3]] — A Series of Tubes WPC 11Sep19.mp3
-- [[sources/wpc-11sep19-wav]] — WPC 11Sep19.wav
 - [[sources/aija-wav]] — AIJA.wav
 - [[sources/looking-back-10-years-mp4]] — Looking Back 10 years.mp4
 - [[sources/three-day-twenty-hour-caring-mp4]] — Three Day Twenty Hour Caring.mp4
@@ -50,7 +49,6 @@ related:
 - [[sources/gio-pc1-mark-pesce-video-02-final-4x5-mp4]]
 - [[sources/common-factor-1-future-of-work-clean-mp4]]
 - [[sources/a-series-of-tubes-wpc-11sep19-mp3]]
-- [[sources/wpc-11sep19-wav]]
 - [[sources/aija-wav]]
 - [[sources/looking-back-10-years-mp4]]
 - [[sources/three-day-twenty-hour-caring-mp4]]

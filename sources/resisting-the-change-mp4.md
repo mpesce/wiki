@@ -6,16 +6,16 @@ drive_id: 1ZxFSt91OyBENWKdxLne0aop7PtpOGRFX
 source_link: https://drive.google.com/file/d/1ZxFSt91OyBENWKdxLne0aop7PtpOGRFX/view?usp=drivesdk
 type: panel
 date: 2025
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # Resisting the change.mp4
 
@@ -27,7 +27,7 @@ Clip from the 'Common Factor: Future of Work 2025' panel. There's study after st
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

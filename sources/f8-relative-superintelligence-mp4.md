@@ -6,17 +6,16 @@ drive_id: 1GshcMatE8Za7xqoWwDEmbIeWza21Az7l
 source_link: https://drive.google.com/file/d/1GshcMatE8Za7xqoWwDEmbIeWza21Az7l/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "artificial-intelligence"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/artificial-intelligence
 related:
   - concepts/artificial-intelligence
-  - entities/ar
 ---
 # F8_relative-superintelligence.mp4
 
@@ -28,7 +27,7 @@ This recording appears to be a segment from a talk or interview featuring a spea
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

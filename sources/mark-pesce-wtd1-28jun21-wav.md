@@ -6,15 +6,14 @@ drive_id: 1e1pfHNrrGTDrIXpWEBt3hXpgwofkVjTq
 source_link: https://drive.google.com/file/d/1e1pfHNrrGTDrIXpWEBt3hXpgwofkVjTq/view?usp=drivesdk
 type: interview
 date: 1982
-tags: ["abc", "ar", "google", "innovation", "mit", "podcast", "startups", "venture-capital"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "google", "innovation", "mit", "podcast", "startups", "venture-capital"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/google
     - entities/abc
     - entities/mit
-    - entities/ar
   concepts:
     - concepts/podcast
     - concepts/innovation
@@ -26,7 +25,6 @@ related:
   - concepts/startups
   - concepts/venture-capital
   - entities/abc
-  - entities/ar
   - entities/google
   - entities/mit
 ---
@@ -43,7 +41,6 @@ This recording is an interview conducted by Mark Pesci, host of the podcast This
 - [[entities/google]] (Google)
 - [[entities/abc]] (ABC)
 - [[entities/mit]] (MIT)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/podcast]] — Podcasting

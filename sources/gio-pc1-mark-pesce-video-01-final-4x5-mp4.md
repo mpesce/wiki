@@ -6,19 +6,18 @@ drive_id: 1n13n8VdfkuL4PMRKqT1p1XLvQ6L2L2Ny
 source_link: https://drive.google.com/file/d/1n13n8VdfkuL4PMRKqT1p1XLvQ6L2L2Ny/view?usp=drivesdk
 type: podcast
 date: 2020
-tags: ["ar", "podcast", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["podcast", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/the-future
     - concepts/podcast
 related:
   - concepts/podcast
   - concepts/the-future
-  - entities/ar
 ---
 # GIO-PC1_MARK_PESCE-VIDEO_01-FINAL-4x5.mp4
 
@@ -30,7 +29,7 @@ This recording is a promotional audio spot for the Next Billion Seconds podcast,
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

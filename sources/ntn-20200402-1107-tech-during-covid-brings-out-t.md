@@ -6,28 +6,24 @@ drive_id: 1qzVpfSJejL7b4NxLwG9bWTBApDXhRDdK
 source_link: https://drive.google.com/file/d/1qzVpfSJejL7b4NxLwG9bWTBApDXhRDdK/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "broadcast", "communication", "facebook", "networks", "open-source", "remote-work", "surveillance"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["broadcast", "facebook", "networks", "open-source", "remote-work", "surveillance"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/facebook
-    - entities/ar
   concepts:
     - concepts/surveillance
     - concepts/networks
     - concepts/open-source
     - concepts/broadcast
     - concepts/remote-work
-    - concepts/communication
 related:
   - concepts/broadcast
-  - concepts/communication
   - concepts/networks
   - concepts/open-source
   - concepts/remote-work
   - concepts/surveillance
-  - entities/ar
   - entities/facebook
 ---
 # ntn-20200402-1107-tech_during_covid_brings_out_the_bad_the_ugly_and_the_good-128.mp3
@@ -41,7 +37,6 @@ This recording is a news broadcast interview featuring tech correspondent Mark P
 
 ## Named Entities
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance
@@ -49,7 +44,6 @@ This recording is a news broadcast interview featuring tech correspondent Mark P
 - [[concepts/open-source]] — Open source
 - [[concepts/broadcast]] — Broadcasting
 - [[concepts/remote-work]] — Remote work
-- [[concepts/communication]] — Communication
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

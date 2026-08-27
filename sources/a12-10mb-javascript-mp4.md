@@ -6,17 +6,15 @@ drive_id: 1HEN6bG1T0ZiDRfS3sPue4xJTRrlUt1AE
 source_link: https://drive.google.com/file/d/1HEN6bG1T0ZiDRfS3sPue4xJTRrlUt1AE/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar", "javascript"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["javascript"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
     - entities/javascript
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/javascript
 ---
 # A12_10mb-javascript.mp4
@@ -29,7 +27,6 @@ Clip. A big deal: software has never been well optimized because optimization wa
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
 - [[entities/javascript]] (JavaScript)
 
 ## Related Concepts

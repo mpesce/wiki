@@ -6,25 +6,19 @@ drive_id: 1FG5sytt58TJC9UIg2VGal3EguX9s23uZ
 source_link: https://drive.google.com/file/d/1FG5sytt58TJC9UIg2VGal3EguX9s23uZ/view?usp=drivesdk
 type: podcast
 date: unknown
-tags: ["apple", "ar", "git", "mark-pesce", "mozilla", "podcast", "remote-work"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["apple", "mark-pesce", "mozilla", "podcast"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/podcast
-    - concepts/remote-work
 related:
   - concepts/podcast
-  - concepts/remote-work
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
   - entities/mozilla
 ---
@@ -41,12 +35,9 @@ This recording is a conference talk delivered by Mark Pesce, a technology commen
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/podcast]] — Podcasting
-- [[concepts/remote-work]] — Remote work
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

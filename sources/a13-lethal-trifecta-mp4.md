@@ -6,21 +6,17 @@ drive_id: 17B0UzpUSdd8bbq4WtiL7INbqlj_aeZde
 source_link: https://drive.google.com/file/d/17B0UzpUSdd8bbq4WtiL7INbqlj_aeZde/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "mark-pesce", "mit", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/mit
-    - entities/ar
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
-  - entities/ar
   - entities/mark-pesce
-  - entities/mit
 ---
 # A13_lethal-trifecta.mp4
 
@@ -33,8 +29,6 @@ This recording appears to be a segment from a technology talk or lecture, likely
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/mit]] (MIT)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

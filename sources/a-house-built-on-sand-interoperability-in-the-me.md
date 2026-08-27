@@ -6,28 +6,22 @@ drive_id: 10JNvsVW2VBNV-a1nZ4vqq8_TepPtIwa6
 source_link: https://drive.google.com/file/d/10JNvsVW2VBNV-a1nZ4vqq8_TepPtIwa6/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "git", "mark-pesce", "meta", "metaverse", "virtual-reality", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "meta", "metaverse", "virtual-reality", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/meta
     - entities/vrml
-    - entities/vr
-    - entities/ar
     - entities/metaverse
-    - entities/git
   concepts:
     - concepts/virtual-reality
 related:
   - concepts/virtual-reality
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
   - entities/meta
   - entities/metaverse
-  - entities/vr
   - entities/vrml
 ---
 # A House Built on Sand - Interoperability in the Metaverse.mp4
@@ -43,10 +37,7 @@ In this talk, Mark Pesce, a media and technology commentator and former engineer
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/meta]] (Meta)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 - [[entities/metaverse]] (the Metaverse)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

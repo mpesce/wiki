@@ -6,16 +6,14 @@ drive_id: 1i0qd08k8R--Y-30AJxTtzUvehoz-A-P8
 source_link: https://drive.google.com/file/d/1i0qd08k8R--Y-30AJxTtzUvehoz-A-P8/view?usp=drivesdk
 type: keynote
 date: 2050
-tags: ["apple", "ar", "artificial-intelligence", "collaboration", "education", "git", "mark-pesce", "mozilla", "the-future", "the-future-of-work"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "artificial-intelligence", "collaboration", "education", "mark-pesce", "mozilla", "the-future", "the-future-of-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
@@ -29,8 +27,6 @@ related:
   - concepts/the-future
   - concepts/the-future-of-work
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
   - entities/mozilla
 ---
@@ -47,8 +43,6 @@ This recording features a keynote address by Mark Pesce, a futurist, author, and
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

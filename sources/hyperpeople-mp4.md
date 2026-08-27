@@ -6,30 +6,26 @@ drive_id: 1_iu8PJUmOhLIPg1tMCUip3ETvT-rz2P0
 source_link: https://drive.google.com/file/d/1_iu8PJUmOhLIPg1tMCUip3ETvT-rz2P0/view?usp=drivesdk
 type: interview
 date: 2004
-tags: ["apple", "ar", "broadcast", "mark-pesce", "networks", "peer-to-peer", "the-future", "the-swarm", "trust"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "mark-pesce", "networks", "peer-to-peer", "the-future", "the-swarm", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/trust
     - concepts/networks
     - concepts/peer-to-peer
     - concepts/the-swarm
-    - concepts/broadcast
 related:
-  - concepts/broadcast
   - concepts/networks
   - concepts/peer-to-peer
   - concepts/the-future
   - concepts/the-swarm
   - concepts/trust
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
 ---
 # hyperpeople.mp4
@@ -44,7 +40,6 @@ This recording is a lecture titled "Welcome to the Swarm," delivered by Mark Pes
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
@@ -52,7 +47,6 @@ This recording is a lecture titled "Welcome to the Swarm," delivered by Mark Pes
 - [[concepts/networks]] — Networks
 - [[concepts/peer-to-peer]] — Peer-to-peer
 - [[concepts/the-swarm]] — The swarm
-- [[concepts/broadcast]] — Broadcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

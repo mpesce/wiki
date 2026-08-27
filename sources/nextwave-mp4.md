@@ -6,14 +6,13 @@ drive_id: 13xQzPA1Ks-gYDD9ZQcj7AOnKOkU01V8E
 source_link: https://drive.google.com/file/d/13xQzPA1Ks-gYDD9ZQcj7AOnKOkU01V8E/view?usp=drivesdk
 type: news
 date: 2007
-tags: ["ar", "bbc", "connectivity", "mark-pesce", "networks", "social-media", "twitter"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["bbc", "connectivity", "mark-pesce", "networks", "social-media", "twitter"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/bbc
-    - entities/ar
   concepts:
     - concepts/social-media
     - concepts/twitter
@@ -24,7 +23,6 @@ related:
   - concepts/networks
   - concepts/social-media
   - concepts/twitter
-  - entities/ar
   - entities/bbc
   - entities/mark-pesce
 ---
@@ -40,7 +38,6 @@ This recording is a talk by Mark Pesce, a media and technology commentator, who 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/bbc]] (BBC)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

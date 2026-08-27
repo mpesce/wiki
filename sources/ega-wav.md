@@ -6,15 +6,13 @@ drive_id: 1PWe0Zfc5pLsapDygschAYdZg2wxsGoLv
 source_link: https://drive.google.com/file/d/1PWe0Zfc5pLsapDygschAYdZg2wxsGoLv/view?usp=drivesdk
 type: interview
 date: 2017
-tags: ["ar", "artificial-intelligence", "commons", "facebook", "git", "mark-pesce", "networks", "social-media", "surveillance", "surveillance-capitalism"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "commons", "facebook", "mark-pesce", "networks", "social-media", "surveillance", "surveillance-capitalism"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-media
     - concepts/surveillance
@@ -29,9 +27,7 @@ related:
   - concepts/social-media
   - concepts/surveillance
   - concepts/surveillance-capitalism
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
 ---
 # EGA.wav
@@ -46,8 +42,6 @@ This recording captures a talk by Mark Pesce at the Electronic Frontier Australi
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

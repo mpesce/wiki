@@ -6,18 +6,16 @@ drive_id: 1OvAkZa_HgbyVPEoX6zjkSzehpyuBEzJa
 source_link: https://drive.google.com/file/d/1OvAkZa_HgbyVPEoX6zjkSzehpyuBEzJa/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "innovation", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["innovation", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/innovation
 related:
   - concepts/innovation
-  - entities/ar
   - entities/mark-pesce
 ---
 # fowf-6Nov10.mp4
@@ -31,7 +29,6 @@ This recording is a talk delivered by Mark Pesce at the Australian Social Innova
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/innovation]] — Innovation

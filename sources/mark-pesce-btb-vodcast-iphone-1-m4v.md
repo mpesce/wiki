@@ -6,19 +6,17 @@ drive_id: 1bp7jBezwx3U_RzMLkb5_wjNOIh49ZwFg
 source_link: https://drive.google.com/file/d/1bp7jBezwx3U_RzMLkb5_wjNOIh49ZwFg/view?usp=drivesdk
 type: panel
 date: 2004
-tags: ["ar", "education", "facebook", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["education", "facebook", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
   concepts:
     - concepts/education
 related:
   - concepts/education
-  - entities/ar
   - entities/facebook
   - entities/mark-pesce
 ---
@@ -34,7 +32,6 @@ This recording is a lecture delivered by Mark Pesce to an audience of educators,
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/education]] — Education

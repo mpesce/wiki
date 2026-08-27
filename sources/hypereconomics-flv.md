@@ -6,30 +6,24 @@ drive_id: 1cOksXAjomQ9UmJChKpvUyBIMtznqlrzn
 source_link: https://drive.google.com/file/d/1cOksXAjomQ9UmJChKpvUyBIMtznqlrzn/view?usp=drivesdk
 type: interview
 date: 2011
-tags: ["apple", "ar", "bitcoin", "broadcast", "connectivity", "mark-pesce", "the-future", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "bitcoin", "connectivity", "mark-pesce", "the-future", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/vrml
-    - entities/vr
-    - entities/ar
     - entities/bitcoin
   concepts:
     - concepts/the-future
-    - concepts/broadcast
     - concepts/connectivity
 related:
-  - concepts/broadcast
   - concepts/connectivity
   - concepts/the-future
   - entities/apple
-  - entities/ar
   - entities/bitcoin
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # hypereconomics.flv
@@ -45,13 +39,10 @@ This recording captures a public lecture and Q&A session delivered by Mark Pesce
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 - [[entities/bitcoin]] (Bitcoin)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
-- [[concepts/broadcast]] — Broadcasting
 - [[concepts/connectivity]] — Connectivity
 
 ## Quotes

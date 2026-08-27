@@ -6,14 +6,13 @@ drive_id: 185J2cLTebGjJw5VZkf5SC7Rz1aZamZnl
 source_link: https://drive.google.com/file/d/185J2cLTebGjJw5VZkf5SC7Rz1aZamZnl/view?usp=drivesdk
 type: interview
 date: 2009
-tags: ["abc", "ar", "innovation", "mark-pesce", "peer-to-peer"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "innovation", "mark-pesce", "peer-to-peer"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/abc
-    - entities/ar
   concepts:
     - concepts/peer-to-peer
     - concepts/innovation
@@ -21,7 +20,6 @@ related:
   - concepts/innovation
   - concepts/peer-to-peer
   - entities/abc
-  - entities/ar
   - entities/mark-pesce
 ---
 # Afternoon Live.mov
@@ -36,7 +34,6 @@ This recording is a television interview segment from the ABC program Inventors,
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/peer-to-peer]] — Peer-to-peer

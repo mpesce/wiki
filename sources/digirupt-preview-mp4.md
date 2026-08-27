@@ -6,23 +6,19 @@ drive_id: 1EQUvrg0voMKbjpXoVhI3yHFFRjI4DatE
 source_link: https://drive.google.com/file/d/1EQUvrg0voMKbjpXoVhI3yHFFRjI4DatE/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["apple", "ar", "git", "mark-pesce", "mozilla", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "mark-pesce", "mozilla", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
   - entities/mozilla
 ---
@@ -39,8 +35,6 @@ This recording is a keynote speech delivered by a technology commentator in New 
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

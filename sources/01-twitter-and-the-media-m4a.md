@@ -6,13 +6,12 @@ drive_id: 1rsAD8SY8490QCrJ-zblE4tBMZOnA-HxW
 source_link: https://drive.google.com/file/d/1rsAD8SY8490QCrJ-zblE4tBMZOnA-HxW/view?usp=drivesdk
 type: podcast
 date: 2008
-tags: ["ar", "connectivity", "journalism", "mark-pesce", "social-media", "twitter"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["connectivity", "journalism", "mark-pesce", "social-media", "twitter"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/social-media
     - concepts/twitter
@@ -23,7 +22,6 @@ related:
   - concepts/journalism
   - concepts/social-media
   - concepts/twitter
-  - entities/ar
   - entities/mark-pesce
 ---
 # 01 Twitter and the Media.m4a
@@ -37,7 +35,6 @@ This recording is a talk by Mark Pesce, a media and technology commentator, disc
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

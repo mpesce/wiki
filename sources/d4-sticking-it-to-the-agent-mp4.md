@@ -6,16 +6,16 @@ drive_id: 1RKEfVnK12r3gg3ADIvzOlMb-vt6n3Gxp
 source_link: https://drive.google.com/file/d/1RKEfVnK12r3gg3ADIvzOlMb-vt6n3Gxp/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # D4_sticking-it-to-the-agent.mp4
 
@@ -27,7 +27,7 @@ Clip on his own thinking: you now have an immutable, auditable record of the age
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

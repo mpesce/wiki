@@ -6,16 +6,15 @@ drive_id: 1Pa1o4oRFrt9djhcAXT5KtQVaGBsGrAFq
 source_link: https://drive.google.com/file/d/1Pa1o4oRFrt9djhcAXT5KtQVaGBsGrAFq/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["3d", "ar", "communication", "mark-pesce", "virtual-reality", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "communication", "mark-pesce", "virtual-reality", "vr", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vrml
     - entities/3d
     - entities/vr
-    - entities/ar
   concepts:
     - concepts/virtual-reality
     - concepts/communication
@@ -23,7 +22,6 @@ related:
   - concepts/communication
   - concepts/virtual-reality
   - entities/3d
-  - entities/ar
   - entities/mark-pesce
   - entities/vr
   - entities/vrml
@@ -42,7 +40,6 @@ This recording is a talk by Mark Pesce discussing the development and implicatio
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
 - [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

@@ -6,24 +6,20 @@ drive_id: 1aNZYo0uikw2JXotc9gvDPBzfygAsrof7
 source_link: https://drive.google.com/file/d/1aNZYo0uikw2JXotc9gvDPBzfygAsrof7/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "chatgpt", "education", "mark-pesce", "vr", "vrml"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["chatgpt", "education", "mark-pesce", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vrml
-    - entities/vr
-    - entities/ar
     - entities/chatgpt
   concepts:
     - concepts/education
 related:
   - concepts/education
-  - entities/ar
   - entities/chatgpt
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # Facing the Machine IBSUniversity 27Jun25.mp4
@@ -38,8 +34,6 @@ This recording is a lecture delivered by Mark Pesce to an audience of tertiary e
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 - [[entities/chatgpt]] (ChatGPT)
 
 ## Related Concepts

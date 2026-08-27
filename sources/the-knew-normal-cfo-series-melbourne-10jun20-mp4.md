@@ -6,14 +6,12 @@ drive_id: 1WYIAS9Texv_BbWS-5Bll5dsZ2HuJPUBO
 source_link: https://drive.google.com/file/d/1WYIAS9Texv_BbWS-5Bll5dsZ2HuJPUBO/view?usp=drivesdk
 type: podcast
 date: 2020
-tags: ["apple", "ar", "git", "podcast", "remote-work"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["apple", "podcast", "remote-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/apple
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/podcast
     - concepts/remote-work
@@ -21,8 +19,6 @@ related:
   - concepts/podcast
   - concepts/remote-work
   - entities/apple
-  - entities/ar
-  - entities/git
 ---
 # The Knew Normal CFO Series Melbourne 10Jun20.mp4
 
@@ -35,8 +31,6 @@ This recording is a business presentation or talk delivered by a futurist and ho
 
 ## Named Entities
 - [[entities/apple]] (Apple)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/podcast]] — Podcasting

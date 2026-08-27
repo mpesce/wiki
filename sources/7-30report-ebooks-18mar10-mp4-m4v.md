@@ -6,20 +6,16 @@ drive_id: 1WXDoup0Bv60lRbFj71UmzOvr9uuQ2fIi
 source_link: https://drive.google.com/file/d/1WXDoup0Bv60lRbFj71UmzOvr9uuQ2fIi/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["apple", "ar", "git"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/apple
-    - entities/ar
-    - entities/git
   concepts:
     - (none)
 related:
   - entities/apple
-  - entities/ar
-  - entities/git
 ---
 # 7-30Report-eBooks-18Mar10.mp4.m4v
 
@@ -32,8 +28,6 @@ This recording is a news report by Deb Cornwall examining the rapid adoption of 
 
 ## Named Entities
 - [[entities/apple]] (Apple)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - (none identified)

@@ -6,21 +6,17 @@ drive_id: 12YzNJg-L8byG6RTiTQl7CTlKra8LUERq
 source_link: https://drive.google.com/file/d/12YzNJg-L8byG6RTiTQl7CTlKra8LUERq/view?usp=drivesdk
 type: webinar
 date: unknown
-tags: ["ar", "mark-pesce", "meta", "networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/ar
   concepts:
     - concepts/networks
 related:
   - concepts/networks
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # Sunday.mp3
 
@@ -33,8 +29,6 @@ This recording captures a group discussion session from a seminar, likely held a
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/networks]] — Networks

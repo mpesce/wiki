@@ -6,23 +6,19 @@ drive_id: 1GIJBztqNTyIRDgDCeYhyN5GDD01BY5u4
 source_link: https://drive.google.com/file/d/1GIJBztqNTyIRDgDCeYhyN5GDD01BY5u4/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "mark-pesce", "meta", "participation", "trust"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "participation", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/ar
   concepts:
     - concepts/trust
     - concepts/participation
 related:
   - concepts/participation
   - concepts/trust
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # 2-01 The Future of Contemporary Art.mp3
 
@@ -35,8 +31,6 @@ This recording is a talk by Mark Pesce, delivered as part of a program that also
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust

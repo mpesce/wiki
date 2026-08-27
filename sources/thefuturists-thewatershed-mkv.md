@@ -6,13 +6,12 @@ drive_id: 1FmjzlwbjbAaZPaeo1mJUP5_eQ2IqduPh
 source_link: https://drive.google.com/file/d/1FmjzlwbjbAaZPaeo1mJUP5_eQ2IqduPh/view?usp=drivesdk
 type: interview
 date: 2022
-tags: ["ar", "artificial-intelligence", "chatgpt", "mark-pesce", "podcast", "the-future", "verification-design"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["artificial-intelligence", "chatgpt", "mark-pesce", "podcast", "the-future", "verification-design"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
     - entities/chatgpt
   concepts:
     - concepts/verification-design
@@ -24,7 +23,6 @@ related:
   - concepts/podcast
   - concepts/the-future
   - concepts/verification-design
-  - entities/ar
   - entities/chatgpt
   - entities/mark-pesce
 ---
@@ -39,7 +37,6 @@ This recording is an episode of the podcast The Futurists, featuring host Rob Te
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 - [[entities/chatgpt]] (ChatGPT)
 
 ## Related Concepts

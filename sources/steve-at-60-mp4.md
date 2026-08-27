@@ -6,17 +6,15 @@ drive_id: 1GPlLtw7yznHYHUmJVKCJz3VMJHG4ctGN
 source_link: https://drive.google.com/file/d/1GPlLtw7yznHYHUmJVKCJz3VMJHG4ctGN/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
 ---
 # Steve at 60.mp4
@@ -30,7 +28,6 @@ The provided transcript consists almost entirely of repetitive, nonsensical phra
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

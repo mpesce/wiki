@@ -6,15 +6,13 @@ drive_id: 1qdr6V734_FvWtX0etUmudQeeObBiLibG
 source_link: https://drive.google.com/file/d/1qdr6V734_FvWtX0etUmudQeeObBiLibG/view?usp=drivesdk
 type: keynote
 date: 1993
-tags: ["apple", "ar", "communication", "git", "innovation", "mark-pesce", "participation", "the-future"]
-created: 2026-08-26T10:40:11Z
-last_updated: 2026-08-26T10:40:11Z
+tags: ["apple", "communication", "innovation", "mark-pesce", "participation", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/innovation
@@ -26,8 +24,6 @@ related:
   - concepts/participation
   - concepts/the-future
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # dense-and-thick.mp4
@@ -42,8 +38,6 @@ This recording is the closing keynote address delivered by Mark Pesce at the Web
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

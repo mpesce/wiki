@@ -6,16 +6,14 @@ drive_id: 1Yx54f9lAe9V8w8XqK9y1BiFD_JYVarPQ
 source_link: https://drive.google.com/file/d/1Yx54f9lAe9V8w8XqK9y1BiFD_JYVarPQ/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["abc", "apple", "ar", "git", "google", "networks", "surveillance", "trust"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "apple", "google", "networks", "surveillance", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/apple
     - entities/google
     - entities/abc
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/surveillance
     - concepts/trust
@@ -26,8 +24,6 @@ related:
   - concepts/trust
   - entities/abc
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/google
 ---
 # lms_20170505_0906 families privacy.mp3
@@ -43,8 +39,6 @@ This recording is a segment from the ABC Radio National program Life Matters, fe
 - [[entities/apple]] (Apple)
 - [[entities/google]] (Google)
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

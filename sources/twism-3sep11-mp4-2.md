@@ -6,17 +6,16 @@ drive_id: 1VJG1XGHl_dpjfO97raYIVVOa7M2VmAo0
 source_link: https://drive.google.com/file/d/1VJG1XGHl_dpjfO97raYIVVOa7M2VmAo0/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "identity"]
-created: 2026-08-26T11:01:33Z
-last_updated: 2026-08-26T11:01:33Z
+tags: ["identity"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/identity
 related:
   - concepts/identity
-  - entities/ar
 ---
 # TWiSM-3Sep11.mp4
 
@@ -28,7 +27,7 @@ This recording is a short audio advertisement or promotional clip for WikiLeaks.
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/identity]] — Identity

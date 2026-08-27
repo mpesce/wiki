@@ -6,22 +6,20 @@ drive_id: 1Bzx1cfLNCH1G-vXc7Y2-6eDLYczrZoUq
 source_link: https://drive.google.com/file/d/1Bzx1cfLNCH1G-vXc7Y2-6eDLYczrZoUq/view?usp=drivesdk
 type: podcast
 date: unknown
-tags: ["ar", "broadcast", "google", "mark-pesce", "microsoft", "open-source"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["broadcast", "google", "mark-pesce", "microsoft", "open-source"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
     - entities/microsoft
-    - entities/ar
   concepts:
     - concepts/open-source
     - concepts/broadcast
 related:
   - concepts/broadcast
   - concepts/open-source
-  - entities/ar
   - entities/google
   - entities/mark-pesce
   - entities/microsoft
@@ -39,7 +37,6 @@ This recording is an episode of the Australian radio program Hack, hosted by Kat
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
 - [[entities/microsoft]] (Microsoft)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/open-source]] — Open source

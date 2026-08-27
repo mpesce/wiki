@@ -6,14 +6,13 @@ drive_id: 1sppkytZR3H29e1cMrerUqOJtKXDEfBTO
 source_link: https://drive.google.com/file/d/1sppkytZR3H29e1cMrerUqOJtKXDEfBTO/view?usp=drivesdk
 type: lecture
 date: 2033
-tags: ["ar", "artificial-intelligence", "education", "google", "mark-pesce", "networks", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "education", "google", "mark-pesce", "networks", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
@@ -24,7 +23,6 @@ related:
   - concepts/education
   - concepts/networks
   - concepts/the-future
-  - entities/ar
   - entities/google
   - entities/mark-pesce
 ---
@@ -40,7 +38,6 @@ This recording is a talk by Mark Pesce, a media and technology commentator, deli
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

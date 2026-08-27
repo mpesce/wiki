@@ -6,9 +6,9 @@ drive_id: 1qH3gCJOzg3xsYBV3wFwDDD_Nij9e8aEE
 source_link: https://drive.google.com/file/d/1qH3gCJOzg3xsYBV3wFwDDD_Nij9e8aEE/view?usp=drivesdk
 type: keynote
 date: 1994
-tags: ["3d", "apple", "ar", "artificial-intelligence", "facebook", "mark-pesce", "mozilla", "networks", "podcast", "the-future", "the-future-of-work"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "apple", "artificial-intelligence", "facebook", "mark-pesce", "mozilla", "networks", "podcast", "the-future", "the-future-of-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,7 +16,6 @@ mentions:
     - entities/mozilla
     - entities/facebook
     - entities/3d
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
@@ -31,7 +30,6 @@ related:
   - concepts/the-future-of-work
   - entities/3d
   - entities/apple
-  - entities/ar
   - entities/facebook
   - entities/mark-pesce
   - entities/mozilla
@@ -51,7 +49,6 @@ This recording is a keynote talk delivered by Mark Pesce, a futurist and former 
 - [[entities/mozilla]] (Mozilla)
 - [[entities/facebook]] (Facebook)
 - [[entities/3d]] (3D)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

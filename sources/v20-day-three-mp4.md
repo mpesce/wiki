@@ -6,15 +6,12 @@ drive_id: 1G779J4lWcamaKsdsUdO3-Xy7SY2HzCWT
 source_link: https://drive.google.com/file/d/1G779J4lWcamaKsdsUdO3-Xy7SY2HzCWT/view?usp=drivesdk
 type: panel
 date: 2020
-tags: ["ar", "blockchain", "collaboration", "communication", "git", "identity", "mark-pesce", "trust"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["collaboration", "communication", "identity", "mark-pesce", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/blockchain
-    - entities/git
   concepts:
     - concepts/trust
     - concepts/identity
@@ -25,9 +22,6 @@ related:
   - concepts/communication
   - concepts/identity
   - concepts/trust
-  - entities/ar
-  - entities/blockchain
-  - entities/git
   - entities/mark-pesce
 ---
 # V20 Day Three.mp4
@@ -41,9 +35,6 @@ This recording is the final day of the V20 Summit for 2020, a virtual conference
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/blockchain]] (blockchain)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust

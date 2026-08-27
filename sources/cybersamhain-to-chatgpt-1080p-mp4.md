@@ -6,22 +6,18 @@ drive_id: 1SqswZI9SXYRs8jbgwNlJAOAAl5icYjDg
 source_link: https://drive.google.com/file/d/1SqswZI9SXYRs8jbgwNlJAOAAl5icYjDg/view?usp=drivesdk
 type: lecture
 date: 1959
-tags: ["3d", "ar", "git", "mark-pesce", "mit"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "mark-pesce", "mit"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/mit
     - entities/3d
-    - entities/ar
-    - entities/git
   concepts:
     - (none)
 related:
   - entities/3d
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
   - entities/mit
 ---
@@ -38,8 +34,6 @@ This recording is a talk by Mark Pesce, a media and technology commentator and f
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/mit]] (MIT)
 - [[entities/3d]] (3D)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - (none identified)

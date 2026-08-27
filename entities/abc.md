@@ -3,9 +3,9 @@ kind: entity
 slug: abc
 title: ABC
 tags: ["organization"]
-source_count: 70
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+source_count: 65
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -13,7 +13,7 @@ related:
 # ABC
 
 ## TL;DR
-<70 sources reference ABC. Compile the one-line synthesis from the sources below.>
+<65 sources reference ABC. Compile the one-line synthesis from the sources below.>
 
 ## Overview
 <Compile a cross-source synthesis of ABC. What is consistent and what changed over time.>
@@ -33,9 +33,9 @@ related:
 - [[sources/nightlife-twitter-11mar09-mp3]] — nightlife-twitter-11Mar09.mp3
 - [[sources/the-new-inventors-20090204200000-mp4]] — The New Inventors-20090204200000.mp4
 - [[sources/afternoon-live-mov]] — Afternoon Live.mov
+- [[sources/afternoon-live-mov-2]] — Afternoon Live.mov
 - [[sources/the-new-inventors-20091125200000-mp4]] — The New Inventors-20091125200000.mp4
 - [[sources/0000000014d901d3-mpg]] — 0000000014d901d3.mpg
-- [[sources/afternoon-live-mov-2]] — Afternoon Live.mov
 - [[sources/sea-20100130-0730-mp3]] — sea_20100130_0730.mp3
 - [[sources/guestroom-futurist-mark-pesce-1-mp3]] — Guestroom - Futurist Mark Pesce (1).mp3
 - [[sources/guestroom-futurist-mark-pesce-mp3]] — Guestroom - Futurist Mark Pesce.mp3
@@ -49,7 +49,6 @@ related:
 - [[sources/smarter-money-19oct16-mp3]] — Smarter Money 19Oct16.mp3
 - [[sources/the-new-inventors-20081112200000-mp4]] — The New Inventors-20081112200000.mp4
 - [[sources/the-new-inventors-20071107200000-mp4]] — The New Inventors-20071107200000.mp4
-- [[sources/the-new-inventors-20090520200000-mp4]] — The New Inventors-20090520200000.mp4
 - [[sources/the-new-inventors-20090325200000-mp4]] — The New Inventors-20090325200000.mp4
 - [[sources/the-new-inventors-20090826200000-mp4]] — The New Inventors-20090826200000.mp4
 - [[sources/the-new-inventors-20090819200000-mp4]] — The New Inventors-20090819200000.mp4
@@ -58,19 +57,15 @@ related:
 - [[sources/the-new-inventors-20090211200000-mp4]] — The New Inventors-20090211200000.mp4
 - [[sources/the-new-inventors-20071031200000-mp4]] — The New Inventors-20071031200000.mp4
 - [[sources/the-new-inventors-20081022200000-mp4]] — The New Inventors-20081022200000.mp4
-- [[sources/the-new-inventors-20090729200000-mp4]] — The New Inventors-20090729200000.mp4
 - [[sources/the-new-inventors-20090715200000-mp4]] — The New Inventors-20090715200000.mp4
 - [[sources/the-new-inventors-20091028200000-mp4]] — The New Inventors-20091028200000.mp4
 - [[sources/the-new-inventors-20090805200000-mp4]] — The New Inventors-20090805200000.mp4
-- [[sources/the-new-inventors-20081105200000-mp4]] — The New Inventors-20081105200000.mp4
 - [[sources/the-new-inventors-20090513200000-mp4]] — The New Inventors-20090513200000.mp4
 - [[sources/the-new-inventors-20090311200000-mp4]] — The New Inventors-20090311200000.mp4
 - [[sources/the-new-inventors-20090429200000-mp4]] — The New Inventors-20090429200000.mp4
 - [[sources/the-new-inventors-20081001200000-mp4]] — The New Inventors-20081001200000.mp4
 - [[sources/the-new-inventors-20090225200000-mp4]] — The New Inventors-20090225200000.mp4
 - [[sources/the-new-inventors-20090304200000-mp4]] — The New Inventors-20090304200000.mp4
-- [[sources/the-new-inventors-20091007200000-mp4]] — The New Inventors-20091007200000.mp4
-- [[sources/the-new-inventors-20081015200000-mp4]] — The New Inventors-20081015200000.mp4
 - [[sources/the-new-inventors-20090722200000-mp4]] — The New Inventors-20090722200000.mp4
 - [[sources/the-new-inventors-20090218200000-mp4]] — The New Inventors-20090218200000.mp4
 - [[sources/the-new-inventors-20071120200000-mp4]] — The New Inventors-20071120200000.mp4
@@ -118,9 +113,9 @@ related:
 - [[sources/nightlife-twitter-11mar09-mp3]]
 - [[sources/the-new-inventors-20090204200000-mp4]]
 - [[sources/afternoon-live-mov]]
+- [[sources/afternoon-live-mov-2]]
 - [[sources/the-new-inventors-20091125200000-mp4]]
 - [[sources/0000000014d901d3-mpg]]
-- [[sources/afternoon-live-mov-2]]
 - [[sources/sea-20100130-0730-mp3]]
 - [[sources/guestroom-futurist-mark-pesce-1-mp3]]
 - [[sources/guestroom-futurist-mark-pesce-mp3]]
@@ -134,7 +129,6 @@ related:
 - [[sources/smarter-money-19oct16-mp3]]
 - [[sources/the-new-inventors-20081112200000-mp4]]
 - [[sources/the-new-inventors-20071107200000-mp4]]
-- [[sources/the-new-inventors-20090520200000-mp4]]
 - [[sources/the-new-inventors-20090325200000-mp4]]
 - [[sources/the-new-inventors-20090826200000-mp4]]
 - [[sources/the-new-inventors-20090819200000-mp4]]
@@ -143,19 +137,15 @@ related:
 - [[sources/the-new-inventors-20090211200000-mp4]]
 - [[sources/the-new-inventors-20071031200000-mp4]]
 - [[sources/the-new-inventors-20081022200000-mp4]]
-- [[sources/the-new-inventors-20090729200000-mp4]]
 - [[sources/the-new-inventors-20090715200000-mp4]]
 - [[sources/the-new-inventors-20091028200000-mp4]]
 - [[sources/the-new-inventors-20090805200000-mp4]]
-- [[sources/the-new-inventors-20081105200000-mp4]]
 - [[sources/the-new-inventors-20090513200000-mp4]]
 - [[sources/the-new-inventors-20090311200000-mp4]]
 - [[sources/the-new-inventors-20090429200000-mp4]]
 - [[sources/the-new-inventors-20081001200000-mp4]]
 - [[sources/the-new-inventors-20090225200000-mp4]]
 - [[sources/the-new-inventors-20090304200000-mp4]]
-- [[sources/the-new-inventors-20091007200000-mp4]]
-- [[sources/the-new-inventors-20081015200000-mp4]]
 - [[sources/the-new-inventors-20090722200000-mp4]]
 - [[sources/the-new-inventors-20090218200000-mp4]]
 - [[sources/the-new-inventors-20071120200000-mp4]]

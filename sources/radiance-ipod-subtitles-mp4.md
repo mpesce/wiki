@@ -6,17 +6,16 @@ drive_id: 14f_hwWopxRP0rv2LKyaZI0JvjvsJ2ok5
 source_link: https://drive.google.com/file/d/14f_hwWopxRP0rv2LKyaZI0JvjvsJ2ok5/view?usp=drivesdk
 type: talk
 date: unknown
-tags: ["ar", "narrative"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/narrative
 related:
   - concepts/narrative
-  - entities/ar
 ---
 # Radiance-iPod-Subtitles.mp4
 
@@ -28,7 +27,7 @@ The provided transcript consists entirely of music playing, with no spoken words
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/narrative]] — Narrative

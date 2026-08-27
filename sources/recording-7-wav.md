@@ -6,18 +6,16 @@ drive_id: 1ViFTZB-AxsBCszsCwN1biYB3UtzEJ41S
 source_link: https://drive.google.com/file/d/1ViFTZB-AxsBCszsCwN1biYB3UtzEJ41S/view?usp=drivesdk
 type: podcast
 date: 2050
-tags: ["ar", "mark-pesce", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
-  - entities/ar
   - entities/mark-pesce
 ---
 # Recording 7.wav
@@ -31,7 +29,6 @@ This recording is a talk titled "Property Over the Next Billion Seconds" deliver
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

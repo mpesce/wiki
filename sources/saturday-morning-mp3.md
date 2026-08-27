@@ -6,29 +6,19 @@ drive_id: 1JPjF9V_91I4m7ZGJo9e6ZC00rixV68fI
 source_link: https://drive.google.com/file/d/1JPjF9V_91I4m7ZGJo9e6ZC00rixV68fI/view?usp=drivesdk
 type: news
 date: 1996
-tags: ["ar", "attention", "communication", "innovation", "mark-pesce", "meta", "narrative", "open-source"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["attention", "mark-pesce", "open-source"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/ar
   concepts:
     - concepts/attention
     - concepts/open-source
-    - concepts/narrative
-    - concepts/innovation
-    - concepts/communication
 related:
   - concepts/attention
-  - concepts/communication
-  - concepts/innovation
-  - concepts/narrative
   - concepts/open-source
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # Saturday Morning.mp3
 
@@ -41,15 +31,10 @@ This recording is a talk and subsequent open discussion led by Mark Pesce, a med
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/attention]] — Attention
 - [[concepts/open-source]] — Open source
-- [[concepts/narrative]] — Narrative
-- [[concepts/innovation]] — Innovation
-- [[concepts/communication]] — Communication
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

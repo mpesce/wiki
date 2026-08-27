@@ -6,15 +6,14 @@ drive_id: 1dnMRNmqnzWOavrGcGcDREWYbn9WuBiBq
 source_link: https://drive.google.com/file/d/1dnMRNmqnzWOavrGcGcDREWYbn9WuBiBq/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["apple", "ar", "broadcast", "douglas-rushkoff", "mark-pesce", "narrative", "networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "broadcast", "douglas-rushkoff", "mark-pesce", "narrative", "networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/douglas-rushkoff
     - entities/apple
-    - entities/ar
   concepts:
     - concepts/networks
     - concepts/broadcast
@@ -24,7 +23,6 @@ related:
   - concepts/narrative
   - concepts/networks
   - entities/apple
-  - entities/ar
   - entities/douglas-rushkoff
   - entities/mark-pesce
 ---
@@ -41,7 +39,6 @@ This recording is a live broadcast of The Media Squat on WFMU radio, hosted by D
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/douglas-rushkoff]] (Douglas Rushkoff)
 - [[entities/apple]] (Apple)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/networks]] — Networks

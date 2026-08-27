@@ -6,20 +6,16 @@ drive_id: 1iL6Qztb46AB7IVF5R_uWsz04yL9mvM2X
 source_link: https://drive.google.com/file/d/1iL6Qztb46AB7IVF5R_uWsz04yL9mvM2X/view?usp=drivesdk
 type: lecture
 date: 2019
-tags: ["apple", "ar", "git"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/apple
-    - entities/ar
-    - entities/git
   concepts:
     - (none)
 related:
   - entities/apple
-  - entities/ar
-  - entities/git
 ---
 # NEW MONEY ASX Illuminate 10Oct19.mp3
 
@@ -32,8 +28,6 @@ Talk on 'new money' at the ASX Illuminate event (10 Oct 2019). 'Money is changin
 
 ## Named Entities
 - [[entities/apple]] (Apple)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - (none identified)

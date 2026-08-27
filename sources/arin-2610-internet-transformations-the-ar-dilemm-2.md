@@ -6,19 +6,17 @@ drive_id: 1YfhzxPxHEo_18awMvzBkp1A_SZZuFF_G
 source_link: https://drive.google.com/file/d/1YfhzxPxHEo_18awMvzBkp1A_SZZuFF_G/view?usp=drivesdk
 type: news
 date: 1994
-tags: ["3d", "apple", "ar", "facebook", "git", "google", "mark-pesce", "meta", "surveillance", "virtual-reality"]
-created: 2026-08-26T11:01:33Z
-last_updated: 2026-08-26T11:01:33Z
+tags: ["3d", "apple", "ar", "facebook", "google", "mark-pesce", "surveillance", "virtual-reality"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/google
     - entities/facebook
-    - entities/meta
     - entities/3d
     - entities/ar
-    - entities/git
   concepts:
     - concepts/virtual-reality
     - concepts/surveillance
@@ -29,10 +27,8 @@ related:
   - entities/apple
   - entities/ar
   - entities/facebook
-  - entities/git
   - entities/google
   - entities/mark-pesce
-  - entities/meta
 ---
 # ARIN 2610 Internet Transformations The AR Dilemmas 5Oct21 1080p.mp4
 
@@ -48,10 +44,8 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 - [[entities/apple]] (Apple)
 - [[entities/google]] (Google)
 - [[entities/facebook]] (Facebook)
-- [[entities/meta]] (Meta)
 - [[entities/3d]] (3D)
 - [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

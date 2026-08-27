@@ -6,13 +6,12 @@ drive_id: 14pVs93vGXoG42Md92JrVn9PQi-hrZk7Q
 source_link: https://drive.google.com/file/d/14pVs93vGXoG42Md92JrVn9PQi-hrZk7Q/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "broadcast", "communication", "identity", "mark-pesce", "narrative", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["broadcast", "communication", "identity", "mark-pesce", "narrative", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/identity
@@ -25,7 +24,6 @@ related:
   - concepts/identity
   - concepts/narrative
   - concepts/the-future
-  - entities/ar
   - entities/mark-pesce
 ---
 # bt-2.mp4
@@ -39,7 +37,6 @@ This recording is a spoken word performance or monologue set against a backdrop 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

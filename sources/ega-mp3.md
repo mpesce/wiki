@@ -6,16 +6,14 @@ drive_id: 1nxeq9FGgXKcyiePq9OOKVk7sQlYIbvTP
 source_link: https://drive.google.com/file/d/1nxeq9FGgXKcyiePq9OOKVk7sQlYIbvTP/view?usp=drivesdk
 type: interview
 date: 2018
-tags: ["ar", "commons", "facebook", "git", "google", "mark-pesce", "networks", "peer-to-peer", "social-media", "surveillance", "surveillance-capitalism"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["commons", "facebook", "google", "mark-pesce", "networks", "peer-to-peer", "social-media", "surveillance", "surveillance-capitalism"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-media
     - concepts/surveillance
@@ -30,9 +28,7 @@ related:
   - concepts/social-media
   - concepts/surveillance
   - concepts/surveillance-capitalism
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/google
   - entities/mark-pesce
 ---
@@ -49,8 +45,6 @@ This recording is a talk and subsequent Q&A session by Mark Pesce at the Electro
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

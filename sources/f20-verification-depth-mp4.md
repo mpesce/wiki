@@ -6,19 +6,18 @@ drive_id: 1V2XpCAFk4hJY77gwtwlmSK6qFm4NyRRD
 source_link: https://drive.google.com/file/d/1V2XpCAFk4hJY77gwtwlmSK6qFm4NyRRD/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "broadcast", "narrative"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["broadcast", "narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/broadcast
     - concepts/narrative
 related:
   - concepts/broadcast
   - concepts/narrative
-  - entities/ar
 ---
 # F20_verification-depth.mp4
 
@@ -30,7 +29,7 @@ The provided transcript is a single, isolated sentence discussing organizational
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

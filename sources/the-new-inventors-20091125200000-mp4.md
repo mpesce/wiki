@@ -6,19 +6,17 @@ drive_id: 111xwzLjbKOKqSQKRc6QYuu5f07xAGBqF
 source_link: https://drive.google.com/file/d/111xwzLjbKOKqSQKRc6QYuu5f07xAGBqF/view?usp=drivesdk
 type: podcast
 date: 2009
-tags: ["abc", "ar", "broadcast"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "broadcast"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/abc
-    - entities/ar
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
   - entities/abc
-  - entities/ar
 ---
 # The New Inventors-20091125200000.mp4
 
@@ -31,7 +29,6 @@ This recording is the broadcast of the 2009 New Inventors Grand Final, an Austra
 
 ## Named Entities
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

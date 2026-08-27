@@ -6,15 +6,13 @@ drive_id: 1jfY0KtMSRcj3tABhPjHFFx5zy7a-VsOa
 source_link: https://drive.google.com/file/d/1jfY0KtMSRcj3tABhPjHFFx5zy7a-VsOa/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "connectivity", "facebook", "git", "mark-pesce", "podcast", "surveillance", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["connectivity", "facebook", "mark-pesce", "podcast", "surveillance", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/surveillance
@@ -25,9 +23,7 @@ related:
   - concepts/podcast
   - concepts/surveillance
   - concepts/the-future
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
 ---
 # Mark Pesce interview 9Dec20.mp3
@@ -42,8 +38,6 @@ This recording is a podcast interview featuring host Jon and guest Mark Pesce, w
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

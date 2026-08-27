@@ -6,18 +6,16 @@ drive_id: 1KSvbfyc7jj7AVJEDbjVQ-86sRiDFDx57
 source_link: https://drive.google.com/file/d/1KSvbfyc7jj7AVJEDbjVQ-86sRiDFDx57/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "mit"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/mit
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
-  - entities/mit
+  - (none)
 ---
 # The New Inventors-20070314195900.mp4
 
@@ -29,8 +27,7 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
-- [[entities/mit]] (MIT)
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

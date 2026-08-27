@@ -6,19 +6,18 @@ drive_id: 1souFuQNDu3t2Hiec0oFtLS6xD3h53uI3
 source_link: https://drive.google.com/file/d/1souFuQNDu3t2Hiec0oFtLS6xD3h53uI3/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "networks", "social-networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["networks", "social-networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/social-networks
     - concepts/networks
 related:
   - concepts/networks
   - concepts/social-networks
-  - entities/ar
 ---
 # 3-02 Socio-ability_ Reinventing the Mobile Phone.mp3
 
@@ -30,7 +29,7 @@ Three-part talk: (1) social networks, (2) mobiles, (3) bringing the two strands 
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks

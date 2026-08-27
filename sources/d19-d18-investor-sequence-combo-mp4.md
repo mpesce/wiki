@@ -6,20 +6,18 @@ drive_id: 1i6ABscGcAyhc_pYGe5CAkU648d6xGseK
 source_link: https://drive.google.com/file/d/1i6ABscGcAyhc_pYGe5CAkU648d6xGseK/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "artificial-intelligence", "mark-pesce", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
 related:
   - concepts/artificial-intelligence
   - concepts/the-future
-  - entities/ar
   - entities/mark-pesce
 ---
 # D19-D18_investor-sequence-combo.mp4
@@ -33,7 +31,6 @@ This recording is a short commentary or interview segment featuring Mark Pesce, 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

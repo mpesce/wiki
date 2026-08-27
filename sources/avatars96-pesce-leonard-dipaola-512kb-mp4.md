@@ -6,18 +6,14 @@ drive_id: 1s5CauTa-YPDFWfOAJ-7ZJ0XbTHQlFcjj
 source_link: https://drive.google.com/file/d/1s5CauTa-YPDFWfOAJ-7ZJ0XbTHQlFcjj/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["3d", "ar", "communication", "creators", "git", "identity", "mark-pesce", "meta", "surveillance", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "communication", "creators", "identity", "mark-pesce", "surveillance", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
     - entities/vrml
     - entities/3d
-    - entities/vr
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/surveillance
     - concepts/identity
@@ -29,11 +25,7 @@ related:
   - concepts/identity
   - concepts/surveillance
   - entities/3d
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
-  - entities/meta
-  - entities/vr
   - entities/vrml
 ---
 # avatars96-pesce-leonard-dipaola_512kb.mp4
@@ -47,12 +39,8 @@ This recording captures a panel discussion from an Avatar conference, featuring 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

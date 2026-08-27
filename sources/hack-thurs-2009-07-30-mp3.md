@@ -6,15 +6,14 @@ drive_id: 15qAJg_kdrwEMCfq8Jx8-bi94fQTmFN9W
 source_link: https://drive.google.com/file/d/15qAJg_kdrwEMCfq8Jx8-bi94fQTmFN9W/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "broadcast", "google", "mark-pesce", "microsoft", "social-media", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["broadcast", "google", "mark-pesce", "microsoft", "social-media", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
     - entities/microsoft
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/social-media
@@ -23,7 +22,6 @@ related:
   - concepts/broadcast
   - concepts/social-media
   - concepts/the-future
-  - entities/ar
   - entities/google
   - entities/mark-pesce
   - entities/microsoft
@@ -41,7 +39,6 @@ This recording is an episode of the Australian radio program Hack, hosted by Kat
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
 - [[entities/microsoft]] (Microsoft)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

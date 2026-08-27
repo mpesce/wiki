@@ -6,17 +6,15 @@ drive_id: 120xRAo43623EnNYZ-iXjRK24jQyQMxtG
 source_link: https://drive.google.com/file/d/120xRAo43623EnNYZ-iXjRK24jQyQMxtG/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar", "meta"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["meta"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/meta
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/meta
 ---
 # F5_barbell-vacuum-cleaners.mp4
@@ -30,7 +28,6 @@ Clip on a 'barbell-shaped market in cognition' emerging over the last ~60 days. 
 
 ## Named Entities
 - [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

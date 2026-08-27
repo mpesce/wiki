@@ -6,16 +6,15 @@ drive_id: 1FSON5dr5pXhOv9WlmnKd2aT3bC8DSogN
 source_link: https://drive.google.com/file/d/1FSON5dr5pXhOv9WlmnKd2aT3bC8DSogN/view?usp=drivesdk
 type: podcast
 date: 1993
-tags: ["3d", "ar", "collaboration", "mark-pesce", "virtual-reality", "vr", "vrml"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["3d", "collaboration", "mark-pesce", "virtual-reality", "vr", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vrml
     - entities/3d
     - entities/vr
-    - entities/ar
   concepts:
     - concepts/virtual-reality
     - concepts/collaboration
@@ -23,7 +22,6 @@ related:
   - concepts/collaboration
   - concepts/virtual-reality
   - entities/3d
-  - entities/ar
   - entities/mark-pesce
   - entities/vr
   - entities/vrml
@@ -42,7 +40,6 @@ This recording is a talk delivered by Mark Pesce, a pioneer in consumer virtual 
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
 - [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

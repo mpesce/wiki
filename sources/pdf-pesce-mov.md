@@ -6,20 +6,18 @@ drive_id: 1C_5DAvm9L2w4nmlXkPykhhVciDC9WarV
 source_link: https://drive.google.com/file/d/1C_5DAvm9L2w4nmlXkPykhhVciDC9WarV/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "connectivity", "mark-pesce", "networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["connectivity", "mark-pesce", "networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/networks
     - concepts/connectivity
 related:
   - concepts/connectivity
   - concepts/networks
-  - entities/ar
   - entities/mark-pesce
 ---
 # Pdf-Pesce.mov
@@ -33,7 +31,6 @@ This recording is a talk by Mark Pesce, a media and technology commentator, deli
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/networks]] — Networks

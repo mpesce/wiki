@@ -6,15 +6,14 @@ drive_id: 1GRaX7Bv80JkX92uds1QwHUPSnlL9gUSF
 source_link: https://drive.google.com/file/d/1GRaX7Bv80JkX92uds1QwHUPSnlL9gUSF/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["apple", "ar", "artificial-intelligence", "chatgpt", "education", "mark-pesce", "mozilla", "narrative", "podcast"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "artificial-intelligence", "chatgpt", "education", "mark-pesce", "mozilla", "narrative", "podcast"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
-    - entities/ar
     - entities/chatgpt
   concepts:
     - concepts/artificial-intelligence
@@ -27,7 +26,6 @@ related:
   - concepts/narrative
   - concepts/podcast
   - entities/apple
-  - entities/ar
   - entities/chatgpt
   - entities/mark-pesce
   - entities/mozilla
@@ -45,7 +43,6 @@ This recording is an episode of the podcast The Futurist, hosted by Rob Tercek, 
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/ar]] (AR)
 - [[entities/chatgpt]] (ChatGPT)
 
 ## Related Concepts

@@ -6,21 +6,17 @@ drive_id: 1ENqijCF-2S0iNX-wXdZdSbeyJbUX8jZN
 source_link: https://drive.google.com/file/d/1ENqijCF-2S0iNX-wXdZdSbeyJbUX8jZN/view?usp=drivesdk
 type: lecture
 date: 2035
-tags: ["ar", "mark-pesce", "meta", "metaverse"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "metaverse"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/ar
     - entities/metaverse
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
   - entities/metaverse
 ---
 # Introduction and how it happened.mp4
@@ -34,8 +30,6 @@ This recording is a talk delivered by Mark Pesce, an author, researcher, enginee
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 - [[entities/metaverse]] (the Metaverse)
 
 ## Related Concepts

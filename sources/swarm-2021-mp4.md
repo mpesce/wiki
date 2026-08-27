@@ -6,32 +6,24 @@ drive_id: 1tdnzuQ2rhrxSmyew7xgeUrrFgMDupdl8
 source_link: https://drive.google.com/file/d/1tdnzuQ2rhrxSmyew7xgeUrrFgMDupdl8/view?usp=drivesdk
 type: interview
 date: 1981
-tags: ["ar", "facebook", "git", "mark-pesce", "meta", "metaverse", "the-future", "virtual-reality", "vr", "vrml"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["facebook", "mark-pesce", "metaverse", "the-future", "virtual-reality", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/meta
     - entities/vrml
-    - entities/vr
-    - entities/ar
     - entities/metaverse
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/virtual-reality
 related:
   - concepts/the-future
   - concepts/virtual-reality
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
-  - entities/meta
   - entities/metaverse
-  - entities/vr
   - entities/vrml
 ---
 # Swarm 2021.mp4
@@ -46,12 +38,8 @@ This recording is an interview with Mark Pesce, a veteran of the virtual reality
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/meta]] (Meta)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 - [[entities/metaverse]] (the Metaverse)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

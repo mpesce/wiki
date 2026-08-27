@@ -6,12 +6,12 @@ drive_id: 1-fekxJ7yWjTDFJt36S7TEGN__jVMQNW_
 source_link: https://drive.google.com/file/d/1-fekxJ7yWjTDFJt36S7TEGN__jVMQNW_/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["ar", "artificial-intelligence", "innovation", "open-source", "social-media"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "innovation", "open-source", "social-media"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/social-media
     - concepts/artificial-intelligence
@@ -22,7 +22,6 @@ related:
   - concepts/innovation
   - concepts/open-source
   - concepts/social-media
-  - entities/ar
 ---
 # OzWater 9May18.mp3
 
@@ -34,7 +33,7 @@ This recording is a keynote address delivered by a futurist, likely at a water i
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

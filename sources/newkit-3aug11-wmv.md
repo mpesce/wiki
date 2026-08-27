@@ -6,14 +6,12 @@ drive_id: 16eNiHE6IueVLEzqCuDUuNHFThtyVGXfw
 source_link: https://drive.google.com/file/d/16eNiHE6IueVLEzqCuDUuNHFThtyVGXfw/view?usp=drivesdk
 type: workshop
 date: 2011
-tags: ["ar", "connectivity", "git", "mark-pesce", "networks", "social-media", "social-networks"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["connectivity", "mark-pesce", "networks", "social-media", "social-networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-media
     - concepts/social-networks
@@ -24,8 +22,6 @@ related:
   - concepts/networks
   - concepts/social-media
   - concepts/social-networks
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # NewKit-3Aug11.wmv
@@ -39,8 +35,6 @@ This recording is a lecture delivered by Mark Pesce, who identifies himself as a
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

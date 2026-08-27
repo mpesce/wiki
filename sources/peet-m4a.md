@@ -6,15 +6,14 @@ drive_id: 16jZufU9V-M9M8CdhfQNR_Pqo95qLY1ZD
 source_link: https://drive.google.com/file/d/16jZufU9V-M9M8CdhfQNR_Pqo95qLY1ZD/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["abc", "ar", "connectivity", "democratization", "facebook", "mark-pesce", "networks", "peer-to-peer", "social-media"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "connectivity", "democratization", "facebook", "mark-pesce", "networks", "peer-to-peer", "social-media"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
     - entities/abc
-    - entities/ar
   concepts:
     - concepts/social-media
     - concepts/networks
@@ -28,7 +27,6 @@ related:
   - concepts/peer-to-peer
   - concepts/social-media
   - entities/abc
-  - entities/ar
   - entities/facebook
   - entities/mark-pesce
 ---
@@ -45,7 +43,6 @@ This recording is a presentation and subsequent Q&A session delivered by Mark Pe
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

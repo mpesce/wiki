@@ -6,17 +6,16 @@ drive_id: 1g3k9206pg8NYBMabLkkQEavXwSEyPQDv
 source_link: https://drive.google.com/file/d/1g3k9206pg8NYBMabLkkQEavXwSEyPQDv/view?usp=drivesdk
 type: podcast
 date: 2035
-tags: ["ar", "the-future"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
-  - entities/ar
 ---
 # Pesce Business On The Edge --Essential 19May21.mp4
 
@@ -28,7 +27,7 @@ This recording is a professional futurist presentation delivered by a speaker to
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

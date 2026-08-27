@@ -6,19 +6,18 @@ drive_id: 1Ke7Q2z-EerrcPaZPQYASv-4pf8UbNT8H
 source_link: https://drive.google.com/file/d/1Ke7Q2z-EerrcPaZPQYASv-4pf8UbNT8H/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "narrative", "verification-design"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["narrative", "verification-design"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/verification-design
     - concepts/narrative
 related:
   - concepts/narrative
   - concepts/verification-design
-  - entities/ar
 ---
 # F18_industry-verification-design.mp4
 
@@ -30,7 +29,7 @@ The provided transcript is a fragmentary excerpt from an audio or video recordin
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/verification-design]] — Verification design

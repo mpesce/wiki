@@ -6,15 +6,13 @@ drive_id: 1l9dYfaDWT3E8CilSk6ZuYjicEhYyFs2H
 source_link: https://drive.google.com/file/d/1l9dYfaDWT3E8CilSk6ZuYjicEhYyFs2H/view?usp=drivesdk
 type: keynote
 date: 2030
-tags: ["ar", "artificial-intelligence", "education", "facebook", "git", "mark-pesce", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "education", "facebook", "mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
@@ -23,9 +21,7 @@ related:
   - concepts/artificial-intelligence
   - concepts/education
   - concepts/the-future
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
 ---
 # Citi.wav
@@ -40,8 +36,6 @@ This recording captures a 35-minute keynote presentation by Mark Pesce, a media 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

@@ -6,15 +6,14 @@ drive_id: 15EAlCx-G_1iWApx3Fb8Wq46kpl73iY4z
 source_link: https://drive.google.com/file/d/15EAlCx-G_1iWApx3Fb8Wq46kpl73iY4z/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["alignment", "apple", "ar", "artificial-intelligence", "broadcast", "mark-pesce", "mozilla"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["alignment", "apple", "artificial-intelligence", "broadcast", "mark-pesce", "mozilla"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
-    - entities/ar
   concepts:
     - concepts/artificial-intelligence
     - concepts/alignment
@@ -24,7 +23,6 @@ related:
   - concepts/artificial-intelligence
   - concepts/broadcast
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
   - entities/mozilla
 ---
@@ -41,7 +39,6 @@ This recording is a brief audio clip featuring a monologue by Mark Pesce, a medi
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

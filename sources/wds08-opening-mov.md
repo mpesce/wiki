@@ -6,18 +6,16 @@ drive_id: 1KfgsEsaskGB514difumn8zsecbFEtZQV
 source_link: https://drive.google.com/file/d/1KfgsEsaskGB514difumn8zsecbFEtZQV/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "broadcast", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["broadcast", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
-  - entities/ar
   - entities/mark-pesce
 ---
 # WDS08-Opening.mov
@@ -31,7 +29,6 @@ This recording consists entirely of background music with no spoken dialogue, na
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

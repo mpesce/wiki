@@ -6,15 +6,13 @@ drive_id: 1uQQiDmQX5Ys3G2CDjyhSDSj9itOS6BJ2
 source_link: https://drive.google.com/file/d/1uQQiDmQX5Ys3G2CDjyhSDSj9itOS6BJ2/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["ar", "collaboration", "communication", "facebook", "git", "javascript", "mark-pesce", "networks", "open-source", "python", "social-media", "social-networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["collaboration", "communication", "facebook", "javascript", "mark-pesce", "networks", "open-source", "python", "social-media", "social-networks", "twitter"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
-    - entities/git
     - entities/javascript
     - entities/python
   concepts:
@@ -33,9 +31,7 @@ related:
   - concepts/social-media
   - concepts/social-networks
   - concepts/twitter
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/javascript
   - entities/mark-pesce
   - entities/python
@@ -52,8 +48,6 @@ This recording is a keynote address delivered by Mark Pesce at the first Python 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 - [[entities/javascript]] (JavaScript)
 - [[entities/python]] (Python)
 

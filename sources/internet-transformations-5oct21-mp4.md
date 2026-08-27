@@ -6,9 +6,9 @@ drive_id: 19noC4qY-GUW77bo4Lp7Ko67oUJ_5PVam
 source_link: https://drive.google.com/file/d/19noC4qY-GUW77bo4Lp7Ko67oUJ_5PVam/view?usp=drivesdk
 type: podcast
 date: 1994
-tags: ["3d", "ar", "facebook", "git", "google", "mark-pesce", "surveillance", "virtual-reality", "vr", "vrml"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["3d", "ar", "facebook", "google", "mark-pesce", "surveillance", "virtual-reality", "vr", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -18,7 +18,6 @@ mentions:
     - entities/3d
     - entities/vr
     - entities/ar
-    - entities/git
   concepts:
     - concepts/virtual-reality
     - concepts/surveillance
@@ -28,7 +27,6 @@ related:
   - entities/3d
   - entities/ar
   - entities/facebook
-  - entities/git
   - entities/google
   - entities/mark-pesce
   - entities/vr
@@ -51,7 +49,6 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 - [[entities/3d]] (3D)
 - [[entities/vr]] (VR)
 - [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

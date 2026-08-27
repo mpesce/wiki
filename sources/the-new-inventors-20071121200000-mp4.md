@@ -6,19 +6,16 @@ drive_id: 1yph9Jhot8wSgEi4cUY3-NEvDM7aNXpli
 source_link: https://drive.google.com/file/d/1yph9Jhot8wSgEi4cUY3-NEvDM7aNXpli/view?usp=drivesdk
 type: interview
 date: 2007
-tags: ["ar", "broadcast", "git"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["broadcast"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
-    - entities/git
+    - (none)
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
-  - entities/ar
-  - entities/git
 ---
 # The New Inventors-20071121200000.mp4
 
@@ -30,8 +27,7 @@ This recording is a transcript from an episode of the Australian television prog
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
+- (none named)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

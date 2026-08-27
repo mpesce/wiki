@@ -6,20 +6,16 @@ drive_id: 1URlqVnFbMYUDyLcSGUuls6wchrCqrG3F
 source_link: https://drive.google.com/file/d/1URlqVnFbMYUDyLcSGUuls6wchrCqrG3F/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["ar", "mark-pesce", "podcast", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
-    - concepts/podcast
 related:
-  - concepts/podcast
   - concepts/the-future
-  - entities/ar
   - entities/mark-pesce
 ---
 # PTAANZ2.mp3
@@ -33,11 +29,9 @@ This recording is a keynote address delivered by Mark Pesce, a futurist and podc
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
-- [[concepts/podcast]] — Podcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

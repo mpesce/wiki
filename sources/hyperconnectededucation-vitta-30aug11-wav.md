@@ -6,13 +6,12 @@ drive_id: 1wS3rZ33ugMK_H89IVY5pBx_8SEV86Ce1
 source_link: https://drive.google.com/file/d/1wS3rZ33ugMK_H89IVY5pBx_8SEV86Ce1/view?usp=drivesdk
 type: workshop
 date: 2011
-tags: ["ar", "collaboration", "communication", "connectivity", "education", "mark-pesce", "peer-to-peer", "surveillance"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["collaboration", "communication", "connectivity", "education", "mark-pesce", "peer-to-peer", "surveillance"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/surveillance
     - concepts/peer-to-peer
@@ -27,7 +26,6 @@ related:
   - concepts/education
   - concepts/peer-to-peer
   - concepts/surveillance
-  - entities/ar
   - entities/mark-pesce
 ---
 # HyperconnectedEducation-VITTA-30Aug11.wav
@@ -41,7 +39,6 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

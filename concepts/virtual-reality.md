@@ -4,8 +4,8 @@ slug: virtual-reality
 title: Virtual reality
 tags: ["concept"]
 source_count: 54
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -63,6 +63,7 @@ related:
 - [[sources/truth-trust-and-story-26jul19-mp3]] — Truth Trust and Story 26Jul19.mp3
 - [[sources/rn-encounter-cyberreligion-22aug10-mp3]] — RN_Encounter_CyberReligion_22Aug10.mp3
 - [[sources/7-30report-3dtv-3jun10-m4v]] — 7_30Report_3DTV_3Jun10.m4v
+- [[sources/7-30report-3dtv-3jun10-m4v-2]] — 7_30Report_3DTV_3Jun10.m4v
 - [[sources/7pm-project-mov]] — 7pm-project.mov
 - [[sources/vr-simulation-future-of-work-mp4]] — VR Simulation future of work.mp4
 - [[sources/ai-and-the-future-of-work-mp4]] — AI and the future of work.mp4
@@ -72,7 +73,6 @@ related:
 - [[sources/a-house-built-on-sand-interoperability-in-the-me]] — A House Built on Sand - Interoperability in the Metaverse.mp4
 - [[sources/iv-markpesce-291216-mp4-cba-mp4]] — iv_MarkPesce_291216_mp4_cba.mp4
 - [[sources/monash-wav]] — Monash.wav
-- [[sources/7-30report-3dtv-3jun10-m4v-2]] — 7_30Report_3DTV_3Jun10.m4v
 
 ## Debates / Open Questions
 
@@ -124,6 +124,7 @@ related:
 - [[sources/truth-trust-and-story-26jul19-mp3]]
 - [[sources/rn-encounter-cyberreligion-22aug10-mp3]]
 - [[sources/7-30report-3dtv-3jun10-m4v]]
+- [[sources/7-30report-3dtv-3jun10-m4v-2]]
 - [[sources/7pm-project-mov]]
 - [[sources/vr-simulation-future-of-work-mp4]]
 - [[sources/ai-and-the-future-of-work-mp4]]
@@ -133,4 +134,3 @@ related:
 - [[sources/a-house-built-on-sand-interoperability-in-the-me]]
 - [[sources/iv-markpesce-291216-mp4-cba-mp4]]
 - [[sources/monash-wav]]
-- [[sources/7-30report-3dtv-3jun10-m4v-2]]

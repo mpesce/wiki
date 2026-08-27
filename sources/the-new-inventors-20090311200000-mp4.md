@@ -6,21 +6,17 @@ drive_id: 1yE7zFjqH1jR56oiuRWtq5H1I8x8bBf1V
 source_link: https://drive.google.com/file/d/1yE7zFjqH1jR56oiuRWtq5H1I8x8bBf1V/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "ar", "broadcast", "meta"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "broadcast"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/meta
     - entities/abc
-    - entities/ar
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
   - entities/abc
-  - entities/ar
-  - entities/meta
 ---
 # The New Inventors-20090311200000.mp4
 
@@ -32,9 +28,7 @@ This recording is a broadcast of the Australian Broadcasting Corporation televis
 - See summary above.
 
 ## Named Entities
-- [[entities/meta]] (Meta)
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

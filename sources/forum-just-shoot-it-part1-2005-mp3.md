@@ -6,29 +6,24 @@ drive_id: 15y_KH0NJ1_MZlnHj_dGA95NWlAxm9Wni
 source_link: https://drive.google.com/file/d/15y_KH0NJ1_MZlnHj_dGA95NWlAxm9Wni/view?usp=drivesdk
 type: panel
 date: 2005
-tags: ["ar", "broadcast", "creators", "education", "git", "networks", "social-networks", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["creators", "education", "networks", "social-networks", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
-    - entities/git
+    - (none)
   concepts:
     - concepts/the-future
     - concepts/social-networks
     - concepts/networks
     - concepts/creators
     - concepts/education
-    - concepts/broadcast
 related:
-  - concepts/broadcast
   - concepts/creators
   - concepts/education
   - concepts/networks
   - concepts/social-networks
   - concepts/the-future
-  - entities/ar
-  - entities/git
 ---
 # forum-just-shoot-it-part1-2005.mp3
 
@@ -40,8 +35,7 @@ This recording captures a panel discussion from the "Just Shoot It" forum, held 
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
+- (none named)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
@@ -49,7 +43,6 @@ This recording captures a panel discussion from the "Just Shoot It" forum, held 
 - [[concepts/networks]] — Networks
 - [[concepts/creators]] — Creators
 - [[concepts/education]] — Education
-- [[concepts/broadcast]] — Broadcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

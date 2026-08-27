@@ -6,17 +6,14 @@ drive_id: 1qzRc3qiNVHjn9uO_Ky6SD_Yf0PCw3UEE
 source_link: https://drive.google.com/file/d/1qzRc3qiNVHjn9uO_Ky6SD_Yf0PCw3UEE/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["apple", "ar", "connectivity", "git", "innovation", "mark-pesce", "meta", "metaverse", "podcast", "twitter"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["apple", "connectivity", "innovation", "mark-pesce", "metaverse", "podcast", "twitter"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
-    - entities/meta
-    - entities/ar
     - entities/metaverse
-    - entities/git
   concepts:
     - concepts/twitter
     - concepts/podcast
@@ -28,10 +25,7 @@ related:
   - concepts/podcast
   - concepts/twitter
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
-  - entities/meta
   - entities/metaverse
 ---
 # LEAP interview 13Oct22.mp4
@@ -46,10 +40,7 @@ This recording is an interview conducted for a corporate magazine, featuring Mar
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 - [[entities/metaverse]] (the Metaverse)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/twitter]] — Twitter

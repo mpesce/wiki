@@ -6,15 +6,13 @@ drive_id: 1BDzLHNqTiCyR19h3XLphG0JMT3oBJUeG
 source_link: https://drive.google.com/file/d/1BDzLHNqTiCyR19h3XLphG0JMT3oBJUeG/view?usp=drivesdk
 type: keynote
 date: 2012
-tags: ["abc", "ar", "attention", "communication", "connectivity", "identity", "mark-pesce", "meta", "networks", "social-networks", "the-future", "twitter"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["abc", "attention", "communication", "connectivity", "identity", "mark-pesce", "networks", "social-networks", "the-future", "twitter"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
     - entities/abc
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/twitter
@@ -34,9 +32,7 @@ related:
   - concepts/the-future
   - concepts/twitter
   - entities/abc
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # TheNextBillionSeconds-ATP-25Feb12.wav
 
@@ -49,9 +45,7 @@ This recording captures a keynote address delivered by Mark Pesce at the Heritag
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

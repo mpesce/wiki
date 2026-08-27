@@ -6,14 +6,13 @@ drive_id: 1we9dowTWXhqz5gppU_42VRqs9cyvFqch
 source_link: https://drive.google.com/file/d/1we9dowTWXhqz5gppU_42VRqs9cyvFqch/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["apple", "ar", "attention", "broadcast", "google"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "attention", "broadcast", "google"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/apple
     - entities/google
-    - entities/ar
   concepts:
     - concepts/attention
     - concepts/broadcast
@@ -21,7 +20,6 @@ related:
   - concepts/attention
   - concepts/broadcast
   - entities/apple
-  - entities/ar
   - entities/google
 ---
 # ntn-20200521-1105-do_track_and_trace_apps_work_top_amazon_engineer_rage_quits-128.mp3
@@ -36,7 +34,6 @@ This recording is a segment from a morning news broadcast featuring an interview
 ## Named Entities
 - [[entities/apple]] (Apple)
 - [[entities/google]] (Google)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/attention]] — Attention

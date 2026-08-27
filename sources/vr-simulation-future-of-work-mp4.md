@@ -6,15 +6,14 @@ drive_id: 1pke8STnmeitREGUdDm9oZV6BNKwcmxVK
 source_link: https://drive.google.com/file/d/1pke8STnmeitREGUdDm9oZV6BNKwcmxVK/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["apple", "ar", "artificial-intelligence", "mark-pesce", "meta", "metaverse", "virtual-reality"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "artificial-intelligence", "mark-pesce", "meta", "metaverse", "virtual-reality"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/meta
-    - entities/ar
     - entities/metaverse
   concepts:
     - concepts/virtual-reality
@@ -23,7 +22,6 @@ related:
   - concepts/artificial-intelligence
   - concepts/virtual-reality
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
   - entities/meta
   - entities/metaverse
@@ -41,7 +39,6 @@ This recording appears to be an excerpt from a talk or interview featuring Mark 
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 - [[entities/metaverse]] (the Metaverse)
 
 ## Related Concepts

@@ -6,14 +6,13 @@ drive_id: 1EVBGgBpBRk5Y9ZzISYDj4C48jSZQNPaA
 source_link: https://drive.google.com/file/d/1EVBGgBpBRk5Y9ZzISYDj4C48jSZQNPaA/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "connectivity", "education", "mark-pesce", "networks", "stanford", "twitter"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["connectivity", "education", "mark-pesce", "networks", "stanford", "twitter"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/stanford
-    - entities/ar
   concepts:
     - concepts/twitter
     - concepts/networks
@@ -24,7 +23,6 @@ related:
   - concepts/education
   - concepts/networks
   - concepts/twitter
-  - entities/ar
   - entities/mark-pesce
   - entities/stanford
 ---
@@ -40,7 +38,6 @@ This recording is a talk by Mark Pesce titled "The New New," in which he discuss
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/stanford]] (Stanford)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/twitter]] — Twitter

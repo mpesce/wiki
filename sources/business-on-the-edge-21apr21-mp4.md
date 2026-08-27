@@ -6,27 +6,23 @@ drive_id: 1mgYmoXAoA6gWcZgqiW87HuP8Xm2-5iod
 source_link: https://drive.google.com/file/d/1mgYmoXAoA6gWcZgqiW87HuP8Xm2-5iod/view?usp=drivesdk
 type: keynote
 date: 2035
-tags: ["apple", "ar", "innovation", "mark-pesce", "mozilla", "podcast", "remote-work", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "innovation", "mark-pesce", "mozilla", "podcast", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/podcast
     - concepts/innovation
-    - concepts/remote-work
 related:
   - concepts/innovation
   - concepts/podcast
-  - concepts/remote-work
   - concepts/the-future
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
   - entities/mozilla
 ---
@@ -43,13 +39,11 @@ This recording is a keynote address delivered by Mark Pesce, a technology commen
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
 - [[concepts/podcast]] — Podcasting
 - [[concepts/innovation]] — Innovation
-- [[concepts/remote-work]] — Remote work
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

@@ -6,20 +6,16 @@ drive_id: 1WYNIHI0mM0rfADjJXCj6YajxXnhRIqkO
 source_link: https://drive.google.com/file/d/1WYNIHI0mM0rfADjJXCj6YajxXnhRIqkO/view?usp=drivesdk
 type: interview
 date: 1975
-tags: ["ar", "connectivity", "git", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["connectivity", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/connectivity
 related:
   - concepts/connectivity
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # Better-Than-Crack (1).mp3
@@ -33,8 +29,6 @@ This recording is a lecture by Mark Pesce, an honorary associate with the Digita
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/connectivity]] — Connectivity

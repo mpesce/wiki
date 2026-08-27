@@ -6,18 +6,16 @@ drive_id: 13iCd3d_BwdtSbVL7BCwaBN8Zwr0uvK85
 source_link: https://drive.google.com/file/d/13iCd3d_BwdtSbVL7BCwaBN8Zwr0uvK85/view?usp=drivesdk
 type: keynote
 date: 2010
-tags: ["ar", "innovation", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["innovation", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/innovation
 related:
   - concepts/innovation
-  - entities/ar
   - entities/mark-pesce
 ---
 # FKZ8DS~2.MP4
@@ -31,7 +29,6 @@ This recording is a keynote talk delivered by Mark Pesce at the Australian Socia
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/innovation]] — Innovation

@@ -6,21 +6,19 @@ drive_id: 13PsJWeULeZkvP9GngApzHd1T870-e8r2
 source_link: https://drive.google.com/file/d/13PsJWeULeZkvP9GngApzHd1T870-e8r2/view?usp=drivesdk
 type: workshop
 date: 2020
-tags: ["apple", "ar", "mark-pesce", "the-future", "wired"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "mark-pesce", "the-future", "wired"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/wired
-    - entities/ar
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
   - entities/wired
 ---
@@ -37,7 +35,6 @@ This recording is a lecture delivered by Mark Pesce, a futurist and former Apple
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/wired]] (Wired)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

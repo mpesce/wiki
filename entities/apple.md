@@ -4,8 +4,8 @@ slug: apple
 title: Apple
 tags: ["organization"]
 source_count: 76
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -59,6 +59,8 @@ related:
 - [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am]] — uptown-radio_recording-1_2021-04-26--t12-31-18am--mpesce.wav
 - [[sources/business-on-the-edge-21apr21-mp4]] — Business on the Edge 21Apr21.mp4
 - [[sources/aija-wav]] — AIJA.wav
+- [[sources/markpesce-hi-mov]] — markpesce_hi.mov
+- [[sources/f13-the-agent-is-using-you-mp4]] — F13_the-agent-is-using-you.mp4
 - [[sources/unknown-knowns-31oct19-mp3]] — Unknown Knowns 31Oct19.mp3
 - [[sources/abj-jjj-5oct06-interview-mp3]] — ABJ-JJJ-5Oct06-Interview.mp3
 - [[sources/ntn-20200521-1105-do-track-and-trace-apps-work-t]] — ntn-20200521-1105-do_track_and_trace_apps_work_top_amazon_engineer_rage_quits-128.mp3
@@ -72,6 +74,7 @@ related:
 - [[sources/pollenizerpodcast-20100728-mp3]] — PollenizerPodcast-20100728.mp3
 - [[sources/a11-ralph-loop-mp4]] — A11_ralph-loop.mp4
 - [[sources/7-30report-ebooks-18mar10-mp4-m4v]] — 7-30Report-eBooks-18Mar10.mp4.m4v
+- [[sources/7-30report-ebooks-18mar10-mp4-m4v-2]] — 7-30Report-eBooks-18Mar10.mp4.m4v
 - [[sources/mentoring-as-the-unbeatable-advantage-mp4]] — Mentoring as the unbeatable advantage.mp4
 - [[sources/vr-simulation-future-of-work-mp4]] — VR Simulation future of work.mp4
 - [[sources/whenimsixtyfour-part3-mov]] — WhenImSixtyFour-part3.mov
@@ -87,14 +90,11 @@ related:
 - [[sources/gt-mel-wav]] — GT  MEL.wav
 - [[sources/thefuturists-mp4]] — TheFuturists.mp4
 - [[sources/saatchi-wav]] — Saatchi.wav
-- [[sources/markpesce-hi-mov]] — markpesce_hi.mov
-- [[sources/f13-the-agent-is-using-you-mp4]] — F13_the-agent-is-using-you.mp4
 - [[sources/leap-interview-13oct22-mp4]] — LEAP interview 13Oct22.mp4
 - [[sources/000000001ab15980-mpg]] — 000000001ab15980.mpg
 - [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]] — The No Normal CFO Series NZ 8Jun21.mp4
 - [[sources/horizons-and-trajectories-4jun20-mp4]] — Horizons and Trajectories 4Jun20.mp4
 - [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]] — Horizons and Trajectories 4Jun20 YouTube 720p.mp4
-- [[sources/7-30report-ebooks-18mar10-mp4-m4v-2]] — 7-30Report-eBooks-18Mar10.mp4.m4v
 
 ## In the Corpus
 
@@ -150,6 +150,8 @@ related:
 - [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am]]
 - [[sources/business-on-the-edge-21apr21-mp4]]
 - [[sources/aija-wav]]
+- [[sources/markpesce-hi-mov]]
+- [[sources/f13-the-agent-is-using-you-mp4]]
 - [[sources/unknown-knowns-31oct19-mp3]]
 - [[sources/abj-jjj-5oct06-interview-mp3]]
 - [[sources/ntn-20200521-1105-do-track-and-trace-apps-work-t]]
@@ -163,6 +165,7 @@ related:
 - [[sources/pollenizerpodcast-20100728-mp3]]
 - [[sources/a11-ralph-loop-mp4]]
 - [[sources/7-30report-ebooks-18mar10-mp4-m4v]]
+- [[sources/7-30report-ebooks-18mar10-mp4-m4v-2]]
 - [[sources/mentoring-as-the-unbeatable-advantage-mp4]]
 - [[sources/vr-simulation-future-of-work-mp4]]
 - [[sources/whenimsixtyfour-part3-mov]]
@@ -178,11 +181,8 @@ related:
 - [[sources/gt-mel-wav]]
 - [[sources/thefuturists-mp4]]
 - [[sources/saatchi-wav]]
-- [[sources/markpesce-hi-mov]]
-- [[sources/f13-the-agent-is-using-you-mp4]]
 - [[sources/leap-interview-13oct22-mp4]]
 - [[sources/000000001ab15980-mpg]]
 - [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]]
 - [[sources/horizons-and-trajectories-4jun20-mp4]]
 - [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]]
-- [[sources/7-30report-ebooks-18mar10-mp4-m4v-2]]

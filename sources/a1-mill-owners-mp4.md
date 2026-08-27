@@ -6,17 +6,16 @@ drive_id: 1Av9Pwbml0YGN6_vCFBoz3FmfYBfM6CDs
 source_link: https://drive.google.com/file/d/1Av9Pwbml0YGN6_vCFBoz3FmfYBfM6CDs/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "artificial-intelligence"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/artificial-intelligence
 related:
   - concepts/artificial-intelligence
-  - entities/ar
 ---
 # A1_mill-owners.mp4
 
@@ -28,7 +27,7 @@ This recording is a segment from a talk or interview featuring a speaker discuss
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

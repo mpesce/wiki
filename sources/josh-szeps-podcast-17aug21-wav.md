@@ -6,22 +6,20 @@ drive_id: 18Wu-oumnNVDMuzsw_Ax6vjCcxEZjUPER
 source_link: https://drive.google.com/file/d/18Wu-oumnNVDMuzsw_Ax6vjCcxEZjUPER/view?usp=drivesdk
 type: interview
 date: 2015
-tags: ["ar", "creators", "facebook", "google", "mark-pesce", "social-media"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["creators", "facebook", "google", "mark-pesce", "social-media"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
     - entities/facebook
-    - entities/ar
   concepts:
     - concepts/social-media
     - concepts/creators
 related:
   - concepts/creators
   - concepts/social-media
-  - entities/ar
   - entities/facebook
   - entities/google
   - entities/mark-pesce
@@ -39,7 +37,6 @@ This recording is an interview featuring Mark Pesce and a guest identified as Jo
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

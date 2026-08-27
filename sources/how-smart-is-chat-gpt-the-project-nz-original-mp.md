@@ -6,20 +6,18 @@ drive_id: 1O37uo45s1USIhRg8tn9h_YiQwfqDmZR0
 source_link: https://drive.google.com/file/d/1O37uo45s1USIhRg8tn9h_YiQwfqDmZR0/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "artificial-intelligence", "chatgpt", "mark-pesce", "microsoft"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "chatgpt", "mark-pesce", "microsoft"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/microsoft
-    - entities/ar
     - entities/chatgpt
   concepts:
     - concepts/artificial-intelligence
 related:
   - concepts/artificial-intelligence
-  - entities/ar
   - entities/chatgpt
   - entities/mark-pesce
   - entities/microsoft
@@ -36,7 +34,6 @@ This recording is a casual discussion or interview segment featuring media comme
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/microsoft]] (Microsoft)
-- [[entities/ar]] (AR)
 - [[entities/chatgpt]] (ChatGPT)
 
 ## Related Concepts

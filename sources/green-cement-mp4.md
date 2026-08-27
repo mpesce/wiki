@@ -6,17 +6,15 @@ drive_id: 15p8D3psDIYgPDnHmxteDiRH7bmME-A5Q
 source_link: https://drive.google.com/file/d/15p8D3psDIYgPDnHmxteDiRH7bmME-A5Q/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
 ---
 # Green Cement.mp4
@@ -30,7 +28,6 @@ This recording is a segment from a talk or lecture by Mark Pesce, a media and te
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

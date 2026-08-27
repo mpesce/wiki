@@ -6,24 +6,21 @@ drive_id: 1lCHAeUHxr6QsccaKHjaMLIvdjXOH-YRh
 source_link: https://drive.google.com/file/d/1lCHAeUHxr6QsccaKHjaMLIvdjXOH-YRh/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "broadcast", "connectivity", "git", "mark-pesce", "narrative", "storytelling", "the-future", "trust", "virtual-reality"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["ar", "connectivity", "mark-pesce", "narrative", "storytelling", "the-future", "trust", "virtual-reality"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/virtual-reality
     - concepts/trust
-    - concepts/broadcast
     - concepts/storytelling
     - concepts/narrative
     - concepts/connectivity
 related:
-  - concepts/broadcast
   - concepts/connectivity
   - concepts/narrative
   - concepts/storytelling
@@ -31,7 +28,6 @@ related:
   - concepts/trust
   - concepts/virtual-reality
   - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # Truth Trust and Story 26Jul19.mp3
@@ -46,13 +42,11 @@ This recording is a talk delivered by Mark Pesce, a media and technology comment
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
 - [[concepts/virtual-reality]] — Virtual reality
 - [[concepts/trust]] — Trust
-- [[concepts/broadcast]] — Broadcasting
 - [[concepts/storytelling]] — Storytelling
 - [[concepts/narrative]] — Narrative
 - [[concepts/connectivity]] — Connectivity

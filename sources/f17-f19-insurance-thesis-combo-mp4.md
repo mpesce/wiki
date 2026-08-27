@@ -6,13 +6,12 @@ drive_id: 1sOmlG_NYdS3Qoe4fJ67eMwLhDpAZIIjK
 source_link: https://drive.google.com/file/d/1sOmlG_NYdS3Qoe4fJ67eMwLhDpAZIIjK/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "mark-pesce", "the-future", "trust", "verification-design"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "the-future", "trust", "verification-design"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/verification-design
     - concepts/the-future
@@ -21,7 +20,6 @@ related:
   - concepts/the-future
   - concepts/trust
   - concepts/verification-design
-  - entities/ar
   - entities/mark-pesce
 ---
 # F17-F19_insurance-thesis-combo.mp4
@@ -35,7 +33,6 @@ This recording is a segment from a talk or lecture by Mark Pesce, focusing on th
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/verification-design]] — Verification design

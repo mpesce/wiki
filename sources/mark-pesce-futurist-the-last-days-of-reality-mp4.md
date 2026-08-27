@@ -6,23 +6,19 @@ drive_id: 1deAsmuuZGHlpHK3WF6AOL0Gaa8GO80r3
 source_link: https://drive.google.com/file/d/1deAsmuuZGHlpHK3WF6AOL0Gaa8GO80r3/view?usp=drivesdk
 type: news
 date: 2017
-tags: ["ar", "facebook", "mark-pesce", "meta", "social-media"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["facebook", "mark-pesce", "social-media"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/meta
-    - entities/ar
   concepts:
     - concepts/social-media
 related:
   - concepts/social-media
-  - entities/ar
   - entities/facebook
   - entities/mark-pesce
-  - entities/meta
 ---
 # Mark Pesce - Futurist - The Last Days of Reality.mp4
 
@@ -36,8 +32,6 @@ This recording is a talk delivered by Mark Pesce at the Golden Age Cinema, likel
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

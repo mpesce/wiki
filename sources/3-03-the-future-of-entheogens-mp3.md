@@ -6,17 +6,16 @@ drive_id: 1ax1ZTNkFp_wlIGm1NnXDA3fGDwUYVu-J
 source_link: https://drive.google.com/file/d/1ax1ZTNkFp_wlIGm1NnXDA3fGDwUYVu-J/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "identity"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["identity"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/identity
 related:
   - concepts/identity
-  - entities/ar
 ---
 # 3-03 The Future of Entheogens.mp3
 
@@ -28,7 +27,7 @@ This recording captures a collaborative talk by John Hannah and Sylvia Thyssen, 
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/identity]] — Identity

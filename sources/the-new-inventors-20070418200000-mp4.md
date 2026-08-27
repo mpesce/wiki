@@ -6,16 +6,16 @@ drive_id: 1RtGciBqRoeelaHUWayvtrmFuBVpxkcSk
 source_link: https://drive.google.com/file/d/1RtGciBqRoeelaHUWayvtrmFuBVpxkcSk/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # The New Inventors-20070418200000.mp4
 
@@ -27,7 +27,7 @@ The recording begins with a dramatic audio clip depicting a World War II-era mil
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

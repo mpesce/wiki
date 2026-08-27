@@ -6,15 +6,13 @@ drive_id: 1DEtjd-G0x9m39N2VVqwLiAiN-z3oslQC
 source_link: https://drive.google.com/file/d/1DEtjd-G0x9m39N2VVqwLiAiN-z3oslQC/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "connectivity", "identity", "mark-pesce", "networks", "peer-to-peer", "the-future", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["connectivity", "identity", "mark-pesce", "networks", "peer-to-peer", "the-future", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vrml
-    - entities/vr
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/identity
@@ -27,9 +25,7 @@ related:
   - concepts/networks
   - concepts/peer-to-peer
   - concepts/the-future
-  - entities/ar
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # telstra_ipod.m4v
@@ -44,8 +40,6 @@ This recording is a lecture or talk delivered by Mark Pesce, a media and technol
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

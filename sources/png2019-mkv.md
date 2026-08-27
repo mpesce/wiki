@@ -6,22 +6,20 @@ drive_id: 1ol7nbfoU7sQhfRdRAxYRQoLxCiwT0DaH
 source_link: https://drive.google.com/file/d/1ol7nbfoU7sQhfRdRAxYRQoLxCiwT0DaH/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["ar", "facebook", "git", "google", "microsoft"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["distributed-ledger", "facebook", "google", "microsoft"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/google
     - entities/microsoft
     - entities/facebook
-    - entities/ar
-    - entities/git
+    - entities/distributed-ledger
   concepts:
     - (none)
 related:
-  - entities/ar
+  - entities/distributed-ledger
   - entities/facebook
-  - entities/git
   - entities/google
   - entities/microsoft
 ---
@@ -38,8 +36,7 @@ This recording is a keynote address delivered by a speaker identifying himself a
 - [[entities/google]] (Google)
 - [[entities/microsoft]] (Microsoft)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
+- [[entities/distributed-ledger]] (distributed ledger)
 
 ## Related Concepts
 - (none identified)

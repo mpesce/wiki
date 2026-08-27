@@ -6,19 +6,17 @@ drive_id: 1niaDFj1wj5NR5_5FatPBAzfTmV3bR-7t
 source_link: https://drive.google.com/file/d/1niaDFj1wj5NR5_5FatPBAzfTmV3bR-7t/view?usp=drivesdk
 type: keynote
 date: 1983
-tags: ["ar", "mit", "rmit", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mit", "rmit", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mit
     - entities/rmit
-    - entities/ar
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
-  - entities/ar
   - entities/mit
   - entities/rmit
 ---
@@ -34,7 +32,6 @@ Keynote to a room full of designers at RMIT: 'you all will be [designers], becau
 ## Named Entities
 - [[entities/mit]] (MIT)
 - [[entities/rmit]] (RMIT)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

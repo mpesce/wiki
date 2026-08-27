@@ -6,13 +6,12 @@ drive_id: 1w4_3PYzyixIKSZ2f-EHQKH5-bz37yg0g
 source_link: https://drive.google.com/file/d/1w4_3PYzyixIKSZ2f-EHQKH5-bz37yg0g/view?usp=drivesdk
 type: panel
 date: 1981
-tags: ["ar", "communication", "mark-pesce", "participation", "the-future", "trust"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["communication", "mark-pesce", "participation", "the-future", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/trust
@@ -23,7 +22,6 @@ related:
   - concepts/participation
   - concepts/the-future
   - concepts/trust
-  - entities/ar
   - entities/mark-pesce
 ---
 # Techno-Pagans at the End of History 12(Esalen).mp3
@@ -37,7 +35,6 @@ This recording captures the concluding segment of a talk or panel discussion fea
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

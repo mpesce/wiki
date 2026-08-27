@@ -3,9 +3,9 @@ kind: entity
 slug: facebook
 title: Facebook
 tags: ["organization"]
-source_count: 72
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+source_count: 71
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -13,7 +13,7 @@ related:
 # Facebook
 
 ## TL;DR
-<72 sources reference Facebook. Compile the one-line synthesis from the sources below.>
+<71 sources reference Facebook. Compile the one-line synthesis from the sources below.>
 
 ## Overview
 <Compile a cross-source synthesis of Facebook. What is consistent and what changed over time.>
@@ -42,14 +42,13 @@ related:
 - [[sources/josh-szeps-podcast-17aug21-wav]] — Josh Szeps podcast 17Aug21.wav
 - [[sources/rnd-20180319-1825-mp3]] — rnd_20180319_1825.mp3
 - [[sources/arin-2610-internet-transformations-the-ar-dilemm]] — ARIN 2610 Internet Transformations The AR Dilemmas 5Oct21 720p.mp4
+- [[sources/saatchi-wav-2]] — Saatchi.wav
 - [[sources/slv-wav]] — SLV.wav
 - [[sources/ega-wav]] — EGA.wav
 - [[sources/mark-pesce-futurist-the-last-days-of-reality-mp4]] — Mark Pesce - Futurist - The Last Days of Reality.mp4
-- [[sources/saatchi-wav-2]] — Saatchi.wav
 - [[sources/ega-mp3]] — EGA.mp3
 - [[sources/the-last-days-of-reality-ega-8dec17-mkv]] — The Last Days of Reality - EGA 8Dec17.mkv
 - [[sources/citi-how-to-thrive-in-the-2020s-16oct19-mp3]] — Citi How to Thrive in the 2020s 16Oct19.mp3
-- [[sources/stacking-up-png-in-the-cloud-20aug19-mp3]] — Stacking Up PNG in the Cloud 20Aug19.mp3
 - [[sources/trench-talk-ep57-mark-pesce-mp3]] — Trench_Talk_EP57_-_Mark_Pesce.mp3
 - [[sources/asx-new-money-hvec-480p-mp4]] — ASX New Money HVEC 480p.mp4
 - [[sources/skype-interview-march-2019-mp4]] — Skype interview March 2019.mp4
@@ -129,14 +128,13 @@ related:
 - [[sources/josh-szeps-podcast-17aug21-wav]]
 - [[sources/rnd-20180319-1825-mp3]]
 - [[sources/arin-2610-internet-transformations-the-ar-dilemm]]
+- [[sources/saatchi-wav-2]]
 - [[sources/slv-wav]]
 - [[sources/ega-wav]]
 - [[sources/mark-pesce-futurist-the-last-days-of-reality-mp4]]
-- [[sources/saatchi-wav-2]]
 - [[sources/ega-mp3]]
 - [[sources/the-last-days-of-reality-ega-8dec17-mkv]]
 - [[sources/citi-how-to-thrive-in-the-2020s-16oct19-mp3]]
-- [[sources/stacking-up-png-in-the-cloud-20aug19-mp3]]
 - [[sources/trench-talk-ep57-mark-pesce-mp3]]
 - [[sources/asx-new-money-hvec-480p-mp4]]
 - [[sources/skype-interview-march-2019-mp4]]

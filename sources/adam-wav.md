@@ -6,18 +6,16 @@ drive_id: 18Ub0AjXGlJE8VaLxS83GUCIEsBXJ4hgW
 source_link: https://drive.google.com/file/d/18Ub0AjXGlJE8VaLxS83GUCIEsBXJ4hgW/view?usp=drivesdk
 type: interview
 date: 2022
-tags: ["ar", "mark-pesce", "podcast"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "podcast"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/podcast
 related:
   - concepts/podcast
-  - entities/ar
   - entities/mark-pesce
 ---
 # Adam.wav
@@ -31,7 +29,6 @@ This recording is an episode of the podcast The Great COVID Reset, featuring an 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/podcast]] — Podcasting

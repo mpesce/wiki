@@ -6,16 +6,16 @@ drive_id: 1-yth2Rdm4-U83cjmhR0E5z_Wh022seCp
 source_link: https://drive.google.com/file/d/1-yth2Rdm4-U83cjmhR0E5z_Wh022seCp/view?usp=drivesdk
 type: talk
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # Strophariad-mobile.mp4
 
@@ -27,7 +27,7 @@ Music track (mobile video) from the 'True Hallucinations' psychedelic audio proj
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

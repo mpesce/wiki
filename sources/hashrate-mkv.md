@@ -6,18 +6,16 @@ drive_id: 1lM1qB4wET4-bDeoaLmAXvm0N2ehZggw1
 source_link: https://drive.google.com/file/d/1lM1qB4wET4-bDeoaLmAXvm0N2ehZggw1/view?usp=drivesdk
 type: interview
 date: 2019
-tags: ["ar", "mark-pesce", "podcast"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "podcast"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/podcast
 related:
   - concepts/podcast
-  - entities/ar
   - entities/mark-pesce
 ---
 # hashrate.mkv
@@ -31,7 +29,6 @@ This recording is an episode of the podcast Hashrate, hosted by Mark Jeffrey, fe
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/podcast]] — Podcasting

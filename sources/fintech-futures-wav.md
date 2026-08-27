@@ -6,27 +6,25 @@ drive_id: 1Had_xbR-QXryUOQrWPKm7PQaP5Lx8njx
 source_link: https://drive.google.com/file/d/1Had_xbR-QXryUOQrWPKm7PQaP5Lx8njx/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["apple", "ar", "blockchain", "identity", "mark-pesce", "mozilla", "startups", "trust"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "blockchain", "distributed-ledger", "identity", "mark-pesce", "mozilla", "startups"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
-    - entities/ar
     - entities/blockchain
+    - entities/distributed-ledger
   concepts:
-    - concepts/trust
     - concepts/identity
     - concepts/startups
 related:
   - concepts/identity
   - concepts/startups
-  - concepts/trust
   - entities/apple
-  - entities/ar
   - entities/blockchain
+  - entities/distributed-ledger
   - entities/mark-pesce
   - entities/mozilla
 ---
@@ -43,11 +41,10 @@ This recording is a conference presentation delivered by Mark Pesce, a technolog
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/ar]] (AR)
 - [[entities/blockchain]] (blockchain)
+- [[entities/distributed-ledger]] (distributed ledger)
 
 ## Related Concepts
-- [[concepts/trust]] — Trust
 - [[concepts/identity]] — Identity
 - [[concepts/startups]] — Startups
 

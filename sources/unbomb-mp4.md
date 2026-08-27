@@ -6,19 +6,18 @@ drive_id: 1VJ1UYKgCwpSmhuYdK1Xd0H0paRowOWfm
 source_link: https://drive.google.com/file/d/1VJ1UYKgCwpSmhuYdK1Xd0H0paRowOWfm/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "broadcast", "narrative"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["broadcast", "narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/broadcast
     - concepts/narrative
 related:
   - concepts/broadcast
   - concepts/narrative
-  - entities/ar
 ---
 # Unbomb.mp4
 
@@ -30,7 +29,7 @@ The provided transcript consists entirely of repeated instances of music playing
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

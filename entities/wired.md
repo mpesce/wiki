@@ -4,8 +4,8 @@ slug: wired
 title: Wired
 tags: ["organization"]
 source_count: 6
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---

@@ -6,20 +6,16 @@ drive_id: 19F4kzWSLspScnla6zHaU-z0f0QISheMd
 source_link: https://drive.google.com/file/d/19F4kzWSLspScnla6zHaU-z0f0QISheMd/view?usp=drivesdk
 type: podcast
 date: 2004
-tags: ["ar", "broadcast", "hyperdistribution", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["hyperdistribution", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/hyperdistribution
-    - concepts/broadcast
 related:
-  - concepts/broadcast
   - concepts/hyperdistribution
-  - entities/ar
   - entities/mark-pesce
 ---
 # Piracy_is_Good 2.mp4
@@ -33,11 +29,9 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/hyperdistribution]] — Hyperdistribution
-- [[concepts/broadcast]] — Broadcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

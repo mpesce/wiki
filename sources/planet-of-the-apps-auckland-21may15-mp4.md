@@ -6,14 +6,12 @@ drive_id: 15vN5qg8-Nk40PQXc1l0JN6obMMMKlZVO
 source_link: https://drive.google.com/file/d/15vN5qg8-Nk40PQXc1l0JN6obMMMKlZVO/view?usp=drivesdk
 type: keynote
 date: 2015
-tags: ["ar", "connectivity", "git", "innovation", "mark-pesce", "the-future"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["connectivity", "innovation", "mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/innovation
@@ -22,8 +20,6 @@ related:
   - concepts/connectivity
   - concepts/innovation
   - concepts/the-future
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # Planet of the Apps Auckland 21May15.mp4
@@ -37,8 +33,6 @@ This recording is a keynote speech delivered by a technology commentator in New 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

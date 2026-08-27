@@ -6,17 +6,16 @@ drive_id: 1Lfk49VwwRIsRqGRB9wzYoyJHwGziU8JR
 source_link: https://drive.google.com/file/d/1Lfk49VwwRIsRqGRB9wzYoyJHwGziU8JR/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
-  - entities/ar
 ---
 # D11_reporter.mp4
 
@@ -28,7 +27,7 @@ Clip. 'I don't feel like a futurist anymore, Kate. I feel like a reporter.' It's
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

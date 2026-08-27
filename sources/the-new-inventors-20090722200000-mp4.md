@@ -6,14 +6,13 @@ drive_id: 1gzxhHnn0CBxjWhd2Ut4pB-npj-RiRZ16
 source_link: https://drive.google.com/file/d/1gzxhHnn0CBxjWhd2Ut4pB-npj-RiRZ16/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "ar", "broadcast", "mark-pesce", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "broadcast", "mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/abc
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/broadcast
@@ -21,7 +20,6 @@ related:
   - concepts/broadcast
   - concepts/the-future
   - entities/abc
-  - entities/ar
   - entities/mark-pesce
 ---
 # The New Inventors-20090722200000.mp4
@@ -36,7 +34,6 @@ This recording is an episode of the Australian Broadcasting Corporation televisi
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

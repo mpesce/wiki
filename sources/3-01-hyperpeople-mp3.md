@@ -6,20 +6,18 @@ drive_id: 1RQg9BFFEqhi3uMXIeT1-fI5RuNIocsnC
 source_link: https://drive.google.com/file/d/1RQg9BFFEqhi3uMXIeT1-fI5RuNIocsnC/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["ar", "communication", "connectivity", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["communication", "connectivity", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/communication
     - concepts/connectivity
 related:
   - concepts/communication
   - concepts/connectivity
-  - entities/ar
   - entities/mark-pesce
 ---
 # 3-01 Hyperpeople.mp3
@@ -33,7 +31,6 @@ This recording is a keynote speech delivered by Mark Pesce, likely at a technolo
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/communication]] — Communication

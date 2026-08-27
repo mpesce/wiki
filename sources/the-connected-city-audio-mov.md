@@ -6,12 +6,12 @@ drive_id: 1aG2RLVphqLoks2up4_isEDNQNUO9bd2B
 source_link: https://drive.google.com/file/d/1aG2RLVphqLoks2up4_isEDNQNUO9bd2B/view?usp=drivesdk
 type: news
 date: 2009
-tags: ["ar", "connectivity", "networks", "trust"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["connectivity", "networks", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/trust
     - concepts/networks
@@ -20,7 +20,6 @@ related:
   - concepts/connectivity
   - concepts/networks
   - concepts/trust
-  - entities/ar
 ---
 # The Connected City - audio.mov
 
@@ -32,7 +31,7 @@ This recording is a presentation or lecture delivered by a consultant who worked
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust

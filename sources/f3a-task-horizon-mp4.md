@@ -6,16 +6,16 @@ drive_id: 1Jikljd3mn2c8KvU8jjUtOP3QuXNH6DIf
 source_link: https://drive.google.com/file/d/1Jikljd3mn2c8KvU8jjUtOP3QuXNH6DIf/view?usp=drivesdk
 type: clip
 date: 2023
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # F3A_task-horizon.mp4
 
@@ -27,7 +27,7 @@ Clip on the 'task horizon' — how long an agent can go before it falls over. ME
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

@@ -6,29 +6,23 @@ drive_id: 1LESctSZkhltq4chz5eX703CsqiXlL_eF
 source_link: https://drive.google.com/file/d/1LESctSZkhltq4chz5eX703CsqiXlL_eF/view?usp=drivesdk
 type: news
 date: 1982
-tags: ["abc", "ar", "broadcast", "digital-distribution", "git", "mark-pesce", "meta", "networks", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "digital-distribution", "mark-pesce", "meta", "networks", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/meta
     - entities/abc
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/networks
     - concepts/digital-distribution
-    - concepts/broadcast
 related:
-  - concepts/broadcast
   - concepts/digital-distribution
   - concepts/networks
   - concepts/the-future
   - entities/abc
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
   - entities/meta
 ---
@@ -45,14 +39,11 @@ This recording is a lecture or talk delivered by Mark Pesce, a media and technol
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/meta]] (Meta)
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
 - [[concepts/networks]] — Networks
 - [[concepts/digital-distribution]] — Digital distribution
-- [[concepts/broadcast]] — Broadcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

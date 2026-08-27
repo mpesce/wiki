@@ -6,23 +6,19 @@ drive_id: 1nCFEWqRkNCzGeZLCrGsDqCzdo-54OZCj
 source_link: https://drive.google.com/file/d/1nCFEWqRkNCzGeZLCrGsDqCzdo-54OZCj/view?usp=drivesdk
 type: lecture
 date: 2012
-tags: ["alignment", "ar", "mark-pesce", "meta", "narrative"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["alignment", "mark-pesce", "narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/ar
   concepts:
     - concepts/alignment
     - concepts/narrative
 related:
   - concepts/alignment
   - concepts/narrative
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # YearOfJubilee.mp3
 
@@ -35,8 +31,6 @@ This recording is a monologue delivered by Mark Pesce, likely part of a spoken w
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/alignment]] — AI alignment

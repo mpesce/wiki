@@ -6,15 +6,13 @@ drive_id: 1ZGpsNSpxHR5q9E4IQFBgDQPFDSlr0QDV
 source_link: https://drive.google.com/file/d/1ZGpsNSpxHR5q9E4IQFBgDQPFDSlr0QDV/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["apple", "ar", "commons", "mark-pesce", "meta", "narrative", "participation"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "commons", "mark-pesce", "narrative", "participation"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
-    - entities/meta
-    - entities/ar
   concepts:
     - concepts/narrative
     - concepts/participation
@@ -24,9 +22,7 @@ related:
   - concepts/narrative
   - concepts/participation
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # Empire 6-11-06.mp3
 
@@ -40,8 +36,6 @@ This recording is a keynote talk delivered by Mark Pesce, a media commentator an
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/narrative]] — Narrative

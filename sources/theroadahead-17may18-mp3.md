@@ -6,9 +6,9 @@ drive_id: 1H0BKv9wunj155uEEcY9dIWG0dKEnOsIq
 source_link: https://drive.google.com/file/d/1H0BKv9wunj155uEEcY9dIWG0dKEnOsIq/view?usp=drivesdk
 type: podcast
 date: 1963
-tags: ["3d", "ar", "broadcast", "collaboration", "mark-pesce", "microsoft", "virtual-reality", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "broadcast", "collaboration", "mark-pesce", "microsoft", "virtual-reality", "vr", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,7 +16,6 @@ mentions:
     - entities/vrml
     - entities/3d
     - entities/vr
-    - entities/ar
   concepts:
     - concepts/virtual-reality
     - concepts/broadcast
@@ -26,7 +25,6 @@ related:
   - concepts/collaboration
   - concepts/virtual-reality
   - entities/3d
-  - entities/ar
   - entities/mark-pesce
   - entities/microsoft
   - entities/vr
@@ -47,7 +45,6 @@ This recording is a lecture delivered by Mark Pesce, an honorary adjunct in a me
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
 - [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

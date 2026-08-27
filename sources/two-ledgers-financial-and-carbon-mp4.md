@@ -6,17 +6,15 @@ drive_id: 15jD_zXw6GYgj8Sw73az3pNZAKCuePuap
 source_link: https://drive.google.com/file/d/15jD_zXw6GYgj8Sw73az3pNZAKCuePuap/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
 ---
 # Two ledgers financial and carbon.mp4
@@ -30,7 +28,6 @@ This transcript appears to be a fragment from a talk or lecture by Mark Pesce, f
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

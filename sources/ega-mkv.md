@@ -6,15 +6,13 @@ drive_id: 1DGrxkNaLceUbt50cqHLFb-VPBwItObIy
 source_link: https://drive.google.com/file/d/1DGrxkNaLceUbt50cqHLFb-VPBwItObIy/view?usp=drivesdk
 type: interview
 date: 2014
-tags: ["ar", "commons", "facebook", "git", "mark-pesce", "networks", "social-media", "surveillance", "surveillance-capitalism"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["commons", "facebook", "mark-pesce", "networks", "social-media", "surveillance", "surveillance-capitalism"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-media
     - concepts/surveillance
@@ -27,9 +25,7 @@ related:
   - concepts/social-media
   - concepts/surveillance
   - concepts/surveillance-capitalism
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
 ---
 # EGA.mkv
@@ -44,8 +40,6 @@ This recording captures a talk and subsequent Q&A session by Mark Pesce at the E
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

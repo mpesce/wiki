@@ -6,21 +6,17 @@ drive_id: 1jBV9eGUN46_vJnytwfRuAdM0cywmhuRT
 source_link: https://drive.google.com/file/d/1jBV9eGUN46_vJnytwfRuAdM0cywmhuRT/view?usp=drivesdk
 type: news
 date: 1999
-tags: ["ar", "mark-pesce", "meta", "narrative"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/ar
   concepts:
     - concepts/narrative
 related:
   - concepts/narrative
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # 3-01 The Audio Tour.mp3
 
@@ -33,8 +29,6 @@ This recording captures a presentation by artist Peggy Nelson at the third and f
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/narrative]] — Narrative

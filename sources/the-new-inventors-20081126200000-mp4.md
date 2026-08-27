@@ -6,16 +6,16 @@ drive_id: 1f08Z0lmljvxG4V-DhTRtOkXaXQkfAfmd
 source_link: https://drive.google.com/file/d/1f08Z0lmljvxG4V-DhTRtOkXaXQkfAfmd/view?usp=drivesdk
 type: panel
 date: 2008
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # The New Inventors-20081126200000.mp4
 
@@ -27,7 +27,7 @@ This recording is the 2008 Grand Final of the Australian television program New 
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

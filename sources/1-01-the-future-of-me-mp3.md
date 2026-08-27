@@ -6,17 +6,16 @@ drive_id: 1mKiztLnVzkP76beh3bM_D_vT6ffdzcXx
 source_link: https://drive.google.com/file/d/1mKiztLnVzkP76beh3bM_D_vT6ffdzcXx/view?usp=drivesdk
 type: workshop
 date: 2009
-tags: ["ar", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
-  - entities/ar
 ---
 # 1-01 The Future of Me.mp3
 
@@ -28,7 +27,7 @@ This recording is a talk titled The Future of Me, delivered by a speaker known a
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

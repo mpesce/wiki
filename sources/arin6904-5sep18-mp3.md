@@ -6,9 +6,9 @@ drive_id: 1tbizrDndJIHr0NT3Q-uQMmpIZXfWHSX8
 source_link: https://drive.google.com/file/d/1tbizrDndJIHr0NT3Q-uQMmpIZXfWHSX8/view?usp=drivesdk
 type: news
 date: 1963
-tags: ["3d", "ar", "attention", "git", "google", "mark-pesce", "microsoft", "storytelling", "virtual-reality", "vr"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "ar", "attention", "google", "mark-pesce", "microsoft", "storytelling", "virtual-reality", "vr"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -17,7 +17,6 @@ mentions:
     - entities/3d
     - entities/vr
     - entities/ar
-    - entities/git
   concepts:
     - concepts/virtual-reality
     - concepts/attention
@@ -28,7 +27,6 @@ related:
   - concepts/virtual-reality
   - entities/3d
   - entities/ar
-  - entities/git
   - entities/google
   - entities/mark-pesce
   - entities/microsoft
@@ -50,7 +48,6 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 - [[entities/3d]] (3D)
 - [[entities/vr]] (VR)
 - [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

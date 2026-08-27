@@ -6,20 +6,16 @@ drive_id: 1P5JbbS3Rs1ilYacJ2sP9y8JFGFTsuWTv
 source_link: https://drive.google.com/file/d/1P5JbbS3Rs1ilYacJ2sP9y8JFGFTsuWTv/view?usp=drivesdk
 type: interview
 date: 2024
-tags: ["apple", "ar", "creators", "facebook", "git", "mark-pesce", "meta", "metaverse", "peer-to-peer", "the-future", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "creators", "facebook", "mark-pesce", "metaverse", "peer-to-peer", "the-future", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/facebook
-    - entities/meta
     - entities/vrml
-    - entities/vr
-    - entities/ar
     - entities/metaverse
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/peer-to-peer
@@ -29,13 +25,9 @@ related:
   - concepts/peer-to-peer
   - concepts/the-future
   - entities/apple
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
-  - entities/meta
   - entities/metaverse
-  - entities/vr
   - entities/vrml
 ---
 # uptown-radio_recording-1_2021-04-26--t12-31-18am--mpesce.wav
@@ -51,12 +43,8 @@ This recording is an interview featuring Mark Pesce, identified as an Honorary A
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/facebook]] (Facebook)
-- [[entities/meta]] (Meta)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 - [[entities/metaverse]] (the Metaverse)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

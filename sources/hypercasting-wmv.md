@@ -6,31 +6,25 @@ drive_id: 1KJGjrmqVrAmrS_55EE3XRX5Q7LGZHbS2
 source_link: https://drive.google.com/file/d/1KJGjrmqVrAmrS_55EE3XRX5Q7LGZHbS2/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "broadcast", "content-creation", "git", "google", "mark-pesce", "networks", "peer-to-peer", "social-networks", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["content-creation", "google", "mark-pesce", "networks", "peer-to-peer", "social-networks", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/social-networks
     - concepts/networks
     - concepts/peer-to-peer
     - concepts/content-creation
-    - concepts/broadcast
 related:
-  - concepts/broadcast
   - concepts/content-creation
   - concepts/networks
   - concepts/peer-to-peer
   - concepts/social-networks
   - concepts/the-future
-  - entities/ar
-  - entities/git
   - entities/google
   - entities/mark-pesce
 ---
@@ -46,8 +40,6 @@ This recording is a talk titled "Hypercasting: Part One, The Story So Far," deli
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
@@ -55,7 +47,6 @@ This recording is a talk titled "Hypercasting: Part One, The Story So Far," deli
 - [[concepts/networks]] — Networks
 - [[concepts/peer-to-peer]] — Peer-to-peer
 - [[concepts/content-creation]] — Content creation
-- [[concepts/broadcast]] — Broadcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

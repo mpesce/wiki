@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1U0WbpDxECBRlKWm-uMMGX7624JdLgWZk/v
 type: talk
 date: unknown
 tags: []
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - (none)

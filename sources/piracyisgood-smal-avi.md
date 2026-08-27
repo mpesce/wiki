@@ -6,20 +6,18 @@ drive_id: 1ktezOYyxsrHdEelHXzYrLvLbzuDk5lUv
 source_link: https://drive.google.com/file/d/1ktezOYyxsrHdEelHXzYrLvLbzuDk5lUv/view?usp=drivesdk
 type: podcast
 date: 2004
-tags: ["ar", "broadcast", "mark-pesce", "networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["broadcast", "mark-pesce", "networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/networks
     - concepts/broadcast
 related:
   - concepts/broadcast
   - concepts/networks
-  - entities/ar
   - entities/mark-pesce
 ---
 # PiracyIsGood-smal.avi
@@ -33,7 +31,6 @@ This recording is a talk by Mark Pesce, a media and technology commentator, deli
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/networks]] — Networks

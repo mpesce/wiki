@@ -6,20 +6,18 @@ drive_id: 1CeM1x5eplBVFIrDWrNX3xCTdSHphWprf
 source_link: https://drive.google.com/file/d/1CeM1x5eplBVFIrDWrNX3xCTdSHphWprf/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "identity", "mark-pesce", "narrative"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["identity", "mark-pesce", "narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/identity
     - concepts/narrative
 related:
   - concepts/identity
   - concepts/narrative
-  - entities/ar
   - entities/mark-pesce
 ---
 # Saturday Afternoon.mp3
@@ -33,7 +31,6 @@ This recording is a panel discussion and presentation featuring Mark Pesce, like
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/identity]] — Identity

@@ -6,16 +6,16 @@ drive_id: 1F4CMLq1iHHFFLYueezoe_lDYynn56kpy
 source_link: https://drive.google.com/file/d/1F4CMLq1iHHFFLYueezoe_lDYynn56kpy/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # D1_brighter-than-you.mp4
 
@@ -27,7 +27,7 @@ Clip on 'relative superintelligence.' If you run several systems and one is brig
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

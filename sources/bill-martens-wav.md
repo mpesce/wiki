@@ -6,15 +6,14 @@ drive_id: 14VojT98uljC8OdkDrDGCGy_LVQMsFdzi
 source_link: https://drive.google.com/file/d/14VojT98uljC8OdkDrDGCGy_LVQMsFdzi/view?usp=drivesdk
 type: interview
 date: 1987
-tags: ["3d", "ar", "mark-pesce", "the-future", "virtual-reality", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "ar", "mark-pesce", "the-future", "virtual-reality", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vrml
     - entities/3d
-    - entities/vr
     - entities/ar
   concepts:
     - concepts/the-future
@@ -25,7 +24,6 @@ related:
   - entities/3d
   - entities/ar
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # Bill Martens.wav
@@ -41,7 +39,6 @@ This recording is a conversational interview conducted by Mark Pesce with Dr. Wi
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
-- [[entities/vr]] (VR)
 - [[entities/ar]] (AR)
 
 ## Related Concepts

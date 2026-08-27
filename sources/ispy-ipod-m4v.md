@@ -6,13 +6,12 @@ drive_id: 1hEFUGxm6j-sgc2uRmAi-XBSXBGuFQH02
 source_link: https://drive.google.com/file/d/1hEFUGxm6j-sgc2uRmAi-XBSXBGuFQH02/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["ar", "democratization", "journalism", "mark-pesce", "networks", "peer-to-peer", "trust"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["democratization", "journalism", "mark-pesce", "networks", "peer-to-peer", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/trust
     - concepts/networks
@@ -25,7 +24,6 @@ related:
   - concepts/networks
   - concepts/peer-to-peer
   - concepts/trust
-  - entities/ar
   - entities/mark-pesce
 ---
 # ispy_ipod.m4v
@@ -39,7 +37,6 @@ This recording is a keynote talk by Mark Pesce, a media and technology commentat
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust

@@ -6,15 +6,13 @@ drive_id: 1BAqJ3ldPk19YvxVrwA7MfePtLhNZ808L
 source_link: https://drive.google.com/file/d/1BAqJ3ldPk19YvxVrwA7MfePtLhNZ808L/view?usp=drivesdk
 type: keynote
 date: 2019
-tags: ["ar", "artificial-intelligence", "education", "facebook", "git", "mark-pesce", "the-future", "the-future-of-work"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "education", "facebook", "mark-pesce", "the-future", "the-future-of-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
@@ -25,9 +23,7 @@ related:
   - concepts/education
   - concepts/the-future
   - concepts/the-future-of-work
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
 ---
 # Citi How to Thrive in the 2020s 16Oct19.mp3
@@ -42,8 +38,6 @@ This recording is a keynote talk delivered by Mark Pesce, a media and technology
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

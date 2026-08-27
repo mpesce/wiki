@@ -6,9 +6,9 @@ drive_id: 1U99eihnZRMYp5RH5xbpb47vqlNBw5uV1
 source_link: https://drive.google.com/file/d/1U99eihnZRMYp5RH5xbpb47vqlNBw5uV1/view?usp=drivesdk
 type: news
 date: 1994
-tags: ["3d", "apple", "ar", "attention", "facebook", "google", "mark-pesce", "meta", "microsoft", "surveillance", "vr", "vrml"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["3d", "apple", "ar", "attention", "facebook", "google", "mark-pesce", "microsoft", "surveillance", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,10 +16,8 @@ mentions:
     - entities/google
     - entities/microsoft
     - entities/facebook
-    - entities/meta
     - entities/vrml
     - entities/3d
-    - entities/vr
     - entities/ar
   concepts:
     - concepts/surveillance
@@ -33,9 +31,7 @@ related:
   - entities/facebook
   - entities/google
   - entities/mark-pesce
-  - entities/meta
   - entities/microsoft
-  - entities/vr
   - entities/vrml
 ---
 # Pesce - SIGGRAPH FRONTIERS - The AR Dilemmas.mp4
@@ -53,10 +49,8 @@ Mark Pesce of the University of Sydney presents a SIGGRAPH Frontiers talk titled
 - [[entities/google]] (Google)
 - [[entities/microsoft]] (Microsoft)
 - [[entities/facebook]] (Facebook)
-- [[entities/meta]] (Meta)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
-- [[entities/vr]] (VR)
 - [[entities/ar]] (AR)
 
 ## Related Concepts

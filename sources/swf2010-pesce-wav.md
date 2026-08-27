@@ -6,24 +6,18 @@ drive_id: 1NaiP5dT71ysAxoh08Z5QzfT0tr1EWbG0
 source_link: https://drive.google.com/file/d/1NaiP5dT71ysAxoh08Z5QzfT0tr1EWbG0/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "connectivity", "git", "mark-pesce", "narrative", "open-source"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["connectivity", "mark-pesce", "open-source"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/open-source
-    - concepts/narrative
     - concepts/connectivity
 related:
   - concepts/connectivity
-  - concepts/narrative
   - concepts/open-source
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # swf2010-pesce.wav
@@ -37,12 +31,9 @@ This recording is a panel discussion from the Sydney Writers Festival, featuring
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/open-source]] — Open source
-- [[concepts/narrative]] — Narrative
 - [[concepts/connectivity]] — Connectivity
 
 ## Quotes

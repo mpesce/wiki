@@ -6,14 +6,12 @@ drive_id: 1lz-ebff5OaQ-7dED7oiXMxWwvfAkqS9J
 source_link: https://drive.google.com/file/d/1lz-ebff5OaQ-7dED7oiXMxWwvfAkqS9J/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "artificial-intelligence", "attention", "commons", "git", "mark-pesce", "narrative", "open-source", "social-media", "surveillance", "surveillance-capitalism", "twitter"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "attention", "commons", "mark-pesce", "open-source", "social-media", "surveillance", "surveillance-capitalism", "twitter"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-media
     - concepts/twitter
@@ -22,20 +20,16 @@ mentions:
     - concepts/artificial-intelligence
     - concepts/attention
     - concepts/open-source
-    - concepts/narrative
     - concepts/commons
 related:
   - concepts/artificial-intelligence
   - concepts/attention
   - concepts/commons
-  - concepts/narrative
   - concepts/open-source
   - concepts/social-media
   - concepts/surveillance
   - concepts/surveillance-capitalism
   - concepts/twitter
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # Sydney Writers Festival 3May19.mp3
@@ -49,8 +43,6 @@ This recording is a panel discussion titled Digital Disruption, hosted by the Gr
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media
@@ -60,7 +52,6 @@ This recording is a panel discussion titled Digital Disruption, hosted by the Gr
 - [[concepts/artificial-intelligence]] — Artificial intelligence
 - [[concepts/attention]] — Attention
 - [[concepts/open-source]] — Open source
-- [[concepts/narrative]] — Narrative
 - [[concepts/commons]] — The commons
 
 ## Quotes

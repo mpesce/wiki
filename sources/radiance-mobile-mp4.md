@@ -6,16 +6,16 @@ drive_id: 1K4lXnWgQF6i4BTxTUcq0k6orD2le6KTi
 source_link: https://drive.google.com/file/d/1K4lXnWgQF6i4BTxTUcq0k6orD2le6KTi/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # Radiance-mobile.mp4
 
@@ -27,7 +27,7 @@ Music track (mobile video) from the 'True Hallucinations' psychedelic audio proj
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

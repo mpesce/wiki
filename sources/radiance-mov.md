@@ -6,16 +6,16 @@ drive_id: 1hvQdmd4h8X_HrFp_H8SYjV0ocE_wsQrO
 source_link: https://drive.google.com/file/d/1hvQdmd4h8X_HrFp_H8SYjV0ocE_wsQrO/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # Radiance.mov
 
@@ -27,7 +27,7 @@ The provided transcript consists entirely of a continuous sequence of music, wit
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

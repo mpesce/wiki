@@ -6,13 +6,12 @@ drive_id: 1jls7M2sHoRiu1W9wTPnXtT_db7iVdKLN
 source_link: https://drive.google.com/file/d/1jls7M2sHoRiu1W9wTPnXtT_db7iVdKLN/view?usp=drivesdk
 type: lecture
 date: 1947
-tags: ["ar", "collaboration", "git", "remote-work", "the-future", "the-future-of-work"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["collaboration", "remote-work", "the-future", "the-future-of-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
-    - entities/git
+    - (none)
   concepts:
     - concepts/the-future
     - concepts/the-future-of-work
@@ -23,8 +22,6 @@ related:
   - concepts/remote-work
   - concepts/the-future
   - concepts/the-future-of-work
-  - entities/ar
-  - entities/git
 ---
 # Smartsheet - Reimagining the Future of Work.mp4
 
@@ -36,8 +33,7 @@ This recording is a talk delivered by a speaker who references a recent column i
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
+- (none named)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

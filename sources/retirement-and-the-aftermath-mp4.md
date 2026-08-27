@@ -6,16 +6,16 @@ drive_id: 14Wm-bVOgOELGc5oHus-NjtSt_UncoiDF
 source_link: https://drive.google.com/file/d/14Wm-bVOgOELGc5oHus-NjtSt_UncoiDF/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # Retirement and the aftermath.mp4
 
@@ -27,7 +27,7 @@ This recording appears to be an excerpt from a talk or interview discussing work
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

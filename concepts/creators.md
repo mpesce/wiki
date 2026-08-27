@@ -4,8 +4,8 @@ slug: creators
 title: Creators
 tags: ["concept"]
 source_count: 16
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -30,11 +30,11 @@ related:
 - [[sources/josh-szeps-podcast-17aug21-wav]] — Josh Szeps podcast 17Aug21.wav
 - [[sources/r0010023-mp4]] — R0010023.MP4
 - [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am]] — uptown-radio_recording-1_2021-04-26--t12-31-18am--mpesce.wav
+- [[sources/abc-jjj-14mar06-interview-mp3]] — ABC-JJJ-14Mar06-Interview.mp3
 - [[sources/the-human-use-of-human-networks-1-mp3]] — The Human Use of Human Networks (1).mp3
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-mp4]] — avatars96-pesce-leonard-dipaola_512kb.mp4
 - [[sources/felix-wav]] — Felix.wav
 - [[sources/quantiacs-launch-mov]] — Quantiacs-Launch.mov
-- [[sources/abc-jjj-14mar06-interview-mp3]] — ABC-JJJ-14Mar06-Interview.mp3
 
 ## Debates / Open Questions
 
@@ -53,8 +53,8 @@ related:
 - [[sources/josh-szeps-podcast-17aug21-wav]]
 - [[sources/r0010023-mp4]]
 - [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am]]
+- [[sources/abc-jjj-14mar06-interview-mp3]]
 - [[sources/the-human-use-of-human-networks-1-mp3]]
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-mp4]]
 - [[sources/felix-wav]]
 - [[sources/quantiacs-launch-mov]]
-- [[sources/abc-jjj-14mar06-interview-mp3]]

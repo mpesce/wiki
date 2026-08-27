@@ -6,18 +6,16 @@ drive_id: 1nxOXodHLSTpCWMDCqdKRoeEvqVNe9gIu
 source_link: https://drive.google.com/file/d/1nxOXodHLSTpCWMDCqdKRoeEvqVNe9gIu/view?usp=drivesdk
 type: workshop
 date: 2001
-tags: ["ar", "douglas-rushkoff", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["douglas-rushkoff", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/douglas-rushkoff
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/douglas-rushkoff
   - entities/mark-pesce
 ---
@@ -33,7 +31,6 @@ Opening session of 'Trialogues for a New Millennium' (Esalen, 2001) — a multi-
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/douglas-rushkoff]] (Douglas Rushkoff)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

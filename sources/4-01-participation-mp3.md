@@ -6,19 +6,16 @@ drive_id: 1WQRAooa0IYVkOsGaiiHUFerfNmuesD2h
 source_link: https://drive.google.com/file/d/1WQRAooa0IYVkOsGaiiHUFerfNmuesD2h/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["ar", "participation", "podcast"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["participation"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
-    - concepts/podcast
     - concepts/participation
 related:
   - concepts/participation
-  - concepts/podcast
-  - entities/ar
 ---
 # 4-01 Participation.mp3
 
@@ -30,10 +27,9 @@ AFTRS keynote. Mark reports a 'penny dropped' epiphany: while in LA he saw Al Go
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
-- [[concepts/podcast]] — Podcasting
 - [[concepts/participation]] — Participation
 
 ## Quotes

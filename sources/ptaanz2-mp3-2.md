@@ -6,22 +6,18 @@ drive_id: 10n9mPuBfdxE7zOfM4UNSGk8_2DRSkybZ
 source_link: https://drive.google.com/file/d/10n9mPuBfdxE7zOfM4UNSGk8_2DRSkybZ/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["ar", "mark-pesce", "podcast", "remote-work", "the-future"]
-created: 2026-08-26T10:40:11Z
-last_updated: 2026-08-26T10:40:11Z
+tags: ["mark-pesce", "remote-work", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
-    - concepts/podcast
     - concepts/remote-work
 related:
-  - concepts/podcast
   - concepts/remote-work
   - concepts/the-future
-  - entities/ar
   - entities/mark-pesce
 ---
 # PTAANZ2.mp3
@@ -35,11 +31,9 @@ This recording is a keynote address delivered by Mark Pesce, a futurist and podc
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
-- [[concepts/podcast]] — Podcasting
 - [[concepts/remote-work]] — Remote work
 
 ## Quotes

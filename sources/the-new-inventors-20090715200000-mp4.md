@@ -6,21 +6,17 @@ drive_id: 1pUvfvXLbwK_yTJbX6xEVhsnpd02SD7CC
 source_link: https://drive.google.com/file/d/1pUvfvXLbwK_yTJbX6xEVhsnpd02SD7CC/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "ar", "broadcast", "git"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "broadcast"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/abc
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
   - entities/abc
-  - entities/ar
-  - entities/git
 ---
 # The New Inventors-20090715200000.mp4
 
@@ -33,8 +29,6 @@ This recording is an episode of the Australian television program The New Invent
 
 ## Named Entities
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

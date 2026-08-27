@@ -6,14 +6,12 @@ drive_id: 1OjYhiUH2thSZUcIkXOSpb9Asy-5IYbXT
 source_link: https://drive.google.com/file/d/1OjYhiUH2thSZUcIkXOSpb9Asy-5IYbXT/view?usp=drivesdk
 type: podcast
 date: 2010
-tags: ["ar", "collaboration", "git", "mark-pesce", "networks", "social-networks", "twitter"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["collaboration", "mark-pesce", "networks", "social-networks", "twitter"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/twitter
     - concepts/social-networks
@@ -24,8 +22,6 @@ related:
   - concepts/networks
   - concepts/social-networks
   - concepts/twitter
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # ExpandingMind010710.mp3
@@ -39,8 +35,6 @@ Episode of 'Expanding Mind' (Progressive Radio Network, 1 July 2010), hosted by 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/twitter]] — Twitter

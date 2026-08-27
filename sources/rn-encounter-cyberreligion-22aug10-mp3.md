@@ -6,26 +6,20 @@ drive_id: 1lj7Q7CoHfC6zbbc-tjxwzYeiNzLFdvtY
 source_link: https://drive.google.com/file/d/1lj7Q7CoHfC6zbbc-tjxwzYeiNzLFdvtY/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "broadcast", "git", "mark-pesce", "the-future", "virtual-reality", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "the-future", "virtual-reality", "vr", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vrml
     - entities/vr
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/virtual-reality
-    - concepts/broadcast
 related:
-  - concepts/broadcast
   - concepts/the-future
   - concepts/virtual-reality
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
   - entities/vr
   - entities/vrml
@@ -43,13 +37,10 @@ This recording is an episode of the Australian Broadcasting Corporation's radio 
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/vrml]] (VRML)
 - [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
 - [[concepts/virtual-reality]] — Virtual reality
-- [[concepts/broadcast]] — Broadcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

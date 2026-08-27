@@ -6,17 +6,16 @@ drive_id: 1Ruu1aKgpTixZ8tHKW-ae2F47DqFHm7vy
 source_link: https://drive.google.com/file/d/1Ruu1aKgpTixZ8tHKW-ae2F47DqFHm7vy/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar", "trust"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/trust
 related:
   - concepts/trust
-  - entities/ar
 ---
 # D3_scramble-for-formal-methods.mp4
 
@@ -28,7 +27,7 @@ Clip. We probably passed the point where systems are smarter than us a long time
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust

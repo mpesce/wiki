@@ -6,30 +6,24 @@ drive_id: 17gPrSa39g8sbHeKBf-V0HQwp73TBv7Fv
 source_link: https://drive.google.com/file/d/17gPrSa39g8sbHeKBf-V0HQwp73TBv7Fv/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "attention", "broadcast", "content-creation", "git", "mark-pesce", "networks", "peer-to-peer", "social-networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["attention", "content-creation", "mark-pesce", "networks", "peer-to-peer", "social-networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-networks
     - concepts/attention
     - concepts/networks
     - concepts/peer-to-peer
     - concepts/content-creation
-    - concepts/broadcast
 related:
   - concepts/attention
-  - concepts/broadcast
   - concepts/content-creation
   - concepts/networks
   - concepts/peer-to-peer
   - concepts/social-networks
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # The Human Use of Human Networks.mp3
@@ -43,8 +37,6 @@ This recording is a presentation by Mark Pesce, a media and technology commentat
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks
@@ -52,7 +44,6 @@ This recording is a presentation by Mark Pesce, a media and technology commentat
 - [[concepts/networks]] — Networks
 - [[concepts/peer-to-peer]] — Peer-to-peer
 - [[concepts/content-creation]] — Content creation
-- [[concepts/broadcast]] — Broadcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

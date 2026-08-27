@@ -6,21 +6,16 @@ drive_id: 12hvyudNKtkwwi5o_Q6a83L9YFphyXjI4
 source_link: https://drive.google.com/file/d/12hvyudNKtkwwi5o_Q6a83L9YFphyXjI4/view?usp=drivesdk
 type: news
 date: 2019
-tags: ["ar", "facebook", "git", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/facebook
-    - entities/ar
-    - entities/git
+    - (none)
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
-  - entities/ar
-  - entities/facebook
-  - entities/git
 ---
 # Stacking Up PNG in the Cloud 20Aug19.mp3
 
@@ -32,9 +27,7 @@ Address on the future opportunities in Papua New Guinea (20 Aug 2019), opening w
 - See summary above.
 
 ## Named Entities
-- [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
+- (none named)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

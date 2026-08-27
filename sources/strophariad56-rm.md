@@ -6,20 +6,18 @@ drive_id: 1uP25B7Qj1NIpqCaHbEZ8ogzr18TW-0K-
 source_link: https://drive.google.com/file/d/1uP25B7Qj1NIpqCaHbEZ8ogzr18TW-0K-/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "broadcast", "mark-pesce", "narrative"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["broadcast", "mark-pesce", "narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/broadcast
     - concepts/narrative
 related:
   - concepts/broadcast
   - concepts/narrative
-  - entities/ar
   - entities/mark-pesce
 ---
 # Strophariad56.rm
@@ -33,7 +31,6 @@ The provided transcript consists entirely of non-verbal audio elements, specific
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

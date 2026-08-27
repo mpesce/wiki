@@ -6,18 +6,16 @@ drive_id: 1UzB0MahyCG1y9ityV0lHApCquA2czy-F
 source_link: https://drive.google.com/file/d/1UzB0MahyCG1y9ityV0lHApCquA2czy-F/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "mark-pesce", "narrative"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce", "narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/narrative
 related:
   - concepts/narrative
-  - entities/ar
   - entities/mark-pesce
 ---
 # mindstates-naturalselection.mp4
@@ -31,7 +29,6 @@ This recording is a lecture or talk delivered by Mark Pesce, a media and technol
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/narrative]] — Narrative

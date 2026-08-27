@@ -6,21 +6,17 @@ drive_id: 1U1KCI3nDb8C2uDz1Wx97chQcOHbsVPBc
 source_link: https://drive.google.com/file/d/1U1KCI3nDb8C2uDz1Wx97chQcOHbsVPBc/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "connectivity", "mark-pesce", "meta"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["connectivity", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/ar
   concepts:
     - concepts/connectivity
 related:
   - concepts/connectivity
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # The New Inventors-20090401200000.mp4
 
@@ -33,8 +29,6 @@ This recording is an episode of the Australian television program The New Invent
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/connectivity]] — Connectivity

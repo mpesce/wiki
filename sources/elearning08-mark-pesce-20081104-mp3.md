@@ -6,20 +6,18 @@ drive_id: 1cwLRZlWB0apCZO33iP9xSkyeEEhbR6oo
 source_link: https://drive.google.com/file/d/1cwLRZlWB0apCZO33iP9xSkyeEEhbR6oo/view?usp=drivesdk
 type: keynote
 date: 2008
-tags: ["ar", "education", "mit", "stanford", "unsw"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["education", "mit", "stanford", "unsw"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mit
     - entities/stanford
     - entities/unsw
-    - entities/ar
   concepts:
     - concepts/education
 related:
   - concepts/education
-  - entities/ar
   - entities/mit
   - entities/stanford
   - entities/unsw
@@ -37,7 +35,6 @@ Keynote to the eLearning 2008 conference (NSW, 4 Nov 2008), opening with an ackn
 - [[entities/mit]] (MIT)
 - [[entities/stanford]] (Stanford)
 - [[entities/unsw]] (UNSW)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/education]] — Education

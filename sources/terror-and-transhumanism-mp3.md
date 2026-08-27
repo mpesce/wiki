@@ -6,14 +6,13 @@ drive_id: 1z9fxVtO2eubDSyMc6dmpNuJbyR8ncWoD
 source_link: https://drive.google.com/file/d/1z9fxVtO2eubDSyMc6dmpNuJbyR8ncWoD/view?usp=drivesdk
 type: workshop
 date: unknown
-tags: ["ar", "communication", "innovation", "mark-pesce", "media-theory", "stanford", "transhumanism"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["communication", "innovation", "mark-pesce", "media-theory", "stanford", "transhumanism"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/stanford
-    - entities/ar
   concepts:
     - concepts/media-theory
     - concepts/transhumanism
@@ -24,7 +23,6 @@ related:
   - concepts/innovation
   - concepts/media-theory
   - concepts/transhumanism
-  - entities/ar
   - entities/mark-pesce
   - entities/stanford
 ---
@@ -40,7 +38,6 @@ This recording is a lecture delivered by Mark Pesce to a group of Stanford Unive
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/stanford]] (Stanford)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/media-theory]] — Media theory

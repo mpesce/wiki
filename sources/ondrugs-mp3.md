@@ -6,18 +6,15 @@ drive_id: 1lk7pHErgSkyfdO_ZSDQlcEL5Q-T1hTy7
 source_link: https://drive.google.com/file/d/1lk7pHErgSkyfdO_ZSDQlcEL5Q-T1hTy7/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "mark-pesce", "narrative"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
-    - concepts/narrative
+    - (none)
 related:
-  - concepts/narrative
-  - entities/ar
   - entities/mark-pesce
 ---
 # OnDrugs.mp3
@@ -31,10 +28,9 @@ This recording is a speech delivered by Mark Pesce to an audience in Jamaica, ad
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
-- [[concepts/narrative]] — Narrative
+- (none identified)
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

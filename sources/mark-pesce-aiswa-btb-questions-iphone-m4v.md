@@ -6,28 +6,22 @@ drive_id: 1aGuE57DoL-nG7Mqad69ORCUzAyTukbSq
 source_link: https://drive.google.com/file/d/1aGuE57DoL-nG7Mqad69ORCUzAyTukbSq/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "education", "facebook", "git", "mark-pesce", "networks", "participation", "social-media"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["facebook", "mark-pesce", "networks", "participation", "social-media"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-media
     - concepts/networks
-    - concepts/education
     - concepts/participation
 related:
-  - concepts/education
   - concepts/networks
   - concepts/participation
   - concepts/social-media
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
 ---
 # mark pesce AISWA BTB questions iPhone.m4v
@@ -42,13 +36,10 @@ This recording captures the question and answer portion of a talk or panel discu
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media
 - [[concepts/networks]] — Networks
-- [[concepts/education]] — Education
 - [[concepts/participation]] — Participation
 
 ## Quotes

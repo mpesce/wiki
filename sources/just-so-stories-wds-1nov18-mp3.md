@@ -6,19 +6,17 @@ drive_id: 13KovLzM331OXtMz0oUIfqf7Z7lg_VFBC
 source_link: https://drive.google.com/file/d/13KovLzM331OXtMz0oUIfqf7Z7lg_VFBC/view?usp=drivesdk
 type: podcast
 date: 1959
-tags: ["ar", "facebook", "mark-pesce", "social-media"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["facebook", "mark-pesce", "social-media"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
   concepts:
     - concepts/social-media
 related:
   - concepts/social-media
-  - entities/ar
   - entities/facebook
   - entities/mark-pesce
 ---
@@ -34,7 +32,6 @@ This recording is a lecture or talk delivered by Mark Pesce, a media and technol
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

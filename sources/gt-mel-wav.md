@@ -6,16 +6,15 @@ drive_id: 1pRqmF5YXslaZvYPFcbprJw4U-CZxq0fP
 source_link: https://drive.google.com/file/d/1pRqmF5YXslaZvYPFcbprJw4U-CZxq0fP/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["apple", "ar", "blockchain", "git", "mark-pesce", "peer-to-peer", "startups", "venture-capital"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "blockchain", "mark-pesce", "peer-to-peer", "smart-contracts", "startups", "venture-capital"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
-    - entities/ar
     - entities/blockchain
-    - entities/git
+    - entities/smart-contracts
   concepts:
     - concepts/peer-to-peer
     - concepts/startups
@@ -25,10 +24,9 @@ related:
   - concepts/startups
   - concepts/venture-capital
   - entities/apple
-  - entities/ar
   - entities/blockchain
-  - entities/git
   - entities/mark-pesce
+  - entities/smart-contracts
 ---
 # GT  MEL.wav
 
@@ -42,9 +40,8 @@ This recording is a talk by Mark Pesce, a futurist and former Apple engineer, de
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
-- [[entities/ar]] (AR)
 - [[entities/blockchain]] (blockchain)
-- [[entities/git]] (Git)
+- [[entities/smart-contracts]] (smart contracts)
 
 ## Related Concepts
 - [[concepts/peer-to-peer]] — Peer-to-peer

@@ -6,17 +6,15 @@ drive_id: 181IAtqNDvIwCVBLdxtJ8e1fHf0pgvPcc
 source_link: https://drive.google.com/file/d/181IAtqNDvIwCVBLdxtJ8e1fHf0pgvPcc/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
 ---
 # Mindstates2003.mp3
@@ -30,7 +28,6 @@ This recording is a lecture by Mark Pesce, delivered at a conference where he re
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

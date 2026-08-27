@@ -6,23 +6,19 @@ drive_id: 13yVAuyKtuGROdD5YEe3RdDIrW_ToSI7h
 source_link: https://drive.google.com/file/d/13yVAuyKtuGROdD5YEe3RdDIrW_ToSI7h/view?usp=drivesdk
 type: lecture
 date: 2016
-tags: ["ar", "google", "mark-pesce", "meta", "narrative"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["google", "mark-pesce", "narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
-    - entities/meta
-    - entities/ar
   concepts:
     - concepts/narrative
 related:
   - concepts/narrative
-  - entities/ar
   - entities/google
   - entities/mark-pesce
-  - entities/meta
 ---
 # Surveillance Status ARIN2610 20Oct20.mp4
 
@@ -36,8 +32,6 @@ This recording is a lecture by Mark Pesce, a media and technology commentator, d
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/narrative]] — Narrative

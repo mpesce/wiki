@@ -6,17 +6,16 @@ drive_id: 1funEW4Bxl-hDs7RVACSCdB6oQG4cXSZM
 source_link: https://drive.google.com/file/d/1funEW4Bxl-hDs7RVACSCdB6oQG4cXSZM/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "creators"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["creators"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/creators
 related:
   - concepts/creators
-  - entities/ar
 ---
 # Quantiacs-Launch.mov
 
@@ -28,7 +27,7 @@ This recording is a brief promotional introduction or pitch delivered by Martin,
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/creators]] — Creators

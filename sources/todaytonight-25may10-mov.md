@@ -6,14 +6,13 @@ drive_id: 1WyNyt3JOEyI8uHKxxMc22aCFbBopTxIc
 source_link: https://drive.google.com/file/d/1WyNyt3JOEyI8uHKxxMc22aCFbBopTxIc/view?usp=drivesdk
 type: interview
 date: 2015
-tags: ["3d", "ar", "broadcast", "mark-pesce", "virtual-reality"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "broadcast", "mark-pesce", "virtual-reality"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/3d
-    - entities/ar
   concepts:
     - concepts/virtual-reality
     - concepts/broadcast
@@ -21,7 +20,6 @@ related:
   - concepts/broadcast
   - concepts/virtual-reality
   - entities/3d
-  - entities/ar
   - entities/mark-pesce
 ---
 # TodayTonight-25May10.mov
@@ -36,7 +34,6 @@ This recording is a news broadcast segment from an Australian television program
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/3d]] (3D)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

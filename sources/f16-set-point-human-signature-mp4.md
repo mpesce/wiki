@@ -6,16 +6,16 @@ drive_id: 16Y4FHtMj40tDm1wPlicGa4QFsjz0fSnY
 source_link: https://drive.google.com/file/d/16Y4FHtMj40tDm1wPlicGa4QFsjz0fSnY/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # F16_set-point-human-signature.mp4
 
@@ -27,7 +27,7 @@ Clip on drift: systems need to be able to DETECT that the world has changed, but
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

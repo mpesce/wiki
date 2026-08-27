@@ -6,27 +6,25 @@ drive_id: 1wuCshLxhZNnrUWeXGf7mJiNz-pgZHmnL
 source_link: https://drive.google.com/file/d/1wuCshLxhZNnrUWeXGf7mJiNz-pgZHmnL/view?usp=drivesdk
 type: podcast
 date: 2008
-tags: ["ar", "bitcoin", "blockchain", "facebook", "git", "mark-pesce", "podcast"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["bitcoin", "blockchain", "facebook", "mark-pesce", "podcast", "smart-contracts"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
     - entities/blockchain
+    - entities/smart-contracts
     - entities/bitcoin
-    - entities/git
   concepts:
     - concepts/podcast
 related:
   - concepts/podcast
-  - entities/ar
   - entities/bitcoin
   - entities/blockchain
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
+  - entities/smart-contracts
 ---
 # Post-Classical Finance CFO Series Sydney 11May21.mp4
 
@@ -40,10 +38,9 @@ This recording is a presentation by Mark Pesce, a professional futurist and host
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
 - [[entities/blockchain]] (blockchain)
+- [[entities/smart-contracts]] (smart contracts)
 - [[entities/bitcoin]] (Bitcoin)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/podcast]] — Podcasting

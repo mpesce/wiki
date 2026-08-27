@@ -6,17 +6,15 @@ drive_id: 10quKjMZz6VuQpzPBm8W5Ik81GNhan8Wf
 source_link: https://drive.google.com/file/d/10quKjMZz6VuQpzPBm8W5Ik81GNhan8Wf/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "mark-pesce"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
 ---
 # D14_ai-in-practice-governance.mp4
@@ -30,7 +28,6 @@ The provided transcript is a brief excerpt from a talk or interview featuring Ma
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

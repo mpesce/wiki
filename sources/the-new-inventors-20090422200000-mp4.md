@@ -6,19 +6,17 @@ drive_id: 1eBL6CVGZLE7MLnJcZsngMjcxCiCOZAwt
 source_link: https://drive.google.com/file/d/1eBL6CVGZLE7MLnJcZsngMjcxCiCOZAwt/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["abc", "ar", "broadcast"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "broadcast"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/abc
-    - entities/ar
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
   - entities/abc
-  - entities/ar
 ---
 # The New Inventors-20090422200000.mp4
 
@@ -31,7 +29,6 @@ This recording is an episode of the Australian Broadcasting Corporation's televi
 
 ## Named Entities
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

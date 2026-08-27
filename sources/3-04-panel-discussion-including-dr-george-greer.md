@@ -6,18 +6,16 @@ drive_id: 1MzaSQ-Pauy8t4YQttcs3NesLKzCiwik0
 source_link: https://drive.google.com/file/d/1MzaSQ-Pauy8t4YQttcs3NesLKzCiwik0/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "george-greer", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["george-greer", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/george-greer
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/george-greer
   - entities/mark-pesce
 ---
@@ -33,7 +31,6 @@ This recording captures a panel discussion moderated by Mark Pesce, featuring Dr
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/george-greer]] (Dr. George Greer)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

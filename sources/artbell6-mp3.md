@@ -6,18 +6,16 @@ drive_id: 10Pos2qH3J5X921mYFsfVbrhYebSno62J
 source_link: https://drive.google.com/file/d/10Pos2qH3J5X921mYFsfVbrhYebSno62J/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "broadcast", "mark-pesce"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["broadcast", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
-  - entities/ar
   - entities/mark-pesce
 ---
 # artbell6.mp3
@@ -31,7 +29,6 @@ This recording is a segment from the Art Bell radio show, featuring an interview
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

@@ -6,14 +6,12 @@ drive_id: 122Utdvfn8w7sZIa6UOc_hHpeTEFFofvZ
 source_link: https://drive.google.com/file/d/122Utdvfn8w7sZIa6UOc_hHpeTEFFofvZ/view?usp=drivesdk
 type: keynote
 date: 1975
-tags: ["ar", "connectivity", "git", "mark-pesce", "networks", "social-networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["connectivity", "mark-pesce", "networks", "social-networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-networks
     - concepts/networks
@@ -22,8 +20,6 @@ related:
   - concepts/connectivity
   - concepts/networks
   - concepts/social-networks
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # Better-Than-Crack.mp3
@@ -37,8 +33,6 @@ This recording is a keynote lecture delivered by Mark Pesce, an honorary associa
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks

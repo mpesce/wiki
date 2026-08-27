@@ -6,23 +6,19 @@ drive_id: 1OXTzgS-lPRahIciVWdzavBSJuUkqrZUV
 source_link: https://drive.google.com/file/d/1OXTzgS-lPRahIciVWdzavBSJuUkqrZUV/view?usp=drivesdk
 type: interview
 date: 2020
-tags: ["ar", "mark-pesce", "meta", "the-future", "the-future-of-work"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "the-future", "the-future-of-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/the-future-of-work
 related:
   - concepts/the-future
   - concepts/the-future-of-work
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # The Bell can not be unrung.mp4
 
@@ -35,8 +31,6 @@ This recording is a segment from an interview or discussion panel featuring Mark
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

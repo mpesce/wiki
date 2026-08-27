@@ -6,18 +6,16 @@ drive_id: 1IgHVDaFvRNz4g9qcrl-6BJub72iCrsZJ
 source_link: https://drive.google.com/file/d/1IgHVDaFvRNz4g9qcrl-6BJub72iCrsZJ/view?usp=drivesdk
 type: talk
 date: unknown
-tags: ["ar", "mark-pesce", "social-media"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce", "social-media"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/social-media
 related:
   - concepts/social-media
-  - entities/ar
   - entities/mark-pesce
 ---
 # Tiff_50_MDP.mp4
@@ -31,7 +29,6 @@ This recording is a brief personal audio message or social media post dedicated 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

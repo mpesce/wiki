@@ -6,16 +6,14 @@ drive_id: 1VBmtW_DDe7f137PpMPxb2_XL3YoPL9eP
 source_link: https://drive.google.com/file/d/1VBmtW_DDe7f137PpMPxb2_XL3YoPL9eP/view?usp=drivesdk
 type: lecture
 date: 2019
-tags: ["apple", "ar", "facebook", "git", "innovation", "mark-pesce", "peer-to-peer"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "facebook", "innovation", "mark-pesce", "peer-to-peer"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/peer-to-peer
     - concepts/innovation
@@ -23,9 +21,7 @@ related:
   - concepts/innovation
   - concepts/peer-to-peer
   - entities/apple
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
 ---
 # ASX New Money HVEC 480p.mp4
@@ -41,8 +37,6 @@ This recording is a lecture or talk delivered by Mark Pesce, a media and technol
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/peer-to-peer]] — Peer-to-peer

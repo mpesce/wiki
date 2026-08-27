@@ -6,17 +6,16 @@ drive_id: 12Zx9DffjgCv03zzeXj_tFyKf2ETk0WJw
 source_link: https://drive.google.com/file/d/12Zx9DffjgCv03zzeXj_tFyKf2ETk0WJw/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "identity"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["identity"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/identity
 related:
   - concepts/identity
-  - entities/ar
 ---
 # Engage in co-design.mp4
 
@@ -28,7 +27,7 @@ This recording appears to be an excerpt from a business or design-focused talk, 
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/identity]] — Identity

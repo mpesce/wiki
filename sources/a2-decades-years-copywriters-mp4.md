@@ -6,16 +6,16 @@ drive_id: 1oVpMBsFTaKJKr6xCdRzTaYBEC8-cbzY5
 source_link: https://drive.google.com/file/d/1oVpMBsFTaKJKr6xCdRzTaYBEC8-cbzY5/view?usp=drivesdk
 type: workshop
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # A2_decades-years-copywriters.mp4
 
@@ -27,7 +27,7 @@ Clip. On the timeline for obsolescence: the mills that couldn't implement the ch
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

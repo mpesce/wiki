@@ -6,19 +6,15 @@ drive_id: 1pId3xL8JGr52UJ13rrYhAT_do-bjWTMT
 source_link: https://drive.google.com/file/d/1pId3xL8JGr52UJ13rrYhAT_do-bjWTMT/view?usp=drivesdk
 type: interview
 date: 2012
-tags: ["ar", "git", "mark-pesce"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - (none)
 related:
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # artbell4.mp3
@@ -32,8 +28,6 @@ This recording is a segment from the radio program Coast to Coast AM, featuring 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - (none identified)

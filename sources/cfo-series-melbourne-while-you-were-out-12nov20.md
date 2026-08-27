@@ -6,29 +6,27 @@ drive_id: 1HkrfDPZrb71DpdWfoYknZ81sJUMWY51q
 source_link: https://drive.google.com/file/d/1HkrfDPZrb71DpdWfoYknZ81sJUMWY51q/view?usp=drivesdk
 type: lecture
 date: 2022
-tags: ["ar", "attention", "bitcoin", "ethereum", "facebook", "git", "mark-pesce", "surveillance"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["attention", "bitcoin", "ethereum", "facebook", "mark-pesce", "smart-contracts", "surveillance"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
+    - entities/smart-contracts
     - entities/bitcoin
     - entities/ethereum
-    - entities/git
   concepts:
     - concepts/surveillance
     - concepts/attention
 related:
   - concepts/attention
   - concepts/surveillance
-  - entities/ar
   - entities/bitcoin
   - entities/ethereum
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
+  - entities/smart-contracts
 ---
 # CFO Series Melbourne While You Were Out 12Nov20.mp4
 
@@ -42,10 +40,9 @@ This recording is a talk delivered by Mark Pesce to the CFO series in Melbourne,
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
+- [[entities/smart-contracts]] (smart contracts)
 - [[entities/bitcoin]] (Bitcoin)
 - [[entities/ethereum]] (Ethereum)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

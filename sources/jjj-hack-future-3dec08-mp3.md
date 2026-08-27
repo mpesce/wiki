@@ -6,26 +6,22 @@ drive_id: 1ecyM-Xg6MNzb_9g4SHqTOq8_h1OEH2jV
 source_link: https://drive.google.com/file/d/1ecyM-Xg6MNzb_9g4SHqTOq8_h1OEH2jV/view?usp=drivesdk
 type: interview
 date: 2009
-tags: ["3d", "ar", "broadcast", "communication", "innovation", "mark-pesce", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "broadcast", "innovation", "mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/3d
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/broadcast
     - concepts/innovation
-    - concepts/communication
 related:
   - concepts/broadcast
-  - concepts/communication
   - concepts/innovation
   - concepts/the-future
   - entities/3d
-  - entities/ar
   - entities/mark-pesce
 ---
 # JJJ_HACK_FUTURE_3Dec08.mp3
@@ -40,13 +36,11 @@ This recording is an episode of the Australian radio program Hack, hosted by Kat
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/3d]] (3D)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
 - [[concepts/broadcast]] — Broadcasting
 - [[concepts/innovation]] — Innovation
-- [[concepts/communication]] — Communication
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

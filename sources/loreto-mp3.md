@@ -6,13 +6,12 @@ drive_id: 1ks4fA2UKlL67pxcEgtRfPsVt24fLHDoM
 source_link: https://drive.google.com/file/d/1ks4fA2UKlL67pxcEgtRfPsVt24fLHDoM/view?usp=drivesdk
 type: workshop
 date: 2033
-tags: ["ar", "artificial-intelligence", "education", "mark-pesce", "networks", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "education", "mark-pesce", "networks", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
@@ -23,7 +22,6 @@ related:
   - concepts/education
   - concepts/networks
   - concepts/the-future
-  - entities/ar
   - entities/mark-pesce
 ---
 # Loreto.mp3
@@ -37,7 +35,6 @@ This recording is a talk by futurist and technology commentator Mark Pesce, deli
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

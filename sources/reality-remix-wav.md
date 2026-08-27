@@ -6,9 +6,9 @@ drive_id: 1hTsZnWVqxw5TK1Q3qA-qu99k56lWU8Cw
 source_link: https://drive.google.com/file/d/1hTsZnWVqxw5TK1Q3qA-qu99k56lWU8Cw/view?usp=drivesdk
 type: news
 date: 1968
-tags: ["3d", "ar", "google", "mark-pesce", "the-future", "virtual-reality", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "google", "mark-pesce", "the-future", "virtual-reality", "vr", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,7 +16,6 @@ mentions:
     - entities/vrml
     - entities/3d
     - entities/vr
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/virtual-reality
@@ -24,7 +23,6 @@ related:
   - concepts/the-future
   - concepts/virtual-reality
   - entities/3d
-  - entities/ar
   - entities/google
   - entities/mark-pesce
   - entities/vr
@@ -45,7 +43,6 @@ This recording is a conference talk delivered by Mark Pesce, a media and technol
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
 - [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

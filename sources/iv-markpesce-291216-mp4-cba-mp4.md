@@ -6,19 +6,17 @@ drive_id: 1K4_tI8OGZSfAJJnt-XkY27ht2FZQSero
 source_link: https://drive.google.com/file/d/1K4_tI8OGZSfAJJnt-XkY27ht2FZQSero/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "mark-pesce", "virtual-reality", "vr"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "virtual-reality", "vr"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vr
-    - entities/ar
   concepts:
     - concepts/virtual-reality
 related:
   - concepts/virtual-reality
-  - entities/ar
   - entities/mark-pesce
   - entities/vr
 ---
@@ -34,7 +32,6 @@ This recording is a television news interview featuring Mark Pesce, a futurist, 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

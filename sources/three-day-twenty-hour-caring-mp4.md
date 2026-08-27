@@ -6,20 +6,18 @@ drive_id: 1qf8db82Wbp4bLsJaGhbb-95LwntmACci
 source_link: https://drive.google.com/file/d/1qf8db82Wbp4bLsJaGhbb-95LwntmACci/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "mark-pesce", "the-future", "the-future-of-work"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "the-future", "the-future-of-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/the-future-of-work
 related:
   - concepts/the-future
   - concepts/the-future-of-work
-  - entities/ar
   - entities/mark-pesce
 ---
 # Three Day Twenty Hour Caring.mp4
@@ -33,7 +31,6 @@ This recording is an interview segment featuring Mark Pesce discussing the futur
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

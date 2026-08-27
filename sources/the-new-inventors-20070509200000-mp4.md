@@ -6,18 +6,15 @@ drive_id: 1sWPKnyjqkhpTL4yrg_ol3JWsjKC2Bzn_
 source_link: https://drive.google.com/file/d/1sWPKnyjqkhpTL4yrg_ol3JWsjKC2Bzn_/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "broadcast", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
-    - concepts/broadcast
+    - (none)
 related:
-  - concepts/broadcast
-  - entities/ar
   - entities/mark-pesce
 ---
 # The New Inventors-20070509200000.mp4
@@ -31,10 +28,9 @@ This recording is an episode of the Australian Broadcasting Corporation televisi
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
-- [[concepts/broadcast]] — Broadcasting
+- (none identified)
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

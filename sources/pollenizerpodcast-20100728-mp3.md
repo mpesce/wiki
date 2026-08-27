@@ -6,30 +6,26 @@ drive_id: 1NhWUlWkcX1jl0V3byn3xr3R_4V37ptDF
 source_link: https://drive.google.com/file/d/1NhWUlWkcX1jl0V3byn3xr3R_4V37ptDF/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["apple", "ar", "communication", "facebook", "mark-pesce", "mozilla", "open-source", "podcast", "social-media", "twitter"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "facebook", "mark-pesce", "mozilla", "open-source", "podcast", "social-media", "twitter"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
     - entities/facebook
-    - entities/ar
   concepts:
     - concepts/social-media
     - concepts/twitter
     - concepts/open-source
     - concepts/podcast
-    - concepts/communication
 related:
-  - concepts/communication
   - concepts/open-source
   - concepts/podcast
   - concepts/social-media
   - concepts/twitter
   - entities/apple
-  - entities/ar
   - entities/facebook
   - entities/mark-pesce
   - entities/mozilla
@@ -48,14 +44,12 @@ This recording is an episode of the Pollenizer podcast, featuring an interview w
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media
 - [[concepts/twitter]] — Twitter
 - [[concepts/open-source]] — Open source
 - [[concepts/podcast]] — Podcasting
-- [[concepts/communication]] — Communication
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

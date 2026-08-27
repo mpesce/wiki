@@ -6,16 +6,16 @@ drive_id: 10W-iQlvX1gbNh71sMxUZKd8ANy5EQQ6d
 source_link: https://drive.google.com/file/d/10W-iQlvX1gbNh71sMxUZKd8ANy5EQQ6d/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # F12_supercritical.mp4
 
@@ -27,7 +27,7 @@ Clip on a key safety distinction: separate SELF-IMPROVEMENT from SELF-GOVERNANCE
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

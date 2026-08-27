@@ -6,21 +6,17 @@ drive_id: 1KRh_90CBvMB34btluAA1POZtKgMT9zKy
 source_link: https://drive.google.com/file/d/1KRh_90CBvMB34btluAA1POZtKgMT9zKy/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "mark-pesce", "vr", "vrml"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vrml
-    - entities/vr
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # Shared Paths DECO 2200 23Sep21.mp4
@@ -35,8 +31,6 @@ Mark Pesce delivers a lecture to a student audience, likely at the Australian Fi
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

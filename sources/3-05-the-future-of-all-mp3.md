@@ -6,20 +6,18 @@ drive_id: 1Z9UdPu6wJxPehCghlazNiEiMMvhfOObm
 source_link: https://drive.google.com/file/d/1Z9UdPu6wJxPehCghlazNiEiMMvhfOObm/view?usp=drivesdk
 type: interview
 date: 2012
-tags: ["ar", "artificial-intelligence", "mark-pesce", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
 related:
   - concepts/artificial-intelligence
   - concepts/the-future
-  - entities/ar
   - entities/mark-pesce
 ---
 # 3-05 The Future of All.mp3
@@ -33,7 +31,6 @@ This recording is the third and final talk in a series delivered by Mark Pesce a
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

@@ -6,18 +6,16 @@ drive_id: 1lzaGpsFA7x-Ae-hXACPD1TJinHFkS_HF
 source_link: https://drive.google.com/file/d/1lzaGpsFA7x-Ae-hXACPD1TJinHFkS_HF/view?usp=drivesdk
 type: interview
 date: 2030
-tags: ["ar", "mark-pesce", "startups"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce", "startups"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/startups
 related:
   - concepts/startups
-  - entities/ar
   - entities/mark-pesce
 ---
 # Prime Life Event.mp4
@@ -31,7 +29,6 @@ This recording is a presentation and panel discussion hosted by Prime Life Partn
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/startups]] — Startups

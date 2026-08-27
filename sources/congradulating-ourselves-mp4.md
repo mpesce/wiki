@@ -6,18 +6,16 @@ drive_id: 10k7j8tTVh9kV02tOC_eKC5qaeKr8GuLX
 source_link: https://drive.google.com/file/d/10k7j8tTVh9kV02tOC_eKC5qaeKr8GuLX/view?usp=drivesdk
 type: lecture
 date: 2035
-tags: ["ar", "mark-pesce", "narrative"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/narrative
 related:
   - concepts/narrative
-  - entities/ar
   - entities/mark-pesce
 ---
 # Congradulating ourselves.mp4
@@ -31,7 +29,6 @@ This recording appears to be a segment from a talk or lecture, likely delivered 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/narrative]] — Narrative

@@ -6,22 +6,20 @@ drive_id: 1tC13De8cwRcvrWQ4ZwVLdkdGiF2kGisQ
 source_link: https://drive.google.com/file/d/1tC13De8cwRcvrWQ4ZwVLdkdGiF2kGisQ/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["3d", "abc", "ar", "mark-pesce", "virtual-reality"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "abc", "mark-pesce", "virtual-reality"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/abc
     - entities/3d
-    - entities/ar
   concepts:
     - concepts/virtual-reality
 related:
   - concepts/virtual-reality
   - entities/3d
   - entities/abc
-  - entities/ar
   - entities/mark-pesce
 ---
 # 7pm-project.mov
@@ -37,7 +35,6 @@ This recording is a television interview segment featuring Mark Pesce, identifie
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/abc]] (ABC)
 - [[entities/3d]] (3D)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

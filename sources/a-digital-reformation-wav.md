@@ -6,9 +6,9 @@ drive_id: 1mDQiSuV_tnrdx0OvtAkJj4ST27_smSfk
 source_link: https://drive.google.com/file/d/1mDQiSuV_tnrdx0OvtAkJj4ST27_smSfk/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["apple", "ar", "facebook", "git", "google", "mark-pesce", "mozilla", "surveillance"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "ar", "facebook", "google", "mark-pesce", "mozilla", "surveillance"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -17,7 +17,6 @@ mentions:
     - entities/google
     - entities/facebook
     - entities/ar
-    - entities/git
   concepts:
     - concepts/surveillance
 related:
@@ -25,7 +24,6 @@ related:
   - entities/apple
   - entities/ar
   - entities/facebook
-  - entities/git
   - entities/google
   - entities/mark-pesce
   - entities/mozilla
@@ -46,7 +44,6 @@ This recording is a keynote speech delivered by Mark Pesce in Toronto, introduce
 - [[entities/google]] (Google)
 - [[entities/facebook]] (Facebook)
 - [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

@@ -6,20 +6,16 @@ drive_id: 1R48xm8A_w5E7ZZ90iogKiVKUm-fab9re
 source_link: https://drive.google.com/file/d/1R48xm8A_w5E7ZZ90iogKiVKUm-fab9re/view?usp=drivesdk
 type: interview
 date: 1993
-tags: ["3d", "ar", "git", "mark-pesce", "meta", "metaverse", "microsoft", "podcast", "virtual-reality", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "mark-pesce", "metaverse", "microsoft", "podcast", "virtual-reality", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/microsoft
-    - entities/meta
     - entities/vrml
     - entities/3d
-    - entities/vr
-    - entities/ar
     - entities/metaverse
-    - entities/git
   concepts:
     - concepts/virtual-reality
     - concepts/podcast
@@ -27,13 +23,9 @@ related:
   - concepts/podcast
   - concepts/virtual-reality
   - entities/3d
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
-  - entities/meta
   - entities/metaverse
   - entities/microsoft
-  - entities/vr
   - entities/vrml
 ---
 # Mark Pesce session 1.wav
@@ -48,13 +40,9 @@ This recording is a conversation between Mark Pesce and an interviewer, likely R
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/microsoft]] (Microsoft)
-- [[entities/meta]] (Meta)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 - [[entities/metaverse]] (the Metaverse)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

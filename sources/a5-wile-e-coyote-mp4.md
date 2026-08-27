@@ -6,16 +6,16 @@ drive_id: 14opOs0RypChVRqjj6q1WVtn8CgKgjQzD
 source_link: https://drive.google.com/file/d/14opOs0RypChVRqjj6q1WVtn8CgKgjQzD/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # A5_wile-e-coyote.mp4
 
@@ -27,7 +27,7 @@ Clip on the 'Wile E. Coyote moment': most orgs are running off the edge of a cli
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

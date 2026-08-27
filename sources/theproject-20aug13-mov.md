@@ -6,17 +6,16 @@ drive_id: 1PWzg2SXZtlcwLK1mDoAneCb4Q3q6X2gY
 source_link: https://drive.google.com/file/d/1PWzg2SXZtlcwLK1mDoAneCb4Q3q6X2gY/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "open-source"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["open-source"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/open-source
 related:
   - concepts/open-source
-  - entities/ar
 ---
 # TheProject-20Aug13.mov
 
@@ -28,7 +27,7 @@ This recording is a segment from a television talk show or news program featurin
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/open-source]] — Open source

@@ -6,24 +6,18 @@ drive_id: 1MWrnios4IRvpVDz5jJyk6SIu2MkBk0Tg
 source_link: https://drive.google.com/file/d/1MWrnios4IRvpVDz5jJyk6SIu2MkBk0Tg/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "broadcast", "digital-distribution", "git", "mark-pesce", "networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["digital-distribution", "mark-pesce", "networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/networks
     - concepts/digital-distribution
-    - concepts/broadcast
 related:
-  - concepts/broadcast
   - concepts/digital-distribution
   - concepts/networks
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # media-hungary-talk-end.mp4
@@ -37,13 +31,10 @@ This recording is the concluding segment of a talk or presentation delivered by 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/networks]] — Networks
 - [[concepts/digital-distribution]] — Digital distribution
-- [[concepts/broadcast]] — Broadcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

@@ -6,19 +6,16 @@ drive_id: 18pFPgDdg7Z7wPOh8HEESTC8eASv22BEY
 source_link: https://drive.google.com/file/d/18pFPgDdg7Z7wPOh8HEESTC8eASv22BEY/view?usp=drivesdk
 type: keynote
 date: 2030
-tags: ["ar", "artificial-intelligence", "collaboration", "connectivity", "mark-pesce", "participation", "the-future", "the-future-of-work", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "collaboration", "connectivity", "mark-pesce", "participation", "the-future", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vrml
-    - entities/vr
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
-    - concepts/the-future-of-work
     - concepts/collaboration
     - concepts/connectivity
     - concepts/participation
@@ -28,10 +25,7 @@ related:
   - concepts/connectivity
   - concepts/participation
   - concepts/the-future
-  - concepts/the-future-of-work
-  - entities/ar
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # WPC 11Sep19.wav
@@ -46,13 +40,10 @@ This recording captures the opening keynote address by Mark Pesce at the 12th Wo
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
 - [[concepts/artificial-intelligence]] — Artificial intelligence
-- [[concepts/the-future-of-work]] — The future of work
 - [[concepts/collaboration]] — Collaboration
 - [[concepts/connectivity]] — Connectivity
 - [[concepts/participation]] — Participation

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/16Kc0a7VUD4pd8jF7BiaAeMx1hbS6k5G8/v
 type: news
 date: unknown
 tags: ["apple", "ar", "facebook", "google", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/apple

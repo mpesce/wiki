@@ -6,14 +6,12 @@ drive_id: 1QtmBgIfvTAv6hcO-dSNASraTIBb2OTW3
 source_link: https://drive.google.com/file/d/1QtmBgIfvTAv6hcO-dSNASraTIBb2OTW3/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["abc", "ar", "broadcast", "git", "identity", "the-swarm"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "broadcast", "identity", "the-swarm"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/abc
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/identity
     - concepts/the-swarm
@@ -23,8 +21,6 @@ related:
   - concepts/identity
   - concepts/the-swarm
   - entities/abc
-  - entities/ar
-  - entities/git
 ---
 # The New Inventors-20081001200000.mp4
 
@@ -37,8 +33,6 @@ This recording is a broadcast of the Australian television program The New Inven
 
 ## Named Entities
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/identity]] — Identity

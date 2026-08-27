@@ -6,17 +6,16 @@ drive_id: 1_hIVuTAt4NynRgaOCR_6gOb2_xvYHtAL
 source_link: https://drive.google.com/file/d/1_hIVuTAt4NynRgaOCR_6gOb2_xvYHtAL/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar", "fog-of-knowability"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["fog-of-knowability"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/fog-of-knowability
 related:
   - concepts/fog-of-knowability
-  - entities/ar
 ---
 # D2_fog-of-knowability.mp4
 
@@ -28,7 +27,7 @@ Clip on the 'fog of knowability': when outputs are generated in a domain where a
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/fog-of-knowability]] — The fog of knowability

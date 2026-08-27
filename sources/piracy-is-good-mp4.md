@@ -6,13 +6,12 @@ drive_id: 1G9HnVqFBOxejmD8Q7TZk74LOBMG4y1di
 source_link: https://drive.google.com/file/d/1G9HnVqFBOxejmD8Q7TZk74LOBMG4y1di/view?usp=drivesdk
 type: interview
 date: 2004
-tags: ["ar", "broadcast", "hyperdistribution", "mark-pesce", "networks", "peer-to-peer"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["broadcast", "hyperdistribution", "mark-pesce", "networks", "peer-to-peer"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/hyperdistribution
     - concepts/networks
@@ -23,7 +22,6 @@ related:
   - concepts/hyperdistribution
   - concepts/networks
   - concepts/peer-to-peer
-  - entities/ar
   - entities/mark-pesce
 ---
 # Piracy_is_Good.mp4
@@ -37,7 +35,6 @@ This recording is a lecture delivered by Mark Pesce at the Australian Film, Tele
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/hyperdistribution]] — Hyperdistribution

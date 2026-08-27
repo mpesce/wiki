@@ -4,8 +4,8 @@ slug: peer-to-peer
 title: Peer-to-peer
 tags: ["concept"]
 source_count: 32
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -35,6 +35,7 @@ related:
 - [[sources/v20-day-one-mp4]] — V20 Day One.mp4
 - [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am]] — uptown-radio_recording-1_2021-04-26--t12-31-18am--mpesce.wav
 - [[sources/a-series-of-tubes-wpc-11sep19-mp3]] — A Series of Tubes WPC 11Sep19.mp3
+- [[sources/abc-jjj-14mar06-interview-mp3]] — ABC-JJJ-14Mar06-Interview.mp3
 - [[sources/abj-jjj-5oct06-interview-mp3]] — ABJ-JJJ-5Oct06-Interview.mp3
 - [[sources/f6-non-mintables-mp4]] — F6_non-mintables.mp4
 - [[sources/telstra-ipod-m4v]] — telstra_ipod.m4v
@@ -50,7 +51,6 @@ related:
 - [[sources/1-58269-80068-flvhigh-flv]] — 1_58269_80068_flvhigh.flv
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-2-mp4]] — avatars96-pesce-leonard-dipaola_512kb 2.mp4
 - [[sources/gt-mel-wav]] — GT  MEL.wav
-- [[sources/abc-jjj-14mar06-interview-mp3]] — ABC-JJJ-14Mar06-Interview.mp3
 
 ## Debates / Open Questions
 
@@ -74,6 +74,7 @@ related:
 - [[sources/v20-day-one-mp4]]
 - [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am]]
 - [[sources/a-series-of-tubes-wpc-11sep19-mp3]]
+- [[sources/abc-jjj-14mar06-interview-mp3]]
 - [[sources/abj-jjj-5oct06-interview-mp3]]
 - [[sources/f6-non-mintables-mp4]]
 - [[sources/telstra-ipod-m4v]]
@@ -89,4 +90,3 @@ related:
 - [[sources/1-58269-80068-flvhigh-flv]]
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-2-mp4]]
 - [[sources/gt-mel-wav]]
-- [[sources/abc-jjj-14mar06-interview-mp3]]

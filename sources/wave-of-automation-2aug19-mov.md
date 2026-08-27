@@ -6,14 +6,12 @@ drive_id: 1f1HInLZwVFoVhY59C0hidieyrSe4ve-e
 source_link: https://drive.google.com/file/d/1f1HInLZwVFoVhY59C0hidieyrSe4ve-e/view?usp=drivesdk
 type: news
 date: 2019
-tags: ["ar", "education", "git", "mark-pesce", "narrative", "the-future"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["education", "mark-pesce", "narrative", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/education
@@ -22,8 +20,6 @@ related:
   - concepts/education
   - concepts/narrative
   - concepts/the-future
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # Wave of Automation 2Aug19.mov
@@ -37,8 +33,6 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

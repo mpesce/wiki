@@ -4,8 +4,8 @@ slug: surveillance-capitalism
 title: Surveillance capitalism
 tags: ["concept"]
 source_count: 7
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -20,9 +20,9 @@ related:
 
 ## Key Points
 - [[sources/ega-mkv]] — EGA.mkv
+- [[sources/saatchi-wav-2]] — Saatchi.wav
 - [[sources/slv-wav]] — SLV.wav
 - [[sources/ega-wav]] — EGA.wav
-- [[sources/saatchi-wav-2]] — Saatchi.wav
 - [[sources/ega-mp3]] — EGA.mp3
 - [[sources/the-last-days-of-reality-ega-8dec17-mkv]] — The Last Days of Reality - EGA 8Dec17.mkv
 - [[sources/sydney-writers-festival-3may19-mp3]] — Sydney Writers Festival 3May19.mp3
@@ -34,9 +34,9 @@ related:
 ## Sources
 
 - [[sources/ega-mkv]]
+- [[sources/saatchi-wav-2]]
 - [[sources/slv-wav]]
 - [[sources/ega-wav]]
-- [[sources/saatchi-wav-2]]
 - [[sources/ega-mp3]]
 - [[sources/the-last-days-of-reality-ega-8dec17-mkv]]
 - [[sources/sydney-writers-festival-3may19-mp3]]

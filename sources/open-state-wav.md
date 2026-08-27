@@ -6,19 +6,17 @@ drive_id: 1qY8OT1jHWitK0WVAQR9XUwErM1nqHB57
 source_link: https://drive.google.com/file/d/1qY8OT1jHWitK0WVAQR9XUwErM1nqHB57/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "facebook", "mark-pesce", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["facebook", "mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
-  - entities/ar
   - entities/facebook
   - entities/mark-pesce
 ---
@@ -34,7 +32,6 @@ This recording captures a lunchtime talk by Mark Pesce, a futurist, inventor, an
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

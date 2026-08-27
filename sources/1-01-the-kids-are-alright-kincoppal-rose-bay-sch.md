@@ -6,9 +6,9 @@ drive_id: 1mTBWZGZqQ0hTM7NqVo9yXwVulKZ36C3l
 source_link: https://drive.google.com/file/d/1mTBWZGZqQ0hTM7NqVo9yXwVulKZ36C3l/view?usp=drivesdk
 type: podcast
 date: 2000
-tags: ["apple", "ar", "communication", "education", "git", "google", "mark-pesce", "mit", "mozilla", "networks", "participation", "social-networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "communication", "education", "google", "mark-pesce", "mit", "mozilla", "networks", "participation", "social-networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,8 +16,6 @@ mentions:
     - entities/mozilla
     - entities/google
     - entities/mit
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-networks
     - concepts/networks
@@ -31,8 +29,6 @@ related:
   - concepts/participation
   - concepts/social-networks
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/google
   - entities/mark-pesce
   - entities/mit
@@ -53,8 +49,6 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 - [[entities/mozilla]] (Mozilla)
 - [[entities/google]] (Google)
 - [[entities/mit]] (MIT)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks

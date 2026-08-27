@@ -6,21 +6,19 @@ drive_id: 1IZ3aEfFc0YcMxE0F2QvXHuI4NTXapzZV
 source_link: https://drive.google.com/file/d/1IZ3aEfFc0YcMxE0F2QvXHuI4NTXapzZV/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["apple", "ar", "artificial-intelligence", "mark-pesce", "mozilla"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "artificial-intelligence", "mark-pesce", "mozilla"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
-    - entities/ar
   concepts:
     - concepts/artificial-intelligence
 related:
   - concepts/artificial-intelligence
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
   - entities/mozilla
 ---
@@ -37,7 +35,6 @@ This recording is a segment from a talk or lecture by Mark Pesce, a media and te
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

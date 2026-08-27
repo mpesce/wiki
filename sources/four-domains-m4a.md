@@ -6,14 +6,13 @@ drive_id: 1ut4UBxYGLRioFpknYqN04ABsB51aFbxB
 source_link: https://drive.google.com/file/d/1ut4UBxYGLRioFpknYqN04ABsB51aFbxB/view?usp=drivesdk
 type: podcast
 date: 2015
-tags: ["ar", "collaboration", "connectivity", "education", "google", "mark-pesce", "participation", "social-media"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["collaboration", "connectivity", "education", "google", "mark-pesce", "participation", "social-media"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
-    - entities/ar
   concepts:
     - concepts/social-media
     - concepts/education
@@ -26,7 +25,6 @@ related:
   - concepts/education
   - concepts/participation
   - concepts/social-media
-  - entities/ar
   - entities/google
   - entities/mark-pesce
 ---
@@ -42,7 +40,6 @@ This recording is an interactive lecture delivered by Mark Pesce to an audience 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

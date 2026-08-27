@@ -6,17 +6,16 @@ drive_id: 1ZYlrVkwfy2bqPgCDCZjY1PsLQIvOZuW_
 source_link: https://drive.google.com/file/d/1ZYlrVkwfy2bqPgCDCZjY1PsLQIvOZuW_/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "identity"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["identity"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/identity
 related:
   - concepts/identity
-  - entities/ar
 ---
 # The New Inventors-20081119200000.mp4
 
@@ -28,7 +27,7 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/identity]] — Identity

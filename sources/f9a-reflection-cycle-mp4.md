@@ -6,16 +6,16 @@ drive_id: 1nCWgih-fZzzTNMHhddpU4uulBRzd43sa
 source_link: https://drive.google.com/file/d/1nCWgih-fZzzTNMHhddpU4uulBRzd43sa/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # F9a_reflection-cycle.mp4
 
@@ -27,7 +27,7 @@ Clip on why agents fall over: agents audit themselves, which is a problem — 't
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

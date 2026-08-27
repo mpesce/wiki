@@ -6,19 +6,16 @@ drive_id: 1KOtr46xevCSOMh3tfSOWFn8Yvfz4IfN8
 source_link: https://drive.google.com/file/d/1KOtr46xevCSOMh3tfSOWFn8Yvfz4IfN8/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "communication", "git"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["communication"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
-    - entities/git
+    - (none)
   concepts:
     - concepts/communication
 related:
   - concepts/communication
-  - entities/ar
-  - entities/git
 ---
 # The New Inventors-20090812200000.mp4
 
@@ -30,8 +27,7 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
+- (none named)
 
 ## Related Concepts
 - [[concepts/communication]] — Communication

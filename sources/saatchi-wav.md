@@ -6,9 +6,9 @@ drive_id: 1wFV7bv9Rua48TSVIS1KlnRATKpXcjqp4
 source_link: https://drive.google.com/file/d/1wFV7bv9Rua48TSVIS1KlnRATKpXcjqp4/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["apple", "ar", "artificial-intelligence", "attention", "facebook", "google", "mark-pesce", "mozilla", "trust"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "artificial-intelligence", "attention", "facebook", "google", "mark-pesce", "mozilla", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,7 +16,6 @@ mentions:
     - entities/mozilla
     - entities/google
     - entities/facebook
-    - entities/ar
   concepts:
     - concepts/artificial-intelligence
     - concepts/trust
@@ -26,7 +25,6 @@ related:
   - concepts/attention
   - concepts/trust
   - entities/apple
-  - entities/ar
   - entities/facebook
   - entities/google
   - entities/mark-pesce
@@ -47,7 +45,6 @@ This recording is a lecture or presentation by Mark Pesce, a futurist and former
 - [[entities/mozilla]] (Mozilla)
 - [[entities/google]] (Google)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

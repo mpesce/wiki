@@ -6,18 +6,16 @@ drive_id: 1uHWYSdi-4j888YEMcvuh8TOi6l5K_dUU
 source_link: https://drive.google.com/file/d/1uHWYSdi-4j888YEMcvuh8TOi6l5K_dUU/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "education", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["education", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/education
 related:
   - concepts/education
-  - entities/ar
   - entities/mark-pesce
 ---
 # Everything changed.mp4
@@ -31,7 +29,6 @@ This recording appears to be a segment from a talk or lecture by Mark Pesce, foc
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/education]] — Education

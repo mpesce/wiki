@@ -6,14 +6,12 @@ drive_id: 1WhkQrmr3Nh1drR0rkFil7hf8uZXLtwg_
 source_link: https://drive.google.com/file/d/1WhkQrmr3Nh1drR0rkFil7hf8uZXLtwg_/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "communication", "git", "mark-pesce", "narrative", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["communication", "mark-pesce", "narrative", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/narrative
@@ -22,8 +20,6 @@ related:
   - concepts/communication
   - concepts/narrative
   - concepts/the-future
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # bt-1.mp4
@@ -37,8 +33,6 @@ This recording is a spoken-word lecture or talk delivered by Mark Pesce, a media
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

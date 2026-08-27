@@ -6,18 +6,16 @@ drive_id: 1huiPngx_Pw3y8PSEoawtcQ4l8amRJ-U_
 source_link: https://drive.google.com/file/d/1huiPngx_Pw3y8PSEoawtcQ4l8amRJ-U_/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/abc
-    - entities/ar
   concepts:
     - (none)
 related:
   - entities/abc
-  - entities/ar
 ---
 # The New Inventors-20070228195900.mp4
 
@@ -30,7 +28,6 @@ This recording is an episode of the Australian television program The New Invent
 
 ## Named Entities
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

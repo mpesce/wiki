@@ -6,15 +6,13 @@ drive_id: 13WoSPGkoFqj2tFhpx6CX7Nn1oKEwjbFI
 source_link: https://drive.google.com/file/d/13WoSPGkoFqj2tFhpx6CX7Nn1oKEwjbFI/view?usp=drivesdk
 type: workshop
 date: unknown
-tags: ["ar", "connectivity", "mark-pesce", "networks", "social-media", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["connectivity", "mark-pesce", "networks", "social-media", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vrml
-    - entities/vr
-    - entities/ar
   concepts:
     - concepts/social-media
     - concepts/networks
@@ -23,9 +21,7 @@ related:
   - concepts/connectivity
   - concepts/networks
   - concepts/social-media
-  - entities/ar
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # ConnectingUp09-11May09.mp3
@@ -40,8 +36,6 @@ This recording is a conference presentation by Mark Pesce, identified as an inve
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

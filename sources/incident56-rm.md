@@ -6,18 +6,16 @@ drive_id: 1sCJy5fp9dMb4Bgy13lIDfemMweTHsAIy
 source_link: https://drive.google.com/file/d/1sCJy5fp9dMb4Bgy13lIDfemMweTHsAIy/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "broadcast", "mark-pesce"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["broadcast", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
-  - entities/ar
   - entities/mark-pesce
 ---
 # Incident56.rm
@@ -31,7 +29,6 @@ The provided transcript consists entirely of non-verbal audio elements, specific
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

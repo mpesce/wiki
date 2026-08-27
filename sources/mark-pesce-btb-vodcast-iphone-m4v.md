@@ -6,14 +6,13 @@ drive_id: 19EyoIli4n1Xii1_eQJmbxX1-hWL6yA55
 source_link: https://drive.google.com/file/d/19EyoIli4n1Xii1_eQJmbxX1-hWL6yA55/view?usp=drivesdk
 type: panel
 date: 2004
-tags: ["ar", "education", "facebook", "mark-pesce", "networks", "social-media", "social-networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["education", "facebook", "mark-pesce", "networks", "social-media", "social-networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
   concepts:
     - concepts/social-media
     - concepts/social-networks
@@ -24,7 +23,6 @@ related:
   - concepts/networks
   - concepts/social-media
   - concepts/social-networks
-  - entities/ar
   - entities/facebook
   - entities/mark-pesce
 ---
@@ -40,7 +38,6 @@ This recording is a lecture delivered by Mark Pesce to an audience of educators,
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

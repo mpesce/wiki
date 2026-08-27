@@ -6,14 +6,13 @@ drive_id: 1kXK3tnpNir1gyFRHu6gBx56VEUTp44My
 source_link: https://drive.google.com/file/d/1kXK3tnpNir1gyFRHu6gBx56VEUTp44My/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["3d", "ar", "blockchain", "ethereum", "mark-pesce", "the-future"]
-created: 2026-08-26T11:01:33Z
-last_updated: 2026-08-26T11:01:33Z
+tags: ["3d", "blockchain", "ethereum", "mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/3d
-    - entities/ar
     - entities/blockchain
     - entities/ethereum
   concepts:
@@ -21,7 +20,6 @@ mentions:
 related:
   - concepts/the-future
   - entities/3d
-  - entities/ar
   - entities/blockchain
   - entities/ethereum
   - entities/mark-pesce
@@ -38,7 +36,6 @@ This recording is an interview between a journalist and Mark Pesce, a media and 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/3d]] (3D)
-- [[entities/ar]] (AR)
 - [[entities/blockchain]] (blockchain)
 - [[entities/ethereum]] (Ethereum)
 

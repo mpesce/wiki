@@ -6,18 +6,16 @@ drive_id: 1x_4E5s4Kw75Bh5rgh0-rUZWy5IQGf-Bb
 source_link: https://drive.google.com/file/d/1x_4E5s4Kw75Bh5rgh0-rUZWy5IQGf-Bb/view?usp=drivesdk
 type: panel
 date: 2025
-tags: ["ar", "mark-pesce", "vr"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "vr"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vr
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
   - entities/vr
 ---
@@ -33,7 +31,6 @@ Short intro clip from the 'Common Factor: Future of Work 2025' panel. The host w
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

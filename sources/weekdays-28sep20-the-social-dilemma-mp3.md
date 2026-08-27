@@ -6,16 +6,14 @@ drive_id: 1EAVEnKcDrGrowaGsx0hBGqWoPnmpNicl
 source_link: https://drive.google.com/file/d/1EAVEnKcDrGrowaGsx0hBGqWoPnmpNicl/view?usp=drivesdk
 type: interview
 date: 2020
-tags: ["abc", "ar", "artificial-intelligence", "facebook", "google", "mit", "social-media"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "artificial-intelligence", "facebook", "google", "social-media"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/google
     - entities/facebook
     - entities/abc
-    - entities/mit
-    - entities/ar
   concepts:
     - concepts/social-media
     - concepts/artificial-intelligence
@@ -23,10 +21,8 @@ related:
   - concepts/artificial-intelligence
   - concepts/social-media
   - entities/abc
-  - entities/ar
   - entities/facebook
   - entities/google
-  - entities/mit
 ---
 # Weekdays 28Sep20 The Social Dilemma.mp3
 
@@ -41,8 +37,6 @@ This recording is a radio interview from the ABC, dated September 28, 2020, feat
 - [[entities/google]] (Google)
 - [[entities/facebook]] (Facebook)
 - [[entities/abc]] (ABC)
-- [[entities/mit]] (MIT)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

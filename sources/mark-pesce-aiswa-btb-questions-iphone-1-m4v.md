@@ -6,14 +6,12 @@ drive_id: 1D-hofIgfK8xpPbnmIM2ZBtoNGGm_kNpa
 source_link: https://drive.google.com/file/d/1D-hofIgfK8xpPbnmIM2ZBtoNGGm_kNpa/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "education", "facebook", "git", "networks", "social-media", "social-networks", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["education", "facebook", "networks", "social-media", "social-networks", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/social-media
@@ -26,9 +24,7 @@ related:
   - concepts/social-media
   - concepts/social-networks
   - concepts/the-future
-  - entities/ar
   - entities/facebook
-  - entities/git
 ---
 # mark pesce AISWA BTB questions iPhone (1).m4v
 
@@ -41,8 +37,6 @@ This recording captures the question and answer segment of a talk or panel discu
 
 ## Named Entities
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

@@ -6,13 +6,12 @@ drive_id: 10_VBH792-eaRyg3JnJVJ4hHkjp96W_2K
 source_link: https://drive.google.com/file/d/10_VBH792-eaRyg3JnJVJ4hHkjp96W_2K/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "artificial-intelligence", "chatgpt", "education", "mark-pesce", "narrative", "podcast"]
-created: 2026-08-26T10:40:11Z
-last_updated: 2026-08-26T10:40:11Z
+tags: ["artificial-intelligence", "chatgpt", "education", "mark-pesce", "narrative", "podcast"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
     - entities/chatgpt
   concepts:
     - concepts/artificial-intelligence
@@ -24,7 +23,6 @@ related:
   - concepts/education
   - concepts/narrative
   - concepts/podcast
-  - entities/ar
   - entities/chatgpt
   - entities/mark-pesce
 ---
@@ -39,7 +37,6 @@ This recording is an episode of the podcast The Futurist, hosted by Rob Tercek, 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 - [[entities/chatgpt]] (ChatGPT)
 
 ## Related Concepts

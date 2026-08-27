@@ -6,20 +6,18 @@ drive_id: 1YUaOTeYxBVjPoggEk2Xa4D-bIRc7trCe
 source_link: https://drive.google.com/file/d/1YUaOTeYxBVjPoggEk2Xa4D-bIRc7trCe/view?usp=drivesdk
 type: news
 date: 2001
-tags: ["ar", "douglas-rushkoff", "mark-pesce", "virtual-reality", "vr"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["douglas-rushkoff", "mark-pesce", "virtual-reality", "vr"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/douglas-rushkoff
     - entities/vr
-    - entities/ar
   concepts:
     - concepts/virtual-reality
 related:
   - concepts/virtual-reality
-  - entities/ar
   - entities/douglas-rushkoff
   - entities/mark-pesce
   - entities/vr
@@ -37,7 +35,6 @@ Part of 'Techno-Pagans at the End of History' (Esalen Institute, 2001) — a mul
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/douglas-rushkoff]] (Douglas Rushkoff)
 - [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

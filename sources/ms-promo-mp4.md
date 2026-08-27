@@ -6,16 +6,16 @@ drive_id: 11HPtdqTIHwW79_FELhgrbTMZ0Ewvin2U
 source_link: https://drive.google.com/file/d/11HPtdqTIHwW79_FELhgrbTMZ0Ewvin2U/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # ms_promo.mp4
 
@@ -27,7 +27,7 @@ This recording is a brief, informal audio clip featuring a short dialogue betwee
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

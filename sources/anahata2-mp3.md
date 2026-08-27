@@ -6,21 +6,17 @@ drive_id: 1VPnHSWJBEUeNCv0nUG-supLy1_EIUZjw
 source_link: https://drive.google.com/file/d/1VPnHSWJBEUeNCv0nUG-supLy1_EIUZjw/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "identity", "mark-pesce", "meta"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["identity", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/ar
   concepts:
     - concepts/identity
 related:
   - concepts/identity
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # anahata2.mp3
 
@@ -33,8 +29,6 @@ This recording is a spoken word monologue or lecture by Mark Pesce, focusing on 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/identity]] — Identity

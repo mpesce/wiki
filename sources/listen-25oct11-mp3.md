@@ -6,20 +6,18 @@ drive_id: 1DwTOa-N9LTFDevpu77ZRRLEoxuHbOiid
 source_link: https://drive.google.com/file/d/1DwTOa-N9LTFDevpu77ZRRLEoxuHbOiid/view?usp=drivesdk
 type: lecture
 date: 1995
-tags: ["ar", "connectivity", "mark-pesce", "twitter"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["connectivity", "mark-pesce", "twitter"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/twitter
     - concepts/connectivity
 related:
   - concepts/connectivity
   - concepts/twitter
-  - entities/ar
   - entities/mark-pesce
 ---
 # Listen-25Oct11.mp3
@@ -33,7 +31,6 @@ This recording is a talk delivered by Mark Pesce, a media and technology comment
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/twitter]] — Twitter

@@ -6,15 +6,13 @@ drive_id: 1etxR2kOCsORpVZrByszZfat4nx86nr79
 source_link: https://drive.google.com/file/d/1etxR2kOCsORpVZrByszZfat4nx86nr79/view?usp=drivesdk
 type: panel
 date: 2009
-tags: ["abc", "ar", "broadcast", "mark-pesce", "meta", "twitter"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "broadcast", "mark-pesce", "twitter"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
     - entities/abc
-    - entities/ar
   concepts:
     - concepts/twitter
     - concepts/broadcast
@@ -22,9 +20,7 @@ related:
   - concepts/broadcast
   - concepts/twitter
   - entities/abc
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # nightlife-twitter-11Mar09.mp3
 
@@ -37,9 +33,7 @@ ABC Radio 'Night Live' (Tony Delroy, 11 Mar 2009) panel on Twitter, with futuris
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/twitter]] — Twitter

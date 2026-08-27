@@ -6,32 +6,26 @@ drive_id: 1SMSv3N_qOxRPAHuzW6tfBBR7rP4YlKwp
 source_link: https://drive.google.com/file/d/1SMSv3N_qOxRPAHuzW6tfBBR7rP4YlKwp/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "bbc", "broadcast", "creators", "git", "innovation", "mark-pesce", "networks", "peer-to-peer", "social-networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["bbc", "creators", "innovation", "mark-pesce", "networks", "peer-to-peer", "social-networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/bbc
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-networks
     - concepts/networks
     - concepts/peer-to-peer
     - concepts/creators
-    - concepts/broadcast
     - concepts/innovation
 related:
-  - concepts/broadcast
   - concepts/creators
   - concepts/innovation
   - concepts/networks
   - concepts/peer-to-peer
   - concepts/social-networks
-  - entities/ar
   - entities/bbc
-  - entities/git
   - entities/mark-pesce
 ---
 # The Human Use of Human Networks (1).mp3
@@ -46,15 +40,12 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/bbc]] (BBC)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks
 - [[concepts/networks]] — Networks
 - [[concepts/peer-to-peer]] — Peer-to-peer
 - [[concepts/creators]] — Creators
-- [[concepts/broadcast]] — Broadcasting
 - [[concepts/innovation]] — Innovation
 
 ## Quotes

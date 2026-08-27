@@ -6,18 +6,16 @@ drive_id: 1wY1-fvZuT6yEFWk8TdgpRl0uY7MCp2Hz
 source_link: https://drive.google.com/file/d/1wY1-fvZuT6yEFWk8TdgpRl0uY7MCp2Hz/view?usp=drivesdk
 type: interview
 date: 1997
-tags: ["ar", "mark-pesce", "trust"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/trust
 related:
   - concepts/trust
-  - entities/ar
   - entities/mark-pesce
 ---
 # TheWorld13Dec22.mkv.webm
@@ -31,7 +29,6 @@ This recording is an interview with Mark Pesce, a media and technology commentat
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust

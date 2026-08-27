@@ -6,20 +6,18 @@ drive_id: 1-MincildQOcq6ty1XKl0d_owdCB3vNaL
 source_link: https://drive.google.com/file/d/1-MincildQOcq6ty1XKl0d_owdCB3vNaL/view?usp=drivesdk
 type: workshop
 date: unknown
-tags: ["apple", "ar", "mark-pesce", "mozilla"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "mark-pesce", "mozilla"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
-    - entities/ar
   concepts:
     - (none)
 related:
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
   - entities/mozilla
 ---
@@ -36,7 +34,6 @@ This recording is a segment from a talk or lecture by Mark Pesce, a media and te
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

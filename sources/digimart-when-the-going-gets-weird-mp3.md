@@ -6,17 +6,15 @@ drive_id: 1mPb8GiT46-TQIqiEilppoPiqQKwaXiAE
 source_link: https://drive.google.com/file/d/1mPb8GiT46-TQIqiEilppoPiqQKwaXiAE/view?usp=drivesdk
 type: news
 date: 2004
-tags: ["ar", "microsoft"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["microsoft"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/microsoft
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/microsoft
 ---
 # DIGIMART -When The Going Gets Weird.mp3
@@ -30,7 +28,6 @@ Talk at DIGIMART (Mark had been at the National Film School for two years). He o
 
 ## Named Entities
 - [[entities/microsoft]] (Microsoft)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

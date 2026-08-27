@@ -6,19 +6,18 @@ drive_id: 1lH5YNK2AB9Elp6hGPFqCV_81YQwERtsW
 source_link: https://drive.google.com/file/d/1lH5YNK2AB9Elp6hGPFqCV_81YQwERtsW/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "broadcast", "innovation"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["broadcast", "innovation"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/broadcast
     - concepts/innovation
 related:
   - concepts/broadcast
   - concepts/innovation
-  - entities/ar
 ---
 # The New Inventors-20070822200000.mp4
 
@@ -30,7 +29,7 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

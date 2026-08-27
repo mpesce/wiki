@@ -6,17 +6,15 @@ drive_id: 1IMSblXSxsnm1uK6sfv6nUWKE7eLsuqW0
 source_link: https://drive.google.com/file/d/1IMSblXSxsnm1uK6sfv6nUWKE7eLsuqW0/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "mark-pesce"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
 ---
 # artbell1.mp3
@@ -30,7 +28,6 @@ The provided transcript consists entirely of repeated instances of music playing
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

@@ -6,20 +6,16 @@ drive_id: 1MM_zzScgptVaO1Ec3AF2TWKBQiFzGVWa
 source_link: https://drive.google.com/file/d/1MM_zzScgptVaO1Ec3AF2TWKBQiFzGVWa/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "mark-pesce", "meta"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # artbell8.mp3
 
@@ -32,8 +28,6 @@ This recording is a segment from the radio show Coast to Coast AM, hosted by Art
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

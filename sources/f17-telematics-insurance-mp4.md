@@ -6,20 +6,18 @@ drive_id: 15I3k8us1HtxUYaTpG0bHSJaOV54L6-2E
 source_link: https://drive.google.com/file/d/15I3k8us1HtxUYaTpG0bHSJaOV54L6-2E/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "artificial-intelligence", "mark-pesce", "trust"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["artificial-intelligence", "mark-pesce", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/artificial-intelligence
     - concepts/trust
 related:
   - concepts/artificial-intelligence
   - concepts/trust
-  - entities/ar
   - entities/mark-pesce
 ---
 # F17_telematics-insurance.mp4
@@ -33,7 +31,6 @@ This recording appears to be an excerpt from a talk or lecture by Mark Pesce, fo
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

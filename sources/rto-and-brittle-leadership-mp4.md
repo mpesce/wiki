@@ -6,18 +6,16 @@ drive_id: 1-yVStIFaVecR9SDwVw_WajzVB9UMlpGk
 source_link: https://drive.google.com/file/d/1-yVStIFaVecR9SDwVw_WajzVB9UMlpGk/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "mark-pesce", "remote-work"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "remote-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/remote-work
 related:
   - concepts/remote-work
-  - entities/ar
   - entities/mark-pesce
 ---
 # RTO and Brittle Leadership.mp4
@@ -31,7 +29,6 @@ This recording is a segment from a panel discussion or interview featuring Mark 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/remote-work]] — Remote work

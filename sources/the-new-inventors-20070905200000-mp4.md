@@ -6,17 +6,16 @@ drive_id: 1ofcURCLZ0ugFpZneTNUx11eCFMTiHQJJ
 source_link: https://drive.google.com/file/d/1ofcURCLZ0ugFpZneTNUx11eCFMTiHQJJ/view?usp=drivesdk
 type: panel
 date: 2020
-tags: ["ar", "broadcast"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
-    - concepts/broadcast
+    - (none)
 related:
-  - concepts/broadcast
-  - entities/ar
+  - (none)
 ---
 # The New Inventors-20070905200000.mp4
 
@@ -28,10 +27,10 @@ This recording is an episode of the Australian Broadcasting Corporation televisi
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
-- [[concepts/broadcast]] — Broadcasting
+- (none identified)
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

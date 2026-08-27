@@ -6,22 +6,18 @@ drive_id: 1_1qegEx2amMXbM5MIIkDh5r5m631rAJA
 source_link: https://drive.google.com/file/d/1_1qegEx2amMXbM5MIIkDh5r5m631rAJA/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "economic-viability", "environmental-sustainability", "green-tech", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["economic-viability", "environmental-sustainability", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/environmental-sustainability
-    - concepts/green-tech
     - concepts/economic-viability
 related:
   - concepts/economic-viability
   - concepts/environmental-sustainability
-  - concepts/green-tech
-  - entities/ar
   - entities/mark-pesce
 ---
 # Transition without wrecking economy.mp4
@@ -35,11 +31,9 @@ This recording appears to be a segment from a talk or lecture by Mark Pesce, foc
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/environmental-sustainability]] — Environmental sustainability
-- [[concepts/green-tech]] — Green technology
 - [[concepts/economic-viability]] — Economic viability
 
 ## Quotes

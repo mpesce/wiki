@@ -6,26 +6,20 @@ drive_id: 1w9A4TuWtxERhTHG983_gIsFJH70u-iCc
 source_link: https://drive.google.com/file/d/1w9A4TuWtxERhTHG983_gIsFJH70u-iCc/view?usp=drivesdk
 type: interview
 date: 1987
-tags: ["3d", "ar", "communication", "mark-pesce", "the-future", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["communication", "mark-pesce", "the-future", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vrml
-    - entities/3d
-    - entities/vr
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/communication
 related:
   - concepts/communication
   - concepts/the-future
-  - entities/3d
-  - entities/ar
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # Mark interviews Bill.wav
@@ -40,9 +34,6 @@ This recording is a live talk and interview held at a media and technology studi
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/vrml]] (VRML)
-- [[entities/3d]] (3D)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

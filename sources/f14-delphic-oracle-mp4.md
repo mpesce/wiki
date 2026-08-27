@@ -6,17 +6,16 @@ drive_id: 1904w_lJIpmkQfE1bCaddtvb5DLXV1T9J
 source_link: https://drive.google.com/file/d/1904w_lJIpmkQfE1bCaddtvb5DLXV1T9J/view?usp=drivesdk
 type: workshop
 date: unknown
-tags: ["ar", "trust"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/trust
 related:
   - concepts/trust
-  - entities/ar
 ---
 # F14_delphic-oracle.mp4
 
@@ -28,7 +27,7 @@ Clip on trust in post-frontier ('mythos-class') systems that are smarter than us
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust

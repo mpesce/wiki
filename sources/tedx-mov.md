@@ -6,24 +6,20 @@ drive_id: 18HMduXCy3CopSDfoW1SGqwQ0SIi1KKYp
 source_link: https://drive.google.com/file/d/18HMduXCy3CopSDfoW1SGqwQ0SIi1KKYp/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "attention", "connectivity", "facebook", "git", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["attention", "connectivity", "facebook", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/attention
     - concepts/connectivity
 related:
   - concepts/attention
   - concepts/connectivity
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
 ---
 # tedx.mov
@@ -38,8 +34,6 @@ This recording is a talk by Mark Pesce, a media and technology commentator, deli
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/attention]] — Attention

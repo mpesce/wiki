@@ -6,9 +6,9 @@ drive_id: 1p0V_Bn8Vo9rAxgX8M1pwepeWWv9fk_Wt
 source_link: https://drive.google.com/file/d/1p0V_Bn8Vo9rAxgX8M1pwepeWWv9fk_Wt/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["abc", "ar", "artificial-intelligence", "blockchain", "connectivity", "git", "google", "mark-pesce", "networks", "peer-to-peer", "social-media", "social-networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "ar", "artificial-intelligence", "blockchain", "connectivity", "google", "mark-pesce", "networks", "peer-to-peer", "social-media", "social-networks", "startups"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,7 +16,6 @@ mentions:
     - entities/abc
     - entities/ar
     - entities/blockchain
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/social-media
@@ -38,7 +37,6 @@ related:
   - entities/abc
   - entities/ar
   - entities/blockchain
-  - entities/git
   - entities/google
   - entities/mark-pesce
 ---
@@ -57,7 +55,6 @@ This recording is a presentation and Q&A session delivered by Mark Pesce to the 
 - [[entities/abc]] (ABC)
 - [[entities/ar]] (AR)
 - [[entities/blockchain]] (blockchain)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

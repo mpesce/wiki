@@ -6,25 +6,21 @@ drive_id: 1cJxYhjBp7UqCyYXDdRetQCzog6bqowF1
 source_link: https://drive.google.com/file/d/1cJxYhjBp7UqCyYXDdRetQCzog6bqowF1/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["apple", "ar", "artificial-intelligence", "facebook", "git", "mark-pesce", "mozilla"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "artificial-intelligence", "facebook", "mark-pesce", "mozilla"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/artificial-intelligence
 related:
   - concepts/artificial-intelligence
   - entities/apple
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
   - entities/mozilla
 ---
@@ -42,8 +38,6 @@ This recording is a keynote talk delivered by Mark Pesce, a media and technology
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

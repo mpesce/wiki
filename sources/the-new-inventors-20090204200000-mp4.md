@@ -6,19 +6,17 @@ drive_id: 1YU_ozvVOPDwtbMznbKMTI-x6UoNy1idA
 source_link: https://drive.google.com/file/d/1YU_ozvVOPDwtbMznbKMTI-x6UoNy1idA/view?usp=drivesdk
 type: panel
 date: 2009
-tags: ["abc", "ar", "innovation"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "innovation"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/abc
-    - entities/ar
   concepts:
     - concepts/innovation
 related:
   - concepts/innovation
   - entities/abc
-  - entities/ar
 ---
 # The New Inventors-20090204200000.mp4
 
@@ -31,7 +29,6 @@ This recording is the first episode of the Australian television program The New
 
 ## Named Entities
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/innovation]] — Innovation

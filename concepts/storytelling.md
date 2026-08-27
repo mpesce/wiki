@@ -4,8 +4,8 @@ slug: storytelling
 title: Storytelling
 tags: ["concept"]
 source_count: 7
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -23,9 +23,9 @@ related:
 - [[sources/4-03-the-book-show-23-june-2006-mp3]] — 4-03 The Book Show 23 June 2006.mp3
 - [[sources/marc-pesce-rushes01-mov]] — Marc Pesce_rushes01.mov
 - [[sources/pesce-best-current-affairs-podcast-mp4]] — Pesce Best Current Affairs Podcast.mp4
+- [[sources/artbell5-mp3]] — artbell5.mp3
 - [[sources/truth-trust-and-story-26jul19-mp3]] — Truth Trust and Story 26Jul19.mp3
 - [[sources/felix-wav]] — Felix.wav
-- [[sources/artbell5-mp3]] — artbell5.mp3
 
 ## Debates / Open Questions
 
@@ -37,6 +37,6 @@ related:
 - [[sources/4-03-the-book-show-23-june-2006-mp3]]
 - [[sources/marc-pesce-rushes01-mov]]
 - [[sources/pesce-best-current-affairs-podcast-mp4]]
+- [[sources/artbell5-mp3]]
 - [[sources/truth-trust-and-story-26jul19-mp3]]
 - [[sources/felix-wav]]
-- [[sources/artbell5-mp3]]

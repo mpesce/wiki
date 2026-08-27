@@ -6,19 +6,18 @@ drive_id: 1USVse23Wh3qvffqTbPDHGchihFXlK-wM
 source_link: https://drive.google.com/file/d/1USVse23Wh3qvffqTbPDHGchihFXlK-wM/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "the-future", "the-future-of-work"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["the-future", "the-future-of-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/the-future
     - concepts/the-future-of-work
 related:
   - concepts/the-future
   - concepts/the-future-of-work
-  - entities/ar
 ---
 # Looking Back 10 years.mp4
 
@@ -30,7 +29,7 @@ This recording appears to be the concluding segment of a panel discussion or int
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

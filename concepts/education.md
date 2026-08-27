@@ -3,9 +3,9 @@ kind: concept
 slug: education
 title: Education
 tags: ["concept"]
-source_count: 41
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+source_count: 36
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -13,7 +13,7 @@ related:
 # Education
 
 ## TL;DR
-<41 sources engage with Education. Synthesize the concept.>
+<36 sources engage with Education. Synthesize the concept.>
 
 ## Overview
 <Synthesize how Education is treated across the corpus. Themes, debates, evolution.>
@@ -23,7 +23,6 @@ related:
 - [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]] — VR Creative Cluster Mark Pesce 9 Aug16 video2.MP4
 - [[sources/thenextbillionsecondsineducation-1sep11-wav]] — TheNextBillionSecondsInEducation-1Sep11.wav
 - [[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]] — 1-01 _The Kids are Alright_ - Kincoppal-Rose Bay School.mp3
-- [[sources/techno-pagans-at-the-end-of-history-7-esalen-mp3]] — Techno-Pagans at the End of History 7(Esalen).mp3
 - [[sources/mark-pesce-btb-vodcast-iphone-1-m4v]] — mark pesce BTB vodcast iphone (1).m4v
 - [[sources/mark-pesce-btb-vodcast-iphone-m4v]] — mark pesce BTB vodcast iphone.m4v
 - [[sources/forum-just-shoot-it-part1-2005-mp3]] — forum-just-shoot-it-part1-2005.mp3
@@ -42,24 +41,20 @@ related:
 - [[sources/aija-wav]] — AIJA.wav
 - [[sources/unknown-knowns-31oct19-mp3]] — Unknown Knowns 31Oct19.mp3
 - [[sources/the-new-new-mp3]] — The_New_New.mp3
-- [[sources/strophariad-mov]] — Strophariad.mov
 - [[sources/everything-changed-mp4]] — Everything changed.mp4
 - [[sources/fte-20180415-mp3]] — fte_20180415.mp3
 - [[sources/whenimsixtyfour-part3-mov]] — WhenImSixtyFour-part3.mov
 - [[sources/ai-and-the-future-of-work-mp4]] — AI and the future of work.mp4
 - [[sources/collisions-and-smash-repairs-mp4]] — Collisions-and-Smash-Repairs.mp4
-- [[sources/1-58269-80068-flvhigh-1-flv]] — 1_58269_80068_flvhigh (1).flv
-- [[sources/1-58269-80068-flvhigh-flv]] — 1_58269_80068_flvhigh.flv
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-1-m4v]] — mark pesce AISWA BTB questions iPhone (1).m4v
-- [[sources/mark-pesce-aiswa-btb-questions-iphone-m4v]] — mark pesce AISWA BTB questions iPhone.m4v
 - [[sources/panel-discussion-facilitated-by-host-mark-pesce]] — Panel discussion, facilitated by host Mark Pesce.mp4
 - [[sources/inconvenience-whole-mov]] — Inconvenience-whole.mov
 - [[sources/mark-pesce-alchemist-23jun21-wav]] — Mark Pesce Alchemist 23Jun21.wav
 - [[sources/thefuturists-mp4]] — TheFuturists.mp4
+- [[sources/thefuturists-mp4-2]] — TheFuturists.mp4
 - [[sources/facing-the-machine-ibsuniversity-27jun25-mp4]] — Facing the Machine IBSUniversity 27Jun25.mp4
 - [[sources/learning-in-the-connected-century-mov]] — Learning in the Connected Century.mov
 - [[sources/the-new-new-mov]] — The New New.mov
-- [[sources/thefuturists-mp4-2]] — TheFuturists.mp4
 
 ## Debates / Open Questions
 
@@ -71,7 +66,6 @@ related:
 - [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]]
 - [[sources/thenextbillionsecondsineducation-1sep11-wav]]
 - [[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]]
-- [[sources/techno-pagans-at-the-end-of-history-7-esalen-mp3]]
 - [[sources/mark-pesce-btb-vodcast-iphone-1-m4v]]
 - [[sources/mark-pesce-btb-vodcast-iphone-m4v]]
 - [[sources/forum-just-shoot-it-part1-2005-mp3]]
@@ -90,21 +84,17 @@ related:
 - [[sources/aija-wav]]
 - [[sources/unknown-knowns-31oct19-mp3]]
 - [[sources/the-new-new-mp3]]
-- [[sources/strophariad-mov]]
 - [[sources/everything-changed-mp4]]
 - [[sources/fte-20180415-mp3]]
 - [[sources/whenimsixtyfour-part3-mov]]
 - [[sources/ai-and-the-future-of-work-mp4]]
 - [[sources/collisions-and-smash-repairs-mp4]]
-- [[sources/1-58269-80068-flvhigh-1-flv]]
-- [[sources/1-58269-80068-flvhigh-flv]]
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-1-m4v]]
-- [[sources/mark-pesce-aiswa-btb-questions-iphone-m4v]]
 - [[sources/panel-discussion-facilitated-by-host-mark-pesce]]
 - [[sources/inconvenience-whole-mov]]
 - [[sources/mark-pesce-alchemist-23jun21-wav]]
 - [[sources/thefuturists-mp4]]
+- [[sources/thefuturists-mp4-2]]
 - [[sources/facing-the-machine-ibsuniversity-27jun25-mp4]]
 - [[sources/learning-in-the-connected-century-mov]]
 - [[sources/the-new-new-mov]]
-- [[sources/thefuturists-mp4-2]]

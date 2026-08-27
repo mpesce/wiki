@@ -6,17 +6,14 @@ drive_id: 1bynvRgL41s83F5Xh1kPOA7mJIn6GEMCR
 source_link: https://drive.google.com/file/d/1bynvRgL41s83F5Xh1kPOA7mJIn6GEMCR/view?usp=drivesdk
 type: keynote
 date: 2010
-tags: ["ar", "facebook", "git", "mark-pesce", "networks", "open-source", "social-networks", "virtual-reality", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["facebook", "mark-pesce", "networks", "open-source", "social-networks", "virtual-reality", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
     - entities/vrml
-    - entities/vr
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-networks
     - concepts/virtual-reality
@@ -27,11 +24,8 @@ related:
   - concepts/open-source
   - concepts/social-networks
   - concepts/virtual-reality
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
-  - entities/vr
   - entities/vrml
 ---
 # LCA2011-Keynote.mov
@@ -47,9 +41,6 @@ This recording is a keynote talk delivered by Mark Pesce, a veteran software eng
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks

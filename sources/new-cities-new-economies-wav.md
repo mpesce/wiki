@@ -6,15 +6,14 @@ drive_id: 12f829Qe-8UxvU7z0AUgYVtaRMaxn2Pbu
 source_link: https://drive.google.com/file/d/12f829Qe-8UxvU7z0AUgYVtaRMaxn2Pbu/view?usp=drivesdk
 type: news
 date: 2016
-tags: ["apple", "ar", "connectivity", "mark-pesce", "mozilla", "networks", "participation"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["apple", "connectivity", "mark-pesce", "mozilla", "networks", "participation"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
-    - entities/ar
   concepts:
     - concepts/networks
     - concepts/connectivity
@@ -24,7 +23,6 @@ related:
   - concepts/networks
   - concepts/participation
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
   - entities/mozilla
 ---
@@ -41,7 +39,6 @@ This recording is a business technology talk delivered by Mark Pesce, a media co
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/networks]] — Networks

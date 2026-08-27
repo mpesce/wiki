@@ -6,16 +6,16 @@ drive_id: 1sfVw5yZAKz_EEfzuukXpk4mH8MbRYuVT
 source_link: https://drive.google.com/file/d/1sfVw5yZAKz_EEfzuukXpk4mH8MbRYuVT/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # D17_cost-of-not-being-thorough.mp4
 
@@ -27,7 +27,7 @@ This recording is a brief audio excerpt featuring a single speaker discussing ri
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

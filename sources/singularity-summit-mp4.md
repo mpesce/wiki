@@ -6,22 +6,18 @@ drive_id: 1EGMhY4QZt83TmIYhfEdf4UDNUXT1danq
 source_link: https://drive.google.com/file/d/1EGMhY4QZt83TmIYhfEdf4UDNUXT1danq/view?usp=drivesdk
 type: interview
 date: 1997
-tags: ["ar", "connectivity", "git", "mark-pesce", "social-media"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["connectivity", "mark-pesce", "social-media"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-media
     - concepts/connectivity
 related:
   - concepts/connectivity
   - concepts/social-media
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # singularity_summit.mp4
@@ -35,8 +31,6 @@ This recording is a talk delivered by Mark Pesce at the Singularity Summit in Me
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

@@ -6,17 +6,16 @@ drive_id: 1Qk4lGNgHwuAwVAilNu0sT46223r4s1Hb
 source_link: https://drive.google.com/file/d/1Qk4lGNgHwuAwVAilNu0sT46223r4s1Hb/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "artificial-intelligence"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["artificial-intelligence"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/artificial-intelligence
 related:
   - concepts/artificial-intelligence
-  - entities/ar
 ---
 # F3B_bot-sitting.mp4
 
@@ -28,7 +27,7 @@ The provided transcript is a fragment of a spoken discussion, likely from a tech
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

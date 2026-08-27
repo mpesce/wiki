@@ -6,23 +6,20 @@ drive_id: 15JwmJE5e1xQEGNM9UrNuL0yVyVSWvi6g
 source_link: https://drive.google.com/file/d/15JwmJE5e1xQEGNM9UrNuL0yVyVSWvi6g/view?usp=drivesdk
 type: podcast
 date: 1999
-tags: ["apple", "ar", "attention", "broadcast", "creators", "git", "mark-pesce", "mozilla", "networks", "peer-to-peer", "podcast", "wired"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "attention", "broadcast", "creators", "mark-pesce", "mozilla", "networks", "peer-to-peer", "wired"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
     - entities/wired
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/attention
     - concepts/networks
     - concepts/peer-to-peer
     - concepts/creators
-    - concepts/podcast
     - concepts/broadcast
 related:
   - concepts/attention
@@ -30,10 +27,7 @@ related:
   - concepts/creators
   - concepts/networks
   - concepts/peer-to-peer
-  - concepts/podcast
   - entities/apple
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
   - entities/mozilla
   - entities/wired
@@ -52,15 +46,12 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
 - [[entities/wired]] (Wired)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/attention]] — Attention
 - [[concepts/networks]] — Networks
 - [[concepts/peer-to-peer]] — Peer-to-peer
 - [[concepts/creators]] — Creators
-- [[concepts/podcast]] — Podcasting
 - [[concepts/broadcast]] — Broadcasting
 
 ## Quotes

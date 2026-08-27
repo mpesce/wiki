@@ -6,17 +6,16 @@ drive_id: 1L6yH51NCFaE5u_uFjmVMSEP7CO_AbzFy
 source_link: https://drive.google.com/file/d/1L6yH51NCFaE5u_uFjmVMSEP7CO_AbzFy/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "narrative"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["narrative"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/narrative
 related:
   - concepts/narrative
-  - entities/ar
 ---
 # Incident.rm
 
@@ -28,7 +27,7 @@ The provided transcript consists entirely of music playing, with no spoken dialo
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/narrative]] — Narrative

@@ -6,15 +6,13 @@ drive_id: 1-4FdZWGckAVlJmRgwtquwuZ9oT7q2GQr
 source_link: https://drive.google.com/file/d/1-4FdZWGckAVlJmRgwtquwuZ9oT7q2GQr/view?usp=drivesdk
 type: podcast
 date: 1996
-tags: ["abc", "ar", "broadcast", "git", "mark-pesce", "social-media"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["abc", "broadcast", "mark-pesce", "social-media"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/abc
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-media
     - concepts/broadcast
@@ -22,8 +20,6 @@ related:
   - concepts/broadcast
   - concepts/social-media
   - entities/abc
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # RN_Common_Knowledge-19Feb12.mp3
@@ -38,8 +34,6 @@ This recording is an episode of the ABC Radio National program Common Knowledge,
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

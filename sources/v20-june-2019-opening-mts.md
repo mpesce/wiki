@@ -6,18 +6,15 @@ drive_id: 1vtFBBSP5FpD6-9zPXyLmAY7lKXzfxHck
 source_link: https://drive.google.com/file/d/1vtFBBSP5FpD6-9zPXyLmAY7lKXzfxHck/view?usp=drivesdk
 type: workshop
 date: unknown
-tags: ["3d", "ar", "bitcoin", "facebook", "mark-pesce", "meta", "participation", "the-future", "vr", "vrml"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["3d", "bitcoin", "facebook", "mark-pesce", "participation", "the-future", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/meta
     - entities/vrml
     - entities/3d
-    - entities/vr
-    - entities/ar
     - entities/bitcoin
   concepts:
     - concepts/the-future
@@ -26,12 +23,9 @@ related:
   - concepts/participation
   - concepts/the-future
   - entities/3d
-  - entities/ar
   - entities/bitcoin
   - entities/facebook
   - entities/mark-pesce
-  - entities/meta
-  - entities/vr
   - entities/vrml
 ---
 # V20 June 2019 Opening.MTS
@@ -46,11 +40,8 @@ This recording is the opening address of the V20 Summit, a two-day conference fo
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/meta]] (Meta)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 - [[entities/bitcoin]] (Bitcoin)
 
 ## Related Concepts

@@ -6,18 +6,16 @@ drive_id: 1LMLbSG0SgdTkkEf_OU57ANd3LW4J04gM
 source_link: https://drive.google.com/file/d/1LMLbSG0SgdTkkEf_OU57ANd3LW4J04gM/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["ar", "innovation", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["innovation", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/innovation
 related:
   - concepts/innovation
-  - entities/ar
   - entities/mark-pesce
 ---
 # The New Inventors-20070829200000.mp4
@@ -31,7 +29,6 @@ This recording is an episode of the Australian television program The New Invent
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/innovation]] — Innovation

@@ -6,18 +6,16 @@ drive_id: 1mYPNBN1saIRFQts6RI2Oq0HXU2RFR4RG
 source_link: https://drive.google.com/file/d/1mYPNBN1saIRFQts6RI2Oq0HXU2RFR4RG/view?usp=drivesdk
 type: interview
 date: 1909
-tags: ["ar", "mark-pesce", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
-  - entities/ar
   - entities/mark-pesce
 ---
 # Mark Pesce session 2.wav
@@ -31,7 +29,6 @@ This recording is an interview featuring Mark Pesce, a media and technology comm
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

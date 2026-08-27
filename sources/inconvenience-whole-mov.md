@@ -6,24 +6,20 @@ drive_id: 1avBGKbSbG0TU9VlosASZPkJ5jenAt_VO
 source_link: https://drive.google.com/file/d/1avBGKbSbG0TU9VlosASZPkJ5jenAt_VO/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "education", "mark-pesce", "narrative", "trust", "virtual-reality"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["education", "mark-pesce", "trust", "virtual-reality"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/virtual-reality
     - concepts/trust
     - concepts/education
-    - concepts/narrative
 related:
   - concepts/education
-  - concepts/narrative
   - concepts/trust
   - concepts/virtual-reality
-  - entities/ar
   - entities/mark-pesce
 ---
 # Inconvenience-whole.mov
@@ -37,13 +33,11 @@ This recording is a presentation by Mark Pesce, facilitated by Gary, at an event
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality
 - [[concepts/trust]] — Trust
 - [[concepts/education]] — Education
-- [[concepts/narrative]] — Narrative
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

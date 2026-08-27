@@ -6,16 +6,13 @@ drive_id: 1YImXU9SDdgLFnbwG-0nMZtmvUSeqmxHB
 source_link: https://drive.google.com/file/d/1YImXU9SDdgLFnbwG-0nMZtmvUSeqmxHB/view?usp=drivesdk
 type: interview
 date: 2012
-tags: ["apple", "ar", "communication", "creators", "crowdfunding", "git", "llm", "mark-pesce", "trust", "venture-capital"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["apple", "communication", "creators", "crowdfunding", "mark-pesce", "trust", "venture-capital"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
-    - entities/ar
-    - entities/git
-    - entities/llm
   concepts:
     - concepts/trust
     - concepts/crowdfunding
@@ -29,9 +26,6 @@ related:
   - concepts/trust
   - concepts/venture-capital
   - entities/apple
-  - entities/ar
-  - entities/git
-  - entities/llm
   - entities/mark-pesce
 ---
 # crowdfunding-31Jul14.wmv
@@ -46,9 +40,6 @@ This recording is a workshop and lecture on crowdfunding delivered by Mark Pesce
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
-- [[entities/llm]] (LLM)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust

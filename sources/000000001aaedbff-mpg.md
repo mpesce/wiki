@@ -6,16 +6,16 @@ drive_id: 18n1_xQYJd8SCnRGqkZ9pNqEpukKvTSZf
 source_link: https://drive.google.com/file/d/18n1_xQYJd8SCnRGqkZ9pNqEpukKvTSZf/view?usp=drivesdk
 type: podcast
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # 000000001aaedbff.mpg
 
@@ -27,7 +27,7 @@ This recording is an episode of the television program Antiques Roadshow, featur
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

@@ -4,8 +4,8 @@ slug: attention
 title: Attention
 tags: ["concept"]
 source_count: 31
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -40,6 +40,7 @@ related:
 - [[sources/saatchi-wav-2]] — Saatchi.wav
 - [[sources/national-trust-sense-in-place-mp4]] — National Trust - 'Sense in Place'.mp4
 - [[sources/cfo-series-melbourne-while-you-were-out-12nov20]] — CFO Series Melbourne While You Were Out 12Nov20.mp4
+- [[sources/abc-jjj-14mar06-interview-mp3]] — ABC-JJJ-14Mar06-Interview.mp3
 - [[sources/ntn-20200521-1105-do-track-and-trace-apps-work-t]] — ntn-20200521-1105-do_track_and_trace_apps_work_top_amazon_engineer_rage_quits-128.mp3
 - [[sources/sydney-writers-festival-3may19-mp3]] — Sydney Writers Festival 3May19.mp3
 - [[sources/the-human-use-of-human-networks-mp3]] — The Human Use of Human Networks.mp3
@@ -49,7 +50,6 @@ related:
 - [[sources/panel-discussion-facilitated-by-host-mark-pesce]] — Panel discussion, facilitated by host Mark Pesce.mp4
 - [[sources/felix-wav]] — Felix.wav
 - [[sources/saatchi-wav]] — Saatchi.wav
-- [[sources/abc-jjj-14mar06-interview-mp3]] — ABC-JJJ-14Mar06-Interview.mp3
 
 ## Debates / Open Questions
 
@@ -78,6 +78,7 @@ related:
 - [[sources/saatchi-wav-2]]
 - [[sources/national-trust-sense-in-place-mp4]]
 - [[sources/cfo-series-melbourne-while-you-were-out-12nov20]]
+- [[sources/abc-jjj-14mar06-interview-mp3]]
 - [[sources/ntn-20200521-1105-do-track-and-trace-apps-work-t]]
 - [[sources/sydney-writers-festival-3may19-mp3]]
 - [[sources/the-human-use-of-human-networks-mp3]]
@@ -87,4 +88,3 @@ related:
 - [[sources/panel-discussion-facilitated-by-host-mark-pesce]]
 - [[sources/felix-wav]]
 - [[sources/saatchi-wav]]
-- [[sources/abc-jjj-14mar06-interview-mp3]]

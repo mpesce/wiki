@@ -12,6 +12,8 @@ overview, and an index — per the schema in WIKI.md.
   `_ingest_manifest.json` under `duplicates`).
 - Two recordings are genuinely untranscribable (DV .mov files with no
   audio stream: `bscast.mov`, `bluestates-capture.mov`).
+- All 626 transcribed recordings are documented as native Google Docs
+  in the Drive archive (finalize complete 2026-08-26).
 - Dated sources span 1909–2050; **376 of 625 are undated** (raw clips
   and re-uploads without a date in filename or summary).
 - Types: 205 interviews, 112 panels, 82 news, 47 lectures, 46 podcasts,
@@ -30,13 +32,13 @@ overview, and an index — per the schema in WIKI.md.
 > in the curated list are not yet pages. Expanding the vocabulary and
 > re-running ingest + compile is the way to grow this layer.
 
-## Concepts (51 pages)
-Most-engaged themes: **broadcast** (155), **the future** (117),
-**networks** (79), **narrative** (58), **connectivity** (57),
-**artificial intelligence** (54), **virtual reality** (54), **trust**
-(48), **social media** (48), **communication** (42), **podcasting**
-(41), **education** (41), **social networks** (37), **innovation** (37),
-**surveillance** (36) — full list in INDEX.md.
+## Concepts (50 pages)
+Most-engaged themes (word-boundary counts): **broadcast** (119),
+**the future** (117), **networks** (79), **narrative** (49),
+**connectivity** (57), **artificial intelligence** (54), **virtual
+reality** (54), **social media** (48), **trust** (44), **education**
+(36), **communication** (36), **podcast** (33), **innovation** (31),
+**social networks** (37) — full list in INDEX.md.
 
 ## Key themes
 - **Distribution & the creator economy** — hyperdistribution, digital
@@ -56,7 +58,7 @@ Most-engaged themes: **broadcast** (155), **the future** (117),
 ## Structure
 - `sources/` — 625 recording summaries, each annotated with entities and concepts.
 - `entities/` — 34 pages (3 people, 17 orgs, 14 technologies).
-- `concepts/` — 51 pages.
+- `concepts/` — 50 pages.
 - `queries/` — empty; the QUERY workflow (WIKI.md §7.3) is the next major feature.
 - `lint/` — dated reports; latest: report-2026-08-26.md (clean).
 

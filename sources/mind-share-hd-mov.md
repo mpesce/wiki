@@ -6,26 +6,20 @@ drive_id: 1kdTB8b6ukuTYiBU_ZYrDQmWmrrZQvTQp
 source_link: https://drive.google.com/file/d/1kdTB8b6ukuTYiBU_ZYrDQmWmrrZQvTQp/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["abc", "ar", "connectivity", "mark-pesce", "meta", "vr", "vrml"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["abc", "connectivity", "mark-pesce", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
     - entities/abc
     - entities/vrml
-    - entities/vr
-    - entities/ar
   concepts:
     - concepts/connectivity
 related:
   - concepts/connectivity
   - entities/abc
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
-  - entities/vr
   - entities/vrml
 ---
 # mind_share_hd.mov
@@ -39,11 +33,8 @@ This recording is a public lecture delivered by Mark Pesce, a media commentator 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
 - [[entities/abc]] (ABC)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/connectivity]] — Connectivity

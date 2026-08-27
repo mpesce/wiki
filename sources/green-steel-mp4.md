@@ -6,17 +6,15 @@ drive_id: 1saJoktsEgNGQ6eEBOEUOteyxV360QbJi
 source_link: https://drive.google.com/file/d/1saJoktsEgNGQ6eEBOEUOteyxV360QbJi/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
 ---
 # Green Steel.mp4
@@ -30,7 +28,6 @@ This recording is a segment from a talk or lecture by Mark Pesce, focusing on in
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

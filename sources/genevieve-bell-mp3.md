@@ -6,18 +6,16 @@ drive_id: 1e4p_vnUduMsTm_xW2J1m-P3iBkEHRQpC
 source_link: https://drive.google.com/file/d/1e4p_vnUduMsTm_xW2J1m-P3iBkEHRQpC/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "mark-pesce", "podcast"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "podcast"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/podcast
 related:
   - concepts/podcast
-  - entities/ar
   - entities/mark-pesce
 ---
 # Genevieve Bell.mp3
@@ -31,7 +29,6 @@ This recording is a pre-interview briefing and partial interview for the podcast
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/podcast]] — Podcasting

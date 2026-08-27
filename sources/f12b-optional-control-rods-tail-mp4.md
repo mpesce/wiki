@@ -6,16 +6,16 @@ drive_id: 1MpY5KTwOwu7VXf0sKuaxCKQa0JBihmnm
 source_link: https://drive.google.com/file/d/1MpY5KTwOwu7VXf0sKuaxCKQa0JBihmnm/view?usp=drivesdk
 type: talk
 date: unknown
-tags: ["ar"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # F12b_optional-control-rods-tail.mp4
 
@@ -27,7 +27,7 @@ The provided transcript consists of a single, isolated sentence discussing the p
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

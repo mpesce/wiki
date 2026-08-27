@@ -6,16 +6,16 @@ drive_id: 1ErGoHY63HP8_1Gou6xbmq8DFjkZ20jwg
 source_link: https://drive.google.com/file/d/1ErGoHY63HP8_1Gou6xbmq8DFjkZ20jwg/view?usp=drivesdk
 type: workshop
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # Sunday.rm
 
@@ -27,7 +27,7 @@ Final session of the weekend. Each of the three opens with 45 seconds to a minut
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

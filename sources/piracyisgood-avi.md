@@ -6,13 +6,12 @@ drive_id: 1puzdf1-XYmWnjE13MzLrqGBJ4FZjJFbQ
 source_link: https://drive.google.com/file/d/1puzdf1-XYmWnjE13MzLrqGBJ4FZjJFbQ/view?usp=drivesdk
 type: news
 date: 2004
-tags: ["ar", "broadcast", "hyperdistribution", "mark-pesce", "networks", "social-networks"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["broadcast", "hyperdistribution", "mark-pesce", "networks", "social-networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/hyperdistribution
     - concepts/social-networks
@@ -23,7 +22,6 @@ related:
   - concepts/hyperdistribution
   - concepts/networks
   - concepts/social-networks
-  - entities/ar
   - entities/mark-pesce
 ---
 # PiracyIsGood.avi
@@ -37,7 +35,6 @@ This recording is a talk delivered by Mark Pesce, a media and technology comment
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/hyperdistribution]] — Hyperdistribution

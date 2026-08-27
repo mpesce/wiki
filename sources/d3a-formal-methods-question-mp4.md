@@ -6,13 +6,12 @@ drive_id: 1TMP8u5J11GkhFKHJ3UydX4_6DlGlmJay
 source_link: https://drive.google.com/file/d/1TMP8u5J11GkhFKHJ3UydX4_6DlGlmJay/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "artificial-intelligence", "mark-pesce", "the-future", "trust"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["artificial-intelligence", "mark-pesce", "the-future", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
@@ -21,7 +20,6 @@ related:
   - concepts/artificial-intelligence
   - concepts/the-future
   - concepts/trust
-  - entities/ar
   - entities/mark-pesce
 ---
 # D3a_formal-methods-question.mp4
@@ -35,7 +33,6 @@ The recording is a brief audio clip featuring Mark Pesce discussing the future o
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

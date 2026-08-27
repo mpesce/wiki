@@ -6,15 +6,13 @@ drive_id: 1sHRm3tKZEIe6Af8YO8GHE8ZvCS4se-ii
 source_link: https://drive.google.com/file/d/1sHRm3tKZEIe6Af8YO8GHE8ZvCS4se-ii/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "facebook", "git", "mark-pesce", "networks", "social-media", "social-networks"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["facebook", "mark-pesce", "networks", "social-media", "social-networks"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-media
     - concepts/social-networks
@@ -23,9 +21,7 @@ related:
   - concepts/networks
   - concepts/social-media
   - concepts/social-networks
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
 ---
 # Mark Pesce The World 2Sep20.mp4
@@ -40,8 +36,6 @@ This recording is a news interview featuring Mark Pesce, identified as a futuris
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

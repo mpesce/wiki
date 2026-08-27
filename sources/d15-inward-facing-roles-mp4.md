@@ -6,17 +6,15 @@ drive_id: 1b4IDNr1XZBR-3-GKwhAHDlHRdHuysfbT
 source_link: https://drive.google.com/file/d/1b4IDNr1XZBR-3-GKwhAHDlHRdHuysfbT/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "mark-pesce"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
 ---
 # D15_inward-facing-roles.mp4
@@ -30,7 +28,6 @@ This recording appears to be a brief excerpt from a talk or interview featuring 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

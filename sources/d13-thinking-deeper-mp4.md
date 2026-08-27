@@ -6,19 +6,15 @@ drive_id: 1FSGOoCAnbGerrxdQcZm3TmzEUOn51nb4
 source_link: https://drive.google.com/file/d/1FSGOoCAnbGerrxdQcZm3TmzEUOn51nb4/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "git", "mark-pesce"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - (none)
 related:
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # D13_thinking-deeper.mp4
@@ -32,8 +28,6 @@ This recording is a short audio clip featuring a monologue by Mark Pesce, a medi
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - (none identified)

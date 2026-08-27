@@ -6,18 +6,16 @@ drive_id: 1qbgP26taYoYZsagda9xTFiufKSGf1NCb
 source_link: https://drive.google.com/file/d/1qbgP26taYoYZsagda9xTFiufKSGf1NCb/view?usp=drivesdk
 type: news
 date: 1973
-tags: ["ar", "identity", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["identity", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/identity
 related:
   - concepts/identity
-  - entities/ar
   - entities/mark-pesce
 ---
 # bt-3.mp4
@@ -31,7 +29,6 @@ This recording is a philosophical lecture or talk by Mark Pesce, exploring the c
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/identity]] — Identity

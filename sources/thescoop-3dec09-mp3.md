@@ -6,14 +6,13 @@ drive_id: 1DtXlxvVvxjnh6vqpZLB5U5SvGubDEtLd
 source_link: https://drive.google.com/file/d/1DtXlxvVvxjnh6vqpZLB5U5SvGubDEtLd/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["3d", "ar", "mark-pesce", "networks", "podcast", "social-networks", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d", "mark-pesce", "networks", "podcast", "social-networks", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/3d
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/social-networks
@@ -25,7 +24,6 @@ related:
   - concepts/social-networks
   - concepts/the-future
   - entities/3d
-  - entities/ar
   - entities/mark-pesce
 ---
 # thescoop-3Dec09.mp3
@@ -40,7 +38,6 @@ This recording is an episode of the podcast The Scoop, hosted by Mark Jones, fea
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/3d]] (3D)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

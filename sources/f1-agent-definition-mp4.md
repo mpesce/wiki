@@ -6,16 +6,16 @@ drive_id: 1ryhBg8aViaMW6c3F4ZvEaMOybmvKeale
 source_link: https://drive.google.com/file/d/1ryhBg8aViaMW6c3F4ZvEaMOybmvKeale/view?usp=drivesdk
 type: clip
 date: 2023
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # F1_agent-definition.mp4
 
@@ -27,7 +27,7 @@ Clip from Mark's 'AI in Practice' series. Defines an agent: basically an AI plus
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

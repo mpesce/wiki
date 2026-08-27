@@ -6,22 +6,16 @@ drive_id: 1b5RKjLU4oA5rICX8fkn5QeiAIo3CgMXw
 source_link: https://drive.google.com/file/d/1b5RKjLU4oA5rICX8fkn5QeiAIo3CgMXw/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "llm", "mark-pesce", "podcast", "trust"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["mark-pesce", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/llm
   concepts:
     - concepts/trust
-    - concepts/podcast
 related:
-  - concepts/podcast
   - concepts/trust
-  - entities/ar
-  - entities/llm
   - entities/mark-pesce
 ---
 # EPIC Interview 12Oct21.mp4
@@ -35,12 +29,9 @@ This recording is an interview segment from a live event titled Resilient Live, 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/llm]] (LLM)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust
-- [[concepts/podcast]] — Podcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

@@ -6,20 +6,18 @@ drive_id: 1ONIgcDZE4RsF_yGzJ50UAKkqMzRfIUC5
 source_link: https://drive.google.com/file/d/1ONIgcDZE4RsF_yGzJ50UAKkqMzRfIUC5/view?usp=drivesdk
 type: lecture
 date: 2006
-tags: ["ar", "networks", "social-networks", "unsw"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["networks", "social-networks", "unsw"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/unsw
-    - entities/ar
   concepts:
     - concepts/social-networks
     - concepts/networks
 related:
   - concepts/networks
   - concepts/social-networks
-  - entities/ar
   - entities/unsw
 ---
 # UponWhatMeat-UNSW-15Mar06.mp3
@@ -33,7 +31,6 @@ UNSW talk (15 Mar 2006) on how expectations of technology change over time, open
 
 ## Named Entities
 - [[entities/unsw]] (UNSW)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks

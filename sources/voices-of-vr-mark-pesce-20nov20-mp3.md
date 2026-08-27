@@ -6,9 +6,9 @@ drive_id: 1RQkGk4IPookWf5ect32ibqLjAXf76Z95
 source_link: https://drive.google.com/file/d/1RQkGk4IPookWf5ect32ibqLjAXf76Z95/view?usp=drivesdk
 type: interview
 date: 1968
-tags: ["apple", "ar", "facebook", "git", "mark-pesce", "meta", "microsoft", "mozilla", "narrative", "networks", "surveillance"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "ar", "facebook", "mark-pesce", "microsoft", "mozilla", "networks", "surveillance"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,23 +16,17 @@ mentions:
     - entities/mozilla
     - entities/microsoft
     - entities/facebook
-    - entities/meta
     - entities/ar
-    - entities/git
   concepts:
     - concepts/surveillance
     - concepts/networks
-    - concepts/narrative
 related:
-  - concepts/narrative
   - concepts/networks
   - concepts/surveillance
   - entities/apple
   - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
-  - entities/meta
   - entities/microsoft
   - entities/mozilla
 ---
@@ -51,14 +45,11 @@ This recording is an interview featuring Mark Pesce, a media and technology comm
 - [[entities/mozilla]] (Mozilla)
 - [[entities/microsoft]] (Microsoft)
 - [[entities/facebook]] (Facebook)
-- [[entities/meta]] (Meta)
 - [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance
 - [[concepts/networks]] — Networks
-- [[concepts/narrative]] — Narrative
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

@@ -6,20 +6,18 @@ drive_id: 1s4YEtKMU7Czp0Exahn6QSAeeKXP0FGCv
 source_link: https://drive.google.com/file/d/1s4YEtKMU7Czp0Exahn6QSAeeKXP0FGCv/view?usp=drivesdk
 type: lecture
 date: 2016
-tags: ["ar", "education", "mark-pesce", "startups"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["education", "mark-pesce", "startups"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/education
     - concepts/startups
 related:
   - concepts/education
   - concepts/startups
-  - entities/ar
   - entities/mark-pesce
 ---
 # LAUNCH Festival 2016 Awards Ceremony-XS1CY6hJ4pU.mp4
@@ -33,7 +31,6 @@ This recording captures the awards ceremony segment of the Launch Festival 2016,
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/education]] — Education

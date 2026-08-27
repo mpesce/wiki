@@ -4,8 +4,8 @@ slug: the-future
 title: The future
 tags: ["concept"]
 source_count: 117
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
@@ -67,13 +67,13 @@ related:
 - [[sources/gio-pc1-mark-pesce-video-02-final-4x5-mp4]] — GIO-PC1_MARK_PESCE-VIDEO_02-FINAL-4x5.mp4
 - [[sources/gio-pc1-mark-pesce-video-01-final-4x5-mp4]] — GIO-PC1_MARK_PESCE-VIDEO_01-FINAL-4x5.mp4
 - [[sources/horizon-report-early-2021-1-intro-youtube-1080p]] — Horizon Report Early 2021 - 1 Intro YouTube 1080p.mp4
+- [[sources/mark-wav-2]] — Mark.wav
 - [[sources/pandemic-time-3ai-15may20-wav]] — Pandemic Time 3Ai 15May20.wav
 - [[sources/pandemic-time-15may20-small-mp4]] — Pandemic Time 15May20 small.mp4
 - [[sources/perihelia-2021-youtube-1080p-mp4]] — Perihelia 2021 YouTube 1080p.mp4
 - [[sources/pandemic-time-pesce-3ai-15may20-final-mp4]] — Pandemic Time Pesce 3Ai 15May20 final.mp4
 - [[sources/pesce-pandemic-time-anu-3ai-15may20-mp4]] — Pesce Pandemic Time ANU 3Ai 15May20.mp4
 - [[sources/common-factor-1-future-of-work-clean-mp4]] — Common Factor 1_Future of Work_CLEAN.mp4
-- [[sources/mark-wav-2]] — Mark.wav
 - [[sources/thefuturists-thewatershed-mkv]] — TheFuturists-TheWatershed.mkv
 - [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am]] — uptown-radio_recording-1_2021-04-26--t12-31-18am--mpesce.wav
 - [[sources/a-series-of-tubes-wpc-11sep19-mp3]] — A Series of Tubes WPC 11Sep19.mp3
@@ -86,6 +86,8 @@ related:
 - [[sources/canterbury-inspire19-mp3]] — Canterbury INSPIRE19.mp3
 - [[sources/recording-7-wav]] — Recording 7.wav
 - [[sources/aija-wav]] — AIJA.wav
+- [[sources/artbell5-mp3]] — artbell5.mp3
+- [[sources/d3a-formal-methods-question-mp4]] — D3a_formal-methods-question.mp4
 - [[sources/lms-20100531-0905-1-mp3]] — lms_20100531_0905 (1).mp3
 - [[sources/2-02-the-future-of-us-mp3]] — 2-02 The Future of Us.mp3
 - [[sources/d11-reporter-mp4]] — D11_reporter.mp4
@@ -121,20 +123,18 @@ related:
 - [[sources/the-new-inventors-20090722200000-mp4]] — The New Inventors-20090722200000.mp4
 - [[sources/recording-2-m4a]] — Recording 2.m4a
 - [[sources/ptaanz2-mp3]] — PTAANZ2.mp3
+- [[sources/ptaanz2-mp3-2]] — PTAANZ2.mp3
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-1-m4v]] — mark pesce AISWA BTB questions iPhone (1).m4v
+- [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am-2]] — uptown-radio_recording-1_2021-04-26--t12-31-18am--nicole.wav
 - [[sources/open-state-wav]] — Open State.wav
 - [[sources/ozwater-wav]] — OzWater.wav
 - [[sources/felix-wav]] — Felix.wav
 - [[sources/mark-pesce-alchemist-23jun21-wav]] — Mark Pesce Alchemist 23Jun21.wav
 - [[sources/digirupt-preview-mp4]] — digirupt-preview.mp4
 - [[sources/wpc-wav]] — WPC.wav
-- [[sources/artbell5-mp3]] — artbell5.mp3
-- [[sources/d3a-formal-methods-question-mp4]] — D3a_formal-methods-question.mp4
 - [[sources/kate-podcast-mkv]] — kate-podcast.mkv
 - [[sources/planetoftheappsakl-mp4]] — planetoftheappsAKL.mp4
 - [[sources/v20-june-2019-opening-mts]] — V20 June 2019 Opening.MTS
-- [[sources/ptaanz2-mp3-2]] — PTAANZ2.mp3
-- [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am-2]] — uptown-radio_recording-1_2021-04-26--t12-31-18am--nicole.wav
 - [[sources/both-and-the-hybrid-future-of-events-mea-28apr21-2]] — Both-And The Hybrid Future of Events MEA 28Apr21.mp4
 
 ## Debates / Open Questions
@@ -191,13 +191,13 @@ related:
 - [[sources/gio-pc1-mark-pesce-video-02-final-4x5-mp4]]
 - [[sources/gio-pc1-mark-pesce-video-01-final-4x5-mp4]]
 - [[sources/horizon-report-early-2021-1-intro-youtube-1080p]]
+- [[sources/mark-wav-2]]
 - [[sources/pandemic-time-3ai-15may20-wav]]
 - [[sources/pandemic-time-15may20-small-mp4]]
 - [[sources/perihelia-2021-youtube-1080p-mp4]]
 - [[sources/pandemic-time-pesce-3ai-15may20-final-mp4]]
 - [[sources/pesce-pandemic-time-anu-3ai-15may20-mp4]]
 - [[sources/common-factor-1-future-of-work-clean-mp4]]
-- [[sources/mark-wav-2]]
 - [[sources/thefuturists-thewatershed-mkv]]
 - [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am]]
 - [[sources/a-series-of-tubes-wpc-11sep19-mp3]]
@@ -210,6 +210,8 @@ related:
 - [[sources/canterbury-inspire19-mp3]]
 - [[sources/recording-7-wav]]
 - [[sources/aija-wav]]
+- [[sources/artbell5-mp3]]
+- [[sources/d3a-formal-methods-question-mp4]]
 - [[sources/lms-20100531-0905-1-mp3]]
 - [[sources/2-02-the-future-of-us-mp3]]
 - [[sources/d11-reporter-mp4]]
@@ -245,18 +247,16 @@ related:
 - [[sources/the-new-inventors-20090722200000-mp4]]
 - [[sources/recording-2-m4a]]
 - [[sources/ptaanz2-mp3]]
+- [[sources/ptaanz2-mp3-2]]
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-1-m4v]]
+- [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am-2]]
 - [[sources/open-state-wav]]
 - [[sources/ozwater-wav]]
 - [[sources/felix-wav]]
 - [[sources/mark-pesce-alchemist-23jun21-wav]]
 - [[sources/digirupt-preview-mp4]]
 - [[sources/wpc-wav]]
-- [[sources/artbell5-mp3]]
-- [[sources/d3a-formal-methods-question-mp4]]
 - [[sources/kate-podcast-mkv]]
 - [[sources/planetoftheappsakl-mp4]]
 - [[sources/v20-june-2019-opening-mts]]
-- [[sources/ptaanz2-mp3-2]]
-- [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am-2]]
 - [[sources/both-and-the-hybrid-future-of-events-mea-28apr21-2]]

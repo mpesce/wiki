@@ -6,19 +6,17 @@ drive_id: 1h21FW7M1XOSB0CqE92yZuKTFK1XtAKqL
 source_link: https://drive.google.com/file/d/1h21FW7M1XOSB0CqE92yZuKTFK1XtAKqL/view?usp=drivesdk
 type: news
 date: 1948
-tags: ["3d", "ar", "facebook", "git", "google", "mark-pesce", "meta", "microsoft", "surveillance"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["3d", "ar", "facebook", "google", "mark-pesce", "microsoft", "surveillance"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
     - entities/microsoft
     - entities/facebook
-    - entities/meta
     - entities/3d
     - entities/ar
-    - entities/git
   concepts:
     - concepts/surveillance
 related:
@@ -26,10 +24,8 @@ related:
   - entities/3d
   - entities/ar
   - entities/facebook
-  - entities/git
   - entities/google
   - entities/mark-pesce
-  - entities/meta
   - entities/microsoft
 ---
 # Mark Pesce - Digital Depth in Augmented Reality.mp4
@@ -46,10 +42,8 @@ This recording is a lecture by Mark Pesce, an Honorary Associate in the Digital 
 - [[entities/google]] (Google)
 - [[entities/microsoft]] (Microsoft)
 - [[entities/facebook]] (Facebook)
-- [[entities/meta]] (Meta)
 - [[entities/3d]] (3D)
 - [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

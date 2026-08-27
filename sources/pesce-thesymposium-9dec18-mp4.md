@@ -6,15 +6,13 @@ drive_id: 1oINkS7NgITVoeXzofjKwQeMmbswlBIYW
 source_link: https://drive.google.com/file/d/1oINkS7NgITVoeXzofjKwQeMmbswlBIYW/view?usp=drivesdk
 type: panel
 date: 1968
-tags: ["ar", "education", "git", "google", "mark-pesce", "the-future", "trust"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["education", "google", "mark-pesce", "the-future", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/trust
@@ -23,8 +21,6 @@ related:
   - concepts/education
   - concepts/the-future
   - concepts/trust
-  - entities/ar
-  - entities/git
   - entities/google
   - entities/mark-pesce
 ---
@@ -40,8 +36,6 @@ This recording is a panel discussion featuring Mark Pesce, Wendy Hall, and Peter
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

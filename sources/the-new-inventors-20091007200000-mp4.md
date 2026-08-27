@@ -6,23 +6,17 @@ drive_id: 14mJJ9EX_htqUMOcGKeQ0pJqub_d7-lsR
 source_link: https://drive.google.com/file/d/14mJJ9EX_htqUMOcGKeQ0pJqub_d7-lsR/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "ar", "mark-pesce", "meta", "social-media"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce", "social-media"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/abc
-    - entities/ar
   concepts:
     - concepts/social-media
 related:
   - concepts/social-media
-  - entities/abc
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # The New Inventors-20091007200000.mp4
 
@@ -35,9 +29,6 @@ This recording is an episode of the Australian television program The New Invent
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

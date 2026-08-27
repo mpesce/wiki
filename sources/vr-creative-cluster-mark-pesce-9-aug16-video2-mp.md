@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1kOBT4c2VFV4zFoF-HmSPKTqyS7tSd6Ee/v
 type: interview
 date: 1991
 tags: ["ar", "content-creation", "education", "google", "mark-pesce", "the-future", "virtual-reality", "vr"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce

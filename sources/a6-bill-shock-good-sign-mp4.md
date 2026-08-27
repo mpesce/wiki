@@ -6,16 +6,16 @@ drive_id: 1hbIuq-IdqclULMuHF3KPNuJoMQeHAJ0q
 source_link: https://drive.google.com/file/d/1hbIuq-IdqclULMuHF3KPNuJoMQeHAJ0q/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: []
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - (none)
 related:
-  - entities/ar
+  - (none)
 ---
 # A6_bill-shock-good-sign.mp4
 
@@ -27,7 +27,7 @@ Clip. 'Bill shock' (rising AI/token bills) is not because provider costs went up
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - (none identified)

@@ -6,17 +6,16 @@ drive_id: 1s6VhWyNf9Lve-lFEuq-Mn1tV8w7Z5qSv
 source_link: https://drive.google.com/file/d/1s6VhWyNf9Lve-lFEuq-Mn1tV8w7Z5qSv/view?usp=drivesdk
 type: clip
 date: unknown
-tags: ["ar", "communication"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["communication"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/ar
+    - (none)
   concepts:
     - concepts/communication
 related:
   - concepts/communication
-  - entities/ar
 ---
 # A14_boards-agent-up.mp4
 
@@ -28,7 +27,7 @@ Clip. The board changes the least in the short term — but interestingly, the b
 - See summary above.
 
 ## Named Entities
-- [[entities/ar]] (AR)
+- (none named)
 
 ## Related Concepts
 - [[concepts/communication]] — Communication

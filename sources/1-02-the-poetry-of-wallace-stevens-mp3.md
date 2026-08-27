@@ -6,20 +6,18 @@ drive_id: 1bnRpe2cpkTltBKrny2L3aAaqvTMS2l_-
 source_link: https://drive.google.com/file/d/1bnRpe2cpkTltBKrny2L3aAaqvTMS2l_-/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["apple", "ar", "imagination", "mozilla"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "imagination", "mozilla"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/apple
     - entities/mozilla
-    - entities/ar
   concepts:
     - concepts/imagination
 related:
   - concepts/imagination
   - entities/apple
-  - entities/ar
   - entities/mozilla
 ---
 # 1-02 The Poetry of Wallace Stevens.mp3
@@ -34,7 +32,6 @@ This recording is a lecture from the third session of a course titled American V
 ## Named Entities
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/imagination]] — Imagination

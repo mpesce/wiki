@@ -6,20 +6,18 @@ drive_id: 1K01mPS4VvA9o4Zup290UBZX2W6n1Xqr0
 source_link: https://drive.google.com/file/d/1K01mPS4VvA9o4Zup290UBZX2W6n1Xqr0/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["apple", "ar", "mark-pesce", "mozilla"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["apple", "mark-pesce", "mozilla"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
-    - entities/ar
   concepts:
     - (none)
 related:
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
   - entities/mozilla
 ---
@@ -36,7 +34,6 @@ This recording captures a segment of a talk or keynote address delivered by Mark
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

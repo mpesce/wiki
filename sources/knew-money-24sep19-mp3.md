@@ -6,24 +6,20 @@ drive_id: 1KquKwyjNiI5c4OgzVNOp4avh8ncV_pKA
 source_link: https://drive.google.com/file/d/1KquKwyjNiI5c4OgzVNOp4avh8ncV_pKA/view?usp=drivesdk
 type: lecture
 date: unknown
-tags: ["ar", "facebook", "git", "the-future", "trust", "wired"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["facebook", "the-future", "trust", "wired"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/facebook
     - entities/wired
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/trust
 related:
   - concepts/the-future
   - concepts/trust
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/wired
 ---
 # Knew Money 24Sep19.mp3
@@ -38,8 +34,6 @@ Talk on the convergence of the internet and economics ('the future of the Intern
 ## Named Entities
 - [[entities/facebook]] (Facebook)
 - [[entities/wired]] (Wired)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

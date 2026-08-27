@@ -6,20 +6,18 @@ drive_id: 12ijF0mhGk2GJQMINv2Cgc4M48jdq7SQK
 source_link: https://drive.google.com/file/d/12ijF0mhGk2GJQMINv2Cgc4M48jdq7SQK/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["apple", "ar", "mark-pesce", "mozilla"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "mark-pesce", "mozilla"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
-    - entities/ar
   concepts:
     - (none)
 related:
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
   - entities/mozilla
 ---
@@ -36,7 +34,6 @@ This recording is a segment from an interview or panel discussion featuring Mark
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

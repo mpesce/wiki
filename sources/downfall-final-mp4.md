@@ -6,18 +6,16 @@ drive_id: 1rS74l-wimEY6t1nixxH1p4X8I6BYXkGB
 source_link: https://drive.google.com/file/d/1rS74l-wimEY6t1nixxH1p4X8I6BYXkGB/view?usp=drivesdk
 type: talk
 date: unknown
-tags: ["ar", "identity", "mark-pesce"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["identity", "mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
   concepts:
     - concepts/identity
 related:
   - concepts/identity
-  - entities/ar
   - entities/mark-pesce
 ---
 # Downfall-final.mp4
@@ -31,7 +29,6 @@ The provided transcript consists entirely of repeated annotations indicating tha
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/identity]] — Identity

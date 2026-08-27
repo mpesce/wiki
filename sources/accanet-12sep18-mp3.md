@@ -6,9 +6,9 @@ drive_id: 1RuMr-l6d4LnegOsMdhaxidpyvdC_h4OQ
 source_link: https://drive.google.com/file/d/1RuMr-l6d4LnegOsMdhaxidpyvdC_h4OQ/view?usp=drivesdk
 type: keynote
 date: 2011
-tags: ["apple", "ar", "artificial-intelligence", "broadcast", "facebook", "git", "google", "mark-pesce", "microsoft", "the-future", "trust"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "artificial-intelligence", "facebook", "google", "mark-pesce", "microsoft", "the-future", "trust"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,22 +16,16 @@ mentions:
     - entities/google
     - entities/microsoft
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
     - concepts/trust
-    - concepts/broadcast
 related:
   - concepts/artificial-intelligence
-  - concepts/broadcast
   - concepts/the-future
   - concepts/trust
   - entities/apple
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/google
   - entities/mark-pesce
   - entities/microsoft
@@ -51,14 +45,11 @@ This recording is a keynote address delivered by Mark Pesce, a telecommunication
 - [[entities/google]] (Google)
 - [[entities/microsoft]] (Microsoft)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
 - [[concepts/artificial-intelligence]] — Artificial intelligence
 - [[concepts/trust]] — Trust
-- [[concepts/broadcast]] — Broadcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

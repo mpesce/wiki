@@ -6,14 +6,13 @@ drive_id: 10Gvd1YCjNQou0hisC2IbMKLT5nKaYQ1w
 source_link: https://drive.google.com/file/d/10Gvd1YCjNQou0hisC2IbMKLT5nKaYQ1w/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "google", "mark-pesce", "networks", "social-media", "social-networks", "trust", "twitter"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["google", "mark-pesce", "networks", "social-media", "social-networks", "trust", "twitter"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
-    - entities/ar
   concepts:
     - concepts/social-media
     - concepts/twitter
@@ -26,7 +25,6 @@ related:
   - concepts/social-networks
   - concepts/trust
   - concepts/twitter
-  - entities/ar
   - entities/google
   - entities/mark-pesce
 ---
@@ -42,7 +40,6 @@ This recording is a talk delivered by Mark Pesce, a media and technology comment
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

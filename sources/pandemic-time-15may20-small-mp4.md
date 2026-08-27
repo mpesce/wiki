@@ -6,24 +6,20 @@ drive_id: 126BkvxYyvd9BITyiplv3kcLJH0NnIfQt
 source_link: https://drive.google.com/file/d/126BkvxYyvd9BITyiplv3kcLJH0NnIfQt/view?usp=drivesdk
 type: lecture
 date: 2020
-tags: ["apple", "ar", "mark-pesce", "meta", "mozilla", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["apple", "mark-pesce", "mozilla", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
-    - entities/meta
-    - entities/ar
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
   - entities/mozilla
 ---
 # Pandemic Time 15May20 small.mp4
@@ -39,8 +35,6 @@ This recording is a lecture delivered by Mark Pesce, a futurist and former Apple
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

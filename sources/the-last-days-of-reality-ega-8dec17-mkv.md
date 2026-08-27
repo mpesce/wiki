@@ -6,15 +6,13 @@ drive_id: 1UjVaf73U1x5umYy-V9mhD-LqPDEZJsOC
 source_link: https://drive.google.com/file/d/1UjVaf73U1x5umYy-V9mhD-LqPDEZJsOC/view?usp=drivesdk
 type: interview
 date: 2018
-tags: ["ar", "artificial-intelligence", "facebook", "git", "mark-pesce", "social-media", "surveillance", "surveillance-capitalism"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["artificial-intelligence", "facebook", "mark-pesce", "social-media", "surveillance", "surveillance-capitalism"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-media
     - concepts/surveillance
@@ -25,9 +23,7 @@ related:
   - concepts/social-media
   - concepts/surveillance
   - concepts/surveillance-capitalism
-  - entities/ar
   - entities/facebook
-  - entities/git
   - entities/mark-pesce
 ---
 # The Last Days of Reality - EGA 8Dec17.mkv
@@ -42,8 +38,6 @@ Mark Pesce delivered a talk at the EGA conference, noting his return after a thi
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

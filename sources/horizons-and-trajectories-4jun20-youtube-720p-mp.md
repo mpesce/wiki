@@ -6,23 +6,21 @@ drive_id: 1vx8VMSMf4Pz3RpsvvTkEbgz_zaf1uvD6
 source_link: https://drive.google.com/file/d/1vx8VMSMf4Pz3RpsvvTkEbgz_zaf1uvD6/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["abc", "apple", "ar", "mark-pesce", "mozilla", "remote-work"]
-created: 2026-08-26T09:58:40Z
-last_updated: 2026-08-26T09:58:40Z
+tags: ["abc", "apple", "mark-pesce", "mozilla", "remote-work"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
     - entities/abc
-    - entities/ar
   concepts:
     - concepts/remote-work
 related:
   - concepts/remote-work
   - entities/abc
   - entities/apple
-  - entities/ar
   - entities/mark-pesce
   - entities/mozilla
 ---
@@ -40,7 +38,6 @@ This recording is a lecture or talk delivered by Mark Pesce, a futurist and form
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
 - [[entities/abc]] (ABC)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/remote-work]] — Remote work

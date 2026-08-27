@@ -6,28 +6,20 @@ drive_id: 1ms_DiGyail8Zp4ipI0OzB8ev6EEKl3ms
 source_link: https://drive.google.com/file/d/1ms_DiGyail8Zp4ipI0OzB8ev6EEKl3ms/view?usp=drivesdk
 type: interview
 date: 2013
-tags: ["ar", "attention", "connectivity", "git", "mark-pesce", "meta", "vr", "vrml"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["attention", "connectivity", "mark-pesce", "vrml"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
     - entities/vrml
-    - entities/vr
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/attention
     - concepts/connectivity
 related:
   - concepts/attention
   - concepts/connectivity
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
-  - entities/meta
-  - entities/vr
   - entities/vrml
 ---
 # PowersOfThen-9Apr13.m4v
@@ -41,11 +33,7 @@ This recording is a guest lecture delivered by Mark Pesce to a university class,
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
 - [[entities/vrml]] (VRML)
-- [[entities/vr]] (VR)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/attention]] — Attention

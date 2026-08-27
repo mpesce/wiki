@@ -6,20 +6,16 @@ drive_id: 1Qd1FHXTSLh0HjfJ1XyExrzp7wB1FZGp5
 source_link: https://drive.google.com/file/d/1Qd1FHXTSLh0HjfJ1XyExrzp7wB1FZGp5/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "mark-pesce", "meta"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["mark-pesce"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/ar
   concepts:
     - (none)
 related:
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # 3-03 Empire.mp3
 
@@ -32,8 +28,6 @@ This recording is a talk by Mark Pesce, a media and technology commentator, deli
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

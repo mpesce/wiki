@@ -6,14 +6,12 @@ drive_id: 19G99Bl7YQYlmgVT5uxCpbSC35nKh0_8q
 source_link: https://drive.google.com/file/d/19G99Bl7YQYlmgVT5uxCpbSC35nKh0_8q/view?usp=drivesdk
 type: podcast
 date: 2005
-tags: ["ar", "attention", "broadcast", "mark-pesce", "meta", "networks", "peer-to-peer", "social-networks", "the-future", "the-swarm"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["attention", "mark-pesce", "networks", "peer-to-peer", "social-networks", "the-future", "the-swarm"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/meta
-    - entities/ar
   concepts:
     - concepts/the-future
     - concepts/social-networks
@@ -21,18 +19,14 @@ mentions:
     - concepts/networks
     - concepts/peer-to-peer
     - concepts/the-swarm
-    - concepts/broadcast
 related:
   - concepts/attention
-  - concepts/broadcast
   - concepts/networks
   - concepts/peer-to-peer
   - concepts/social-networks
   - concepts/the-future
   - concepts/the-swarm
-  - entities/ar
   - entities/mark-pesce
-  - entities/meta
 ---
 # The Swarm (Parts I, II, and III).mp3
 
@@ -45,8 +39,6 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/meta]] (Meta)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future
@@ -55,7 +47,6 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 - [[concepts/networks]] — Networks
 - [[concepts/peer-to-peer]] — Peer-to-peer
 - [[concepts/the-swarm]] — The swarm
-- [[concepts/broadcast]] — Broadcasting
 
 ## Quotes
 - (add memorable direct quotes with timecodes during compile)

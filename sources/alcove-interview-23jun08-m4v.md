@@ -6,14 +6,12 @@ drive_id: 1gc__coAu4BknUf1ft77gz6-DBFarz23n
 source_link: https://drive.google.com/file/d/1gc__coAu4BknUf1ft77gz6-DBFarz23n/view?usp=drivesdk
 type: interview
 date: 2006
-tags: ["ar", "attention", "communication", "connectivity", "git", "mark-pesce", "networks", "podcast", "social-networks", "virtual-reality"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["attention", "communication", "connectivity", "mark-pesce", "networks", "podcast", "social-networks", "virtual-reality"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/social-networks
     - concepts/virtual-reality
@@ -30,8 +28,6 @@ related:
   - concepts/podcast
   - concepts/social-networks
   - concepts/virtual-reality
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # alcove-interview-23Jun08.m4v
@@ -45,8 +41,6 @@ This recording is an interview from the podcast The Alcove, hosted by Mark Maler
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks

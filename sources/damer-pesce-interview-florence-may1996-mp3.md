@@ -6,22 +6,18 @@ drive_id: 1IMEDVS9wVrlN6Ff8yK0BXNnwB35JmARS
 source_link: https://drive.google.com/file/d/1IMEDVS9wVrlN6Ff8yK0BXNnwB35JmARS/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["ar", "communication", "git", "mark-pesce", "the-future"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["communication", "mark-pesce", "the-future"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
     - entities/mark-pesce
-    - entities/ar
-    - entities/git
   concepts:
     - concepts/the-future
     - concepts/communication
 related:
   - concepts/communication
   - concepts/the-future
-  - entities/ar
-  - entities/git
   - entities/mark-pesce
 ---
 # damer-pesce-interview-florence-may1996.mp3
@@ -35,8 +31,6 @@ This recording is an interview featuring Mark Pesce, a media and technology comm
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
-- [[entities/ar]] (AR)
-- [[entities/git]] (Git)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

@@ -1,0 +1,51 @@
+# Mark Pesce — LLM Wiki
+
+A portable, interlinked knowledge base compiled from 626 transcribed
+recordings of **Mark Pesce** — media commentator, VRML inventor (1994),
+and researcher in agentic systems / AI safety.
+
+This directory is **self-contained**: plain markdown + YAML frontmatter,
+no external dependencies, no binary assets. Clone it and read it.
+
+## Start here
+
+1. **WIKI.md** — the schema: layout, page formats, workflows (INGEST,
+   LINT, QUERY), conventions. Read this first.
+2. **INDEX.md** — the content catalog: every page, one line each.
+3. **overview.md** — the top-level synthesis: corpus shape and key themes.
+4. **LOG.md** — append-only timeline of all actions.
+
+## Layout
+
+| Path        | What |
+|-------------|------|
+| `sources/`  | 625 pages — one per recording (summary + key points + named entities/concepts). Immutable. |
+| `entities/` | 34 pages — 3 people, 17 organizations, 14 technologies. |
+| `concepts/` | 50 pages — recurring themes (broadcast, the future, networks, AI, VR, …). |
+| `queries/`  | empty — cited research answers go here (workflow: WIKI.md §7.3). |
+| `lint/`     | dated health reports; latest is `report-2026-08-26.md` (clean). |
+| `_ingest_manifest.json` | machine-readable map: slug → entities/concepts/dates/links. The compile + lint + index steps all read from this. |
+
+Links use Obsidian-style `[[wiki-relative/path]]` — open any page and
+follow the backlinks.
+
+## Provenance
+
+- Source of truth (recordings, transcripts, summaries) lives in the
+  parent `nightshift/` project — this wiki **links** to it, never
+  embeds it. Each source page carries the original Drive file id and
+  link in its frontmatter.
+- Built and maintained by an agent night-shift pipeline
+  (`nightshift/tools/`: ingest → compile → lint → index). Rebuilds are
+  deterministic and idempotent.
+- Corpus status: 628 recordings total, 626 transcribed, 2 untranscribable
+  (DV .mov files with no audio stream). 625 distinct source pages (one
+  exact re-upload is recorded as a duplicate in the manifest).
+
+## Status
+
+- Last full rebuild: **2026-08-26** — lint clean (0 broken links,
+  0 orphans, 0 missing cross-refs).
+- Known gaps: 376 undated sources; entity vocabulary is curated and can
+  be extended; entity/concept TL;DR/Overview sections are templates
+  awaiting synthesis; `queries/` not yet populated.

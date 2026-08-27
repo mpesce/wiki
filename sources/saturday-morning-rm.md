@@ -6,20 +6,16 @@ drive_id: 19XlExpI3FlfyR-PiFmvunNX7VvPCrcV3
 source_link: https://drive.google.com/file/d/19XlExpI3FlfyR-PiFmvunNX7VvPCrcV3/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["3d", "ar", "meta"]
-created: 2026-08-24T11:24:54Z
-last_updated: 2026-08-24T11:24:54Z
+tags: ["3d"]
+created: 2026-08-26T13:13:22Z
+last_updated: 2026-08-26T13:13:22Z
 mentions:
   entities:
-    - entities/meta
     - entities/3d
-    - entities/ar
   concepts:
     - (none)
 related:
   - entities/3d
-  - entities/ar
-  - entities/meta
 ---
 # Saturday Morning.rm
 
@@ -31,9 +27,7 @@ Mark gives a 30-40 minute keynote before opening to discussion: he believes soci
 - See summary above.
 
 ## Named Entities
-- [[entities/meta]] (Meta)
 - [[entities/3d]] (3D)
-- [[entities/ar]] (AR)
 
 ## Related Concepts
 - (none identified)

@@ -4,8 +4,8 @@ slug: venture-capital
 title: Venture capital
 tags: ["concept"]
 source_count: 7
-created: 2026-08-26T11:29:58Z
-last_updated: 2026-08-26T11:29:58Z
+created: 2026-08-26T13:20:28Z
+last_updated: 2026-08-26T13:20:28Z
 related:
   - (populate via lint)
 ---
