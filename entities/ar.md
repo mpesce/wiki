@@ -13,10 +13,16 @@ related:
 # AR
 
 ## TL;DR
-<21 sources reference AR. Compile the one-line synthesis from the sources below.>
+For Pesce, augmented reality is not a device category but a human practice: binding data to physical space, from cave paintings to Pokémon Go — and because AR devices must continuously map and watch the world, it is inherently a technology of surveillance with an unresolved 'right to write' problem.
 
 ## Overview
-<Compile a cross-source synthesis of AR. What is consistent and what changed over time.>
+The AR sources divide into two clusters: a mid-2010s wave of enthusiasm about capabilities, and 2019–2021 lectures that systematise the ethics. The mid-2010s talks are optimistic: WebVR reaching "hundreds of millions of devices" and shifting the industry's focus from hardware access to content creation [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]], AR identified in 2010 as the most exciting recent development as GPS-and-camera phones overlay information onto the world [[sources/sat-20100213-1110-mark-pesce-future-gaze-048-mp3]], and AR spectacles from Apple, Google and Facebook arriving on predictable timelines [[sources/supertools-aut-9may19-mp3]].
+
+The core argument, stated almost identically in lectures from 2016 through 2021, is that AR is "not merely a device but a method of binding metadata to physical space", a practice dating back to rock art, and that the graphics-centric framing is a historical artifact of Ivan Sutherland's lineage rather than a technical necessity [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]], [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]]. Pokémon Go is the recurring proof: a single PokéStop in Peg Patterson Park, Rhodes drew a crowd of about a thousand, producing noise complaints and police attention — demonstrating that inscribing data into space changes human behaviour in that space.
+
+From 2019 the emphasis shifts from capability to governance and surveillance. In "Last Days of Reality" (Toronto, October 2017) he had already framed AR as the third stage of digital colonialism after the web and smartphones, warning that AR requires constant locative and facial tracking [[sources/last-days-of-reality-toronto-17oct17-mov]]. The DECO 2200 lecture calls AR "the central problem in design computing in the middle years of the 21st century" and tells design students their task is social engineering, not just design [[sources/the-world-and-its-double-deco-2200-mp3]]; the 2020 book-tour interviews argue AR is the natural consequence of thirty years of human-computer interaction design, that SLAM makes surveillance unavoidable, and that gaze tracking reveals private physiological data [[sources/voices-of-vr-mark-pesce-20nov20-mp3]], [[sources/mark-pesce-20nov20-wav]]. By late 2021, the AR Dilemmas lectures frame the open question as the "right to write": companies asserting the ability to place digital content in shared physical space without consent, in a contested reality [[sources/arin-2610-internet-transformations-the-ar-dilemm]].
+
+What stays constant is the double character: the same locative awareness that enables benefits — transparency into hidden systems, sustainability applications, new storytelling for regions like the Kimberley [[sources/supertools-aut-9may19-mp3]] — is what makes AR a panopticon. What changes over time is the balance: optimism about enabling technologies (Kinect, Niantic maps, Cardboard) in the mid-2010s, hardening into warnings about commercial systems treating space as a writable canvas without consent by 2021.
 
 ## Key Facts
 - [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]] — VR Creative Cluster Mark Pesce 9 Aug16 video2.MP4

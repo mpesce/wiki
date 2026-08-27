@@ -28,3 +28,4 @@ Grep for the last five actions with: `grep '^## [' LOG.md | tail -5`
 ## [2026-08-27] synthesis | 16 entity/concept pages now carry cited TL;DR/Overview prose (preserved through full rebuild)
 ## [2026-08-27] lint | run | 0 broken links, 0 orphans, 0 missing cross-refs (report-2026-08-27.md)
 ## [2026-08-27] update | overview.md + README.md refreshed with post-rebuild counts (refresh_docs.py)
+## [2026-08-27] synthesis | wave-3 complete: 28 entity/concept pages now carry cited prose (16 wave-1/2 + 12 wave-3); lint clean
