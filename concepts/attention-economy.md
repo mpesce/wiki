@@ -5,7 +5,7 @@ title: The attention economy
 tags: ["concept"]
 source_count: 2
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-26T13:20:28Z
+last_updated: 2026-08-27T10:36:11Z
 related:
   - (populate via lint)
 ---

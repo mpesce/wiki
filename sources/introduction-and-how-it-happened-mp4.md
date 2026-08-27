@@ -5,7 +5,7 @@ title: Introduction and how it happened.mp4
 drive_id: 1ENqijCF-2S0iNX-wXdZdSbeyJbUX8jZN
 source_link: https://drive.google.com/file/d/1ENqijCF-2S0iNX-wXdZdSbeyJbUX8jZN/view?usp=drivesdk
 type: lecture
-date: 2035
+date: unknown
 tags: ["mark-pesce", "metaverse"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

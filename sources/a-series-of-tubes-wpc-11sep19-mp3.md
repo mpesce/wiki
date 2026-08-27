@@ -5,7 +5,7 @@ title: A Series of Tubes WPC 11Sep19.mp3
 drive_id: 1nm1Tci9d-VSfyQCcxL-dZqV0CmV8Ass_
 source_link: https://drive.google.com/file/d/1nm1Tci9d-VSfyQCcxL-dZqV0CmV8Ass_/view?usp=drivesdk
 type: keynote
-date: 2030
+date: 2019-09-11
 tags: ["artificial-intelligence", "connectivity", "mark-pesce", "participation", "peer-to-peer", "the-future", "the-future-of-work"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -5,7 +5,7 @@ title: Mark Pesce WTD1 28Jun21.wav
 drive_id: 1e1pfHNrrGTDrIXpWEBt3hXpgwofkVjTq
 source_link: https://drive.google.com/file/d/1e1pfHNrrGTDrIXpWEBt3hXpgwofkVjTq/view?usp=drivesdk
 type: interview
-date: 1982
+date: 2021-06-28
 tags: ["abc", "google", "innovation", "mit", "podcast", "startups", "venture-capital"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

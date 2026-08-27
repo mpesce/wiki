@@ -5,7 +5,7 @@ title: Pandemic Time 15May20 small.mp4
 drive_id: 126BkvxYyvd9BITyiplv3kcLJH0NnIfQt
 source_link: https://drive.google.com/file/d/126BkvxYyvd9BITyiplv3kcLJH0NnIfQt/view?usp=drivesdk
 type: lecture
-date: 2020
+date: 2020-05-15
 tags: ["apple", "mark-pesce", "mozilla", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

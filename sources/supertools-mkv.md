@@ -5,7 +5,7 @@ title: supertools.mkv
 drive_id: 1Duqn42aIILgJBjeRfqP77F4TewdobeAT
 source_link: https://drive.google.com/file/d/1Duqn42aIILgJBjeRfqP77F4TewdobeAT/view?usp=drivesdk
 type: keynote
-date: 1968
+date: unknown
 tags: ["ar", "artificial-intelligence", "attention", "mark-pesce"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

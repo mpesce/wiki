@@ -5,7 +5,7 @@ title: Better-Than-Crack.mp3
 drive_id: 122Utdvfn8w7sZIa6UOc_hHpeTEFFofvZ
 source_link: https://drive.google.com/file/d/122Utdvfn8w7sZIa6UOc_hHpeTEFFofvZ/view?usp=drivesdk
 type: keynote
-date: 1975
+date: unknown
 tags: ["connectivity", "mark-pesce", "networks", "social-networks"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

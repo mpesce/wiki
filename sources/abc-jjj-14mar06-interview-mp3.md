@@ -5,7 +5,7 @@ title: ABC-JJJ-14Mar06-Interview.mp3
 drive_id: 16m0xPwcBQqmAjRkAAzXskSfgTFFcIW82
 source_link: https://drive.google.com/file/d/16m0xPwcBQqmAjRkAAzXskSfgTFFcIW82/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2006-03-14
 tags: ["attention", "broadcast", "creators", "digital-distribution", "mark-pesce", "peer-to-peer"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

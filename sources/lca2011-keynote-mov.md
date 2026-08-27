@@ -5,7 +5,7 @@ title: LCA2011-Keynote.mov
 drive_id: 1bynvRgL41s83F5Xh1kPOA7mJIn6GEMCR
 source_link: https://drive.google.com/file/d/1bynvRgL41s83F5Xh1kPOA7mJIn6GEMCR/view?usp=drivesdk
 type: keynote
-date: 2010
+date: 2011
 tags: ["facebook", "mark-pesce", "networks", "open-source", "social-networks", "virtual-reality", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -5,7 +5,7 @@ title: Loreto Toorak 15Aug18.mp3
 drive_id: 1sppkytZR3H29e1cMrerUqOJtKXDEfBTO
 source_link: https://drive.google.com/file/d/1sppkytZR3H29e1cMrerUqOJtKXDEfBTO/view?usp=drivesdk
 type: lecture
-date: 2033
+date: 2018-08-15
 tags: ["artificial-intelligence", "education", "google", "mark-pesce", "networks", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

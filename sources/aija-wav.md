@@ -5,7 +5,7 @@ title: AIJA.wav
 drive_id: 1i0qd08k8R--Y-30AJxTtzUvehoz-A-P8
 source_link: https://drive.google.com/file/d/1i0qd08k8R--Y-30AJxTtzUvehoz-A-P8/view?usp=drivesdk
 type: keynote
-date: 2050
+date: unknown
 tags: ["apple", "artificial-intelligence", "collaboration", "education", "mark-pesce", "mozilla", "the-future", "the-future-of-work"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

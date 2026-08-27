@@ -5,7 +5,7 @@ title: Broadcast_and_Autonomy_ACMA_30Oct18.mp3
 drive_id: 1BCNvyX4bog3bZq1_-pcoydRSrNIN4ulN
 source_link: https://drive.google.com/file/d/1BCNvyX4bog3bZq1_-pcoydRSrNIN4ulN/view?usp=drivesdk
 type: podcast
-date: 2018
+date: 2018-10-30
 tags: ["3d", "broadcast", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

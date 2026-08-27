@@ -5,7 +5,7 @@ title: Douglas Rushkoff
 tags: ["person"]
 source_count: 16
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-26T13:20:28Z
+last_updated: 2026-08-27T10:36:11Z
 related:
   - (populate via lint)
 ---
@@ -31,10 +31,10 @@ related:
 - [[sources/techno-pagans-at-the-end-of-history-11-esalen-mp]] — Techno-Pagans at the End of History 11(Esalen).mp3
 - [[sources/techno-pagans-at-the-end-of-history-4-esalen-mp3]] — Techno-Pagans at the End of History 4(Esalen).mp3
 - [[sources/techno-pagans-at-the-end-of-history-8-esalen-mp3]] — Techno-Pagans at the End of History 8(Esalen).mp3
-- [[sources/friday-mp3]] — Friday.mp3
 - [[sources/rushkoff-mediasquat-30jun09-mp3]] — Rushkoff-MediaSquat-30Jun09.mp3
-- [[sources/highcastledinner-17jan26-mp4]] — HighCastleDinner-17Jan26.mp4
 - [[sources/wisdom-douglas-rushkoff-cuts-us-some-slack-febru]] — Wisdom -- Douglas Rushkoff Cuts Us Some Slack February 2021 1080p.mp4
+- [[sources/friday-mp3]] — Friday.mp3
+- [[sources/highcastledinner-17jan26-mp4]] — HighCastleDinner-17Jan26.mp4
 
 ## In the Corpus
 
@@ -62,7 +62,7 @@ related:
 - [[sources/techno-pagans-at-the-end-of-history-11-esalen-mp]]
 - [[sources/techno-pagans-at-the-end-of-history-4-esalen-mp3]]
 - [[sources/techno-pagans-at-the-end-of-history-8-esalen-mp3]]
-- [[sources/friday-mp3]]
 - [[sources/rushkoff-mediasquat-30jun09-mp3]]
-- [[sources/highcastledinner-17jan26-mp4]]
 - [[sources/wisdom-douglas-rushkoff-cuts-us-some-slack-febru]]
+- [[sources/friday-mp3]]
+- [[sources/highcastledinner-17jan26-mp4]]

@@ -5,7 +5,7 @@ title: Both-And The Hybrid Future of Events MEA 28Apr21 720p.mp4
 drive_id: 1qyXp1wZwLpYghSKBZViP9Fiebnaf09np
 source_link: https://drive.google.com/file/d/1qyXp1wZwLpYghSKBZViP9Fiebnaf09np/view?usp=drivesdk
 type: workshop
-date: unknown
+date: 2021-04-28
 tags: ["google", "mark-pesce", "microsoft", "remote-work"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

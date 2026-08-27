@@ -5,7 +5,7 @@ title: crowdfunding-31Jul14.wmv
 drive_id: 1YImXU9SDdgLFnbwG-0nMZtmvUSeqmxHB
 source_link: https://drive.google.com/file/d/1YImXU9SDdgLFnbwG-0nMZtmvUSeqmxHB/view?usp=drivesdk
 type: interview
-date: 2012
+date: 2014-07-31
 tags: ["apple", "communication", "creators", "crowdfunding", "mark-pesce", "trust", "venture-capital"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

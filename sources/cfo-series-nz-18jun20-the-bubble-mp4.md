@@ -5,7 +5,7 @@ title: CFO Series NZ 18Jun20 The Bubble.mp4
 drive_id: 1IBwbvuC76IGHdTGpVKepBq1hOuPjY2bm
 source_link: https://drive.google.com/file/d/1IBwbvuC76IGHdTGpVKepBq1hOuPjY2bm/view?usp=drivesdk
 type: podcast
-date: 2020
+date: 2020-06-18
 tags: ["mark-pesce", "podcast", "remote-work", "trust"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

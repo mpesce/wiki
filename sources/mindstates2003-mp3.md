@@ -5,7 +5,7 @@ title: Mindstates2003.mp3
 drive_id: 181IAtqNDvIwCVBLdxtJ8e1fHf0pgvPcc
 source_link: https://drive.google.com/file/d/181IAtqNDvIwCVBLdxtJ8e1fHf0pgvPcc/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2003
 tags: ["mark-pesce"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -5,7 +5,7 @@ title: ACCANet 12Sep18.mp3
 drive_id: 1RuMr-l6d4LnegOsMdhaxidpyvdC_h4OQ
 source_link: https://drive.google.com/file/d/1RuMr-l6d4LnegOsMdhaxidpyvdC_h4OQ/view?usp=drivesdk
 type: keynote
-date: 2011
+date: 2018-09-12
 tags: ["apple", "artificial-intelligence", "facebook", "google", "mark-pesce", "microsoft", "the-future", "trust"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

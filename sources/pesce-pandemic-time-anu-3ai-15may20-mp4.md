@@ -5,7 +5,7 @@ title: Pesce Pandemic Time ANU 3Ai 15May20.mp4
 drive_id: 1nDw5u8CUgUOtTSGSJij-v5tj7Ou1K--u
 source_link: https://drive.google.com/file/d/1nDw5u8CUgUOtTSGSJij-v5tj7Ou1K--u/view?usp=drivesdk
 type: news
-date: 2020
+date: 2020-05-15
 tags: ["apple", "mark-pesce", "mozilla", "the-future", "wired"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -5,7 +5,7 @@ title: ntn-20191114-1105-should_we_really_trust_big_tech_with_our_health_data-12
 drive_id: 1jondHHQHdM24LDnfsd17bE9ZARItBub8
 source_link: https://drive.google.com/file/d/1jondHHQHdM24LDnfsd17bE9ZARItBub8/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2019-11-14
 tags: ["artificial-intelligence", "google", "surveillance"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

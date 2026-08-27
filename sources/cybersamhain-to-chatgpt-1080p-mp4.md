@@ -5,7 +5,7 @@ title: Cybersamhain to ChatGPT 1080p.mp4
 drive_id: 1SqswZI9SXYRs8jbgwNlJAOAAl5icYjDg
 source_link: https://drive.google.com/file/d/1SqswZI9SXYRs8jbgwNlJAOAAl5icYjDg/view?usp=drivesdk
 type: lecture
-date: 1959
+date: unknown
 tags: ["3d", "mark-pesce", "mit"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

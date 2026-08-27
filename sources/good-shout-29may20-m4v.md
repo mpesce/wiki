@@ -5,7 +5,7 @@ title: good_shout 29May20.m4v
 drive_id: 1aKOUv-Pb8hKws4s1Jq5SIoEZTtpJpNZq
 source_link: https://drive.google.com/file/d/1aKOUv-Pb8hKws4s1Jq5SIoEZTtpJpNZq/view?usp=drivesdk
 type: lecture
-date: unknown
+date: 2020-05-29
 tags: ["attention", "facebook", "google", "mark-pesce", "social-media", "surveillance"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -5,7 +5,7 @@ title: TheRoadAhead_17May18.mp3
 drive_id: 1H0BKv9wunj155uEEcY9dIWG0dKEnOsIq
 source_link: https://drive.google.com/file/d/1H0BKv9wunj155uEEcY9dIWG0dKEnOsIq/view?usp=drivesdk
 type: podcast
-date: 1963
+date: 2018-05-17
 tags: ["3d", "broadcast", "collaboration", "mark-pesce", "microsoft", "virtual-reality", "vr", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

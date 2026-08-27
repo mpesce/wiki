@@ -5,7 +5,7 @@ title: PowersOfThen-9Apr13.m4v
 drive_id: 1ms_DiGyail8Zp4ipI0OzB8ev6EEKl3ms
 source_link: https://drive.google.com/file/d/1ms_DiGyail8Zp4ipI0OzB8ev6EEKl3ms/view?usp=drivesdk
 type: interview
-date: 2013
+date: 2013-04-09
 tags: ["attention", "connectivity", "mark-pesce", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -17,3 +17,8 @@ Grep for the last five actions with: `grep '^## [' LOG.md | tail -5`
 ## [2026-08-26] finalize | finalize_daemon restarted (had been stopped since 2026-08-21): 110 Google Docs created in 17.5 min, 0 failures → 626/626 transcribed recordings now documented in Drive
 ## [2026-08-26] update | INDEX.md regenerated (3 people, 17 orgs, 14 technologies, 50 concepts, 625 sources); LOG.md restored to proper timeline format; overview.md + WIKI.md §10 updated
 ## [2026-08-26] git | wiki/ initialised as a git repo (portability per TASK.md); initial commit 8182f97 + rebuild commit
+
+## [2026-08-27] update | rebuild committed (da7ccd5): extraction word-boundary fix, stale-page pruning, corrected counts
+## [2026-08-27] tool | compile_wiki.py now preserves hand-written TL;DR/Overview prose + created: timestamp on recompile (tested with marker)
+## [2026-08-27] tool | lint scans queries/ links; build_index.py emits '## Queries' section (auto-listed)
+## [2026-08-27] query | batch 1 dispatched: 10 query pages + 4 top-entity syntheses in flight

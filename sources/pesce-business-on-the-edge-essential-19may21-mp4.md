@@ -5,7 +5,7 @@ title: Pesce Business On The Edge --Essential 19May21.mp4
 drive_id: 1g3k9206pg8NYBMabLkkQEavXwSEyPQDv
 source_link: https://drive.google.com/file/d/1g3k9206pg8NYBMabLkkQEavXwSEyPQDv/view?usp=drivesdk
 type: podcast
-date: 2035
+date: 2021-05-19
 tags: ["the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

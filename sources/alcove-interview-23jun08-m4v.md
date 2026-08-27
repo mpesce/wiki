@@ -5,7 +5,7 @@ title: alcove-interview-23Jun08.m4v
 drive_id: 1gc__coAu4BknUf1ft77gz6-DBFarz23n
 source_link: https://drive.google.com/file/d/1gc__coAu4BknUf1ft77gz6-DBFarz23n/view?usp=drivesdk
 type: interview
-date: 2006
+date: 2008-06-23
 tags: ["attention", "communication", "connectivity", "mark-pesce", "networks", "podcast", "social-networks", "virtual-reality"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

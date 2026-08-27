@@ -5,7 +5,7 @@ title: thescoop-3Dec09.mp3
 drive_id: 1DtXlxvVvxjnh6vqpZLB5U5SvGubDEtLd
 source_link: https://drive.google.com/file/d/1DtXlxvVvxjnh6vqpZLB5U5SvGubDEtLd/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-12-03
 tags: ["3d", "mark-pesce", "networks", "podcast", "social-networks", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

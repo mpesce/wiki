@@ -5,7 +5,7 @@ title: ntn-20200521-1105-do_track_and_trace_apps_work_top_amazon_engineer_rage_q
 drive_id: 1we9dowTWXhqz5gppU_42VRqs9cyvFqch
 source_link: https://drive.google.com/file/d/1we9dowTWXhqz5gppU_42VRqs9cyvFqch/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2020-05-21
 tags: ["apple", "attention", "broadcast", "google"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

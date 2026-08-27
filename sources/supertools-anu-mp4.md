@@ -5,7 +5,7 @@ title: Supertools-ANU.mp4
 drive_id: 1LoYw8CRzGfu8pObCCEPz_SiRwXscgvYK
 source_link: https://drive.google.com/file/d/1LoYw8CRzGfu8pObCCEPz_SiRwXscgvYK/view?usp=drivesdk
 type: keynote
-date: 1979
+date: unknown
 tags: ["apple", "artificial-intelligence", "mark-pesce"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

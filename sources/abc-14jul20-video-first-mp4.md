@@ -5,7 +5,7 @@ title: ABC 14Jul20 Video First.mp4
 drive_id: 1-MziWrudOMin2ANjQ6-HZpG3uYNcnmVV
 source_link: https://drive.google.com/file/d/1-MziWrudOMin2ANjQ6-HZpG3uYNcnmVV/view?usp=drivesdk
 type: news
-date: 2005
+date: 2020-07-14
 tags: ["abc", "apple", "connectivity", "content-creation", "identity", "mark-pesce", "microsoft", "mozilla"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

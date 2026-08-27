@@ -5,7 +5,7 @@ title: Broadcasting
 tags: ["concept"]
 source_count: 119
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-26T13:20:28Z
+last_updated: 2026-08-27T10:36:11Z
 related:
   - (populate via lint)
 ---
@@ -19,42 +19,48 @@ related:
 <Synthesize how Broadcasting is treated across the corpus. Themes, debates, evolution.>
 
 ## Key Points
-- [[sources/0000000014ea5a0f-mpg]] — 0000000014ea5a0f.mpg
-- [[sources/000000001ab02d7f-mpg]] — 000000001ab02d7f.mpg
-- [[sources/theroadahead-17may18-mp3]] — TheRoadAhead_17May18.mp3
-- [[sources/000000001557b87f-mpg]] — 000000001557b87f.mpg
-- [[sources/rn-common-knowledge-19feb12-mp3]] — RN_Common_Knowledge-19Feb12.mp3
 - [[sources/4-02-hyperdistribution-mp3]] — 4-02 Hyperdistribution.mp3
 - [[sources/hyperpeople-mp3]] — hyperpeople.mp3
 - [[sources/the-new-inventors-20090610200000-mp4]] — The New Inventors-20090610200000.mp4
 - [[sources/piracyisgood-smal-avi]] — PiracyIsGood-smal.avi
 - [[sources/piracy-is-good-mp4]] — Piracy_is_Good.mp4
 - [[sources/piracyisgood-avi]] — PiracyIsGood.avi
+- [[sources/abc-jjj-14mar06-interview-mp3]] — ABC-JJJ-14Mar06-Interview.mp3
+- [[sources/abj-jjj-5oct06-interview-mp3]] — ABJ-JJJ-5Oct06-Interview.mp3
 - [[sources/the-new-inventors-20071114200000-mp4]] — The New Inventors-20071114200000.mp4
 - [[sources/the-new-inventors-20071121200000-mp4]] — The New Inventors-20071121200000.mp4
 - [[sources/the-new-inventors-20071128200000-mp4]] — The New Inventors-20071128200000.mp4
-- [[sources/nightlife-twitter-11mar09-mp3]] — nightlife-twitter-11Mar09.mp3
 - [[sources/jjj-hack-future-3dec08-mp3]] — JJJ_HACK_FUTURE_3Dec08.mp3
 - [[sources/the-new-inventors-20090617200000-mp4]] — The New Inventors-20090617200000.mp4
 - [[sources/the-new-inventors-20091125200000-mp4]] — The New Inventors-20091125200000.mp4
 - [[sources/0000000014d901d3-mpg]] — 0000000014d901d3.mpg
+- [[sources/nightlife-twitter-11mar09-mp3]] — nightlife-twitter-11Mar09.mp3
+- [[sources/rushkoff-mediasquat-30jun09-mp3]] — Rushkoff-MediaSquat-30Jun09.mp3
+- [[sources/hack-thurs-2009-07-30-mp3]] — hack_thurs_2009_07_30.mp3
+- [[sources/hack-tues-2010-01-19-mp3]] — hack_tues_2010_01_19.mp3
 - [[sources/sea-20100130-0730-mp3]] — sea_20100130_0730.mp3
+- [[sources/todaytonight-25may10-mov]] — TodayTonight-25May10.mov
+- [[sources/lms-20100531-0905-1-mp3]] — lms_20100531_0905 (1).mp3
+- [[sources/7-30report-3dtv-3jun10-m4v]] — 7_30Report_3DTV_3Jun10.m4v
+- [[sources/7-30report-3dtv-3jun10-m4v-2]] — 7_30Report_3DTV_3Jun10.m4v
+- [[sources/rn-common-knowledge-19feb12-mp3]] — RN_Common_Knowledge-19Feb12.mp3
 - [[sources/000000001a52899f-mpg]] — 000000001a52899f.mpg
 - [[sources/00000000196fd807-mpg]] — 00000000196fd807.mpg
 - [[sources/0000000019b5b787-mpg]] — 0000000019b5b787.mpg
-- [[sources/todaytonight-25may10-mov]] — TodayTonight-25May10.mov
 - [[sources/marc-pesce-rushes01-mov]] — Marc Pesce_rushes01.mov
 - [[sources/0000000011abc207-iphone-m4v]] — 0000000011abc207.iPhone.m4v
 - [[sources/000000001a6e3b77-mpg]] — 000000001a6e3b77.mpg
 - [[sources/000000001a6f8cf7-mpg]] — 000000001a6f8cf7.mpg
 - [[sources/000000001aaee307-mpg]] — 000000001aaee307.mpg
+- [[sources/theroadahead-17may18-mp3]] — TheRoadAhead_17May18.mp3
 - [[sources/broadcast-and-autonomy-acma-30oct18-mp3]] — Broadcast_and_Autonomy_ACMA_30Oct18.mp3
 - [[sources/ppm-2019-10-21-tik-tok-mp3]] — ppm-2019-10-21-tik-tok.mp3
 - [[sources/pesce-best-current-affairs-podcast-mp4]] — Pesce Best Current Affairs Podcast.mp4
+- [[sources/ntn-20200402-1107-tech-during-covid-brings-out-t]] — ntn-20200402-1107-tech_during_covid_brings_out_the_bad_the_ugly_and_the_good-128.mp3
+- [[sources/ntn-20200521-1105-do-track-and-trace-apps-work-t]] — ntn-20200521-1105-do_track_and_trace_apps_work_top_amazon_engineer_rage_quits-128.mp3
 - [[sources/radiance56-rm]] — Radiance56.rm
 - [[sources/strophariad56-rm]] — Strophariad56.rm
 - [[sources/incident56-rm]] — Incident56.rm
-- [[sources/abc-jjj-14mar06-interview-mp3]] — ABC-JJJ-14Mar06-Interview.mp3
 - [[sources/artbell5-mp3]] — artbell5.mp3
 - [[sources/artbell2-mp3]] — artbell2.mp3
 - [[sources/artbell7-mp3]] — artbell7.mp3
@@ -62,20 +68,11 @@ related:
 - [[sources/radiance-rm]] — Radiance.rm
 - [[sources/f20-verification-depth-mp4]] — F20_verification-depth.mp4
 - [[sources/f13-the-agent-is-using-you-mp4]] — F13_the-agent-is-using-you.mp4
-- [[sources/lms-20100531-0905-1-mp3]] — lms_20100531_0905 (1).mp3
 - [[sources/strophariad-mp4]] — Strophariad.mp4
-- [[sources/abj-jjj-5oct06-interview-mp3]] — ABJ-JJJ-5Oct06-Interview.mp3
-- [[sources/ntn-20200402-1107-tech-during-covid-brings-out-t]] — ntn-20200402-1107-tech_during_covid_brings_out_the_bad_the_ugly_and_the_good-128.mp3
-- [[sources/ntn-20200521-1105-do-track-and-trace-apps-work-t]] — ntn-20200521-1105-do_track_and_trace_apps_work_top_amazon_engineer_rage_quits-128.mp3
 - [[sources/unbomb-mp4]] — Unbomb.mp4
 - [[sources/strophariad-mov]] — Strophariad.mov
-- [[sources/hack-thurs-2009-07-30-mp3]] — hack_thurs_2009_07_30.mp3
-- [[sources/7-30report-3dtv-3jun10-m4v]] — 7_30Report_3DTV_3Jun10.m4v
-- [[sources/7-30report-3dtv-3jun10-m4v-2]] — 7_30Report_3DTV_3Jun10.m4v
-- [[sources/hack-tues-2010-01-19-mp3]] — hack_tues_2010_01_19.mp3
 - [[sources/piracyisgood-mp3]] — piracyisgood.mp3
 - [[sources/000000001ab03487-mpg]] — 000000001ab03487.mpg
-- [[sources/rushkoff-mediasquat-30jun09-mp3]] — Rushkoff-MediaSquat-30Jun09.mp3
 - [[sources/bt-2-mp4]] — bt-2.mp4
 - [[sources/the-new-inventors-20071107200000-mp4]] — The New Inventors-20071107200000.mp4
 - [[sources/the-new-inventors-20090520200000-mp4]] — The New Inventors-20090520200000.mp4
@@ -117,6 +114,7 @@ related:
 - [[sources/the-new-inventors-20070321195900-mp4]] — The New Inventors-20070321195900.mp4
 - [[sources/000000001b4e4d1f-iphone-m4v]] — 000000001b4e4d1f.iPhone.m4v
 - [[sources/wds08-opening-mov]] — WDS08-Opening.mov
+- [[sources/000000001ab02d7f-mpg]] — 000000001ab02d7f.mpg
 - [[sources/000000001b06c69c-iphone-m4v]] — 000000001b06c69c.iPhone.m4v
 - [[sources/000000001b4a7393-iphone-m4v]] — 000000001b4a7393.iPhone.m4v
 - [[sources/iv-pesce-090219-mp4]] — iv_Pesce_090219.mp4
@@ -124,10 +122,12 @@ related:
 - [[sources/000000001ab02678-mpg]] — 000000001ab02678.mpg
 - [[sources/000000001a6ce9bb-mpg]] — 000000001a6ce9bb.mpg
 - [[sources/000000001a6cf0ff-mpg]] — 000000001a6cf0ff.mpg
+- [[sources/0000000014ea5a0f-mpg]] — 0000000014ea5a0f.mpg
 - [[sources/00000000196ff427-mpg]] — 00000000196ff427.mpg
 - [[sources/000000001a638547-mpg]] — 000000001a638547.mpg
 - [[sources/000000001ab15980-mpg]] — 000000001ab15980.mpg
 - [[sources/000000001519e527-mpg]] — 000000001519e527.mpg
+- [[sources/000000001557b87f-mpg]] — 000000001557b87f.mpg
 - [[sources/0000000019b1bc00-mpg]] — 0000000019b1bc00.mpg
 - [[sources/000000001515f0a7-mpg]] — 000000001515f0a7.mpg
 - [[sources/000000001b06c69c-mpg]] — 000000001b06c69c.mpg
@@ -145,42 +145,48 @@ related:
 
 ## Sources
 
-- [[sources/0000000014ea5a0f-mpg]]
-- [[sources/000000001ab02d7f-mpg]]
-- [[sources/theroadahead-17may18-mp3]]
-- [[sources/000000001557b87f-mpg]]
-- [[sources/rn-common-knowledge-19feb12-mp3]]
 - [[sources/4-02-hyperdistribution-mp3]]
 - [[sources/hyperpeople-mp3]]
 - [[sources/the-new-inventors-20090610200000-mp4]]
 - [[sources/piracyisgood-smal-avi]]
 - [[sources/piracy-is-good-mp4]]
 - [[sources/piracyisgood-avi]]
+- [[sources/abc-jjj-14mar06-interview-mp3]]
+- [[sources/abj-jjj-5oct06-interview-mp3]]
 - [[sources/the-new-inventors-20071114200000-mp4]]
 - [[sources/the-new-inventors-20071121200000-mp4]]
 - [[sources/the-new-inventors-20071128200000-mp4]]
-- [[sources/nightlife-twitter-11mar09-mp3]]
 - [[sources/jjj-hack-future-3dec08-mp3]]
 - [[sources/the-new-inventors-20090617200000-mp4]]
 - [[sources/the-new-inventors-20091125200000-mp4]]
 - [[sources/0000000014d901d3-mpg]]
+- [[sources/nightlife-twitter-11mar09-mp3]]
+- [[sources/rushkoff-mediasquat-30jun09-mp3]]
+- [[sources/hack-thurs-2009-07-30-mp3]]
+- [[sources/hack-tues-2010-01-19-mp3]]
 - [[sources/sea-20100130-0730-mp3]]
+- [[sources/todaytonight-25may10-mov]]
+- [[sources/lms-20100531-0905-1-mp3]]
+- [[sources/7-30report-3dtv-3jun10-m4v]]
+- [[sources/7-30report-3dtv-3jun10-m4v-2]]
+- [[sources/rn-common-knowledge-19feb12-mp3]]
 - [[sources/000000001a52899f-mpg]]
 - [[sources/00000000196fd807-mpg]]
 - [[sources/0000000019b5b787-mpg]]
-- [[sources/todaytonight-25may10-mov]]
 - [[sources/marc-pesce-rushes01-mov]]
 - [[sources/0000000011abc207-iphone-m4v]]
 - [[sources/000000001a6e3b77-mpg]]
 - [[sources/000000001a6f8cf7-mpg]]
 - [[sources/000000001aaee307-mpg]]
+- [[sources/theroadahead-17may18-mp3]]
 - [[sources/broadcast-and-autonomy-acma-30oct18-mp3]]
 - [[sources/ppm-2019-10-21-tik-tok-mp3]]
 - [[sources/pesce-best-current-affairs-podcast-mp4]]
+- [[sources/ntn-20200402-1107-tech-during-covid-brings-out-t]]
+- [[sources/ntn-20200521-1105-do-track-and-trace-apps-work-t]]
 - [[sources/radiance56-rm]]
 - [[sources/strophariad56-rm]]
 - [[sources/incident56-rm]]
-- [[sources/abc-jjj-14mar06-interview-mp3]]
 - [[sources/artbell5-mp3]]
 - [[sources/artbell2-mp3]]
 - [[sources/artbell7-mp3]]
@@ -188,20 +194,11 @@ related:
 - [[sources/radiance-rm]]
 - [[sources/f20-verification-depth-mp4]]
 - [[sources/f13-the-agent-is-using-you-mp4]]
-- [[sources/lms-20100531-0905-1-mp3]]
 - [[sources/strophariad-mp4]]
-- [[sources/abj-jjj-5oct06-interview-mp3]]
-- [[sources/ntn-20200402-1107-tech-during-covid-brings-out-t]]
-- [[sources/ntn-20200521-1105-do-track-and-trace-apps-work-t]]
 - [[sources/unbomb-mp4]]
 - [[sources/strophariad-mov]]
-- [[sources/hack-thurs-2009-07-30-mp3]]
-- [[sources/7-30report-3dtv-3jun10-m4v]]
-- [[sources/7-30report-3dtv-3jun10-m4v-2]]
-- [[sources/hack-tues-2010-01-19-mp3]]
 - [[sources/piracyisgood-mp3]]
 - [[sources/000000001ab03487-mpg]]
-- [[sources/rushkoff-mediasquat-30jun09-mp3]]
 - [[sources/bt-2-mp4]]
 - [[sources/the-new-inventors-20071107200000-mp4]]
 - [[sources/the-new-inventors-20090520200000-mp4]]
@@ -243,6 +240,7 @@ related:
 - [[sources/the-new-inventors-20070321195900-mp4]]
 - [[sources/000000001b4e4d1f-iphone-m4v]]
 - [[sources/wds08-opening-mov]]
+- [[sources/000000001ab02d7f-mpg]]
 - [[sources/000000001b06c69c-iphone-m4v]]
 - [[sources/000000001b4a7393-iphone-m4v]]
 - [[sources/iv-pesce-090219-mp4]]
@@ -250,10 +248,12 @@ related:
 - [[sources/000000001ab02678-mpg]]
 - [[sources/000000001a6ce9bb-mpg]]
 - [[sources/000000001a6cf0ff-mpg]]
+- [[sources/0000000014ea5a0f-mpg]]
 - [[sources/00000000196ff427-mpg]]
 - [[sources/000000001a638547-mpg]]
 - [[sources/000000001ab15980-mpg]]
 - [[sources/000000001519e527-mpg]]
+- [[sources/000000001557b87f-mpg]]
 - [[sources/0000000019b1bc00-mpg]]
 - [[sources/000000001515f0a7-mpg]]
 - [[sources/000000001b06c69c-mpg]]

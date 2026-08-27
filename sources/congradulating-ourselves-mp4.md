@@ -5,7 +5,7 @@ title: Congradulating ourselves.mp4
 drive_id: 10k7j8tTVh9kV02tOC_eKC5qaeKr8GuLX
 source_link: https://drive.google.com/file/d/10k7j8tTVh9kV02tOC_eKC5qaeKr8GuLX/view?usp=drivesdk
 type: lecture
-date: 2035
+date: unknown
 tags: ["mark-pesce", "narrative"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

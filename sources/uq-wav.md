@@ -5,7 +5,7 @@ title: UQ.wav
 drive_id: 1MZFgJdn9j80tKKwjFIzKpgFAikQ-tzPu
 source_link: https://drive.google.com/file/d/1MZFgJdn9j80tKKwjFIzKpgFAikQ-tzPu/view?usp=drivesdk
 type: panel
-date: 1968
+date: unknown
 tags: ["abc", "artificial-intelligence", "mark-pesce", "the-future", "virtual-reality", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

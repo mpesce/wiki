@@ -5,7 +5,7 @@ title: Perihelia 2021 YouTube 1080p.mp4
 drive_id: 1wInyxelc-yIk-Ez7fz11xT118J-cG8Ku
 source_link: https://drive.google.com/file/d/1wInyxelc-yIk-Ez7fz11xT118J-cG8Ku/view?usp=drivesdk
 type: talk
-date: 2020
+date: 2021
 tags: ["mark-pesce", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

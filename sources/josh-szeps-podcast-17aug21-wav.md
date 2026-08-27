@@ -5,7 +5,7 @@ title: Josh Szeps podcast 17Aug21.wav
 drive_id: 18Wu-oumnNVDMuzsw_Ax6vjCcxEZjUPER
 source_link: https://drive.google.com/file/d/18Wu-oumnNVDMuzsw_Ax6vjCcxEZjUPER/view?usp=drivesdk
 type: interview
-date: 2015
+date: 2021-08-17
 tags: ["creators", "facebook", "google", "mark-pesce", "social-media"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

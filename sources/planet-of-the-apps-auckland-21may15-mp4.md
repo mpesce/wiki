@@ -5,7 +5,7 @@ title: Planet of the Apps Auckland 21May15.mp4
 drive_id: 15vN5qg8-Nk40PQXc1l0JN6obMMMKlZVO
 source_link: https://drive.google.com/file/d/15vN5qg8-Nk40PQXc1l0JN6obMMMKlZVO/view?usp=drivesdk
 type: keynote
-date: 2015
+date: 2015-05-21
 tags: ["connectivity", "innovation", "mark-pesce", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

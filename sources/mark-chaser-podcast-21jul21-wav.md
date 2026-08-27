@@ -5,7 +5,7 @@ title: Mark Chaser podcast 21Jul21.wav
 drive_id: 1KhLyzjMUZDEVoakd9YzZ4wHx1cPZIBGx
 source_link: https://drive.google.com/file/d/1KhLyzjMUZDEVoakd9YzZ4wHx1cPZIBGx/view?usp=drivesdk
 type: podcast
-date: unknown
+date: 2021-07-21
 tags: ["mark-pesce", "podcast"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

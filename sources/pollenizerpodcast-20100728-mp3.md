@@ -5,7 +5,7 @@ title: PollenizerPodcast-20100728.mp3
 drive_id: 1NhWUlWkcX1jl0V3byn3xr3R_4V37ptDF
 source_link: https://drive.google.com/file/d/1NhWUlWkcX1jl0V3byn3xr3R_4V37ptDF/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2010-07-28
 tags: ["apple", "facebook", "mark-pesce", "mozilla", "open-source", "podcast", "social-media", "twitter"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

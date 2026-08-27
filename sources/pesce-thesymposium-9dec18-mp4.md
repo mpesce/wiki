@@ -5,7 +5,7 @@ title: Pesce-TheSymposium-9Dec18.mp4
 drive_id: 1oINkS7NgITVoeXzofjKwQeMmbswlBIYW
 source_link: https://drive.google.com/file/d/1oINkS7NgITVoeXzofjKwQeMmbswlBIYW/view?usp=drivesdk
 type: panel
-date: 1968
+date: 2018-12-09
 tags: ["education", "google", "mark-pesce", "the-future", "trust"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

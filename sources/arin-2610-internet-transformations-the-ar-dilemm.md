@@ -5,7 +5,7 @@ title: ARIN 2610 Internet Transformations The AR Dilemmas 5Oct21 720p.mp4
 drive_id: 1W7wDg1YfUdNmuMaTxmeHACE8bmLaXJrX
 source_link: https://drive.google.com/file/d/1W7wDg1YfUdNmuMaTxmeHACE8bmLaXJrX/view?usp=drivesdk
 type: news
-date: 2016
+date: 2021-10-05
 tags: ["apple", "ar", "attention", "facebook", "google", "mark-pesce", "mozilla", "surveillance"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -5,7 +5,7 @@ title: The Knew Normal CFO Series Melbourne 10Jun20.mp4
 drive_id: 1WYIAS9Texv_BbWS-5Bll5dsZ2HuJPUBO
 source_link: https://drive.google.com/file/d/1WYIAS9Texv_BbWS-5Bll5dsZ2HuJPUBO/view?usp=drivesdk
 type: podcast
-date: 2020
+date: 2020-06-10
 tags: ["apple", "podcast", "remote-work"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

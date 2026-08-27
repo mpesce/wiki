@@ -5,7 +5,7 @@ title: Citi How to Thrive in the 2020s 16Oct19.mp3
 drive_id: 1BAqJ3ldPk19YvxVrwA7MfePtLhNZ808L
 source_link: https://drive.google.com/file/d/1BAqJ3ldPk19YvxVrwA7MfePtLhNZ808L/view?usp=drivesdk
 type: keynote
-date: 2019
+date: 2019-10-16
 tags: ["artificial-intelligence", "education", "facebook", "mark-pesce", "the-future", "the-future-of-work"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

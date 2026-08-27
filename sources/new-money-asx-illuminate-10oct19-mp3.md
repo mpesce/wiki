@@ -5,7 +5,7 @@ title: NEW MONEY ASX Illuminate 10Oct19.mp3
 drive_id: 1iL6Qztb46AB7IVF5R_uWsz04yL9mvM2X
 source_link: https://drive.google.com/file/d/1iL6Qztb46AB7IVF5R_uWsz04yL9mvM2X/view?usp=drivesdk
 type: lecture
-date: 2019
+date: 2019-10-10
 tags: ["apple"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

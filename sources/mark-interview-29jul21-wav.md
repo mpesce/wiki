@@ -5,7 +5,7 @@ title: Mark interview 29Jul21.wav
 drive_id: 1sXEa3KqBm44bvhbcEiSjYEAJyH73IOKh
 source_link: https://drive.google.com/file/d/1sXEa3KqBm44bvhbcEiSjYEAJyH73IOKh/view?usp=drivesdk
 type: interview
-date: 2020
+date: 2021-07-29
 tags: ["collaboration", "mark-pesce", "remote-work"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

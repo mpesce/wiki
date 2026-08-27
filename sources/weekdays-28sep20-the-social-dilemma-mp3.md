@@ -5,7 +5,7 @@ title: Weekdays 28Sep20 The Social Dilemma.mp3
 drive_id: 1EAVEnKcDrGrowaGsx0hBGqWoPnmpNicl
 source_link: https://drive.google.com/file/d/1EAVEnKcDrGrowaGsx0hBGqWoPnmpNicl/view?usp=drivesdk
 type: interview
-date: 2020
+date: 2020-09-28
 tags: ["abc", "artificial-intelligence", "facebook", "google", "social-media"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

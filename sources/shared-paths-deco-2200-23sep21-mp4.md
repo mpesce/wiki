@@ -5,7 +5,7 @@ title: Shared Paths DECO 2200 23Sep21.mp4
 drive_id: 1KRh_90CBvMB34btluAA1POZtKgMT9zKy
 source_link: https://drive.google.com/file/d/1KRh_90CBvMB34btluAA1POZtKgMT9zKy/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2021-09-23
 tags: ["mark-pesce", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

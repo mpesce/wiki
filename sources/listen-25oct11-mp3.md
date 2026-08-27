@@ -5,7 +5,7 @@ title: Listen-25Oct11.mp3
 drive_id: 1DwTOa-N9LTFDevpu77ZRRLEoxuHbOiid
 source_link: https://drive.google.com/file/d/1DwTOa-N9LTFDevpu77ZRRLEoxuHbOiid/view?usp=drivesdk
 type: lecture
-date: 1995
+date: 2011-10-25
 tags: ["connectivity", "mark-pesce", "twitter"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

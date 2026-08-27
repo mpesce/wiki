@@ -5,7 +5,7 @@ title: Techno-Pagans at the End of History 12(Esalen).mp3
 drive_id: 1w4_3PYzyixIKSZ2f-EHQKH5-bz37yg0g
 source_link: https://drive.google.com/file/d/1w4_3PYzyixIKSZ2f-EHQKH5-bz37yg0g/view?usp=drivesdk
 type: panel
-date: 1981
+date: unknown
 tags: ["communication", "mark-pesce", "participation", "the-future", "trust"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

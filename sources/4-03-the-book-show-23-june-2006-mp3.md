@@ -5,7 +5,7 @@ title: 4-03 The Book Show 23 June 2006.mp3
 drive_id: 1fE4O_-a90EXSlpZsLIVWqxVcZY2uMzEC
 source_link: https://drive.google.com/file/d/1fE4O_-a90EXSlpZsLIVWqxVcZY2uMzEC/view?usp=drivesdk
 type: panel
-date: 2006
+date: 2006-06
 tags: ["3d", "abc", "narrative", "storytelling"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

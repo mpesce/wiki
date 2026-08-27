@@ -5,7 +5,7 @@ title: Horizons and Trajectories 4Jun20.mp4
 drive_id: 10BlrdbLLbO_YkHVqWJwwQqRLbn2avMUw
 source_link: https://drive.google.com/file/d/10BlrdbLLbO_YkHVqWJwwQqRLbn2avMUw/view?usp=drivesdk
 type: news
-date: unknown
+date: 2020-06-04
 tags: ["apple", "mark-pesce", "public-speaking"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -5,7 +5,7 @@ title: Beyond the Horizon CFO Series QLD 10Sep20.mp4
 drive_id: 1GogGs61YCfGbM7LDOG_eMOSe4DVUPilU
 source_link: https://drive.google.com/file/d/1GogGs61YCfGbM7LDOG_eMOSe4DVUPilU/view?usp=drivesdk
 type: podcast
-date: unknown
+date: 2020-09-10
 tags: ["ethereum", "mark-pesce", "podcast", "remote-work", "smart-contracts"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -5,7 +5,7 @@ title: TodayTonight-25May10.mov
 drive_id: 1WyNyt3JOEyI8uHKxxMc22aCFbBopTxIc
 source_link: https://drive.google.com/file/d/1WyNyt3JOEyI8uHKxxMc22aCFbBopTxIc/view?usp=drivesdk
 type: interview
-date: 2015
+date: 2010-05-25
 tags: ["3d", "broadcast", "mark-pesce", "virtual-reality"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

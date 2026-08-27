@@ -5,7 +5,7 @@ title: Swarm 2021.mp4
 drive_id: 1tdnzuQ2rhrxSmyew7xgeUrrFgMDupdl8
 source_link: https://drive.google.com/file/d/1tdnzuQ2rhrxSmyew7xgeUrrFgMDupdl8/view?usp=drivesdk
 type: interview
-date: 1981
+date: 2021
 tags: ["facebook", "mark-pesce", "metaverse", "the-future", "virtual-reality", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

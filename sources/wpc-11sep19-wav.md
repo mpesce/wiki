@@ -5,7 +5,7 @@ title: WPC 11Sep19.wav
 drive_id: 18pFPgDdg7Z7wPOh8HEESTC8eASv22BEY
 source_link: https://drive.google.com/file/d/18pFPgDdg7Z7wPOh8HEESTC8eASv22BEY/view?usp=drivesdk
 type: keynote
-date: 2030
+date: 2019-09-11
 tags: ["artificial-intelligence", "collaboration", "connectivity", "mark-pesce", "participation", "the-future", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

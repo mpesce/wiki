@@ -5,7 +5,7 @@ title: Recording 7.wav
 drive_id: 1ViFTZB-AxsBCszsCwN1biYB3UtzEJ41S
 source_link: https://drive.google.com/file/d/1ViFTZB-AxsBCszsCwN1biYB3UtzEJ41S/view?usp=drivesdk
 type: podcast
-date: 2050
+date: unknown
 tags: ["mark-pesce", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

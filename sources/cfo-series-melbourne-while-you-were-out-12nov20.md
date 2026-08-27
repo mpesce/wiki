@@ -5,7 +5,7 @@ title: CFO Series Melbourne While You Were Out 12Nov20.mp4
 drive_id: 1HkrfDPZrb71DpdWfoYknZ81sJUMWY51q
 source_link: https://drive.google.com/file/d/1HkrfDPZrb71DpdWfoYknZ81sJUMWY51q/view?usp=drivesdk
 type: lecture
-date: 2022
+date: 2020-11-12
 tags: ["attention", "bitcoin", "ethereum", "facebook", "mark-pesce", "smart-contracts", "surveillance"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

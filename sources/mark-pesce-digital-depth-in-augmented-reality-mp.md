@@ -5,7 +5,7 @@ title: Mark Pesce - Digital Depth in Augmented Reality.mp4
 drive_id: 1h21FW7M1XOSB0CqE92yZuKTFK1XtAKqL
 source_link: https://drive.google.com/file/d/1h21FW7M1XOSB0CqE92yZuKTFK1XtAKqL/view?usp=drivesdk
 type: news
-date: 1948
+date: unknown
 tags: ["3d", "ar", "facebook", "google", "mark-pesce", "microsoft", "surveillance"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

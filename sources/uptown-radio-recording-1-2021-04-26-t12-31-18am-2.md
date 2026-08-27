@@ -5,7 +5,7 @@ title: uptown-radio_recording-1_2021-04-26--t12-31-18am--nicole.wav
 drive_id: 1kXK3tnpNir1gyFRHu6gBx56VEUTp44My
 source_link: https://drive.google.com/file/d/1kXK3tnpNir1gyFRHu6gBx56VEUTp44My/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2021-04-26
 tags: ["3d", "blockchain", "ethereum", "mark-pesce", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

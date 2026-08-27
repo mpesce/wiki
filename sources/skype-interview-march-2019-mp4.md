@@ -5,7 +5,7 @@ title: Skype interview March 2019.mp4
 drive_id: 1uxGkJ9OUyzM4Wdar7BNzrR0upQzS_Xpj
 source_link: https://drive.google.com/file/d/1uxGkJ9OUyzM4Wdar7BNzrR0upQzS_Xpj/view?usp=drivesdk
 type: interview
-date: 2019
+date: 2019-03
 tags: ["ar", "facebook", "mark-pesce", "virtual-reality", "vr", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

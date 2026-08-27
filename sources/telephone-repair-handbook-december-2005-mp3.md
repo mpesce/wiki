@@ -5,7 +5,7 @@ title: Telephone Repair Handbook December 2005.mp3
 drive_id: 1vYLu4O3n_KXOLM7UcBs9qkzzZXZ8WgoA
 source_link: https://drive.google.com/file/d/1vYLu4O3n_KXOLM7UcBs9qkzzZXZ8WgoA/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2005-12
 tags: ["3d", "communication", "networks", "social-networks"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -5,7 +5,7 @@ title: Last Days of Reality Toronto 17Oct17.mov
 drive_id: 11L1WN5RFXkorpgE7b_b0SyelgiY4kNpl
 source_link: https://drive.google.com/file/d/11L1WN5RFXkorpgE7b_b0SyelgiY4kNpl/view?usp=drivesdk
 type: keynote
-date: unknown
+date: 2017-10-17
 tags: ["ar", "facebook", "google", "mark-pesce", "surveillance"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

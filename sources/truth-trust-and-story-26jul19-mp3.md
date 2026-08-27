@@ -5,7 +5,7 @@ title: Truth Trust and Story 26Jul19.mp3
 drive_id: 1lCHAeUHxr6QsccaKHjaMLIvdjXOH-YRh
 source_link: https://drive.google.com/file/d/1lCHAeUHxr6QsccaKHjaMLIvdjXOH-YRh/view?usp=drivesdk
 type: news
-date: unknown
+date: 2019-07-26
 tags: ["ar", "connectivity", "mark-pesce", "narrative", "storytelling", "the-future", "trust", "virtual-reality"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

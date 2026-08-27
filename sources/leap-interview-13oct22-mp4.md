@@ -5,7 +5,7 @@ title: LEAP interview 13Oct22.mp4
 drive_id: 1qzRc3qiNVHjn9uO_Ky6SD_Yf0PCw3UEE
 source_link: https://drive.google.com/file/d/1qzRc3qiNVHjn9uO_Ky6SD_Yf0PCw3UEE/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2022-10-13
 tags: ["apple", "connectivity", "innovation", "mark-pesce", "metaverse", "podcast", "twitter"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

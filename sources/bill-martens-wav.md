@@ -5,7 +5,7 @@ title: Bill Martens.wav
 drive_id: 14VojT98uljC8OdkDrDGCGy_LVQMsFdzi
 source_link: https://drive.google.com/file/d/14VojT98uljC8OdkDrDGCGy_LVQMsFdzi/view?usp=drivesdk
 type: interview
-date: 1987
+date: unknown
 tags: ["3d", "ar", "mark-pesce", "the-future", "virtual-reality", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

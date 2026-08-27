@@ -5,7 +5,7 @@ title: fowf-6Nov10.mp4
 drive_id: 1OvAkZa_HgbyVPEoX6zjkSzehpyuBEzJa
 source_link: https://drive.google.com/file/d/1OvAkZa_HgbyVPEoX6zjkSzehpyuBEzJa/view?usp=drivesdk
 type: news
-date: unknown
+date: 2010-11-06
 tags: ["innovation", "mark-pesce"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

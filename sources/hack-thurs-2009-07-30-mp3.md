@@ -5,7 +5,7 @@ title: hack_thurs_2009_07_30.mp3
 drive_id: 15qAJg_kdrwEMCfq8Jx8-bi94fQTmFN9W
 source_link: https://drive.google.com/file/d/15qAJg_kdrwEMCfq8Jx8-bi94fQTmFN9W/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2009-07-30
 tags: ["broadcast", "google", "mark-pesce", "microsoft", "social-media", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

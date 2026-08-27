@@ -5,7 +5,7 @@ title: ARIN6904 5Sep18.mp3
 drive_id: 1tbizrDndJIHr0NT3Q-uQMmpIZXfWHSX8
 source_link: https://drive.google.com/file/d/1tbizrDndJIHr0NT3Q-uQMmpIZXfWHSX8/view?usp=drivesdk
 type: news
-date: 1963
+date: 2018-09-05
 tags: ["3d", "ar", "attention", "google", "mark-pesce", "microsoft", "storytelling", "virtual-reality", "vr"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

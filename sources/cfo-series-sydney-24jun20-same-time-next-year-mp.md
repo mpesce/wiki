@@ -5,7 +5,7 @@ title: CFO Series Sydney 24Jun20 Same Time Next Year.mp4
 drive_id: 1h_AgWPCeW_Mr5uOX-Fnas8s8hnk9G17d
 source_link: https://drive.google.com/file/d/1h_AgWPCeW_Mr5uOX-Fnas8s8hnk9G17d/view?usp=drivesdk
 type: lecture
-date: 2020
+date: 2020-06-24
 tags: ["apple", "mark-pesce", "mozilla", "remote-work"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

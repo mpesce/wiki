@@ -5,7 +5,7 @@ title: distributed ledger
 tags: ["technology"]
 source_count: 3
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-26T13:20:28Z
+last_updated: 2026-08-27T10:36:11Z
 related:
   - (populate via lint)
 ---
@@ -20,8 +20,8 @@ related:
 
 ## Key Facts
 - [[sources/zoom0013-tr2-wav]] — ZOOM0013_Tr2.WAV
-- [[sources/fintech-futures-wav]] — Fintech Futures.wav
 - [[sources/png2019-mkv]] — PNG2019.mkv
+- [[sources/fintech-futures-wav]] — Fintech Futures.wav
 
 ## In the Corpus
 
@@ -38,5 +38,5 @@ related:
 ## Sources
 
 - [[sources/zoom0013-tr2-wav]]
-- [[sources/fintech-futures-wav]]
 - [[sources/png2019-mkv]]
+- [[sources/fintech-futures-wav]]

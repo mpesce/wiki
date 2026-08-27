@@ -5,7 +5,7 @@ title: The Last Days of Reality - EGA 8Dec17.mkv
 drive_id: 1UjVaf73U1x5umYy-V9mhD-LqPDEZJsOC
 source_link: https://drive.google.com/file/d/1UjVaf73U1x5umYy-V9mhD-LqPDEZJsOC/view?usp=drivesdk
 type: interview
-date: 2018
+date: 2017-12-08
 tags: ["artificial-intelligence", "facebook", "mark-pesce", "social-media", "surveillance", "surveillance-capitalism"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

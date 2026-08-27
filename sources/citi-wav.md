@@ -5,7 +5,7 @@ title: Citi.wav
 drive_id: 1l9dYfaDWT3E8CilSk6ZuYjicEhYyFs2H
 source_link: https://drive.google.com/file/d/1l9dYfaDWT3E8CilSk6ZuYjicEhYyFs2H/view?usp=drivesdk
 type: keynote
-date: 2030
+date: unknown
 tags: ["artificial-intelligence", "education", "facebook", "mark-pesce", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

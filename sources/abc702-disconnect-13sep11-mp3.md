@@ -5,7 +5,7 @@ title: abc702-disconnect-13Sep11.mp3
 drive_id: 1yrdHOv4UInp_lnnsXjWBRd7IJTMwd0ly
 source_link: https://drive.google.com/file/d/1yrdHOv4UInp_lnnsXjWBRd7IJTMwd0ly/view?usp=drivesdk
 type: interview
-date: 2011
+date: 2011-09-13
 tags: ["connectivity", "mark-pesce", "social-media"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

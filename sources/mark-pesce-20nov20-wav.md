@@ -5,7 +5,7 @@ title: Mark Pesce 20Nov20.wav
 drive_id: 1CAQlKki3ULnSEdJuLe3-9d_gddMt1_aD
 source_link: https://drive.google.com/file/d/1CAQlKki3ULnSEdJuLe3-9d_gddMt1_aD/view?usp=drivesdk
 type: interview
-date: 2020
+date: 2020-11-20
 tags: ["ar", "facebook", "mark-pesce", "surveillance", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

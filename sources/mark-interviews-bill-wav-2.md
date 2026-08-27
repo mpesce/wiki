@@ -5,7 +5,7 @@ title: Mark interviews Bill.wav
 drive_id: 1p-BlWSVVAZo5JzOQYF7r6_Z8vlZUUlsg
 source_link: https://drive.google.com/file/d/1p-BlWSVVAZo5JzOQYF7r6_Z8vlZUUlsg/view?usp=drivesdk
 type: interview
-date: 1987
+date: unknown
 tags: ["collaboration", "communication", "mark-pesce", "the-future", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -5,7 +5,7 @@ title: NewKit-3Aug11.mp3
 drive_id: 1HLLrjTf1YE-QLculDML1bwXoXcRxSZn4
 source_link: https://drive.google.com/file/d/1HLLrjTf1YE-QLculDML1bwXoXcRxSZn4/view?usp=drivesdk
 type: workshop
-date: 2011
+date: 2011-08-03
 tags: ["connectivity", "mark-pesce", "networks"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

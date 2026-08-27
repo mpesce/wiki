@@ -5,7 +5,7 @@ title: Sydney Writers Festival 3May19.mp3
 drive_id: 1lz-ebff5OaQ-7dED7oiXMxWwvfAkqS9J
 source_link: https://drive.google.com/file/d/1lz-ebff5OaQ-7dED7oiXMxWwvfAkqS9J/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2019-05-03
 tags: ["artificial-intelligence", "attention", "commons", "mark-pesce", "open-source", "social-media", "surveillance", "surveillance-capitalism", "twitter"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

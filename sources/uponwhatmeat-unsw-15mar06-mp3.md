@@ -5,7 +5,7 @@ title: UponWhatMeat-UNSW-15Mar06.mp3
 drive_id: 1ONIgcDZE4RsF_yGzJ50UAKkqMzRfIUC5
 source_link: https://drive.google.com/file/d/1ONIgcDZE4RsF_yGzJ50UAKkqMzRfIUC5/view?usp=drivesdk
 type: lecture
-date: 2006
+date: 2006-03-15
 tags: ["networks", "social-networks", "unsw"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

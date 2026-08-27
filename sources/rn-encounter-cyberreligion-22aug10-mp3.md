@@ -5,7 +5,7 @@ title: RN_Encounter_CyberReligion_22Aug10.mp3
 drive_id: 1lj7Q7CoHfC6zbbc-tjxwzYeiNzLFdvtY
 source_link: https://drive.google.com/file/d/1lj7Q7CoHfC6zbbc-tjxwzYeiNzLFdvtY/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2010-08-22
 tags: ["mark-pesce", "the-future", "virtual-reality", "vr", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

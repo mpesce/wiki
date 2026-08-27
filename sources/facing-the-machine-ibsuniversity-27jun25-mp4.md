@@ -5,7 +5,7 @@ title: Facing the Machine IBSUniversity 27Jun25.mp4
 drive_id: 1aNZYo0uikw2JXotc9gvDPBzfygAsrof7
 source_link: https://drive.google.com/file/d/1aNZYo0uikw2JXotc9gvDPBzfygAsrof7/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2025-06-27
 tags: ["chatgpt", "education", "mark-pesce", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

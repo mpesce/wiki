@@ -5,7 +5,7 @@ title: ConnectedCity-2Aug11.AVI
 drive_id: 1oyE8C4hL-Njo--6jhkuEBYkTT8jYEmX4
 source_link: https://drive.google.com/file/d/1oyE8C4hL-Njo--6jhkuEBYkTT8jYEmX4/view?usp=drivesdk
 type: interview
-date: 1997
+date: 2011-08-02
 tags: ["connectivity", "mark-pesce", "networks"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

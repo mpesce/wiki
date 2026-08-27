@@ -5,7 +5,7 @@ title: ARIN 2610 Internet Transformations The AR Dilemmas 5Oct21 1080p.mp4
 drive_id: 1YfhzxPxHEo_18awMvzBkp1A_SZZuFF_G
 source_link: https://drive.google.com/file/d/1YfhzxPxHEo_18awMvzBkp1A_SZZuFF_G/view?usp=drivesdk
 type: news
-date: 1994
+date: 2021-10-05
 tags: ["3d", "apple", "ar", "facebook", "google", "mark-pesce", "surveillance", "virtual-reality"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

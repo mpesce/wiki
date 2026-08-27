@@ -5,7 +5,7 @@ title: Prime Life Event.mp4
 drive_id: 1lzaGpsFA7x-Ae-hXACPD1TJinHFkS_HF
 source_link: https://drive.google.com/file/d/1lzaGpsFA7x-Ae-hXACPD1TJinHFkS_HF/view?usp=drivesdk
 type: interview
-date: 2030
+date: unknown
 tags: ["mark-pesce", "startups"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

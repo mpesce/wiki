@@ -5,7 +5,7 @@ title: damer-pesce-interview-florence-may1996 (1).mp3
 drive_id: 1P49jFL1L88stFg5agAAYq4bFNVsMZXKR
 source_link: https://drive.google.com/file/d/1P49jFL1L88stFg5agAAYq4bFNVsMZXKR/view?usp=drivesdk
 type: interview
-date: unknown
+date: 1996-05
 tags: ["communication", "mark-pesce", "surveillance", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

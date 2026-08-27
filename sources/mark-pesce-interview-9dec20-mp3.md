@@ -5,7 +5,7 @@ title: Mark Pesce interview 9Dec20.mp3
 drive_id: 1jfY0KtMSRcj3tABhPjHFFx5zy7a-VsOa
 source_link: https://drive.google.com/file/d/1jfY0KtMSRcj3tABhPjHFFx5zy7a-VsOa/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2020-12-09
 tags: ["connectivity", "facebook", "mark-pesce", "podcast", "surveillance", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

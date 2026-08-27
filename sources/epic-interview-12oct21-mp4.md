@@ -5,7 +5,7 @@ title: EPIC Interview 12Oct21.mp4
 drive_id: 1b5RKjLU4oA5rICX8fkn5QeiAIo3CgMXw
 source_link: https://drive.google.com/file/d/1b5RKjLU4oA5rICX8fkn5QeiAIo3CgMXw/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2021-10-12
 tags: ["mark-pesce", "trust"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

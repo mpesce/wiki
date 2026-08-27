@@ -5,7 +5,7 @@ title: Smartsheet - Reimagining the Future of Work.mp4
 drive_id: 1jls7M2sHoRiu1W9wTPnXtT_db7iVdKLN
 source_link: https://drive.google.com/file/d/1jls7M2sHoRiu1W9wTPnXtT_db7iVdKLN/view?usp=drivesdk
 type: lecture
-date: 1947
+date: unknown
 tags: ["collaboration", "remote-work", "the-future", "the-future-of-work"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -5,7 +5,7 @@ title: Peer-to-peer
 tags: ["concept"]
 source_count: 32
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-26T13:20:28Z
+last_updated: 2026-08-27T10:36:11Z
 related:
   - (populate via lint)
 ---
@@ -27,16 +27,16 @@ related:
 - [[sources/hyperpeople-ipod-mp4]] — hyperpeople-iPod.mp4
 - [[sources/hyperpeople-mp4]] — hyperpeople.mp4
 - [[sources/the-swarm-parts-i-ii-and-iii-mp3]] — The Swarm (Parts I, II, and III).mp3
+- [[sources/abc-jjj-14mar06-interview-mp3]] — ABC-JJJ-14Mar06-Interview.mp3
+- [[sources/abj-jjj-5oct06-interview-mp3]] — ABJ-JJJ-5Oct06-Interview.mp3
 - [[sources/afternoon-live-mov]] — Afternoon Live.mov
 - [[sources/afternoon-live-mov-2]] — Afternoon Live.mov
 - [[sources/hyperconnectededucation-vitta-30aug11-wav]] — HyperconnectedEducation-VITTA-30Aug11.wav
 - [[sources/ega-mp3]] — EGA.mp3
 - [[sources/asx-new-money-hvec-480p-mp4]] — ASX New Money HVEC 480p.mp4
+- [[sources/a-series-of-tubes-wpc-11sep19-mp3]] — A Series of Tubes WPC 11Sep19.mp3
 - [[sources/v20-day-one-mp4]] — V20 Day One.mp4
 - [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am]] — uptown-radio_recording-1_2021-04-26--t12-31-18am--mpesce.wav
-- [[sources/a-series-of-tubes-wpc-11sep19-mp3]] — A Series of Tubes WPC 11Sep19.mp3
-- [[sources/abc-jjj-14mar06-interview-mp3]] — ABC-JJJ-14Mar06-Interview.mp3
-- [[sources/abj-jjj-5oct06-interview-mp3]] — ABJ-JJJ-5Oct06-Interview.mp3
 - [[sources/f6-non-mintables-mp4]] — F6_non-mintables.mp4
 - [[sources/telstra-ipod-m4v]] — telstra_ipod.m4v
 - [[sources/the-human-use-of-human-networks-1-mp3]] — The Human Use of Human Networks (1).mp3
@@ -66,16 +66,16 @@ related:
 - [[sources/hyperpeople-ipod-mp4]]
 - [[sources/hyperpeople-mp4]]
 - [[sources/the-swarm-parts-i-ii-and-iii-mp3]]
+- [[sources/abc-jjj-14mar06-interview-mp3]]
+- [[sources/abj-jjj-5oct06-interview-mp3]]
 - [[sources/afternoon-live-mov]]
 - [[sources/afternoon-live-mov-2]]
 - [[sources/hyperconnectededucation-vitta-30aug11-wav]]
 - [[sources/ega-mp3]]
 - [[sources/asx-new-money-hvec-480p-mp4]]
+- [[sources/a-series-of-tubes-wpc-11sep19-mp3]]
 - [[sources/v20-day-one-mp4]]
 - [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am]]
-- [[sources/a-series-of-tubes-wpc-11sep19-mp3]]
-- [[sources/abc-jjj-14mar06-interview-mp3]]
-- [[sources/abj-jjj-5oct06-interview-mp3]]
 - [[sources/f6-non-mintables-mp4]]
 - [[sources/telstra-ipod-m4v]]
 - [[sources/the-human-use-of-human-networks-1-mp3]]

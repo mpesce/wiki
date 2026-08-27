@@ -5,7 +5,7 @@ title: JJJ_HACK_FUTURE_3Dec08.mp3
 drive_id: 1ecyM-Xg6MNzb_9g4SHqTOq8_h1OEH2jV
 source_link: https://drive.google.com/file/d/1ecyM-Xg6MNzb_9g4SHqTOq8_h1OEH2jV/view?usp=drivesdk
 type: interview
-date: 2009
+date: 2008-12-03
 tags: ["3d", "broadcast", "innovation", "mark-pesce", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

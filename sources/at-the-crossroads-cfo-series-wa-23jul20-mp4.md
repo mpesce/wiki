@@ -5,7 +5,7 @@ title: At the Crossroads - CFO Series WA - 23Jul20.mp4
 drive_id: 1jWfKVcHvEcFGrOjqcy_PWCeraTFV-90Z
 source_link: https://drive.google.com/file/d/1jWfKVcHvEcFGrOjqcy_PWCeraTFV-90Z/view?usp=drivesdk
 type: news
-date: 2020
+date: 2020-07-23
 tags: ["microsoft", "remote-work"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

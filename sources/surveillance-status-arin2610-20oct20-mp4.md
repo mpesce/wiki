@@ -5,7 +5,7 @@ title: Surveillance Status ARIN2610 20Oct20.mp4
 drive_id: 13yVAuyKtuGROdD5YEe3RdDIrW_ToSI7h
 source_link: https://drive.google.com/file/d/13yVAuyKtuGROdD5YEe3RdDIrW_ToSI7h/view?usp=drivesdk
 type: lecture
-date: 2016
+date: 2020-10-20
 tags: ["google", "mark-pesce", "narrative"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

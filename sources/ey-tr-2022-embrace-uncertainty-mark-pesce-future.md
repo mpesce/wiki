@@ -5,7 +5,7 @@ title: Ey Tr 2022 - Embrace Uncertainty - Mark Pesce Future Back-1.mkv
 drive_id: 1wE_mvqWqicqmHy-5K6DRcdSJgB-0UGvs
 source_link: https://drive.google.com/file/d/1wE_mvqWqicqmHy-5K6DRcdSJgB-0UGvs/view?usp=drivesdk
 type: lecture
-date: unknown
+date: 2022
 tags: ["mark-pesce"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

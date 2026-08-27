@@ -5,7 +5,7 @@ title: V20 June 2019 Opening.MTS
 drive_id: 1vtFBBSP5FpD6-9zPXyLmAY7lKXzfxHck
 source_link: https://drive.google.com/file/d/1vtFBBSP5FpD6-9zPXyLmAY7lKXzfxHck/view?usp=drivesdk
 type: workshop
-date: unknown
+date: 2019-06
 tags: ["3d", "bitcoin", "facebook", "mark-pesce", "participation", "the-future", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

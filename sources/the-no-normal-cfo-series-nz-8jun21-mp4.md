@@ -5,7 +5,7 @@ title: The No Normal CFO Series NZ 8Jun21.mp4
 drive_id: 1FG5sytt58TJC9UIg2VGal3EguX9s23uZ
 source_link: https://drive.google.com/file/d/1FG5sytt58TJC9UIg2VGal3EguX9s23uZ/view?usp=drivesdk
 type: podcast
-date: unknown
+date: 2021-06-08
 tags: ["apple", "mark-pesce", "mozilla", "podcast"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -5,7 +5,7 @@ title: Rushkoff-MediaSquat-30Jun09.mp3
 drive_id: 1dnMRNmqnzWOavrGcGcDREWYbn9WuBiBq
 source_link: https://drive.google.com/file/d/1dnMRNmqnzWOavrGcGcDREWYbn9WuBiBq/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2009-06-30
 tags: ["apple", "broadcast", "douglas-rushkoff", "mark-pesce", "narrative", "networks"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -5,7 +5,7 @@ title: elearning08_mark_pesce_20081104.MP3
 drive_id: 1cwLRZlWB0apCZO33iP9xSkyeEEhbR6oo
 source_link: https://drive.google.com/file/d/1cwLRZlWB0apCZO33iP9xSkyeEEhbR6oo/view?usp=drivesdk
 type: keynote
-date: 2008
+date: 2008-11-04
 tags: ["education", "mit", "stanford", "unsw"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

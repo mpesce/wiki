@@ -5,7 +5,7 @@ title: Smartsheet - Reimagining the Future of Work HEVC.mp4
 drive_id: 1eiY3YJHUl-CBPbX6xNkMQhrPPrN6Is9l
 source_link: https://drive.google.com/file/d/1eiY3YJHUl-CBPbX6xNkMQhrPPrN6Is9l/view?usp=drivesdk
 type: news
-date: 1947
+date: unknown
 tags: ["apple", "mark-pesce", "remote-work", "the-future", "the-future-of-work"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

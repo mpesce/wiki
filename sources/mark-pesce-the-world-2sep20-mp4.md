@@ -5,7 +5,7 @@ title: Mark Pesce The World 2Sep20.mp4
 drive_id: 1sHRm3tKZEIe6Af8YO8GHE8ZvCS4se-ii
 source_link: https://drive.google.com/file/d/1sHRm3tKZEIe6Af8YO8GHE8ZvCS4se-ii/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2020-09-02
 tags: ["facebook", "mark-pesce", "networks", "social-media", "social-networks"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

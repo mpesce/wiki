@@ -5,7 +5,7 @@ title: Internet Transformations 5Oct21.mp4
 drive_id: 19noC4qY-GUW77bo4Lp7Ko67oUJ_5PVam
 source_link: https://drive.google.com/file/d/19noC4qY-GUW77bo4Lp7Ko67oUJ_5PVam/view?usp=drivesdk
 type: podcast
-date: 1994
+date: 2021-10-05
 tags: ["3d", "ar", "facebook", "google", "mark-pesce", "surveillance", "virtual-reality", "vr", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

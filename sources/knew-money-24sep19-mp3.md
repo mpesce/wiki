@@ -5,7 +5,7 @@ title: Knew Money 24Sep19.mp3
 drive_id: 1KquKwyjNiI5c4OgzVNOp4avh8ncV_pKA
 source_link: https://drive.google.com/file/d/1KquKwyjNiI5c4OgzVNOp4avh8ncV_pKA/view?usp=drivesdk
 type: lecture
-date: unknown
+date: 2019-09-24
 tags: ["facebook", "the-future", "trust", "wired"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

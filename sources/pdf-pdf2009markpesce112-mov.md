@@ -5,7 +5,7 @@ title: Pdf-PDF2009MarkPesce112.mov
 drive_id: 14LIiSlsDZTydU9lLwlsIgvlH8EhS1kW9
 source_link: https://drive.google.com/file/d/14LIiSlsDZTydU9lLwlsIgvlH8EhS1kW9/view?usp=drivesdk
 type: lecture
-date: 2008
+date: 2009
 tags: ["connectivity", "mark-pesce", "participation"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -5,7 +5,7 @@ title: Mark Pesce
 tags: ["person"]
 source_count: 388
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-26T13:20:28Z
+last_updated: 2026-08-27T10:36:11Z
 related:
   - (populate via lint)
 ---
@@ -19,33 +19,6 @@ related:
 <Compile a cross-source synthesis of Mark Pesce. What is consistent and what changed over time.>
 
 ## Key Facts
-- [[sources/mark-pesce-session-2-wav]] — Mark Pesce session 2.wav
-- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]] — Smartsheet - Reimagining the Future of Work HEVC.mp4
-- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] — Mark Pesce - Digital Depth in Augmented Reality.mp4
-- [[sources/just-so-stories-wds-1nov18-mp3]] — Just-So Stories WDS 1Nov18.mp3
-- [[sources/cybersamhain-to-chatgpt-1080p-mp4]] — Cybersamhain to ChatGPT 1080p.mp4
-- [[sources/theroadahead-17may18-mp3]] — TheRoadAhead_17May18.mp3
-- [[sources/arin6904-5sep18-mp3]] — ARIN6904 5Sep18.mp3
-- [[sources/ala-wav]] — ALA.wav
-- [[sources/owen-interview-2023-mp4]] — Owen-interview-2023.mp4
-- [[sources/web3d2017-mp3]] — Web3D2017.mp3
-- [[sources/voices-of-vr-mark-pesce-20nov20-mp3]] — Voices of VR Mark Pesce 20Nov20.mp3
-- [[sources/web3d2017-m4a]] — Web3D2017.m4a
-- [[sources/reality-remix-wav]] — Reality Remix.wav
-- [[sources/uq-wav]] — UQ.wav
-- [[sources/supertools-mkv]] — supertools.mkv
-- [[sources/pesce-thesymposium-9dec18-mp4]] — Pesce-TheSymposium-9Dec18.mp4
-- [[sources/bt-3-mp4]] — bt-3.mp4
-- [[sources/better-than-crack-1-mp3]] — Better-Than-Crack (1).mp3
-- [[sources/better-than-crack-mp3]] — Better-Than-Crack.mp3
-- [[sources/supertools-anu-mp4]] — Supertools-ANU.mp4
-- [[sources/techno-pagans-at-the-end-of-history-12-esalen-mp]] — Techno-Pagans at the End of History 12(Esalen).mp3
-- [[sources/swarm-2021-mp4]] — Swarm 2021.mp4
-- [[sources/1-02-libraries-in-the-age-of-infinite-media-mp3]] — 1-02 Libraries in the Age of Infinite Media.mp3
-- [[sources/four-day-week-mp4]] — Four Day Week.mp4
-- [[sources/bill-martens-wav]] — Bill Martens.wav
-- [[sources/mark-interviews-bill-wav]] — Mark interviews Bill.wav
-- [[sources/mark-interviews-bill-wav-2]] — Mark interviews Bill.wav
 - [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]] — VR Creative Cluster Mark Pesce 9 Aug16 video2.MP4
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]] — VR Creative Cluster Mark Pesce 9 Aug video1.MP4
 - [[sources/mark-pesce-session-1-wav]] — Mark Pesce session 1.wav
@@ -53,26 +26,19 @@ related:
 - [[sources/dense-and-thick-mp4-2]] — dense-and-thick.mp4
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]] — VR Creative Cluster Mark Pesce 9 Aug video1_er.MP4
 - [[sources/hypercasting-mp3]] — hypercasting.mp3
-- [[sources/thenextbillionsecondsineducation-1sep11-wav]] — TheNextBillionSecondsInEducation-1Sep11.wav
 - [[sources/whereintheworld-mp3]] — whereintheworld.mp3
 - [[sources/sca-wav]] — SCA.wav
 - [[sources/technospirit-mkv]] — technospirit.mkv
 - [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]] — Pesce - SIGGRAPH FRONTIERS - The AR Dilemmas.mp4
-- [[sources/internet-transformations-5oct21-mp4]] — Internet Transformations 5Oct21.mp4
-- [[sources/arin-2610-internet-transformations-the-ar-dilemm-2]] — ARIN 2610 Internet Transformations The AR Dilemmas 5Oct21 1080p.mp4
-- [[sources/listen-25oct11-mp3]] — Listen-25Oct11.mp3
 - [[sources/avatars96-keynotes-pesce-parisi-512kb-mp4]] — avatars96-keynotes-pesce-parisi_512kb.mp4
 - [[sources/s01e01-mark-wav]] — S01E01 Mark.wav
-- [[sources/rn-common-knowledge-19feb12-mp3]] — RN_Common_Knowledge-19Feb12.mp3
 - [[sources/saturday-morning-mp3]] — Saturday Morning.mp3
+- [[sources/damer-pesce-interview-florence-may1996-mp3]] — damer-pesce-interview-florence-may1996.mp3
+- [[sources/damer-pesce-interview-florence-may1996-1-mp3]] — damer-pesce-interview-florence-may1996 (1).mp3
 - [[sources/theworld13dec22-mkv-webm]] — TheWorld13Dec22.mkv.webm
-- [[sources/abctheworld-13dec22-m4v]] — ABCTheWorld 13dec22.m4v
 - [[sources/singularity-summit-mp4]] — singularity_summit.mp4
-- [[sources/connectedcity-2aug11-avi]] — ConnectedCity-2Aug11.AVI
 - [[sources/3-01-the-audio-tour-mp3]] — 3-01 The Audio Tour.mp3
 - [[sources/4-02-hyperdistribution-mp3]] — 4-02 Hyperdistribution.mp3
-- [[sources/sea-20110514-0805-1-mp3]] — sea_20110514_0805 (1).mp3
-- [[sources/sea-20110514-0805-mp3]] — sea_20110514_0805.mp3
 - [[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]] — 1-01 _The Kids are Alright_ - Kincoppal-Rose Bay School.mp3
 - [[sources/johnhalpern-lsdsymposium-wmv]] — JohnHalpern-LSDsymposium.wmv
 - [[sources/friday-rm]] — Friday.rm
@@ -87,6 +53,7 @@ related:
 - [[sources/techno-pagans-at-the-end-of-history-11-esalen-mp]] — Techno-Pagans at the End of History 11(Esalen).mp3
 - [[sources/techno-pagans-at-the-end-of-history-4-esalen-mp3]] — Techno-Pagans at the End of History 4(Esalen).mp3
 - [[sources/techno-pagans-at-the-end-of-history-8-esalen-mp3]] — Techno-Pagans at the End of History 8(Esalen).mp3
+- [[sources/mindstates2003-mp3]] — Mindstates2003.mp3
 - [[sources/hyperpeople-mp3]] — hyperpeople.mp3
 - [[sources/hyperpeople-mobile-mp4]] — hyperpeople-mobile.mp4
 - [[sources/the-new-inventors-20090610200000-mp4]] — The New Inventors-20090610200000.mp4
@@ -100,58 +67,75 @@ related:
 - [[sources/piracyisgood-avi]] — PiracyIsGood.avi
 - [[sources/artbell3-mp3]] — artbell3.mp3
 - [[sources/the-swarm-parts-i-ii-and-iii-mp3]] — The Swarm (Parts I, II, and III).mp3
-- [[sources/abc-14jul20-video-first-mp4]] — ABC 14Jul20 Video First.mp4
 - [[sources/newinventors-mp4]] — newinventors.mp4
 - [[sources/the-new-inventors-20070425200000-mp4]] — The New Inventors-20070425200000.mp4
-- [[sources/alcove-interview-23jun08-m4v]] — alcove-interview-23Jun08.m4v
+- [[sources/abc-jjj-14mar06-interview-mp3]] — ABC-JJJ-14Mar06-Interview.mp3
+- [[sources/abj-jjj-5oct06-interview-mp3]] — ABJ-JJJ-5Oct06-Interview.mp3
 - [[sources/nextwave-mp4]] — NextWave.mp4
 - [[sources/the-new-inventors-20071003200000-mp4]] — The New Inventors-20071003200000.mp4
 - [[sources/01-twitter-and-the-media-m4a]] — 01 Twitter and the Media.m4a
 - [[sources/notquiteart-2008-ep02-mp4]] — notquiteart_2008_ep02.mp4
-- [[sources/pdf-pdf2009markpesce112-mov]] — Pdf-PDF2009MarkPesce112.mov
-- [[sources/post-classical-finance-cfo-series-sydney-11may21]] — Post-Classical Finance CFO Series Sydney 11May21.mp4
-- [[sources/nightlife-twitter-11mar09-mp3]] — nightlife-twitter-11Mar09.mp3
+- [[sources/alcove-interview-23jun08-m4v]] — alcove-interview-23Jun08.m4v
 - [[sources/jjj-hack-future-3dec08-mp3]] — JJJ_HACK_FUTURE_3Dec08.mp3
 - [[sources/afternoon-live-mov]] — Afternoon Live.mov
 - [[sources/afternoon-live-mov-2]] — Afternoon Live.mov
+- [[sources/pdf-pdf2009markpesce112-mov]] — Pdf-PDF2009MarkPesce112.mov
 - [[sources/0000000014d901d3-mpg]] — 0000000014d901d3.mpg
-- [[sources/sea-20100130-0730-mp3]] — sea_20100130_0730.mp3
-- [[sources/sat-20100213-1110-mark-pesce-future-gaze-048-mp3]] — sat-20100213-1110-Mark_Pesce_-_future_gaze-048.mp3
-- [[sources/ninetonoon-25jun20-mp3]] — NineToNoon 25Jun20.mp3
+- [[sources/nightlife-twitter-11mar09-mp3]] — nightlife-twitter-11Mar09.mp3
+- [[sources/connectingup09-11may09-mp3]] — ConnectingUp09-11May09.mp3
+- [[sources/rushkoff-mediasquat-30jun09-mp3]] — Rushkoff-MediaSquat-30Jun09.mp3
+- [[sources/hack-thurs-2009-07-30-mp3]] — hack_thurs_2009_07_30.mp3
+- [[sources/thescoop-3dec09-mp3]] — thescoop-3Dec09.mp3
 - [[sources/expandingmind010710-mp3]] — ExpandingMind010710.mp3
 - [[sources/guestroom-futurist-mark-pesce-1-mp3]] — Guestroom - Futurist Mark Pesce (1).mp3
 - [[sources/guestroom-futurist-mark-pesce-mp3]] — Guestroom - Futurist Mark Pesce.mp3
 - [[sources/whenimsixtyfour-part1-mov]] — WhenImSixtyFour-part1.mov
 - [[sources/fkz8ds-2-mp4]] — FKZ8DS~2.MP4
-- [[sources/lca2011-keynote-mov]] — LCA2011-Keynote.mov
+- [[sources/swf2010-pesce-wav]] — swf2010-pesce.wav
+- [[sources/hack-tues-2010-01-19-mp3]] — hack_tues_2010_01_19.mp3
+- [[sources/sea-20100130-0730-mp3]] — sea_20100130_0730.mp3
+- [[sources/sat-20100213-1110-mark-pesce-future-gaze-048-mp3]] — sat-20100213-1110-Mark_Pesce_-_future_gaze-048.mp3
 - [[sources/iif-2010-03-mark-pesce-mp3]] — iif-2010-03-Mark_Pesce.mp3
 - [[sources/iif-2010-03-mark-pesce-1-mp4]] — iif-2010-03-Mark_Pesce (1).mp4
 - [[sources/iif-2010-03-mark-pesce-mp4]] — iif-2010-03-Mark_Pesce.mp4
-- [[sources/accanet-12sep18-mp3]] — ACCANet 12Sep18.mp3
-- [[sources/abc702-disconnect-13sep11-mp3]] — abc702-disconnect-13Sep11.mp3
-- [[sources/hyperconnectededucation-vitta-30aug11-wav]] — HyperconnectedEducation-VITTA-30Aug11.wav
-- [[sources/newkit-3aug11-mp3]] — NewKit-3Aug11.mp3
+- [[sources/todaytonight-25may10-mov]] — TodayTonight-25May10.mov
+- [[sources/lms-20100531-0905-1-mp3]] — lms_20100531_0905 (1).mp3
+- [[sources/lms-20100531-0905-mp3]] — lms_20100531_0905.mp3
+- [[sources/7-30report-3dtv-3jun10-m4v-2]] — 7_30Report_3DTV_3Jun10.m4v
+- [[sources/pollenizerpodcast-20100728-1-mp3]] — PollenizerPodcast-20100728 (1).mp3
+- [[sources/pollenizerpodcast-20100728-mp3]] — PollenizerPodcast-20100728.mp3
+- [[sources/rn-encounter-cyberreligion-22aug10-mp3]] — RN_Encounter_CyberReligion_22Aug10.mp3
+- [[sources/fowf-6nov10-mp4]] — fowf-6Nov10.mp4
 - [[sources/the-drum-youtube-1-m4v]] — The Drum-YouTube (1).m4v
 - [[sources/the-drum-youtube-m4v]] — The Drum-YouTube.m4v
 - [[sources/hypereconomics-flv]] — hypereconomics.flv
 - [[sources/hypereconomics-2-flv]] — hypereconomics 2.flv
+- [[sources/lca2011-keynote-mov]] — LCA2011-Keynote.mov
+- [[sources/sea-20110514-0805-1-mp3]] — sea_20110514_0805 (1).mp3
+- [[sources/sea-20110514-0805-mp3]] — sea_20110514_0805.mp3
 - [[sources/connectedcity-2aug11-h-264-for-video-podcasting]] — ConnectedCity-2Aug11-H.264 for Video Podcasting.m4v
+- [[sources/connectedcity-2aug11-avi]] — ConnectedCity-2Aug11.AVI
+- [[sources/newkit-3aug11-mp3]] — NewKit-3Aug11.mp3
 - [[sources/newkit-3aug11-wmv]] — NewKit-3Aug11.wmv
+- [[sources/hyperconnectededucation-vitta-30aug11-wav]] — HyperconnectedEducation-VITTA-30Aug11.wav
+- [[sources/thenextbillionsecondsineducation-1sep11-wav]] — TheNextBillionSecondsInEducation-1Sep11.wav
+- [[sources/abc702-disconnect-13sep11-mp3]] — abc702-disconnect-13Sep11.mp3
+- [[sources/listen-25oct11-mp3]] — Listen-25Oct11.mp3
 - [[sources/artbell4-mp3]] — artbell4.mp3
 - [[sources/yearofjubilee-mp3]] — YearOfJubilee.mp3
 - [[sources/3-05-the-future-of-all-mp3]] — 3-05 The Future of All.mp3
+- [[sources/rn-common-knowledge-19feb12-mp3]] — RN_Common_Knowledge-19Feb12.mp3
 - [[sources/thenextbillionseconds-atp-25feb12-wav]] — TheNextBillionSeconds-ATP-25Feb12.wav
-- [[sources/crowdfunding-31jul14-wmv]] — crowdfunding-31Jul14.wmv
+- [[sources/embiggen-17aug12-mp4]] — Embiggen-17Aug12.mp4
 - [[sources/powersofthen-9apr13-m4v]] — PowersOfThen-9Apr13.m4v
 - [[sources/ega-mkv]] — EGA.mkv
 - [[sources/000000001a52899f-mpg]] — 000000001a52899f.mpg
 - [[sources/00000000196fd807-mpg]] — 00000000196fd807.mpg
 - [[sources/0000000019b5b787-mpg]] — 0000000019b5b787.mpg
-- [[sources/todaytonight-25may10-mov]] — TodayTonight-25May10.mov
+- [[sources/crowdfunding-31jul14-wmv]] — crowdfunding-31Jul14.wmv
 - [[sources/four-domains-m4a]] — Four Domains.m4a
 - [[sources/marc-pesce-rushes01-mov]] — Marc Pesce_rushes01.mov
 - [[sources/0000000011abc207-iphone-m4v]] — 0000000011abc207.iPhone.m4v
-- [[sources/josh-szeps-podcast-17aug21-wav]] — Josh Szeps podcast 17Aug21.wav
 - [[sources/digirupt-final-mp4]] — digirupt-final.mp4
 - [[sources/planet-of-the-apps-auckland-21may15-mp4]] — Planet of the Apps Auckland 21May15.mp4
 - [[sources/r0010023-er-mp4]] — R0010023_er.MP4
@@ -160,67 +144,100 @@ related:
 - [[sources/new-cities-new-economies-wav]] — New Cities : New Economies.wav
 - [[sources/cfo-wav]] — CFO.wav
 - [[sources/launch-festival-2016-awards-ceremony-xs1cy6hj4pu]] — LAUNCH Festival 2016 Awards Ceremony-XS1CY6hJ4pU.mp4
-- [[sources/arin-2610-internet-transformations-the-ar-dilemm]] — ARIN 2610 Internet Transformations The AR Dilemmas 5Oct21 720p.mp4
-- [[sources/surveillance-status-arin2610-20oct20-mp4]] — Surveillance Status ARIN2610 20Oct20.mp4
+- [[sources/smarter-money-19oct16-mp3]] — Smarter Money 19Oct16.mp3
+- [[sources/web3d2017-mp3]] — Web3D2017.mp3
+- [[sources/web3d2017-m4a]] — Web3D2017.m4a
 - [[sources/saatchi-wav-2]] — Saatchi.wav
 - [[sources/slv-wav]] — SLV.wav
 - [[sources/ega-wav]] — EGA.wav
 - [[sources/mark-pesce-futurist-the-last-days-of-reality-mp4]] — Mark Pesce - Futurist - The Last Days of Reality.mp4
-- [[sources/ega-mp3]] — EGA.mp3
+- [[sources/last-days-of-reality-toronto-17oct17-mov]] — Last Days of Reality Toronto 17Oct17.mov
 - [[sources/the-last-days-of-reality-ega-8dec17-mkv]] — The Last Days of Reality - EGA 8Dec17.mkv
-- [[sources/citi-how-to-thrive-in-the-2020s-16oct19-mp3]] — Citi How to Thrive in the 2020s 16Oct19.mp3
+- [[sources/ega-mp3]] — EGA.mp3
+- [[sources/fte-20180415-mp3]] — fte_20180415.mp3
+- [[sources/theroadahead-17may18-mp3]] — TheRoadAhead_17May18.mp3
+- [[sources/loreto-toorak-15aug18-mp3]] — Loreto Toorak 15Aug18.mp3
+- [[sources/arin6904-5sep18-mp3]] — ARIN6904 5Sep18.mp3
+- [[sources/accanet-12sep18-mp3]] — ACCANet 12Sep18.mp3
+- [[sources/just-so-stories-wds-1nov18-mp3]] — Just-So Stories WDS 1Nov18.mp3
+- [[sources/pesce-thesymposium-9dec18-mp4]] — Pesce-TheSymposium-9Dec18.mp4
 - [[sources/trench-talk-ep57-mark-pesce-mp3]] — Trench_Talk_EP57_-_Mark_Pesce.mp3
 - [[sources/asx-new-money-hvec-480p-mp4]] — ASX New Money HVEC 480p.mp4
-- [[sources/skype-interview-march-2019-mp4]] — Skype interview March 2019.mp4
 - [[sources/hashrate-mkv]] — hashrate.mkv
 - [[sources/asx-new-money-lbr-mp4]] — ASX New Money LBR.mp4
-- [[sources/wave-of-automation-2aug19-mov]] — Wave of Automation 2Aug19.mov
+- [[sources/skype-interview-march-2019-mp4]] — Skype interview March 2019.mp4
+- [[sources/sydney-writers-festival-3may19-mp3]] — Sydney Writers Festival 3May19.mp3
+- [[sources/v20-june-2019-opening-mts]] — V20 June 2019 Opening.MTS
 - [[sources/rnd-20190619-1906-fb-libra-mp3]] — rnd_20190619_1906_fb_libra.mp3
+- [[sources/truth-trust-and-story-26jul19-mp3]] — Truth Trust and Story 26Jul19.mp3
+- [[sources/wave-of-automation-2aug19-mov]] — Wave of Automation 2Aug19.mov
+- [[sources/a-series-of-tubes-wpc-11sep19-mp3]] — A Series of Tubes WPC 11Sep19.mp3
+- [[sources/wpc-11sep19-wav]] — WPC 11Sep19.wav
+- [[sources/citi-how-to-thrive-in-the-2020s-16oct19-mp3]] — Citi How to Thrive in the 2020s 16Oct19.mp3
+- [[sources/unknown-knowns-31oct19-mp3]] — Unknown Knowns 31Oct19.mp3
 - [[sources/the-bell-can-not-be-unrung-mp4]] — The Bell can not be unrung.mp4
 - [[sources/gio-pc1-mark-pesce-video-02-final-4x5-mp4]] — GIO-PC1_MARK_PESCE-VIDEO_02-FINAL-4x5.mp4
-- [[sources/mark-interview-29jul21-wav]] — Mark interview 29Jul21.wav
 - [[sources/pesce-best-current-affairs-podcast-mp4]] — Pesce Best Current Affairs Podcast.mp4
-- [[sources/horizon-report-early-2021-1-intro-youtube-1080p]] — Horizon Report Early 2021 - 1 Intro YouTube 1080p.mp4
-- [[sources/pandemic-time-3ai-15may20-wav]] — Pandemic Time 3Ai 15May20.wav
-- [[sources/pandemic-time-15may20-small-mp4]] — Pandemic Time 15May20 small.mp4
-- [[sources/drilling-down-ega-2dec22-720p-mp4]] — Drilling Down EGA 2Dec22 720p.mp4
 - [[sources/national-trust-sense-in-place-mp4]] — National Trust - 'Sense in Place'.mp4
-- [[sources/cfo-series-nz-18jun20-the-bubble-mp4]] — CFO Series NZ 18Jun20 The Bubble.mp4
-- [[sources/cfo-series-sydney-24jun20-same-time-next-year-mp]] — CFO Series Sydney 24Jun20 Same Time Next Year.mp4
-- [[sources/mark-pesce-20nov20-wav]] — Mark Pesce 20Nov20.wav
-- [[sources/perihelia-2021-youtube-1080p-mp4]] — Perihelia 2021 YouTube 1080p.mp4
 - [[sources/v20-day-one-mp4]] — V20 Day One.mp4
 - [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]] — Outer Space Cyberspace Digital Depth HEVC.mp4
-- [[sources/drilling-down-ega-2022-low-bitrate-1080p-mp4]] — Drilling Down EGA 2022 low bitrate 1080p.mp4
 - [[sources/v20-day-three-mp4]] — V20 Day Three.mp4
+- [[sources/common-factor-1-future-of-work-clean-mp4]] — Common Factor 1_Future of Work_CLEAN.mp4
+- [[sources/pandemic-time-3ai-15may20-wav]] — Pandemic Time 3Ai 15May20.wav
+- [[sources/pandemic-time-15may20-small-mp4]] — Pandemic Time 15May20 small.mp4
 - [[sources/pandemic-time-pesce-3ai-15may20-final-mp4]] — Pandemic Time Pesce 3Ai 15May20 final.mp4
 - [[sources/pesce-pandemic-time-anu-3ai-15may20-mp4]] — Pesce Pandemic Time ANU 3Ai 15May20.mp4
-- [[sources/drilling-down-ega-2022-1080p-mp4]] — Drilling Down EGA 2022 1080p.mp4
-- [[sources/common-factor-1-future-of-work-clean-mp4]] — Common Factor 1_Future of Work_CLEAN.mp4
+- [[sources/good-shout-29may20-m4v]] — good_shout 29May20.m4v
+- [[sources/horizons-and-trajectories-4jun20-mp4]] — Horizons and Trajectories 4Jun20.mp4
+- [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]] — Horizons and Trajectories 4Jun20 YouTube 720p.mp4
+- [[sources/cfo-series-nz-18jun20-the-bubble-mp4]] — CFO Series NZ 18Jun20 The Bubble.mp4
+- [[sources/cfo-series-sydney-24jun20-same-time-next-year-mp]] — CFO Series Sydney 24Jun20 Same Time Next Year.mp4
+- [[sources/ninetonoon-25jun20-mp3]] — NineToNoon 25Jun20.mp3
+- [[sources/abc-14jul20-video-first-mp4]] — ABC 14Jul20 Video First.mp4
+- [[sources/mark-pesce-the-world-2sep20-mp4]] — Mark Pesce The World 2Sep20.mp4
+- [[sources/beyond-the-horizon-cfo-series-qld-10sep20-mp4]] — Beyond the Horizon CFO Series QLD 10Sep20.mp4
+- [[sources/surveillance-status-arin2610-20oct20-mp4]] — Surveillance Status ARIN2610 20Oct20.mp4
+- [[sources/cfo-series-melbourne-while-you-were-out-12nov20]] — CFO Series Melbourne While You Were Out 12Nov20.mp4
+- [[sources/voices-of-vr-mark-pesce-20nov20-mp3]] — Voices of VR Mark Pesce 20Nov20.mp3
+- [[sources/mark-pesce-20nov20-wav]] — Mark Pesce 20Nov20.wav
+- [[sources/mark-pesce-interview-9dec20-mp3]] — Mark Pesce interview 9Dec20.mp3
 - [[sources/final-thoughts-mp3]] — Final Thoughts.mp3
+- [[sources/horizon-report-early-2021-1-intro-youtube-1080p]] — Horizon Report Early 2021 - 1 Intro YouTube 1080p.mp4
+- [[sources/perihelia-2021-youtube-1080p-mp4]] — Perihelia 2021 YouTube 1080p.mp4
+- [[sources/swarm-2021-mp4]] — Swarm 2021.mp4
+- [[sources/wisdom-douglas-rushkoff-cuts-us-some-slack-febru]] — Wisdom -- Douglas Rushkoff Cuts Us Some Slack February 2021 1080p.mp4
+- [[sources/business-on-the-edge-21apr21-mp4]] — Business on the Edge 21Apr21.mp4
+- [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am]] — uptown-radio_recording-1_2021-04-26--t12-31-18am--mpesce.wav
+- [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am-2]] — uptown-radio_recording-1_2021-04-26--t12-31-18am--nicole.wav
+- [[sources/both-and-the-hybrid-future-of-events-mea-28apr21]] — Both-And The Hybrid Future of Events MEA 28Apr21 720p.mp4
+- [[sources/both-and-the-hybrid-future-of-events-mea-28apr21-2]] — Both-And The Hybrid Future of Events MEA 28Apr21.mp4
+- [[sources/post-classical-finance-cfo-series-sydney-11may21]] — Post-Classical Finance CFO Series Sydney 11May21.mp4
+- [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]] — The No Normal CFO Series NZ 8Jun21.mp4
+- [[sources/mark-pesce-alchemist-23jun21-wav]] — Mark Pesce Alchemist 23Jun21.wav
+- [[sources/mark-chaser-podcast-21jul21-wav]] — Mark Chaser podcast 21Jul21.wav
+- [[sources/mark-interview-29jul21-wav]] — Mark interview 29Jul21.wav
+- [[sources/josh-szeps-podcast-17aug21-wav]] — Josh Szeps podcast 17Aug21.wav
+- [[sources/shared-paths-deco-2200-23sep21-mp4]] — Shared Paths DECO 2200 23Sep21.mp4
+- [[sources/arin-2610-internet-transformations-the-ar-dilemm]] — ARIN 2610 Internet Transformations The AR Dilemmas 5Oct21 720p.mp4
+- [[sources/internet-transformations-5oct21-mp4]] — Internet Transformations 5Oct21.mp4
+- [[sources/arin-2610-internet-transformations-the-ar-dilemm-2]] — ARIN 2610 Internet Transformations The AR Dilemmas 5Oct21 1080p.mp4
+- [[sources/epic-interview-12oct21-mp4]] — EPIC Interview 12Oct21.mp4
 - [[sources/adam-wav]] — Adam.wav
 - [[sources/thefuturists-thewatershed-mkv]] — TheFuturists-TheWatershed.mkv
-- [[sources/cfo-series-melbourne-while-you-were-out-12nov20]] — CFO Series Melbourne While You Were Out 12Nov20.mp4
-- [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am]] — uptown-radio_recording-1_2021-04-26--t12-31-18am--mpesce.wav
+- [[sources/ey-tr-2022-embrace-uncertainty-mark-pesce-future]] — Ey Tr 2022 - Embrace Uncertainty - Mark Pesce Future Back-1.mkv
+- [[sources/drilling-down-ega-2022-low-bitrate-1080p-mp4]] — Drilling Down EGA 2022 low bitrate 1080p.mp4
+- [[sources/drilling-down-ega-2022-1080p-mp4]] — Drilling Down EGA 2022 1080p.mp4
+- [[sources/leap-interview-13oct22-mp4]] — LEAP interview 13Oct22.mp4
+- [[sources/drilling-down-ega-2dec22-720p-mp4]] — Drilling Down EGA 2Dec22 720p.mp4
+- [[sources/abctheworld-13dec22-m4v]] — ABCTheWorld 13dec22.m4v
+- [[sources/owen-interview-2023-mp4]] — Owen-interview-2023.mp4
 - [[sources/introducing-mark-mp4]] — Introducing Mark.mp4
-- [[sources/a-series-of-tubes-wpc-11sep19-mp3]] — A Series of Tubes WPC 11Sep19.mp3
-- [[sources/citi-wav]] — Citi.wav
-- [[sources/wpc-11sep19-wav]] — WPC 11Sep19.wav
-- [[sources/prime-life-event-mp4]] — Prime Life Event.mp4
-- [[sources/loreto-mp3]] — Loreto.mp3
-- [[sources/loreto-toorak-15aug18-mp3]] — Loreto Toorak 15Aug18.mp3
-- [[sources/congradulating-ourselves-mp4]] — Congradulating ourselves.mp4
-- [[sources/shouting-shaming-shuning-mp4]] — Shouting Shaming Shuning.mp4
-- [[sources/introduction-and-how-it-happened-mp4]] — Introduction and how it happened.mp4
-- [[sources/business-on-the-edge-21apr21-mp4]] — Business on the Edge 21Apr21.mp4
-- [[sources/embiggen-17aug12-mp4]] — Embiggen-17Aug12.mp4
-- [[sources/recording-7-wav]] — Recording 7.wav
-- [[sources/aija-wav]] — AIJA.wav
+- [[sources/facing-the-machine-ibsuniversity-27jun25-mp4]] — Facing the Machine IBSUniversity 27Jun25.mp4
 - [[sources/radiance56-rm]] — Radiance56.rm
 - [[sources/strophariad56-rm]] — Strophariad56.rm
 - [[sources/incident56-rm]] — Incident56.rm
+- [[sources/techno-pagans-at-the-end-of-history-12-esalen-mp]] — Techno-Pagans at the End of History 12(Esalen).mp3
 - [[sources/d14-ai-in-practice-governance-mp4]] — D14_ai-in-practice-governance.mp4
-- [[sources/abc-jjj-14mar06-interview-mp3]] — ABC-JJJ-14Mar06-Interview.mp3
 - [[sources/ondrugs-mp3]] — OnDrugs.mp3
 - [[sources/anahata2-mp3]] — anahata2.mp3
 - [[sources/artbell5-mp3]] — artbell5.mp3
@@ -237,16 +254,11 @@ related:
 - [[sources/f13-the-agent-is-using-you-mp4]] — F13_the-agent-is-using-you.mp4
 - [[sources/d13-thinking-deeper-mp4]] — D13_thinking-deeper.mp4
 - [[sources/tiff-50-mdp-mp4]] — Tiff_50_MDP.mp4
-- [[sources/lms-20100531-0905-1-mp3]] — lms_20100531_0905 (1).mp3
-- [[sources/lms-20100531-0905-mp3]] — lms_20100531_0905.mp3
 - [[sources/2-02-the-future-of-us-mp3]] — 2-02 The Future of Us.mp3
 - [[sources/anahata-old-mp3]] — anahata-OLD.mp3
 - [[sources/3-03-empire-mp3]] — 3-03 Empire.mp3
 - [[sources/strophariad-mp4]] — Strophariad.mp4
-- [[sources/unknown-knowns-31oct19-mp3]] — Unknown Knowns 31Oct19.mp3
 - [[sources/2-01-the-future-of-contemporary-art-mp3]] — 2-01 The Future of Contemporary Art.mp3
-- [[sources/abj-jjj-5oct06-interview-mp3]] — ABJ-JJJ-5Oct06-Interview.mp3
-- [[sources/truth-trust-and-story-26jul19-mp3]] — Truth Trust and Story 26Jul19.mp3
 - [[sources/do-garbos-dream-of-rootic-bins-mp3]] — Do Garbos Dream of Rootic Bins.mp3
 - [[sources/3-01-hyperpeople-mp3]] — 3-01 Hyperpeople.mp3
 - [[sources/the-new-new-mp3]] — The_New_New.mp3
@@ -261,46 +273,37 @@ related:
 - [[sources/f6-non-mintables-mp4]] — F6_non-mintables.mp4
 - [[sources/strophariad-mov]] — Strophariad.mov
 - [[sources/a4-repricing-cognition-mp4]] — A4_repricing-cognition.mp4
-- [[sources/pollenizerpodcast-20100728-1-mp3]] — PollenizerPodcast-20100728 (1).mp3
-- [[sources/pollenizerpodcast-20100728-mp3]] — PollenizerPodcast-20100728.mp3
 - [[sources/a10-leaderships-one-job-mp4]] — A10_leaderships-one-job.mp4
 - [[sources/incident-mov]] — Incident.mov
-- [[sources/rn-encounter-cyberreligion-22aug10-mp3]] — RN_Encounter_CyberReligion_22Aug10.mp3
 - [[sources/transition-without-wrecking-economy-mp4]] — Transition without wrecking economy.mp4
-- [[sources/hack-thurs-2009-07-30-mp3]] — hack_thurs_2009_07_30.mp3
-- [[sources/connectingup09-11may09-mp3]] — ConnectingUp09-11May09.mp3
-- [[sources/7-30report-3dtv-3jun10-m4v-2]] — 7_30Report_3DTV_3Jun10.m4v
-- [[sources/mindstates2003-mp3]] — Mindstates2003.mp3
+- [[sources/1-02-libraries-in-the-age-of-infinite-media-mp3]] — 1-02 Libraries in the Age of Infinite Media.mp3
+- [[sources/congradulating-ourselves-mp4]] — Congradulating ourselves.mp4
 - [[sources/green-cement-mp4]] — Green Cement.mp4
 - [[sources/the-moment-mp4]] — The Moment.mp4
 - [[sources/everything-changed-mp4]] — Everything changed.mp4
-- [[sources/fte-20180415-mp3]] — fte_20180415.mp3
 - [[sources/two-ledgers-financial-and-carbon-mp4]] — Two ledgers financial and carbon.mp4
 - [[sources/1-dia-markpesce-1-mp3]] — 1_DIA_MarkPesce (1).mp3
 - [[sources/1-dia-markpesce-mp3]] — 1_DIA_MarkPesce.mp3
 - [[sources/a11-ralph-loop-mp4]] — A11_ralph-loop.mp4
-- [[sources/hack-tues-2010-01-19-mp3]] — hack_tues_2010_01_19.mp3
 - [[sources/f17-f19-insurance-thesis-combo-mp4]] — F17-F19_insurance-thesis-combo.mp4
 - [[sources/green-agriculture-mp4]] — Green Agriculture.mp4
 - [[sources/piracyisgood-mp3]] — piracyisgood.mp3
 - [[sources/hungry-for-a-change-mp4]] — Hungry for a change.mp4
 - [[sources/terror-and-transhumanism-mp3]] — Terror and Transhumanism.mp3
 - [[sources/7pm-project-mov]] — 7pm-project.mov
-- [[sources/sydney-writers-festival-3may19-mp3]] — Sydney Writers Festival 3May19.mp3
-- [[sources/thescoop-3dec09-mp3]] — thescoop-3Dec09.mp3
-- [[sources/smarter-money-19oct16-mp3]] — Smarter Money 19Oct16.mp3
+- [[sources/better-than-crack-1-mp3]] — Better-Than-Crack (1).mp3
+- [[sources/better-than-crack-mp3]] — Better-Than-Crack.mp3
 - [[sources/biosandlogos-mp3]] — BiosAndLogos.mp3
 - [[sources/green-steel-mp4]] — Green Steel.mp4
 - [[sources/mentoring-as-the-unbeatable-advantage-mp4]] — Mentoring as the unbeatable advantage.mp4
 - [[sources/the-smartwatch-solution-mp4]] — The Smartwatch Solution.mp4
 - [[sources/vr-simulation-future-of-work-mp4]] — VR Simulation future of work.mp4
 - [[sources/whenimsixtyfour-part2-mov]] — WhenImSixtyFour-part2.mov
+- [[sources/four-day-week-mp4]] — Four Day Week.mp4
 - [[sources/sunday-mp3]] — Sunday.mp3
-- [[sources/mark-pesce-interview-9dec20-mp3]] — Mark Pesce interview 9Dec20.mp3
+- [[sources/shouting-shaming-shuning-mp4]] — Shouting Shaming Shuning.mp4
 - [[sources/whenimsixtyfour-part3-mov]] — WhenImSixtyFour-part3.mov
 - [[sources/telstra-ipod-m4v]] — telstra_ipod.m4v
-- [[sources/damer-pesce-interview-florence-may1996-mp3]] — damer-pesce-interview-florence-may1996.mp3
-- [[sources/damer-pesce-interview-florence-may1996-1-mp3]] — damer-pesce-interview-florence-may1996 (1).mp3
 - [[sources/the-human-use-of-human-networks-1-mp3]] — The Human Use of Human Networks (1).mp3
 - [[sources/the-human-use-of-human-networks-mp3]] — The Human Use of Human Networks.mp3
 - [[sources/friday-mp3]] — Friday.mp3
@@ -311,7 +314,7 @@ related:
 - [[sources/recording-1-m4a]] — Recording 1.m4a
 - [[sources/iag-m4a]] — IAG.m4a
 - [[sources/three-day-twenty-hour-caring-mp4]] — Three Day Twenty Hour Caring.mp4
-- [[sources/rushkoff-mediasquat-30jun09-mp3]] — Rushkoff-MediaSquat-30Jun09.mp3
+- [[sources/introduction-and-how-it-happened-mp4]] — Introduction and how it happened.mp4
 - [[sources/naturalselection-ipod-m4v]] — naturalselection_ipod.m4v
 - [[sources/hypercasting-wmv]] — hypercasting.wmv
 - [[sources/ai-and-the-future-of-work-mp4]] — AI and the future of work.mp4
@@ -330,9 +333,9 @@ related:
 - [[sources/the-new-inventors-20090708200000-mp4]] — The New Inventors-20090708200000.mp4
 - [[sources/the-new-inventors-20091104200000-mp4]] — The New Inventors-20091104200000.mp4
 - [[sources/the-new-inventors-20091007200000-mp4]] — The New Inventors-20091007200000.mp4
-- [[sources/mark-chaser-podcast-21jul21-wav]] — Mark Chaser podcast 21Jul21.wav
 - [[sources/the-new-inventors-20090722200000-mp4]] — The New Inventors-20090722200000.mp4
 - [[sources/genevieve-bell-mp3]] — Genevieve Bell.mp3
+- [[sources/bt-3-mp4]] — bt-3.mp4
 - [[sources/ispy-ipod-m4v]] — ispy_ipod.m4v
 - [[sources/recording-2-m4a]] — Recording 2.m4a
 - [[sources/peet-m4a]] — Peet.m4a
@@ -345,13 +348,12 @@ related:
 - [[sources/the-new-inventors-20070815200000-mp4]] — The New Inventors-20070815200000.mp4
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-m4v]] — mark pesce AISWA BTB questions iPhone.m4v
 - [[sources/the-new-inventors-20070829200000-mp4]] — The New Inventors-20070829200000.mp4
-- [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am-2]] — uptown-radio_recording-1_2021-04-26--t12-31-18am--nicole.wav
-- [[sources/good-shout-29may20-m4v]] — good_shout 29May20.m4v
+- [[sources/mark-pesce-session-2-wav]] — Mark Pesce session 2.wav
 - [[sources/pdf-pesce-mov]] — Pdf-Pesce.mov
+- [[sources/loreto-mp3]] — Loreto.mp3
 - [[sources/steve-at-60-mp4]] — Steve at 60.mp4
 - [[sources/how-smart-is-chat-gpt-the-project-nz-original-mp]] — how_smart_is_chat_gpt__the_project_nz (Original).mp4
-- [[sources/fowf-6nov10-mp4]] — fowf-6Nov10.mp4
-- [[sources/swf2010-pesce-wav]] — swf2010-pesce.wav
+- [[sources/ala-wav]] — ALA.wav
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-mp4]] — avatars96-pesce-leonard-dipaola_512kb.mp4
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-2-mp4]] — avatars96-pesce-leonard-dipaola_512kb 2.mp4
 - [[sources/open-state-wav]] — Open State.wav
@@ -361,52 +363,50 @@ related:
 - [[sources/a-digital-reformation-wav]] — A Digital Reformation.wav
 - [[sources/felix-wav]] — Felix.wav
 - [[sources/000000001b4e4d1f-iphone-m4v]] — 000000001b4e4d1f.iPhone.m4v
-- [[sources/mark-pesce-alchemist-23jun21-wav]] — Mark Pesce Alchemist 23Jun21.wav
+- [[sources/reality-remix-wav]] — Reality Remix.wav
 - [[sources/fintech-futures-wav]] — Fintech Futures.wav
 - [[sources/just-so-stories-wav]] — Just-So Stories.wav
 - [[sources/wds08-opening-mov]] — WDS08-Opening.mov
+- [[sources/cybersamhain-to-chatgpt-1080p-mp4]] — Cybersamhain to ChatGPT 1080p.mp4
 - [[sources/digirupt-preview-mp4]] — digirupt-preview.mp4
 - [[sources/gt-mel-wav]] — GT  MEL.wav
 - [[sources/thefuturists-mp4]] — TheFuturists.mp4
 - [[sources/thefuturists-mp4-2]] — TheFuturists.mp4
 - [[sources/saatchi-wav]] — Saatchi.wav
-- [[sources/mark-pesce-the-world-2sep20-mp4]] — Mark Pesce The World 2Sep20.mp4
+- [[sources/uq-wav]] — UQ.wav
 - [[sources/a-house-built-on-sand-interoperability-in-the-me]] — A House Built on Sand - Interoperability in the Metaverse.mp4
+- [[sources/recording-7-wav]] — Recording 7.wav
+- [[sources/supertools-mkv]] — supertools.mkv
+- [[sources/citi-wav]] — Citi.wav
 - [[sources/ptaanz2-wav]] — PTAANZ2.wav
 - [[sources/wpc-wav]] — WPC.wav
 - [[sources/iv-markpesce-291216-mp4-cba-mp4]] — iv_MarkPesce_291216_mp4_cba.mp4
 - [[sources/monash-wav]] — Monash.wav
-- [[sources/both-and-the-hybrid-future-of-events-mea-28apr21]] — Both-And The Hybrid Future of Events MEA 28Apr21 720p.mp4
+- [[sources/bill-martens-wav]] — Bill Martens.wav
+- [[sources/mark-interviews-bill-wav]] — Mark interviews Bill.wav
+- [[sources/mark-interviews-bill-wav-2]] — Mark interviews Bill.wav
+- [[sources/aija-wav]] — AIJA.wav
 - [[sources/iv-pesce-090219-mp4]] — iv_Pesce_090219.mp4
 - [[sources/kate-podcast-mkv]] — kate-podcast.mkv
-- [[sources/facing-the-machine-ibsuniversity-27jun25-mp4]] — Facing the Machine IBSUniversity 27Jun25.mp4
 - [[sources/learning-in-the-connected-century-mov]] — Learning in the Connected Century.mov
-- [[sources/leap-interview-13oct22-mp4]] — LEAP interview 13Oct22.mp4
+- [[sources/supertools-anu-mp4]] — Supertools-ANU.mp4
 - [[sources/planetoftheappsakl-mp4]] — planetoftheappsAKL.mp4
-- [[sources/ey-tr-2022-embrace-uncertainty-mark-pesce-future]] — Ey Tr 2022 - Embrace Uncertainty - Mark Pesce Future Back-1.mkv
 - [[sources/the-new-new-m4v]] — The New New.m4v
-- [[sources/epic-interview-12oct21-mp4]] — EPIC Interview 12Oct21.mp4
+- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]] — Smartsheet - Reimagining the Future of Work HEVC.mp4
 - [[sources/highcastledinner-17jan26-mp4]] — HighCastleDinner-17Jan26.mp4
 - [[sources/mindstates-naturalselection-mp4]] — mindstates-naturalselection.mp4
 - [[sources/mind-share-hd-mov]] — mind_share_hd.mov
-- [[sources/last-days-of-reality-toronto-17oct17-mov]] — Last Days of Reality Toronto 17Oct17.mov
 - [[sources/mindstates-ispy-mp4]] — mindstates-ispy.mp4
 - [[sources/00000000196ff427-mpg]] — 00000000196ff427.mpg
-- [[sources/shared-paths-deco-2200-23sep21-mp4]] — Shared Paths DECO 2200 23Sep21.mp4
 - [[sources/000000001ab15980-mpg]] — 000000001ab15980.mpg
-- [[sources/v20-june-2019-opening-mts]] — V20 June 2019 Opening.MTS
 - [[sources/the-new-new-mov]] — The New New.mov
 - [[sources/the-unseen-internet-the-alembic-9jan26-mp4]] — The Unseen Internet - The Alembic 9Jan26.mp4
-- [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]] — The No Normal CFO Series NZ 8Jun21.mp4
-- [[sources/horizons-and-trajectories-4jun20-mp4]] — Horizons and Trajectories 4Jun20.mp4
-- [[sources/beyond-the-horizon-cfo-series-qld-10sep20-mp4]] — Beyond the Horizon CFO Series QLD 10Sep20.mp4
 - [[sources/0000000019ee59f7-mpg]] — 0000000019ee59f7.mpg
 - [[sources/0000000019b06a7f-mpg]] — 0000000019b06a7f.mpg
-- [[sources/both-and-the-hybrid-future-of-events-mea-28apr21-2]] — Both-And The Hybrid Future of Events MEA 28Apr21.mp4
+- [[sources/prime-life-event-mp4]] — Prime Life Event.mp4
 - [[sources/0000000019779ddf-mpg]] — 0000000019779ddf.mpg
-- [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]] — Horizons and Trajectories 4Jun20 YouTube 720p.mp4
+- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] — Mark Pesce - Digital Depth in Augmented Reality.mp4
 - [[sources/0000000019d17518-mpg]] — 0000000019d17518.mpg
-- [[sources/wisdom-douglas-rushkoff-cuts-us-some-slack-febru]] — Wisdom -- Douglas Rushkoff Cuts Us Some Slack February 2021 1080p.mp4
 
 ## In the Corpus
 
@@ -422,33 +422,6 @@ related:
 
 ## Sources
 
-- [[sources/mark-pesce-session-2-wav]]
-- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]]
-- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]]
-- [[sources/just-so-stories-wds-1nov18-mp3]]
-- [[sources/cybersamhain-to-chatgpt-1080p-mp4]]
-- [[sources/theroadahead-17may18-mp3]]
-- [[sources/arin6904-5sep18-mp3]]
-- [[sources/ala-wav]]
-- [[sources/owen-interview-2023-mp4]]
-- [[sources/web3d2017-mp3]]
-- [[sources/voices-of-vr-mark-pesce-20nov20-mp3]]
-- [[sources/web3d2017-m4a]]
-- [[sources/reality-remix-wav]]
-- [[sources/uq-wav]]
-- [[sources/supertools-mkv]]
-- [[sources/pesce-thesymposium-9dec18-mp4]]
-- [[sources/bt-3-mp4]]
-- [[sources/better-than-crack-1-mp3]]
-- [[sources/better-than-crack-mp3]]
-- [[sources/supertools-anu-mp4]]
-- [[sources/techno-pagans-at-the-end-of-history-12-esalen-mp]]
-- [[sources/swarm-2021-mp4]]
-- [[sources/1-02-libraries-in-the-age-of-infinite-media-mp3]]
-- [[sources/four-day-week-mp4]]
-- [[sources/bill-martens-wav]]
-- [[sources/mark-interviews-bill-wav]]
-- [[sources/mark-interviews-bill-wav-2]]
 - [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]]
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]]
 - [[sources/mark-pesce-session-1-wav]]
@@ -456,26 +429,19 @@ related:
 - [[sources/dense-and-thick-mp4-2]]
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]]
 - [[sources/hypercasting-mp3]]
-- [[sources/thenextbillionsecondsineducation-1sep11-wav]]
 - [[sources/whereintheworld-mp3]]
 - [[sources/sca-wav]]
 - [[sources/technospirit-mkv]]
 - [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]]
-- [[sources/internet-transformations-5oct21-mp4]]
-- [[sources/arin-2610-internet-transformations-the-ar-dilemm-2]]
-- [[sources/listen-25oct11-mp3]]
 - [[sources/avatars96-keynotes-pesce-parisi-512kb-mp4]]
 - [[sources/s01e01-mark-wav]]
-- [[sources/rn-common-knowledge-19feb12-mp3]]
 - [[sources/saturday-morning-mp3]]
+- [[sources/damer-pesce-interview-florence-may1996-mp3]]
+- [[sources/damer-pesce-interview-florence-may1996-1-mp3]]
 - [[sources/theworld13dec22-mkv-webm]]
-- [[sources/abctheworld-13dec22-m4v]]
 - [[sources/singularity-summit-mp4]]
-- [[sources/connectedcity-2aug11-avi]]
 - [[sources/3-01-the-audio-tour-mp3]]
 - [[sources/4-02-hyperdistribution-mp3]]
-- [[sources/sea-20110514-0805-1-mp3]]
-- [[sources/sea-20110514-0805-mp3]]
 - [[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]]
 - [[sources/johnhalpern-lsdsymposium-wmv]]
 - [[sources/friday-rm]]
@@ -490,6 +456,7 @@ related:
 - [[sources/techno-pagans-at-the-end-of-history-11-esalen-mp]]
 - [[sources/techno-pagans-at-the-end-of-history-4-esalen-mp3]]
 - [[sources/techno-pagans-at-the-end-of-history-8-esalen-mp3]]
+- [[sources/mindstates2003-mp3]]
 - [[sources/hyperpeople-mp3]]
 - [[sources/hyperpeople-mobile-mp4]]
 - [[sources/the-new-inventors-20090610200000-mp4]]
@@ -503,58 +470,75 @@ related:
 - [[sources/piracyisgood-avi]]
 - [[sources/artbell3-mp3]]
 - [[sources/the-swarm-parts-i-ii-and-iii-mp3]]
-- [[sources/abc-14jul20-video-first-mp4]]
 - [[sources/newinventors-mp4]]
 - [[sources/the-new-inventors-20070425200000-mp4]]
-- [[sources/alcove-interview-23jun08-m4v]]
+- [[sources/abc-jjj-14mar06-interview-mp3]]
+- [[sources/abj-jjj-5oct06-interview-mp3]]
 - [[sources/nextwave-mp4]]
 - [[sources/the-new-inventors-20071003200000-mp4]]
 - [[sources/01-twitter-and-the-media-m4a]]
 - [[sources/notquiteart-2008-ep02-mp4]]
-- [[sources/pdf-pdf2009markpesce112-mov]]
-- [[sources/post-classical-finance-cfo-series-sydney-11may21]]
-- [[sources/nightlife-twitter-11mar09-mp3]]
+- [[sources/alcove-interview-23jun08-m4v]]
 - [[sources/jjj-hack-future-3dec08-mp3]]
 - [[sources/afternoon-live-mov]]
 - [[sources/afternoon-live-mov-2]]
+- [[sources/pdf-pdf2009markpesce112-mov]]
 - [[sources/0000000014d901d3-mpg]]
-- [[sources/sea-20100130-0730-mp3]]
-- [[sources/sat-20100213-1110-mark-pesce-future-gaze-048-mp3]]
-- [[sources/ninetonoon-25jun20-mp3]]
+- [[sources/nightlife-twitter-11mar09-mp3]]
+- [[sources/connectingup09-11may09-mp3]]
+- [[sources/rushkoff-mediasquat-30jun09-mp3]]
+- [[sources/hack-thurs-2009-07-30-mp3]]
+- [[sources/thescoop-3dec09-mp3]]
 - [[sources/expandingmind010710-mp3]]
 - [[sources/guestroom-futurist-mark-pesce-1-mp3]]
 - [[sources/guestroom-futurist-mark-pesce-mp3]]
 - [[sources/whenimsixtyfour-part1-mov]]
 - [[sources/fkz8ds-2-mp4]]
-- [[sources/lca2011-keynote-mov]]
+- [[sources/swf2010-pesce-wav]]
+- [[sources/hack-tues-2010-01-19-mp3]]
+- [[sources/sea-20100130-0730-mp3]]
+- [[sources/sat-20100213-1110-mark-pesce-future-gaze-048-mp3]]
 - [[sources/iif-2010-03-mark-pesce-mp3]]
 - [[sources/iif-2010-03-mark-pesce-1-mp4]]
 - [[sources/iif-2010-03-mark-pesce-mp4]]
-- [[sources/accanet-12sep18-mp3]]
-- [[sources/abc702-disconnect-13sep11-mp3]]
-- [[sources/hyperconnectededucation-vitta-30aug11-wav]]
-- [[sources/newkit-3aug11-mp3]]
+- [[sources/todaytonight-25may10-mov]]
+- [[sources/lms-20100531-0905-1-mp3]]
+- [[sources/lms-20100531-0905-mp3]]
+- [[sources/7-30report-3dtv-3jun10-m4v-2]]
+- [[sources/pollenizerpodcast-20100728-1-mp3]]
+- [[sources/pollenizerpodcast-20100728-mp3]]
+- [[sources/rn-encounter-cyberreligion-22aug10-mp3]]
+- [[sources/fowf-6nov10-mp4]]
 - [[sources/the-drum-youtube-1-m4v]]
 - [[sources/the-drum-youtube-m4v]]
 - [[sources/hypereconomics-flv]]
 - [[sources/hypereconomics-2-flv]]
+- [[sources/lca2011-keynote-mov]]
+- [[sources/sea-20110514-0805-1-mp3]]
+- [[sources/sea-20110514-0805-mp3]]
 - [[sources/connectedcity-2aug11-h-264-for-video-podcasting]]
+- [[sources/connectedcity-2aug11-avi]]
+- [[sources/newkit-3aug11-mp3]]
 - [[sources/newkit-3aug11-wmv]]
+- [[sources/hyperconnectededucation-vitta-30aug11-wav]]
+- [[sources/thenextbillionsecondsineducation-1sep11-wav]]
+- [[sources/abc702-disconnect-13sep11-mp3]]
+- [[sources/listen-25oct11-mp3]]
 - [[sources/artbell4-mp3]]
 - [[sources/yearofjubilee-mp3]]
 - [[sources/3-05-the-future-of-all-mp3]]
+- [[sources/rn-common-knowledge-19feb12-mp3]]
 - [[sources/thenextbillionseconds-atp-25feb12-wav]]
-- [[sources/crowdfunding-31jul14-wmv]]
+- [[sources/embiggen-17aug12-mp4]]
 - [[sources/powersofthen-9apr13-m4v]]
 - [[sources/ega-mkv]]
 - [[sources/000000001a52899f-mpg]]
 - [[sources/00000000196fd807-mpg]]
 - [[sources/0000000019b5b787-mpg]]
-- [[sources/todaytonight-25may10-mov]]
+- [[sources/crowdfunding-31jul14-wmv]]
 - [[sources/four-domains-m4a]]
 - [[sources/marc-pesce-rushes01-mov]]
 - [[sources/0000000011abc207-iphone-m4v]]
-- [[sources/josh-szeps-podcast-17aug21-wav]]
 - [[sources/digirupt-final-mp4]]
 - [[sources/planet-of-the-apps-auckland-21may15-mp4]]
 - [[sources/r0010023-er-mp4]]
@@ -563,67 +547,100 @@ related:
 - [[sources/new-cities-new-economies-wav]]
 - [[sources/cfo-wav]]
 - [[sources/launch-festival-2016-awards-ceremony-xs1cy6hj4pu]]
-- [[sources/arin-2610-internet-transformations-the-ar-dilemm]]
-- [[sources/surveillance-status-arin2610-20oct20-mp4]]
+- [[sources/smarter-money-19oct16-mp3]]
+- [[sources/web3d2017-mp3]]
+- [[sources/web3d2017-m4a]]
 - [[sources/saatchi-wav-2]]
 - [[sources/slv-wav]]
 - [[sources/ega-wav]]
 - [[sources/mark-pesce-futurist-the-last-days-of-reality-mp4]]
-- [[sources/ega-mp3]]
+- [[sources/last-days-of-reality-toronto-17oct17-mov]]
 - [[sources/the-last-days-of-reality-ega-8dec17-mkv]]
-- [[sources/citi-how-to-thrive-in-the-2020s-16oct19-mp3]]
+- [[sources/ega-mp3]]
+- [[sources/fte-20180415-mp3]]
+- [[sources/theroadahead-17may18-mp3]]
+- [[sources/loreto-toorak-15aug18-mp3]]
+- [[sources/arin6904-5sep18-mp3]]
+- [[sources/accanet-12sep18-mp3]]
+- [[sources/just-so-stories-wds-1nov18-mp3]]
+- [[sources/pesce-thesymposium-9dec18-mp4]]
 - [[sources/trench-talk-ep57-mark-pesce-mp3]]
 - [[sources/asx-new-money-hvec-480p-mp4]]
-- [[sources/skype-interview-march-2019-mp4]]
 - [[sources/hashrate-mkv]]
 - [[sources/asx-new-money-lbr-mp4]]
-- [[sources/wave-of-automation-2aug19-mov]]
+- [[sources/skype-interview-march-2019-mp4]]
+- [[sources/sydney-writers-festival-3may19-mp3]]
+- [[sources/v20-june-2019-opening-mts]]
 - [[sources/rnd-20190619-1906-fb-libra-mp3]]
+- [[sources/truth-trust-and-story-26jul19-mp3]]
+- [[sources/wave-of-automation-2aug19-mov]]
+- [[sources/a-series-of-tubes-wpc-11sep19-mp3]]
+- [[sources/wpc-11sep19-wav]]
+- [[sources/citi-how-to-thrive-in-the-2020s-16oct19-mp3]]
+- [[sources/unknown-knowns-31oct19-mp3]]
 - [[sources/the-bell-can-not-be-unrung-mp4]]
 - [[sources/gio-pc1-mark-pesce-video-02-final-4x5-mp4]]
-- [[sources/mark-interview-29jul21-wav]]
 - [[sources/pesce-best-current-affairs-podcast-mp4]]
-- [[sources/horizon-report-early-2021-1-intro-youtube-1080p]]
-- [[sources/pandemic-time-3ai-15may20-wav]]
-- [[sources/pandemic-time-15may20-small-mp4]]
-- [[sources/drilling-down-ega-2dec22-720p-mp4]]
 - [[sources/national-trust-sense-in-place-mp4]]
-- [[sources/cfo-series-nz-18jun20-the-bubble-mp4]]
-- [[sources/cfo-series-sydney-24jun20-same-time-next-year-mp]]
-- [[sources/mark-pesce-20nov20-wav]]
-- [[sources/perihelia-2021-youtube-1080p-mp4]]
 - [[sources/v20-day-one-mp4]]
 - [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]]
-- [[sources/drilling-down-ega-2022-low-bitrate-1080p-mp4]]
 - [[sources/v20-day-three-mp4]]
+- [[sources/common-factor-1-future-of-work-clean-mp4]]
+- [[sources/pandemic-time-3ai-15may20-wav]]
+- [[sources/pandemic-time-15may20-small-mp4]]
 - [[sources/pandemic-time-pesce-3ai-15may20-final-mp4]]
 - [[sources/pesce-pandemic-time-anu-3ai-15may20-mp4]]
-- [[sources/drilling-down-ega-2022-1080p-mp4]]
-- [[sources/common-factor-1-future-of-work-clean-mp4]]
+- [[sources/good-shout-29may20-m4v]]
+- [[sources/horizons-and-trajectories-4jun20-mp4]]
+- [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]]
+- [[sources/cfo-series-nz-18jun20-the-bubble-mp4]]
+- [[sources/cfo-series-sydney-24jun20-same-time-next-year-mp]]
+- [[sources/ninetonoon-25jun20-mp3]]
+- [[sources/abc-14jul20-video-first-mp4]]
+- [[sources/mark-pesce-the-world-2sep20-mp4]]
+- [[sources/beyond-the-horizon-cfo-series-qld-10sep20-mp4]]
+- [[sources/surveillance-status-arin2610-20oct20-mp4]]
+- [[sources/cfo-series-melbourne-while-you-were-out-12nov20]]
+- [[sources/voices-of-vr-mark-pesce-20nov20-mp3]]
+- [[sources/mark-pesce-20nov20-wav]]
+- [[sources/mark-pesce-interview-9dec20-mp3]]
 - [[sources/final-thoughts-mp3]]
+- [[sources/horizon-report-early-2021-1-intro-youtube-1080p]]
+- [[sources/perihelia-2021-youtube-1080p-mp4]]
+- [[sources/swarm-2021-mp4]]
+- [[sources/wisdom-douglas-rushkoff-cuts-us-some-slack-febru]]
+- [[sources/business-on-the-edge-21apr21-mp4]]
+- [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am]]
+- [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am-2]]
+- [[sources/both-and-the-hybrid-future-of-events-mea-28apr21]]
+- [[sources/both-and-the-hybrid-future-of-events-mea-28apr21-2]]
+- [[sources/post-classical-finance-cfo-series-sydney-11may21]]
+- [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]]
+- [[sources/mark-pesce-alchemist-23jun21-wav]]
+- [[sources/mark-chaser-podcast-21jul21-wav]]
+- [[sources/mark-interview-29jul21-wav]]
+- [[sources/josh-szeps-podcast-17aug21-wav]]
+- [[sources/shared-paths-deco-2200-23sep21-mp4]]
+- [[sources/arin-2610-internet-transformations-the-ar-dilemm]]
+- [[sources/internet-transformations-5oct21-mp4]]
+- [[sources/arin-2610-internet-transformations-the-ar-dilemm-2]]
+- [[sources/epic-interview-12oct21-mp4]]
 - [[sources/adam-wav]]
 - [[sources/thefuturists-thewatershed-mkv]]
-- [[sources/cfo-series-melbourne-while-you-were-out-12nov20]]
-- [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am]]
+- [[sources/ey-tr-2022-embrace-uncertainty-mark-pesce-future]]
+- [[sources/drilling-down-ega-2022-low-bitrate-1080p-mp4]]
+- [[sources/drilling-down-ega-2022-1080p-mp4]]
+- [[sources/leap-interview-13oct22-mp4]]
+- [[sources/drilling-down-ega-2dec22-720p-mp4]]
+- [[sources/abctheworld-13dec22-m4v]]
+- [[sources/owen-interview-2023-mp4]]
 - [[sources/introducing-mark-mp4]]
-- [[sources/a-series-of-tubes-wpc-11sep19-mp3]]
-- [[sources/citi-wav]]
-- [[sources/wpc-11sep19-wav]]
-- [[sources/prime-life-event-mp4]]
-- [[sources/loreto-mp3]]
-- [[sources/loreto-toorak-15aug18-mp3]]
-- [[sources/congradulating-ourselves-mp4]]
-- [[sources/shouting-shaming-shuning-mp4]]
-- [[sources/introduction-and-how-it-happened-mp4]]
-- [[sources/business-on-the-edge-21apr21-mp4]]
-- [[sources/embiggen-17aug12-mp4]]
-- [[sources/recording-7-wav]]
-- [[sources/aija-wav]]
+- [[sources/facing-the-machine-ibsuniversity-27jun25-mp4]]
 - [[sources/radiance56-rm]]
 - [[sources/strophariad56-rm]]
 - [[sources/incident56-rm]]
+- [[sources/techno-pagans-at-the-end-of-history-12-esalen-mp]]
 - [[sources/d14-ai-in-practice-governance-mp4]]
-- [[sources/abc-jjj-14mar06-interview-mp3]]
 - [[sources/ondrugs-mp3]]
 - [[sources/anahata2-mp3]]
 - [[sources/artbell5-mp3]]
@@ -640,16 +657,11 @@ related:
 - [[sources/f13-the-agent-is-using-you-mp4]]
 - [[sources/d13-thinking-deeper-mp4]]
 - [[sources/tiff-50-mdp-mp4]]
-- [[sources/lms-20100531-0905-1-mp3]]
-- [[sources/lms-20100531-0905-mp3]]
 - [[sources/2-02-the-future-of-us-mp3]]
 - [[sources/anahata-old-mp3]]
 - [[sources/3-03-empire-mp3]]
 - [[sources/strophariad-mp4]]
-- [[sources/unknown-knowns-31oct19-mp3]]
 - [[sources/2-01-the-future-of-contemporary-art-mp3]]
-- [[sources/abj-jjj-5oct06-interview-mp3]]
-- [[sources/truth-trust-and-story-26jul19-mp3]]
 - [[sources/do-garbos-dream-of-rootic-bins-mp3]]
 - [[sources/3-01-hyperpeople-mp3]]
 - [[sources/the-new-new-mp3]]
@@ -664,46 +676,37 @@ related:
 - [[sources/f6-non-mintables-mp4]]
 - [[sources/strophariad-mov]]
 - [[sources/a4-repricing-cognition-mp4]]
-- [[sources/pollenizerpodcast-20100728-1-mp3]]
-- [[sources/pollenizerpodcast-20100728-mp3]]
 - [[sources/a10-leaderships-one-job-mp4]]
 - [[sources/incident-mov]]
-- [[sources/rn-encounter-cyberreligion-22aug10-mp3]]
 - [[sources/transition-without-wrecking-economy-mp4]]
-- [[sources/hack-thurs-2009-07-30-mp3]]
-- [[sources/connectingup09-11may09-mp3]]
-- [[sources/7-30report-3dtv-3jun10-m4v-2]]
-- [[sources/mindstates2003-mp3]]
+- [[sources/1-02-libraries-in-the-age-of-infinite-media-mp3]]
+- [[sources/congradulating-ourselves-mp4]]
 - [[sources/green-cement-mp4]]
 - [[sources/the-moment-mp4]]
 - [[sources/everything-changed-mp4]]
-- [[sources/fte-20180415-mp3]]
 - [[sources/two-ledgers-financial-and-carbon-mp4]]
 - [[sources/1-dia-markpesce-1-mp3]]
 - [[sources/1-dia-markpesce-mp3]]
 - [[sources/a11-ralph-loop-mp4]]
-- [[sources/hack-tues-2010-01-19-mp3]]
 - [[sources/f17-f19-insurance-thesis-combo-mp4]]
 - [[sources/green-agriculture-mp4]]
 - [[sources/piracyisgood-mp3]]
 - [[sources/hungry-for-a-change-mp4]]
 - [[sources/terror-and-transhumanism-mp3]]
 - [[sources/7pm-project-mov]]
-- [[sources/sydney-writers-festival-3may19-mp3]]
-- [[sources/thescoop-3dec09-mp3]]
-- [[sources/smarter-money-19oct16-mp3]]
+- [[sources/better-than-crack-1-mp3]]
+- [[sources/better-than-crack-mp3]]
 - [[sources/biosandlogos-mp3]]
 - [[sources/green-steel-mp4]]
 - [[sources/mentoring-as-the-unbeatable-advantage-mp4]]
 - [[sources/the-smartwatch-solution-mp4]]
 - [[sources/vr-simulation-future-of-work-mp4]]
 - [[sources/whenimsixtyfour-part2-mov]]
+- [[sources/four-day-week-mp4]]
 - [[sources/sunday-mp3]]
-- [[sources/mark-pesce-interview-9dec20-mp3]]
+- [[sources/shouting-shaming-shuning-mp4]]
 - [[sources/whenimsixtyfour-part3-mov]]
 - [[sources/telstra-ipod-m4v]]
-- [[sources/damer-pesce-interview-florence-may1996-mp3]]
-- [[sources/damer-pesce-interview-florence-may1996-1-mp3]]
 - [[sources/the-human-use-of-human-networks-1-mp3]]
 - [[sources/the-human-use-of-human-networks-mp3]]
 - [[sources/friday-mp3]]
@@ -714,7 +717,7 @@ related:
 - [[sources/recording-1-m4a]]
 - [[sources/iag-m4a]]
 - [[sources/three-day-twenty-hour-caring-mp4]]
-- [[sources/rushkoff-mediasquat-30jun09-mp3]]
+- [[sources/introduction-and-how-it-happened-mp4]]
 - [[sources/naturalselection-ipod-m4v]]
 - [[sources/hypercasting-wmv]]
 - [[sources/ai-and-the-future-of-work-mp4]]
@@ -733,9 +736,9 @@ related:
 - [[sources/the-new-inventors-20090708200000-mp4]]
 - [[sources/the-new-inventors-20091104200000-mp4]]
 - [[sources/the-new-inventors-20091007200000-mp4]]
-- [[sources/mark-chaser-podcast-21jul21-wav]]
 - [[sources/the-new-inventors-20090722200000-mp4]]
 - [[sources/genevieve-bell-mp3]]
+- [[sources/bt-3-mp4]]
 - [[sources/ispy-ipod-m4v]]
 - [[sources/recording-2-m4a]]
 - [[sources/peet-m4a]]
@@ -748,13 +751,12 @@ related:
 - [[sources/the-new-inventors-20070815200000-mp4]]
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-m4v]]
 - [[sources/the-new-inventors-20070829200000-mp4]]
-- [[sources/uptown-radio-recording-1-2021-04-26-t12-31-18am-2]]
-- [[sources/good-shout-29may20-m4v]]
+- [[sources/mark-pesce-session-2-wav]]
 - [[sources/pdf-pesce-mov]]
+- [[sources/loreto-mp3]]
 - [[sources/steve-at-60-mp4]]
 - [[sources/how-smart-is-chat-gpt-the-project-nz-original-mp]]
-- [[sources/fowf-6nov10-mp4]]
-- [[sources/swf2010-pesce-wav]]
+- [[sources/ala-wav]]
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-mp4]]
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-2-mp4]]
 - [[sources/open-state-wav]]
@@ -764,49 +766,47 @@ related:
 - [[sources/a-digital-reformation-wav]]
 - [[sources/felix-wav]]
 - [[sources/000000001b4e4d1f-iphone-m4v]]
-- [[sources/mark-pesce-alchemist-23jun21-wav]]
+- [[sources/reality-remix-wav]]
 - [[sources/fintech-futures-wav]]
 - [[sources/just-so-stories-wav]]
 - [[sources/wds08-opening-mov]]
+- [[sources/cybersamhain-to-chatgpt-1080p-mp4]]
 - [[sources/digirupt-preview-mp4]]
 - [[sources/gt-mel-wav]]
 - [[sources/thefuturists-mp4]]
 - [[sources/thefuturists-mp4-2]]
 - [[sources/saatchi-wav]]
-- [[sources/mark-pesce-the-world-2sep20-mp4]]
+- [[sources/uq-wav]]
 - [[sources/a-house-built-on-sand-interoperability-in-the-me]]
+- [[sources/recording-7-wav]]
+- [[sources/supertools-mkv]]
+- [[sources/citi-wav]]
 - [[sources/ptaanz2-wav]]
 - [[sources/wpc-wav]]
 - [[sources/iv-markpesce-291216-mp4-cba-mp4]]
 - [[sources/monash-wav]]
-- [[sources/both-and-the-hybrid-future-of-events-mea-28apr21]]
+- [[sources/bill-martens-wav]]
+- [[sources/mark-interviews-bill-wav]]
+- [[sources/mark-interviews-bill-wav-2]]
+- [[sources/aija-wav]]
 - [[sources/iv-pesce-090219-mp4]]
 - [[sources/kate-podcast-mkv]]
-- [[sources/facing-the-machine-ibsuniversity-27jun25-mp4]]
 - [[sources/learning-in-the-connected-century-mov]]
-- [[sources/leap-interview-13oct22-mp4]]
+- [[sources/supertools-anu-mp4]]
 - [[sources/planetoftheappsakl-mp4]]
-- [[sources/ey-tr-2022-embrace-uncertainty-mark-pesce-future]]
 - [[sources/the-new-new-m4v]]
-- [[sources/epic-interview-12oct21-mp4]]
+- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]]
 - [[sources/highcastledinner-17jan26-mp4]]
 - [[sources/mindstates-naturalselection-mp4]]
 - [[sources/mind-share-hd-mov]]
-- [[sources/last-days-of-reality-toronto-17oct17-mov]]
 - [[sources/mindstates-ispy-mp4]]
 - [[sources/00000000196ff427-mpg]]
-- [[sources/shared-paths-deco-2200-23sep21-mp4]]
 - [[sources/000000001ab15980-mpg]]
-- [[sources/v20-june-2019-opening-mts]]
 - [[sources/the-new-new-mov]]
 - [[sources/the-unseen-internet-the-alembic-9jan26-mp4]]
-- [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]]
-- [[sources/horizons-and-trajectories-4jun20-mp4]]
-- [[sources/beyond-the-horizon-cfo-series-qld-10sep20-mp4]]
 - [[sources/0000000019ee59f7-mpg]]
 - [[sources/0000000019b06a7f-mpg]]
-- [[sources/both-and-the-hybrid-future-of-events-mea-28apr21-2]]
+- [[sources/prime-life-event-mp4]]
 - [[sources/0000000019779ddf-mpg]]
-- [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]]
+- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]]
 - [[sources/0000000019d17518-mpg]]
-- [[sources/wisdom-douglas-rushkoff-cuts-us-some-slack-febru]]

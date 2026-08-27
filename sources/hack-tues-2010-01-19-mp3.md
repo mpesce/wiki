@@ -5,7 +5,7 @@ title: hack_tues_2010_01_19.mp3
 drive_id: 1Bzx1cfLNCH1G-vXc7Y2-6eDLYczrZoUq
 source_link: https://drive.google.com/file/d/1Bzx1cfLNCH1G-vXc7Y2-6eDLYczrZoUq/view?usp=drivesdk
 type: podcast
-date: unknown
+date: 2010-01-19
 tags: ["broadcast", "google", "mark-pesce", "microsoft", "open-source"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

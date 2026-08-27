@@ -5,7 +5,7 @@ title: Mark Pesce Alchemist 23Jun21.wav
 drive_id: 1Vg26iffkrJSCCiM5T2m03GnmizHxZZb1
 source_link: https://drive.google.com/file/d/1Vg26iffkrJSCCiM5T2m03GnmizHxZZb1/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2021-06-23
 tags: ["apple", "bitcoin", "education", "innovation", "mark-pesce", "microsoft", "mozilla", "podcast", "remote-work", "the-future", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

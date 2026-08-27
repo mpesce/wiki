@@ -5,7 +5,7 @@ title: Embiggen-17Aug12.mp4
 drive_id: 13n-ikMAZ388a8o1Yb-4jK74i3VS4h4Ok
 source_link: https://drive.google.com/file/d/13n-ikMAZ388a8o1Yb-4jK74i3VS4h4Ok/view?usp=drivesdk
 type: interview
-date: 2045
+date: 2012-08-17
 tags: ["connectivity", "mark-pesce", "mit", "narrative", "surveillance"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

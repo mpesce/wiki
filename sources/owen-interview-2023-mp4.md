@@ -5,7 +5,7 @@ title: Owen-interview-2023.mp4
 drive_id: 1fAbbb_btvFkTFzbQ0PP4FHJKrHLtsiEe
 source_link: https://drive.google.com/file/d/1fAbbb_btvFkTFzbQ0PP4FHJKrHLtsiEe/view?usp=drivesdk
 type: interview
-date: 1965
+date: 2023
 tags: ["identity", "mark-pesce", "networks", "virtual-reality", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

@@ -5,7 +5,7 @@ title: Post-Classical Finance CFO Series Sydney 11May21.mp4
 drive_id: 1wuCshLxhZNnrUWeXGf7mJiNz-pgZHmnL
 source_link: https://drive.google.com/file/d/1wuCshLxhZNnrUWeXGf7mJiNz-pgZHmnL/view?usp=drivesdk
 type: podcast
-date: 2008
+date: 2021-05-11
 tags: ["bitcoin", "blockchain", "facebook", "mark-pesce", "podcast", "smart-contracts"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

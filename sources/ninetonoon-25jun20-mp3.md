@@ -5,7 +5,7 @@ title: NineToNoon 25Jun20.mp3
 drive_id: 1pJY6dLNik_EegzWMxvn3vNe4VkrjbUG6
 source_link: https://drive.google.com/file/d/1pJY6dLNik_EegzWMxvn3vNe4VkrjbUG6/view?usp=drivesdk
 type: interview
-date: 2010
+date: 2020-06-25
 tags: ["apple", "facebook", "mark-pesce", "social-media"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

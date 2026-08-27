@@ -5,7 +5,7 @@ title: The commons
 tags: ["concept"]
 source_count: 6
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-26T13:20:28Z
+last_updated: 2026-08-27T10:36:11Z
 related:
   - (populate via lint)
 ---
@@ -23,8 +23,8 @@ related:
 - [[sources/ega-mkv]] — EGA.mkv
 - [[sources/ega-wav]] — EGA.wav
 - [[sources/ega-mp3]] — EGA.mp3
-- [[sources/empire-6-11-06-mp3]] — Empire 6-11-06.mp3
 - [[sources/sydney-writers-festival-3may19-mp3]] — Sydney Writers Festival 3May19.mp3
+- [[sources/empire-6-11-06-mp3]] — Empire 6-11-06.mp3
 
 ## Debates / Open Questions
 
@@ -36,5 +36,5 @@ related:
 - [[sources/ega-mkv]]
 - [[sources/ega-wav]]
 - [[sources/ega-mp3]]
-- [[sources/empire-6-11-06-mp3]]
 - [[sources/sydney-writers-festival-3may19-mp3]]
+- [[sources/empire-6-11-06-mp3]]

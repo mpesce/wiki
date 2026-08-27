@@ -5,7 +5,7 @@ title: Mark Pesce session 2.wav
 drive_id: 1mYPNBN1saIRFQts6RI2Oq0HXU2RFR4RG
 source_link: https://drive.google.com/file/d/1mYPNBN1saIRFQts6RI2Oq0HXU2RFR4RG/view?usp=drivesdk
 type: interview
-date: 1909
+date: unknown
 tags: ["mark-pesce", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

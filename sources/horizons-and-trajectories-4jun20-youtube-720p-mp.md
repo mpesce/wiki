@@ -5,7 +5,7 @@ title: Horizons and Trajectories 4Jun20 YouTube 720p.mp4
 drive_id: 1vx8VMSMf4Pz3RpsvvTkEbgz_zaf1uvD6
 source_link: https://drive.google.com/file/d/1vx8VMSMf4Pz3RpsvvTkEbgz_zaf1uvD6/view?usp=drivesdk
 type: news
-date: unknown
+date: 2020-06-04
 tags: ["abc", "apple", "mark-pesce", "mozilla", "remote-work"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

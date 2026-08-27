@@ -5,7 +5,7 @@ title: RN_Common_Knowledge-19Feb12.mp3
 drive_id: 1-4FdZWGckAVlJmRgwtquwuZ9oT7q2GQr
 source_link: https://drive.google.com/file/d/1-4FdZWGckAVlJmRgwtquwuZ9oT7q2GQr/view?usp=drivesdk
 type: podcast
-date: 1996
+date: 2012-02-19
 tags: ["abc", "broadcast", "mark-pesce", "social-media"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

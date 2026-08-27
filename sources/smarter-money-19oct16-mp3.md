@@ -5,7 +5,7 @@ title: Smarter Money 19Oct16.mp3
 drive_id: 1Fd-7usdwp1v_aqIz40k30o_5znat0iez
 source_link: https://drive.google.com/file/d/1Fd-7usdwp1v_aqIz40k30o_5znat0iez/view?usp=drivesdk
 type: lecture
-date: unknown
+date: 2016-10-19
 tags: ["3d", "abc", "blockchain", "mark-pesce", "participation", "smart-contracts", "startups", "usc", "venture-capital"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

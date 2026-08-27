@@ -5,7 +5,7 @@ title: Unknown Knowns 31Oct19.mp3
 drive_id: 1GVx7ZelZX0RzPR5crOP6FO6xxizpwaio
 source_link: https://drive.google.com/file/d/1GVx7ZelZX0RzPR5crOP6FO6xxizpwaio/view?usp=drivesdk
 type: keynote
-date: unknown
+date: 2019-10-31
 tags: ["apple", "artificial-intelligence", "education", "mark-pesce", "mozilla", "narrative", "the-future", "trust"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

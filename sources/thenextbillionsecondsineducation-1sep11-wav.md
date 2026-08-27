@@ -5,7 +5,7 @@ title: TheNextBillionSecondsInEducation-1Sep11.wav
 drive_id: 1hucXgWxU5o1dmben0Kb-jNF0nuKHW2_R
 source_link: https://drive.google.com/file/d/1hucXgWxU5o1dmben0Kb-jNF0nuKHW2_R/view?usp=drivesdk
 type: keynote
-date: 1994
+date: 2011-09-01
 tags: ["apple", "connectivity", "education", "mark-pesce", "mozilla", "the-future", "vrml"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

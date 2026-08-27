@@ -5,7 +5,7 @@ title: ConnectedCity-2Aug11-H.264 for Video Podcasting.m4v
 drive_id: 17AsFXaspluwnKDTIWfpoDpPXywltaA1A
 source_link: https://drive.google.com/file/d/17AsFXaspluwnKDTIWfpoDpPXywltaA1A/view?usp=drivesdk
 type: news
-date: 2011
+date: 2011-08-02
 tags: ["communication", "connectivity", "mark-pesce", "networks"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

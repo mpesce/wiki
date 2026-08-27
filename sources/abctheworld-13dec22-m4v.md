@@ -5,7 +5,7 @@ title: ABCTheWorld 13dec22.m4v
 drive_id: 1rM7IOML1JWa436J7hjAA64OXrL7nslDp
 source_link: https://drive.google.com/file/d/1rM7IOML1JWa436J7hjAA64OXrL7nslDp/view?usp=drivesdk
 type: interview
-date: 1997
+date: 2022-12-13
 tags: ["mark-pesce", "trust"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

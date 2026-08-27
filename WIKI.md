@@ -164,6 +164,15 @@ what changed over time, how they relate to the thesis.>
 
 Entity pages are MUTABLE — they compile and evolve as more sources arrive.
 
+> **Note (2026-08-27):** `tools/compile_wiki.py` regenerates entity/concept
+> pages on every run, but **preserves hand-written prose**: if a `TL;DR`,
+> `Overview`, `In the Corpus`, `Cross References`, or
+> `Debates / Open Questions` section no longer contains its `<placeholder>`,
+> that text is carried forward into the regenerated page, and the original
+> `created:` timestamp is kept. Write synthesis directly into the page; the
+> recompile will not clobber it. Only the link lists and `last_updated` are
+> regenerated.
+
 ### 4.4 Cross-reference syntax
 
 Use double-bracket `[[wiki-relative-path]]` links (Obsidian-style).

@@ -5,7 +5,7 @@ title: TheNextBillionSeconds-ATP-25Feb12.wav
 drive_id: 1BDzLHNqTiCyR19h3XLphG0JMT3oBJUeG
 source_link: https://drive.google.com/file/d/1BDzLHNqTiCyR19h3XLphG0JMT3oBJUeG/view?usp=drivesdk
 type: keynote
-date: 2012
+date: 2012-02-25
 tags: ["abc", "attention", "communication", "connectivity", "identity", "mark-pesce", "networks", "social-networks", "the-future", "twitter"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

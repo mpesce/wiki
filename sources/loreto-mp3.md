@@ -5,7 +5,7 @@ title: Loreto.mp3
 drive_id: 1ks4fA2UKlL67pxcEgtRfPsVt24fLHDoM
 source_link: https://drive.google.com/file/d/1ks4fA2UKlL67pxcEgtRfPsVt24fLHDoM/view?usp=drivesdk
 type: workshop
-date: 2033
+date: unknown
 tags: ["artificial-intelligence", "education", "mark-pesce", "networks", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

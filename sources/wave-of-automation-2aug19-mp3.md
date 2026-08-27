@@ -5,7 +5,7 @@ title: Wave of Automation 2Aug19.mp3
 drive_id: 1qQvHCypvmPeTWnwZw0qlTrwT94dhlrMg
 source_link: https://drive.google.com/file/d/1qQvHCypvmPeTWnwZw0qlTrwT94dhlrMg/view?usp=drivesdk
 type: workshop
-date: 2019
+date: 2019-08-02
 tags: ["anu", "education"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

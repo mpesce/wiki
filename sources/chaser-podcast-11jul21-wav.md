@@ -5,7 +5,7 @@ title: Chaser podcast 11Jul21.wav
 drive_id: 1ZshjVrNZxDUd2GmOYV0Aj-D8bRUS_U5V
 source_link: https://drive.google.com/file/d/1ZshjVrNZxDUd2GmOYV0Aj-D8bRUS_U5V/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2021-07-11
 tags: ["podcast"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

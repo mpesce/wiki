@@ -5,7 +5,7 @@ title: Business on the Edge 21Apr21.mp4
 drive_id: 1mgYmoXAoA6gWcZgqiW87HuP8Xm2-5iod
 source_link: https://drive.google.com/file/d/1mgYmoXAoA6gWcZgqiW87HuP8Xm2-5iod/view?usp=drivesdk
 type: keynote
-date: 2035
+date: 2021-04-21
 tags: ["apple", "innovation", "mark-pesce", "mozilla", "podcast", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

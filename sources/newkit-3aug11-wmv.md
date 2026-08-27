@@ -5,7 +5,7 @@ title: NewKit-3Aug11.wmv
 drive_id: 16eNiHE6IueVLEzqCuDUuNHFThtyVGXfw
 source_link: https://drive.google.com/file/d/16eNiHE6IueVLEzqCuDUuNHFThtyVGXfw/view?usp=drivesdk
 type: workshop
-date: 2011
+date: 2011-08-03
 tags: ["connectivity", "mark-pesce", "networks", "social-media", "social-networks"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

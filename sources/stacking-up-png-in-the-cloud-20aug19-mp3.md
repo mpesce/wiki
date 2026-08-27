@@ -5,7 +5,7 @@ title: Stacking Up PNG in the Cloud 20Aug19.mp3
 drive_id: 12hvyudNKtkwwi5o_Q6a83L9YFphyXjI4
 source_link: https://drive.google.com/file/d/12hvyudNKtkwwi5o_Q6a83L9YFphyXjI4/view?usp=drivesdk
 type: news
-date: 2019
+date: 2019-08-20
 tags: ["the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

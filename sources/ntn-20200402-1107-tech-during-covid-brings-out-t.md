@@ -5,7 +5,7 @@ title: ntn-20200402-1107-tech_during_covid_brings_out_the_bad_the_ugly_and_the_g
 drive_id: 1qzVpfSJejL7b4NxLwG9bWTBApDXhRDdK
 source_link: https://drive.google.com/file/d/1qzVpfSJejL7b4NxLwG9bWTBApDXhRDdK/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2020-04-02
 tags: ["broadcast", "facebook", "networks", "open-source", "remote-work", "surveillance"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

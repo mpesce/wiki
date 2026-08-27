@@ -5,7 +5,7 @@ title: 7_30Report_3DTV_3Jun10.m4v
 drive_id: 1sJPMzqJDzHt_Zqmmb5hrMuEGy-jDl-zU
 source_link: https://drive.google.com/file/d/1sJPMzqJDzHt_Zqmmb5hrMuEGy-jDl-zU/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2010-06-03
 tags: ["3d", "broadcast", "stanford", "virtual-reality"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

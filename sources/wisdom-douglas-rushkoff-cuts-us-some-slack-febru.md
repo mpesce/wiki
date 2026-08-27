@@ -5,7 +5,7 @@ title: Wisdom -- Douglas Rushkoff Cuts Us Some Slack February 2021 1080p.mp4
 drive_id: 1zHICJjIz3lZNLuNbN_QhgMi_osdap1Sa
 source_link: https://drive.google.com/file/d/1zHICJjIz3lZNLuNbN_QhgMi_osdap1Sa/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2021-02
 tags: ["douglas-rushkoff", "mark-pesce", "open-source"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

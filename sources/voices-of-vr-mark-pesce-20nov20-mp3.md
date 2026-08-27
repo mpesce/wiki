@@ -5,7 +5,7 @@ title: Voices of VR Mark Pesce 20Nov20.mp3
 drive_id: 1RQkGk4IPookWf5ect32ibqLjAXf76Z95
 source_link: https://drive.google.com/file/d/1RQkGk4IPookWf5ect32ibqLjAXf76Z95/view?usp=drivesdk
 type: interview
-date: 1968
+date: 2020-11-20
 tags: ["apple", "ar", "facebook", "mark-pesce", "microsoft", "mozilla", "networks", "surveillance"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

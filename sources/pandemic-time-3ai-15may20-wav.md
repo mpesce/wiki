@@ -5,7 +5,7 @@ title: Pandemic Time 3Ai 15May20.wav
 drive_id: 13PsJWeULeZkvP9GngApzHd1T870-e8r2
 source_link: https://drive.google.com/file/d/13PsJWeULeZkvP9GngApzHd1T870-e8r2/view?usp=drivesdk
 type: workshop
-date: 2020
+date: 2020-05-15
 tags: ["apple", "mark-pesce", "the-future", "wired"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

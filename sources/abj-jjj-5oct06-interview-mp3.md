@@ -5,7 +5,7 @@ title: ABJ-JJJ-5Oct06-Interview.mp3
 drive_id: 195KXmrXdxwas-83n1kghQpEop0BACBrN
 source_link: https://drive.google.com/file/d/195KXmrXdxwas-83n1kghQpEop0BACBrN/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2006-10-05
 tags: ["apple", "broadcast", "mark-pesce", "open-source", "peer-to-peer", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

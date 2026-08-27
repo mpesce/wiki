@@ -5,7 +5,7 @@ title: Drilling Down EGA 2022 1080p.mp4
 drive_id: 1qRsRePPmn58qlFDUuCXK9thAt7F6lkfz
 source_link: https://drive.google.com/file/d/1qRsRePPmn58qlFDUuCXK9thAt7F6lkfz/view?usp=drivesdk
 type: interview
-date: 2020
+date: 2022
 tags: ["mark-pesce", "narrative"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

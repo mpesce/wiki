@@ -5,7 +5,7 @@ title: Wave of Automation 2Aug19.mov
 drive_id: 1f1HInLZwVFoVhY59C0hidieyrSe4ve-e
 source_link: https://drive.google.com/file/d/1f1HInLZwVFoVhY59C0hidieyrSe4ve-e/view?usp=drivesdk
 type: news
-date: 2019
+date: 2019-08-02
 tags: ["education", "mark-pesce", "narrative", "the-future"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

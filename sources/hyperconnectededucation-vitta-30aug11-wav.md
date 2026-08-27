@@ -5,7 +5,7 @@ title: HyperconnectedEducation-VITTA-30Aug11.wav
 drive_id: 1wS3rZ33ugMK_H89IVY5pBx_8SEV86Ce1
 source_link: https://drive.google.com/file/d/1wS3rZ33ugMK_H89IVY5pBx_8SEV86Ce1/view?usp=drivesdk
 type: workshop
-date: 2011
+date: 2011-08-30
 tags: ["collaboration", "communication", "connectivity", "education", "mark-pesce", "peer-to-peer", "surveillance"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z

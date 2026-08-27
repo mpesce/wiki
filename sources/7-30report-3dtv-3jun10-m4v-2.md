@@ -5,7 +5,7 @@ title: 7_30Report_3DTV_3Jun10.m4v
 drive_id: 1uS81FZj9XFAKJYG7X1adtwedfzOv_NWX
 source_link: https://drive.google.com/file/d/1uS81FZj9XFAKJYG7X1adtwedfzOv_NWX/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2010-06-03
 tags: ["3d", "broadcast", "mark-pesce", "stanford", "virtual-reality", "vr"]
 created: 2026-08-26T13:13:22Z
 last_updated: 2026-08-26T13:13:22Z
