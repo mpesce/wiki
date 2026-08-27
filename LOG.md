@@ -24,3 +24,7 @@ Grep for the last five actions with: `grep '^## [' LOG.md | tail -5`
 ## [2026-08-27] query | batch 1 dispatched: 10 query pages + 4 top-entity syntheses in flight
 ## [2026-08-27] update | dates normalized: 176 re-dated from filenames, 48 implausible reset (tools/normalize_dates.py, window 1988-2026)
 ## [2026-08-27] query | 10 query pages seeded in queries/ (VR evolution, social media & democracy, hyperdistribution, AI, education, broadcasting, attention economy, trust, ABC, future of work)
+## [2026-08-27] rebuild | vocabulary expansion: 34->61 entities (17 people, 25 orgs, 19 tech); ASR variants + label matching in extract()
+## [2026-08-27] synthesis | 16 entity/concept pages now carry cited TL;DR/Overview prose (preserved through full rebuild)
+## [2026-08-27] lint | run | 0 broken links, 0 orphans, 0 missing cross-refs (report-2026-08-27.md)
+## [2026-08-27] update | overview.md + README.md refreshed with post-rebuild counts (refresh_docs.py)
