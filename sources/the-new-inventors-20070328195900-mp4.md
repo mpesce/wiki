@@ -6,16 +6,23 @@ drive_id: 1zjuM81BSexMwZlbZU_UgwM0nNcgeHhPC
 source_link: https://drive.google.com/file/d/1zjuM81BSexMwZlbZU_UgwM0nNcgeHhPC/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["alignment"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["alignment", "bernie-hobbs", "richard-vaughan", "the-new-inventors", "veena-sahajwala"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/bernie-hobbs
+    - entities/richard-vaughan
+    - entities/veena-sahajwala
+    - entities/the-new-inventors
   concepts:
     - concepts/alignment
 related:
   - concepts/alignment
+  - entities/bernie-hobbs
+  - entities/richard-vaughan
+  - entities/the-new-inventors
+  - entities/veena-sahajwala
 ---
 # The New Inventors-20070328195900.mp4
 
@@ -27,7 +34,10 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/bernie-hobbs]] (Bernie Hobbs)
+- [[entities/richard-vaughan]] (Richard Vaughan)
+- [[entities/veena-sahajwala]] (Veena Sahajwala)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/alignment]] — AI alignment

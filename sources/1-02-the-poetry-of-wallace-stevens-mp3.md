@@ -6,18 +6,20 @@ drive_id: 1bnRpe2cpkTltBKrny2L3aAaqvTMS2l_-
 source_link: https://drive.google.com/file/d/1bnRpe2cpkTltBKrny2L3aAaqvTMS2l_-/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["apple", "imagination", "mozilla"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "burning-man", "imagination", "mozilla"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/apple
     - entities/mozilla
+    - entities/burning-man
   concepts:
     - concepts/imagination
 related:
   - concepts/imagination
   - entities/apple
+  - entities/burning-man
   - entities/mozilla
 ---
 # 1-02 The Poetry of Wallace Stevens.mp3
@@ -32,6 +34,7 @@ This recording is a lecture from the third session of a course titled American V
 ## Named Entities
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
+- [[entities/burning-man]] (Burning Man)
 
 ## Related Concepts
 - [[concepts/imagination]] — Imagination

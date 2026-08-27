@@ -6,14 +6,15 @@ drive_id: 1k4v4bwTQ3S1NJjIZ7xnEbZ3M7DszdYS9
 source_link: https://drive.google.com/file/d/1k4v4bwTQ3S1NJjIZ7xnEbZ3M7DszdYS9/view?usp=drivesdk
 type: keynote
 date: 1995
-tags: ["communication", "identity", "mark-pesce", "microsoft", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["communication", "identity", "mark-pesce", "microsoft", "vrml", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/microsoft
     - entities/vrml
+    - entities/world-wide-web
   concepts:
     - concepts/identity
     - concepts/communication
@@ -23,6 +24,7 @@ related:
   - entities/mark-pesce
   - entities/microsoft
   - entities/vrml
+  - entities/world-wide-web
 ---
 # avatars96-keynotes-pesce-parisi_512kb.mp4
 
@@ -37,6 +39,7 @@ This recording is a keynote address delivered at the Contact Consortium, featuri
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/microsoft]] (Microsoft)
 - [[entities/vrml]] (VRML)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/identity]] — Identity

@@ -5,7 +5,7 @@ title: Remote work
 tags: ["concept"]
 source_count: 17
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---
@@ -19,6 +19,8 @@ related:
 <Synthesize how Remote work is treated across the corpus. Themes, debates, evolution.>
 
 ## Key Points
+- [[sources/smartsheet-reimagining-the-future-of-work-mp4]] — Smartsheet - Reimagining the Future of Work.mp4
+- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]] — Smartsheet - Reimagining the Future of Work HEVC.mp4
 - [[sources/common-factor-1-future-of-work-clean-mp4]] — Common Factor 1_Future of Work_CLEAN.mp4
 - [[sources/ntn-20200402-1107-tech-during-covid-brings-out-t]] — ntn-20200402-1107-tech_during_covid_brings_out_the_bad_the_ugly_and_the_good-128.mp3
 - [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]] — Horizons and Trajectories 4Jun20 YouTube 720p.mp4
@@ -34,8 +36,6 @@ related:
 - [[sources/rto-and-brittle-leadership-mp4]] — RTO and Brittle Leadership.mp4
 - [[sources/ptaanz2-mp3-2]] — PTAANZ2.mp3
 - [[sources/ptaanz2-wav]] — PTAANZ2.wav
-- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]] — Smartsheet - Reimagining the Future of Work HEVC.mp4
-- [[sources/smartsheet-reimagining-the-future-of-work-mp4]] — Smartsheet - Reimagining the Future of Work.mp4
 
 ## Debates / Open Questions
 
@@ -43,6 +43,8 @@ related:
 
 ## Sources
 
+- [[sources/smartsheet-reimagining-the-future-of-work-mp4]]
+- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]]
 - [[sources/common-factor-1-future-of-work-clean-mp4]]
 - [[sources/ntn-20200402-1107-tech-during-covid-brings-out-t]]
 - [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]]
@@ -58,5 +60,3 @@ related:
 - [[sources/rto-and-brittle-leadership-mp4]]
 - [[sources/ptaanz2-mp3-2]]
 - [[sources/ptaanz2-wav]]
-- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]]
-- [[sources/smartsheet-reimagining-the-future-of-work-mp4]]

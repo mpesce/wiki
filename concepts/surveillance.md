@@ -5,7 +5,7 @@ title: Surveillance
 tags: ["concept"]
 source_count: 36
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---
@@ -26,6 +26,7 @@ related:
 - [[sources/hyperconnectededucation-vitta-30aug11-wav]] — HyperconnectedEducation-VITTA-30Aug11.wav
 - [[sources/embiggen-17aug12-mp4]] — Embiggen-17Aug12.mp4
 - [[sources/ega-mkv]] — EGA.mkv
+- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] — Mark Pesce - Digital Depth in Augmented Reality.mp4
 - [[sources/saatchi-wav-2]] — Saatchi.wav
 - [[sources/slv-wav]] — SLV.wav
 - [[sources/ega-wav]] — EGA.wav
@@ -53,7 +54,6 @@ related:
 - [[sources/000000001b4e4d1f-iphone-m4v]] — 000000001b4e4d1f.iPhone.m4v
 - [[sources/000000001ab15980-mpg]] — 000000001ab15980.mpg
 - [[sources/0000000019779ddf-mpg]] — 0000000019779ddf.mpg
-- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] — Mark Pesce - Digital Depth in Augmented Reality.mp4
 - [[sources/00000000154d4fa8-mpg]] — 00000000154d4fa8.mpg
 
 ## Debates / Open Questions
@@ -69,6 +69,7 @@ related:
 - [[sources/hyperconnectededucation-vitta-30aug11-wav]]
 - [[sources/embiggen-17aug12-mp4]]
 - [[sources/ega-mkv]]
+- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]]
 - [[sources/saatchi-wav-2]]
 - [[sources/slv-wav]]
 - [[sources/ega-wav]]
@@ -96,5 +97,4 @@ related:
 - [[sources/000000001b4e4d1f-iphone-m4v]]
 - [[sources/000000001ab15980-mpg]]
 - [[sources/0000000019779ddf-mpg]]
-- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]]
 - [[sources/00000000154d4fa8-mpg]]

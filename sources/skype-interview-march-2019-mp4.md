@@ -6,9 +6,9 @@ drive_id: 1uxGkJ9OUyzM4Wdar7BNzrR0upQzS_Xpj
 source_link: https://drive.google.com/file/d/1uxGkJ9OUyzM4Wdar7BNzrR0upQzS_Xpj/view?usp=drivesdk
 type: interview
 date: 2019-03
-tags: ["ar", "facebook", "mark-pesce", "virtual-reality", "vr", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["ar", "facebook", "mark-pesce", "pokemon-go", "virtual-reality", "vr", "vrml"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,6 +16,7 @@ mentions:
     - entities/vrml
     - entities/vr
     - entities/ar
+    - entities/pokemon-go
   concepts:
     - concepts/virtual-reality
 related:
@@ -23,6 +24,7 @@ related:
   - entities/ar
   - entities/facebook
   - entities/mark-pesce
+  - entities/pokemon-go
   - entities/vr
   - entities/vrml
 ---
@@ -41,6 +43,7 @@ This recording is an interview conducted for a documentary on the history of vir
 - [[entities/vrml]] (VRML)
 - [[entities/vr]] (VR)
 - [[entities/ar]] (AR)
+- [[entities/pokemon-go]] (Pokemon Go)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

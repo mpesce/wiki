@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/15EAlCx-G_1iWApx3Fb8Wq46kpl73iY4z/v
 type: interview
 date: unknown
 tags: ["alignment", "apple", "artificial-intelligence", "broadcast", "mark-pesce", "mozilla"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

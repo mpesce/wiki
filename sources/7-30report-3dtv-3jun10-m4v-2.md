@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1uS81FZj9XFAKJYG7X1adtwedfzOv_NWX/v
 type: interview
 date: 2010-06-03
 tags: ["3d", "broadcast", "mark-pesce", "stanford", "virtual-reality", "vr"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

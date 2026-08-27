@@ -6,12 +6,13 @@ drive_id: 16uio4rlh7pLK3xAMao8A3IVygufvTh5c
 source_link: https://drive.google.com/file/d/16uio4rlh7pLK3xAMao8A3IVygufvTh5c/view?usp=drivesdk
 type: podcast
 date: 2020
-tags: ["mark-pesce", "podcast", "the-future", "the-future-of-work"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["mark-pesce", "podcast", "the-future", "the-future-of-work", "the-next-billion-seconds"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/the-next-billion-seconds
   concepts:
     - concepts/the-future
     - concepts/podcast
@@ -21,6 +22,7 @@ related:
   - concepts/the-future
   - concepts/the-future-of-work
   - entities/mark-pesce
+  - entities/the-next-billion-seconds
 ---
 # GIO-PC1_MARK_PESCE-VIDEO_02-FINAL-4x5.mp4
 
@@ -33,6 +35,7 @@ This recording is a promotional teaser for a podcast series titled The Next Bill
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

@@ -5,7 +5,7 @@ title: Artificial intelligence
 tags: ["concept"]
 source_count: 54
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---
@@ -13,14 +13,21 @@ related:
 # Artificial intelligence
 
 ## TL;DR
-<54 sources engage with Artificial intelligence. Synthesize the concept.>
+
+Across 54 recordings, Mark Pesce treats artificial intelligence as a technology of learning-from-mistakes rather than magic — powerful in narrow domains, dangerous without human judgment, and, in the ChatGPT era, an economic force repricing cognitive work itself.
 
 ## Overview
-<Synthesize how Artificial intelligence is treated across the corpus. Themes, debates, evolution.>
+
+Pesce's engagement with AI spans three decades, but his explanations stay remarkably consistent: these systems learn by repetition and error-correction, not magic — a demystification he illustrates with AlphaGo's defeat of the Go world champion, contrasting machine versatility-in-one-domain with human range across many ([[sources/sca-wav]], [[sources/saatchi-wav]]). He repeatedly stresses that AI lacks context: it can be used to target vulnerable teenagers with advertising ([[sources/ega-wav]]) or propose lethal driving routes, so humans must stay "in the loop" as co-pilots ([[sources/sca-wav]]).
+
+A second strand is critique of the platform AI layer. Pesce describes Facebook's news-feed algorithms as a "global cognitive bias amplifier" that profiles users to maximize engagement and confirms existing beliefs ([[sources/slv-wav]], [[sources/ega-wav]]), and reads The Social Dilemma as confirmation that engagement-optimizing AI builds addictive, personalized feedback loops ([[sources/weekdays-28sep20-the-social-dilemma-mp3]]). On trust, he warns that Google's hold on Ascension's medical records shows AI firms accumulating data without proportionate benefit ([[sources/ntn-20191114-1105-should-we-really-trust-big-tec]]), and argues that AI models that exclude outliers produce biased outcomes in hiring, lending and navigation ([[sources/fte-20171105-mp3]]).
+
+The ChatGPT-era recordings shift from explanation to economics and safety. Pesce dates the "watershed" to ChatGPT's release in late 2022, with the deeper shift coming when AI agents could run autonomously for hours without error — moving humans from in the loop to "on the loop" and repricing cognitive labor ([[sources/thefuturists-thewatershed-mkv]], [[sources/a4-repricing-cognition-mp4]]). He coins "relative superintelligence" for domain-specific capability that exceeds nearly all humans while dismissing absolute superintelligence as a furphy ([[sources/f8-relative-superintelligence-mp4]]), and argues the industry must move from hype to governance: observability, formal verification of outputs, and robust harnesses — because a constrained super-intelligent system can end up manipulating its user ([[sources/kate-podcast-mkv]], [[sources/d3a-formal-methods-question-mp4]], [[sources/f13-the-agent-is-using-you-mp4]]). Yet his consistent counterweight is human versatility: machines excel at routine tasks while people handle exceptions and mentor ([[sources/loreto-toorak-15aug18-mp3]]), a claim he has maintained from the AlphaGo era through to agentic AI ([[sources/unknown-knowns-31oct19-mp3]]).
 
 ## Key Points
 - [[sources/sca-wav]] — SCA.wav
 - [[sources/technospirit-mkv]] — technospirit.mkv
+- [[sources/uq-wav]] — UQ.wav
 - [[sources/000000001a6cad43-mpg]] — 000000001a6cad43.mpg
 - [[sources/3-05-the-future-of-all-mp3]] — 3-05 The Future of All.mp3
 - [[sources/cfo-wav]] — CFO.wav
@@ -65,7 +72,6 @@ related:
 - [[sources/thefuturists-mp4]] — TheFuturists.mp4
 - [[sources/thefuturists-mp4-2]] — TheFuturists.mp4
 - [[sources/saatchi-wav]] — Saatchi.wav
-- [[sources/uq-wav]] — UQ.wav
 - [[sources/supertools-mkv]] — supertools.mkv
 - [[sources/citi-wav]] — Citi.wav
 - [[sources/wpc-wav]] — WPC.wav
@@ -82,6 +88,7 @@ related:
 
 - [[sources/sca-wav]]
 - [[sources/technospirit-mkv]]
+- [[sources/uq-wav]]
 - [[sources/000000001a6cad43-mpg]]
 - [[sources/3-05-the-future-of-all-mp3]]
 - [[sources/cfo-wav]]
@@ -126,7 +133,6 @@ related:
 - [[sources/thefuturists-mp4]]
 - [[sources/thefuturists-mp4-2]]
 - [[sources/saatchi-wav]]
-- [[sources/uq-wav]]
 - [[sources/supertools-mkv]]
 - [[sources/citi-wav]]
 - [[sources/wpc-wav]]

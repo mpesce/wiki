@@ -6,16 +6,18 @@ drive_id: 1p0V_Bn8Vo9rAxgX8M1pwepeWWv9fk_Wt
 source_link: https://drive.google.com/file/d/1p0V_Bn8Vo9rAxgX8M1pwepeWWv9fk_Wt/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["abc", "ar", "artificial-intelligence", "blockchain", "connectivity", "google", "mark-pesce", "networks", "peer-to-peer", "social-media", "social-networks", "startups"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "ar", "artificial-intelligence", "blockchain", "connectivity", "google", "mark-pesce", "networks", "peer-to-peer", "pokemon-go", "social-media", "social-networks"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
     - entities/abc
+    - entities/the-new-inventors
     - entities/ar
     - entities/blockchain
+    - entities/pokemon-go
   concepts:
     - concepts/the-future
     - concepts/social-media
@@ -39,6 +41,8 @@ related:
   - entities/blockchain
   - entities/google
   - entities/mark-pesce
+  - entities/pokemon-go
+  - entities/the-new-inventors
 ---
 # Recording 2.m4a
 
@@ -53,8 +57,10 @@ This recording is a presentation and Q&A session delivered by Mark Pesce to the 
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
 - [[entities/abc]] (ABC)
+- [[entities/the-new-inventors]] (The New Inventors)
 - [[entities/ar]] (AR)
 - [[entities/blockchain]] (blockchain)
+- [[entities/pokemon-go]] (Pokemon Go)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

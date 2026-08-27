@@ -6,18 +6,20 @@ drive_id: 1GIJBztqNTyIRDgDCeYhyN5GDD01BY5u4
 source_link: https://drive.google.com/file/d/1GIJBztqNTyIRDgDCeYhyN5GDD01BY5u4/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["mark-pesce", "participation", "trust"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["burning-man", "mark-pesce", "participation", "trust"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/burning-man
   concepts:
     - concepts/trust
     - concepts/participation
 related:
   - concepts/participation
   - concepts/trust
+  - entities/burning-man
   - entities/mark-pesce
 ---
 # 2-01 The Future of Contemporary Art.mp3
@@ -31,6 +33,7 @@ This recording is a talk by Mark Pesce, delivered as part of a program that also
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/burning-man]] (Burning Man)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust

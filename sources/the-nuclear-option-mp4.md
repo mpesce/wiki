@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/10Gvd1YCjNQou0hisC2IbMKLT5nKaYQ1w/v
 type: news
 date: unknown
 tags: ["google", "mark-pesce", "networks", "social-media", "social-networks", "trust", "twitter"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

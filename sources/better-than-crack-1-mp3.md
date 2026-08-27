@@ -5,18 +5,20 @@ title: Better-Than-Crack (1).mp3
 drive_id: 1WYNIHI0mM0rfADjJXCj6YajxXnhRIqkO
 source_link: https://drive.google.com/file/d/1WYNIHI0mM0rfADjJXCj6YajxXnhRIqkO/view?usp=drivesdk
 type: interview
-date: unknown
-tags: ["connectivity", "mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+date: 1993
+tags: ["connectivity", "mark-pesce", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/world-wide-web
   concepts:
     - concepts/connectivity
 related:
   - concepts/connectivity
   - entities/mark-pesce
+  - entities/world-wide-web
 ---
 # Better-Than-Crack (1).mp3
 
@@ -29,6 +31,7 @@ This recording is a lecture by Mark Pesce, an honorary associate with the Digita
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/connectivity]] — Connectivity

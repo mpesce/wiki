@@ -6,16 +6,18 @@ drive_id: 1H0BKv9wunj155uEEcY9dIWG0dKEnOsIq
 source_link: https://drive.google.com/file/d/1H0BKv9wunj155uEEcY9dIWG0dKEnOsIq/view?usp=drivesdk
 type: podcast
 date: 2018-05-17
-tags: ["3d", "broadcast", "collaboration", "mark-pesce", "microsoft", "virtual-reality", "vr", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["3d", "broadcast", "collaboration", "ivan-sutherland", "mark-pesce", "microsoft", "virtual-reality", "vr", "vrml", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/ivan-sutherland
     - entities/microsoft
     - entities/vrml
     - entities/3d
     - entities/vr
+    - entities/world-wide-web
   concepts:
     - concepts/virtual-reality
     - concepts/broadcast
@@ -25,10 +27,12 @@ related:
   - concepts/collaboration
   - concepts/virtual-reality
   - entities/3d
+  - entities/ivan-sutherland
   - entities/mark-pesce
   - entities/microsoft
   - entities/vr
   - entities/vrml
+  - entities/world-wide-web
 ---
 # TheRoadAhead_17May18.mp3
 
@@ -41,10 +45,12 @@ This recording is a lecture delivered by Mark Pesce, an honorary adjunct in a me
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/ivan-sutherland]] (Ivan Sutherland)
 - [[entities/microsoft]] (Microsoft)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
 - [[entities/vr]] (VR)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

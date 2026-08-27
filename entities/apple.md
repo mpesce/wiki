@@ -5,7 +5,7 @@ title: Apple
 tags: ["organization"]
 source_count: 76
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---
@@ -13,9 +13,11 @@ related:
 # Apple
 
 ## TL;DR
+
 Apple is the corpus's recurring touchstone: the former employer whose credential anchors Pesce's authority, the platform whose launches (iPod, iPhone, iPad, App Store) he narrated as they happened, the walled garden he criticizes, and — for three decades running — the presumed maker of the next interface, most recently AR glasses.
 
 ## Overview
+
 Pesce's Apple credential does steady work across the corpus: from the 2000s onward his standard introduction is "former Apple and Mozilla engineer" ([[sources/friday-mp3]], [[sources/hypereconomics-flv]]). The recordings never dwell on what he did there; the phrase functions as a credibility marker borrowed from inside the company whose platform decisions he most often critiques.
 
 Apple first appears as launch-cycle news. On Triple J's Hack program in October 2006, mid-piracy debate, he flagged Apple's upcoming "iTV" initiative to connect computers and televisions ([[sources/abj-jjj-5oct06-interview-mp3]]). The 2010 ebook moment drew sustained attention: a 7.30 Report segment framed the imminent iPad launch against Amazon's Kindle and publisher price resistance ([[sources/7-30report-ebooks-18mar10-mp4-m4v]]), and a January 2010 Saturday Extra appearance walked through the App Store economy — roughly 140,000 apps, long-tail livelihoods for one- and two-person developers, and Apple's "closed ecosystem with strict approval processes" set against Android's openness ([[sources/sea-20100130-0730-mp3]]). His Webstock keynote made the iPad historically load-bearing: together with the digitization of books, it forms the closing bookend of the web's "golden age" of universal culture ([[sources/dense-and-thick-mp4]]), while the iPod appears in "Welcome to the Swarm" as the device that privatized media consumption into the personal ([[sources/hyperpeople-mp4]]).
@@ -25,6 +27,7 @@ The critique thread is consistent but fair-minded. Advising radio listeners in 2
 In the later corpus Apple becomes the assumed manufacturer of the next interface. His AR talks from 2018-2019 promised consumer AR spectacles from Apple "about two years out," ahead of Google and Facebook ([[sources/supertools-aut-9may19-mp3]], [[sources/accanet-12sep18-mp3]]), and his 2020 book tour on augmented reality framed Apple's platform history as the runway AR now walks ([[sources/voices-of-vr-mark-pesce-20nov20-mp3]]). In the agentic-AI era the walled-garden worry generalizes into a law about constrained systems: his warning that a super-intelligent agent inside a weaker harness will end up "using" its user ([[sources/f13-the-agent-is-using-you-mp4]]) extends the Apple thread from product criticism to a principle about intelligence and control.
 
 ## Key Facts
+- [[sources/ala-wav]] — ALA.wav
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]] — VR Creative Cluster Mark Pesce 9 Aug video1.MP4
 - [[sources/dense-and-thick-mp4]] — dense-and-thick.mp4
 - [[sources/dense-and-thick-mp4-2]] — dense-and-thick.mp4
@@ -53,6 +56,7 @@ In the later corpus Apple becomes the assumed manufacturer of the next interface
 - [[sources/lms-20170505-0906-families-privacy-mp3]] — lms_20170505_0906 families privacy.mp3
 - [[sources/accanet-12sep18-mp3]] — ACCANet 12Sep18.mp3
 - [[sources/asx-new-money-hvec-480p-mp4]] — ASX New Money HVEC 480p.mp4
+- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]] — Smartsheet - Reimagining the Future of Work HEVC.mp4
 - [[sources/supertools-aut-9may19-mp3]] — Supertools AUT 9May19.mp3
 - [[sources/new-money-asx-illuminate-10oct19-mp3]] — NEW MONEY ASX Illuminate 10Oct19.mp3
 - [[sources/unknown-knowns-31oct19-mp3]] — Unknown Knowns 31Oct19.mp3
@@ -88,7 +92,6 @@ In the later corpus Apple becomes the assumed manufacturer of the next interface
 - [[sources/whenimsixtyfour-part3-mov]] — WhenImSixtyFour-part3.mov
 - [[sources/friday-mp3]] — Friday.mp3
 - [[sources/today-tonight-20080320183000-mp4]] — Today Tonight-20080320183000.mp4
-- [[sources/ala-wav]] — ALA.wav
 - [[sources/a-digital-reformation-wav]] — A Digital Reformation.wav
 - [[sources/felix-wav]] — Felix.wav
 - [[sources/fintech-futures-wav]] — Fintech Futures.wav
@@ -99,7 +102,6 @@ In the later corpus Apple becomes the assumed manufacturer of the next interface
 - [[sources/saatchi-wav]] — Saatchi.wav
 - [[sources/aija-wav]] — AIJA.wav
 - [[sources/supertools-anu-mp4]] — Supertools-ANU.mp4
-- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]] — Smartsheet - Reimagining the Future of Work HEVC.mp4
 - [[sources/000000001ab15980-mpg]] — 000000001ab15980.mpg
 
 ## In the Corpus
@@ -116,6 +118,7 @@ In the later corpus Apple becomes the assumed manufacturer of the next interface
 
 ## Sources
 
+- [[sources/ala-wav]]
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]]
 - [[sources/dense-and-thick-mp4]]
 - [[sources/dense-and-thick-mp4-2]]
@@ -144,6 +147,7 @@ In the later corpus Apple becomes the assumed manufacturer of the next interface
 - [[sources/lms-20170505-0906-families-privacy-mp3]]
 - [[sources/accanet-12sep18-mp3]]
 - [[sources/asx-new-money-hvec-480p-mp4]]
+- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]]
 - [[sources/supertools-aut-9may19-mp3]]
 - [[sources/new-money-asx-illuminate-10oct19-mp3]]
 - [[sources/unknown-knowns-31oct19-mp3]]
@@ -179,7 +183,6 @@ In the later corpus Apple becomes the assumed manufacturer of the next interface
 - [[sources/whenimsixtyfour-part3-mov]]
 - [[sources/friday-mp3]]
 - [[sources/today-tonight-20080320183000-mp4]]
-- [[sources/ala-wav]]
 - [[sources/a-digital-reformation-wav]]
 - [[sources/felix-wav]]
 - [[sources/fintech-futures-wav]]
@@ -190,5 +193,4 @@ In the later corpus Apple becomes the assumed manufacturer of the next interface
 - [[sources/saatchi-wav]]
 - [[sources/aija-wav]]
 - [[sources/supertools-anu-mp4]]
-- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]]
 - [[sources/000000001ab15980-mpg]]

@@ -6,11 +6,12 @@ drive_id: 1qzVpfSJejL7b4NxLwG9bWTBApDXhRDdK
 source_link: https://drive.google.com/file/d/1qzVpfSJejL7b4NxLwG9bWTBApDXhRDdK/view?usp=drivesdk
 type: interview
 date: 2020-04-02
-tags: ["broadcast", "facebook", "networks", "open-source", "remote-work", "surveillance"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["broadcast", "facebook", "mark-pesce", "networks", "open-source", "remote-work", "surveillance"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/mark-pesce
     - entities/facebook
   concepts:
     - concepts/surveillance
@@ -25,6 +26,7 @@ related:
   - concepts/remote-work
   - concepts/surveillance
   - entities/facebook
+  - entities/mark-pesce
 ---
 # ntn-20200402-1107-tech_during_covid_brings_out_the_bad_the_ugly_and_the_good-128.mp3
 
@@ -36,6 +38,7 @@ This recording is a news broadcast interview featuring tech correspondent Mark P
 - See summary above.
 
 ## Named Entities
+- [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
 
 ## Related Concepts

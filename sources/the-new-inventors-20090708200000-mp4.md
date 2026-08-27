@@ -6,17 +6,25 @@ drive_id: 1PodQHYcE2sP7KR1EtzOpQG3rNcKIF5Np
 source_link: https://drive.google.com/file/d/1PodQHYcE2sP7KR1EtzOpQG3rNcKIF5Np/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["broadcast", "mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["broadcast", "james-ologhlin", "mark-pesce", "richard-vaughan", "sally-deminks", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/james-ologhlin
+    - entities/sally-deminks
+    - entities/richard-vaughan
+    - entities/the-new-inventors
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
+  - entities/james-ologhlin
   - entities/mark-pesce
+  - entities/richard-vaughan
+  - entities/sally-deminks
+  - entities/the-new-inventors
 ---
 # The New Inventors-20090708200000.mp4
 
@@ -29,6 +37,10 @@ This recording is a transcript from an episode of the Australian television prog
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/sally-deminks]] (Sally Deminks)
+- [[entities/richard-vaughan]] (Richard Vaughan)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

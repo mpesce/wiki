@@ -5,17 +5,18 @@ title: Canterbury INSPIRE19.mp3
 drive_id: 1TmHgLSqkQj52CBe_GMVnRzNSH0bm5Xyq
 source_link: https://drive.google.com/file/d/1TmHgLSqkQj52CBe_GMVnRzNSH0bm5Xyq/view?usp=drivesdk
 type: podcast
-date: unknown
-tags: ["the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+date: 2014
+tags: ["the-future", "the-next-billion-seconds"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/the-next-billion-seconds
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
+  - entities/the-next-billion-seconds
 ---
 # Canterbury INSPIRE19.mp3
 
@@ -27,7 +28,7 @@ Talk at INSPIRE (Canterbury, NZ). He notes his voice may be familiar from appear
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

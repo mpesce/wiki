@@ -6,22 +6,26 @@ drive_id: 1CAQlKki3ULnSEdJuLe3-9d_gddMt1_aD
 source_link: https://drive.google.com/file/d/1CAQlKki3ULnSEdJuLe3-9d_gddMt1_aD/view?usp=drivesdk
 type: interview
 date: 2020-11-20
-tags: ["ar", "facebook", "mark-pesce", "surveillance", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["ar", "facebook", "ivan-sutherland", "mark-pesce", "pokemon-go", "surveillance", "vrml"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/ivan-sutherland
     - entities/facebook
     - entities/vrml
     - entities/ar
+    - entities/pokemon-go
   concepts:
     - concepts/surveillance
 related:
   - concepts/surveillance
   - entities/ar
   - entities/facebook
+  - entities/ivan-sutherland
   - entities/mark-pesce
+  - entities/pokemon-go
   - entities/vrml
 ---
 # Mark Pesce 20Nov20.wav
@@ -35,9 +39,11 @@ This recording is an interview with Mark Pesce, author of the recently released 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/ivan-sutherland]] (Ivan Sutherland)
 - [[entities/facebook]] (Facebook)
 - [[entities/vrml]] (VRML)
 - [[entities/ar]] (AR)
+- [[entities/pokemon-go]] (Pokemon Go)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

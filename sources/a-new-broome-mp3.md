@@ -6,15 +6,16 @@ drive_id: 1kIP1msrwANVoBIRJAYTwqBK1W0xNo1ej
 source_link: https://drive.google.com/file/d/1kIP1msrwANVoBIRJAYTwqBK1W0xNo1ej/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["apple", "ar", "artificial-intelligence", "google", "innovation", "mark-pesce", "startups"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "ar", "artificial-intelligence", "google", "innovation", "mark-pesce", "pokemon-go", "startups"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/google
     - entities/ar
+    - entities/pokemon-go
   concepts:
     - concepts/artificial-intelligence
     - concepts/innovation
@@ -27,6 +28,7 @@ related:
   - entities/ar
   - entities/google
   - entities/mark-pesce
+  - entities/pokemon-go
 ---
 # A New Broome.mp3
 
@@ -42,6 +44,7 @@ This recording is a keynote talk titled "The New Broom," delivered by Mark Pesce
 - [[entities/apple]] (Apple)
 - [[entities/google]] (Google)
 - [[entities/ar]] (AR)
+- [[entities/pokemon-go]] (Pokemon Go)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

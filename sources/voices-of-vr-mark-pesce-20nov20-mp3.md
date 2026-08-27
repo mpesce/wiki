@@ -6,17 +6,19 @@ drive_id: 1RQkGk4IPookWf5ect32ibqLjAXf76Z95
 source_link: https://drive.google.com/file/d/1RQkGk4IPookWf5ect32ibqLjAXf76Z95/view?usp=drivesdk
 type: interview
 date: 2020-11-20
-tags: ["apple", "ar", "facebook", "mark-pesce", "microsoft", "mozilla", "networks", "surveillance"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "ar", "facebook", "ivan-sutherland", "mark-pesce", "microsoft", "mozilla", "networks", "pokemon-go", "surveillance"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/ivan-sutherland
     - entities/apple
     - entities/mozilla
     - entities/microsoft
     - entities/facebook
     - entities/ar
+    - entities/pokemon-go
   concepts:
     - concepts/surveillance
     - concepts/networks
@@ -26,9 +28,11 @@ related:
   - entities/apple
   - entities/ar
   - entities/facebook
+  - entities/ivan-sutherland
   - entities/mark-pesce
   - entities/microsoft
   - entities/mozilla
+  - entities/pokemon-go
 ---
 # Voices of VR Mark Pesce 20Nov20.mp3
 
@@ -41,11 +45,13 @@ This recording is an interview featuring Mark Pesce, a media and technology comm
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/ivan-sutherland]] (Ivan Sutherland)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
 - [[entities/microsoft]] (Microsoft)
 - [[entities/facebook]] (Facebook)
 - [[entities/ar]] (AR)
+- [[entities/pokemon-go]] (Pokemon Go)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

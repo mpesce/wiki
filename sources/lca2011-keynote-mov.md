@@ -6,14 +6,16 @@ drive_id: 1bynvRgL41s83F5Xh1kPOA7mJIn6GEMCR
 source_link: https://drive.google.com/file/d/1bynvRgL41s83F5Xh1kPOA7mJIn6GEMCR/view?usp=drivesdk
 type: keynote
 date: 2011
-tags: ["facebook", "mark-pesce", "networks", "open-source", "social-networks", "virtual-reality", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["facebook", "mark-pesce", "networks", "open-source", "social-networks", "the-next-billion-seconds", "virtual-reality", "vrml", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
+    - entities/the-next-billion-seconds
     - entities/vrml
+    - entities/world-wide-web
   concepts:
     - concepts/social-networks
     - concepts/virtual-reality
@@ -26,7 +28,9 @@ related:
   - concepts/virtual-reality
   - entities/facebook
   - entities/mark-pesce
+  - entities/the-next-billion-seconds
   - entities/vrml
+  - entities/world-wide-web
 ---
 # LCA2011-Keynote.mov
 
@@ -40,7 +44,9 @@ This recording is a keynote talk delivered by Mark Pesce, a veteran software eng
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 - [[entities/vrml]] (VRML)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks

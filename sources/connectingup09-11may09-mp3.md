@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/13WoSPGkoFqj2tFhpx6CX7Nn1oKEwjbFI/v
 type: workshop
 date: 2009-05-11
 tags: ["connectivity", "mark-pesce", "networks", "social-media", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

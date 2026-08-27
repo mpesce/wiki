@@ -6,11 +6,15 @@ drive_id: 16h5tndWq5z1W5e-BGmTuTjhsYKarmEKp
 source_link: https://drive.google.com/file/d/16h5tndWq5z1W5e-BGmTuTjhsYKarmEKp/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "broadcast", "wired"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "alison-page", "broadcast", "chris-russell", "james-ologhlin", "veena-sahajwala", "wired"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/james-ologhlin
+    - entities/chris-russell
+    - entities/alison-page
+    - entities/veena-sahajwala
     - entities/abc
     - entities/wired
   concepts:
@@ -18,6 +22,10 @@ mentions:
 related:
   - concepts/broadcast
   - entities/abc
+  - entities/alison-page
+  - entities/chris-russell
+  - entities/james-ologhlin
+  - entities/veena-sahajwala
   - entities/wired
 ---
 # The New Inventors-20090304200000.mp4
@@ -30,6 +38,10 @@ This recording is an episode of the Australian television program New Inventors,
 - See summary above.
 
 ## Named Entities
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/chris-russell]] (Chris Russell)
+- [[entities/alison-page]] (Alison Page)
+- [[entities/veena-sahajwala]] (Veena Sahajwala)
 - [[entities/abc]] (ABC)
 - [[entities/wired]] (Wired)
 

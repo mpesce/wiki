@@ -6,17 +6,25 @@ drive_id: 19om3AMk_vi6ABvUy1C7xVYz1hq_qRsxQ
 source_link: https://drive.google.com/file/d/19om3AMk_vi6ABvUy1C7xVYz1hq_qRsxQ/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "broadcast"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "alison-page", "broadcast", "chris-russell", "james-ologhlin", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/james-ologhlin
+    - entities/chris-russell
+    - entities/alison-page
     - entities/abc
+    - entities/the-new-inventors
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
   - entities/abc
+  - entities/alison-page
+  - entities/chris-russell
+  - entities/james-ologhlin
+  - entities/the-new-inventors
 ---
 # The New Inventors-20070321195900.mp4
 
@@ -28,7 +36,11 @@ This recording is an episode of the Australian Broadcasting Corporation televisi
 - See summary above.
 
 ## Named Entities
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/chris-russell]] (Chris Russell)
+- [[entities/alison-page]] (Alison Page)
 - [[entities/abc]] (ABC)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

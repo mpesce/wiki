@@ -5,10 +5,10 @@ title: Mark Pesce session 2.wav
 drive_id: 1mYPNBN1saIRFQts6RI2Oq0HXU2RFR4RG
 source_link: https://drive.google.com/file/d/1mYPNBN1saIRFQts6RI2Oq0HXU2RFR4RG/view?usp=drivesdk
 type: interview
-date: unknown
+date: 1994
 tags: ["mark-pesce", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

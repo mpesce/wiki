@@ -6,12 +6,12 @@ drive_id: 15y_KH0NJ1_MZlnHj_dGA95NWlAxm9Wni
 source_link: https://drive.google.com/file/d/15y_KH0NJ1_MZlnHj_dGA95NWlAxm9Wni/view?usp=drivesdk
 type: panel
 date: 2005
-tags: ["creators", "education", "networks", "social-networks", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["creators", "education", "mark-pesce", "networks", "social-networks", "the-future"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/mark-pesce
   concepts:
     - concepts/the-future
     - concepts/social-networks
@@ -24,6 +24,7 @@ related:
   - concepts/networks
   - concepts/social-networks
   - concepts/the-future
+  - entities/mark-pesce
 ---
 # forum-just-shoot-it-part1-2005.mp3
 
@@ -35,7 +36,7 @@ This recording captures a panel discussion from the "Just Shoot It" forum, held 
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/mark-pesce]] (Mark Pesce)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

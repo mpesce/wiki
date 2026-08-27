@@ -6,13 +6,14 @@ drive_id: 18mVqrlymJ4p97elCgTgyDsYJZEhD_6Qv
 source_link: https://drive.google.com/file/d/18mVqrlymJ4p97elCgTgyDsYJZEhD_6Qv/view?usp=drivesdk
 type: keynote
 date: 2009
-tags: ["bitcoin", "connectivity", "facebook", "innovation"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["bitcoin", "connectivity", "facebook", "innovation", "libra"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/facebook
     - entities/bitcoin
+    - entities/libra
   concepts:
     - concepts/innovation
     - concepts/connectivity
@@ -21,6 +22,7 @@ related:
   - concepts/innovation
   - entities/bitcoin
   - entities/facebook
+  - entities/libra
 ---
 # ASX.wav
 
@@ -34,6 +36,7 @@ This recording is a keynote address delivered at an event hosted by the Australi
 ## Named Entities
 - [[entities/facebook]] (Facebook)
 - [[entities/bitcoin]] (Bitcoin)
+- [[entities/libra]] (Libra)
 
 ## Related Concepts
 - [[concepts/innovation]] — Innovation

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1ozmZrY7eBsFfqn0pxWFo5BfO_REwtf6z/v
 type: podcast
 date: unknown
 tags: ["collaboration", "connectivity", "education", "mark-pesce", "mit", "open-source", "stanford", "twitter"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

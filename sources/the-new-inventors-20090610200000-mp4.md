@@ -6,13 +6,16 @@ drive_id: 1vogoWHcQ5YrVyijtP8202xVYSM594B2q
 source_link: https://drive.google.com/file/d/1vogoWHcQ5YrVyijtP8202xVYSM594B2q/view?usp=drivesdk
 type: panel
 date: 2004
-tags: ["abc", "broadcast", "mark-pesce", "open-source"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "broadcast", "james-bradfield-moody", "james-ologhlin", "mark-pesce", "open-source", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/james-ologhlin
+    - entities/james-bradfield-moody
     - entities/abc
+    - entities/the-new-inventors
   concepts:
     - concepts/open-source
     - concepts/broadcast
@@ -20,7 +23,10 @@ related:
   - concepts/broadcast
   - concepts/open-source
   - entities/abc
+  - entities/james-bradfield-moody
+  - entities/james-ologhlin
   - entities/mark-pesce
+  - entities/the-new-inventors
 ---
 # The New Inventors-20090610200000.mp4
 
@@ -33,7 +39,10 @@ This recording is an episode of the Australian television program The New Invent
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/james-bradfield-moody]] (James Bradfield Moody)
 - [[entities/abc]] (ABC)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/open-source]] — Open source

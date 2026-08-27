@@ -6,18 +6,21 @@ drive_id: 10k69rKacPoqFM2TZiZ2ujpmJYNM0B43p
 source_link: https://drive.google.com/file/d/10k69rKacPoqFM2TZiZ2ujpmJYNM0B43p/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["broadcast", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["broadcast", "james-ologhlin", "the-future", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/james-ologhlin
+    - entities/the-new-inventors
   concepts:
     - concepts/the-future
     - concepts/broadcast
 related:
   - concepts/broadcast
   - concepts/the-future
+  - entities/james-ologhlin
+  - entities/the-new-inventors
 ---
 # The New Inventors-20081008200000.mp4
 
@@ -29,7 +32,8 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

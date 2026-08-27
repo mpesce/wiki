@@ -6,13 +6,14 @@ drive_id: 1-4FdZWGckAVlJmRgwtquwuZ9oT7q2GQr
 source_link: https://drive.google.com/file/d/1-4FdZWGckAVlJmRgwtquwuZ9oT7q2GQr/view?usp=drivesdk
 type: podcast
 date: 2012-02-19
-tags: ["abc", "broadcast", "mark-pesce", "social-media"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "broadcast", "mark-pesce", "radio-national", "social-media"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/abc
+    - entities/radio-national
   concepts:
     - concepts/social-media
     - concepts/broadcast
@@ -21,6 +22,7 @@ related:
   - concepts/social-media
   - entities/abc
   - entities/mark-pesce
+  - entities/radio-national
 ---
 # RN_Common_Knowledge-19Feb12.mp3
 
@@ -34,6 +36,7 @@ This recording is an episode of the ABC Radio National program Common Knowledge,
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/abc]] (ABC)
+- [[entities/radio-national]] (Radio National)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

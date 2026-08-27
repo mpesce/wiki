@@ -6,19 +6,23 @@ drive_id: 1pytZdtmkqwlmmr4jea_W3W6WyCm6idEm
 source_link: https://drive.google.com/file/d/1pytZdtmkqwlmmr4jea_W3W6WyCm6idEm/view?usp=drivesdk
 type: workshop
 date: 2001
-tags: ["douglas-rushkoff", "mark-pesce", "virtual-reality", "vr"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["douglas-rushkoff", "erik-davis", "esalen", "mark-pesce", "virtual-reality", "vr"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/douglas-rushkoff
+    - entities/erik-davis
+    - entities/esalen
     - entities/vr
   concepts:
     - concepts/virtual-reality
 related:
   - concepts/virtual-reality
   - entities/douglas-rushkoff
+  - entities/erik-davis
+  - entities/esalen
   - entities/mark-pesce
   - entities/vr
 ---
@@ -34,6 +38,8 @@ Part of 'Techno-Pagans at the End of History' (Esalen Institute, 2001) — a mul
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/douglas-rushkoff]] (Douglas Rushkoff)
+- [[entities/erik-davis]] (Erik Davis)
+- [[entities/esalen]] (Esalen Institute)
 - [[entities/vr]] (VR)
 
 ## Related Concepts

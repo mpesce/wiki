@@ -6,15 +6,17 @@ drive_id: 1HDt2kQUBQXnXHoUSBgYurtbpwkCpcBqJ
 source_link: https://drive.google.com/file/d/1HDt2kQUBQXnXHoUSBgYurtbpwkCpcBqJ/view?usp=drivesdk
 type: workshop
 date: unknown
-tags: ["apple", "communication", "douglas-rushkoff", "journalism", "mark-pesce", "mozilla", "participation", "the-future", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "communication", "douglas-rushkoff", "esalen", "journalism", "mark-pesce", "mozilla", "participation", "terence-mckenna", "the-future", "vrml"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/douglas-rushkoff
+    - entities/terence-mckenna
     - entities/apple
     - entities/mozilla
+    - entities/esalen
     - entities/vrml
   concepts:
     - concepts/the-future
@@ -28,8 +30,10 @@ related:
   - concepts/the-future
   - entities/apple
   - entities/douglas-rushkoff
+  - entities/esalen
   - entities/mark-pesce
   - entities/mozilla
+  - entities/terence-mckenna
   - entities/vrml
 ---
 # Friday.mp3
@@ -44,8 +48,10 @@ This recording is the opening session of a three-day workshop titled "Trilogues 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/douglas-rushkoff]] (Douglas Rushkoff)
+- [[entities/terence-mckenna]] (Terence McKenna)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
+- [[entities/esalen]] (Esalen Institute)
 - [[entities/vrml]] (VRML)
 
 ## Related Concepts

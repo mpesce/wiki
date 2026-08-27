@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1VjTKytsjloGIzYhH36W6F97JPENhTeMT/v
 type: interview
 date: unknown
 tags: ["artificial-intelligence", "chatgpt", "education", "mark-pesce", "virtual-reality"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

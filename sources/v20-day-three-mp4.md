@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1G779J4lWcamaKsdsUdO3-Xy7SY2HzCWT/v
 type: panel
 date: 2020
 tags: ["collaboration", "communication", "identity", "mark-pesce", "trust"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

@@ -6,16 +6,18 @@ drive_id: 1n5eI7MvR7NxCUuoJ6khhjyWuSqIH4VKx
 source_link: https://drive.google.com/file/d/1n5eI7MvR7NxCUuoJ6khhjyWuSqIH4VKx/view?usp=drivesdk
 type: talk
 date: unknown
-tags: ["narrative", "npr"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["erik-davis", "narrative", "npr"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/erik-davis
     - entities/npr
   concepts:
     - concepts/narrative
 related:
   - concepts/narrative
+  - entities/erik-davis
   - entities/npr
 ---
 # Saturday Afternoon.rm
@@ -28,6 +30,7 @@ Erik Davis opens by reading (and skimming) a short story he calls 'Speaking of S
 - See summary above.
 
 ## Named Entities
+- [[entities/erik-davis]] (Erik Davis)
 - [[entities/npr]] (NPR)
 
 ## Related Concepts

@@ -6,16 +6,17 @@ drive_id: 1Q5SQWblbuSbuvfUkYGIgXv2bmExKub1c
 source_link: https://drive.google.com/file/d/1Q5SQWblbuSbuvfUkYGIgXv2bmExKub1c/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["narrative"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["burning-man", "narrative"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/burning-man
   concepts:
     - concepts/narrative
 related:
   - concepts/narrative
+  - entities/burning-man
 ---
 # Tea Faerie and Burning Dan Clip.wmv
 
@@ -27,7 +28,7 @@ This recording is a segment from a documentary or news feature focusing on the i
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/burning-man]] (Burning Man)
 
 ## Related Concepts
 - [[concepts/narrative]] — Narrative

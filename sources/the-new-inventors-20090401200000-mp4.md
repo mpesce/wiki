@@ -6,17 +6,25 @@ drive_id: 1U1KCI3nDb8C2uDz1Wx97chQcOHbsVPBc
 source_link: https://drive.google.com/file/d/1U1KCI3nDb8C2uDz1Wx97chQcOHbsVPBc/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["connectivity", "mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["bernie-hobbs", "connectivity", "fiona-wood", "james-ologhlin", "mark-pesce", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/james-ologhlin
+    - entities/bernie-hobbs
+    - entities/fiona-wood
+    - entities/the-new-inventors
   concepts:
     - concepts/connectivity
 related:
   - concepts/connectivity
+  - entities/bernie-hobbs
+  - entities/fiona-wood
+  - entities/james-ologhlin
   - entities/mark-pesce
+  - entities/the-new-inventors
 ---
 # The New Inventors-20090401200000.mp4
 
@@ -29,6 +37,10 @@ This recording is an episode of the Australian television program The New Invent
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/bernie-hobbs]] (Bernie Hobbs)
+- [[entities/fiona-wood]] (Fiona Wood)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/connectivity]] — Connectivity

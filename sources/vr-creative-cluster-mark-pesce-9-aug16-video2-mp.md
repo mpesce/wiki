@@ -6,15 +6,16 @@ drive_id: 1kOBT4c2VFV4zFoF-HmSPKTqyS7tSd6Ee
 source_link: https://drive.google.com/file/d/1kOBT4c2VFV4zFoF-HmSPKTqyS7tSd6Ee/view?usp=drivesdk
 type: interview
 date: 1991
-tags: ["ar", "content-creation", "education", "google", "mark-pesce", "the-future", "virtual-reality", "vr"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["ar", "content-creation", "education", "google", "mark-pesce", "pokemon-go", "the-future", "virtual-reality", "vr"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
     - entities/vr
     - entities/ar
+    - entities/pokemon-go
   concepts:
     - concepts/the-future
     - concepts/virtual-reality
@@ -28,6 +29,7 @@ related:
   - entities/ar
   - entities/google
   - entities/mark-pesce
+  - entities/pokemon-go
   - entities/vr
 ---
 # VR Creative Cluster Mark Pesce 9 Aug16 video2.MP4
@@ -44,6 +46,7 @@ This recording is a talk by Mark Pesce, a media and technology commentator, disc
 - [[entities/google]] (Google)
 - [[entities/vr]] (VR)
 - [[entities/ar]] (AR)
+- [[entities/pokemon-go]] (Pokemon Go)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

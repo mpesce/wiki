@@ -5,21 +5,25 @@ title: Cybersamhain to ChatGPT 1080p.mp4
 drive_id: 1SqswZI9SXYRs8jbgwNlJAOAAl5icYjDg
 source_link: https://drive.google.com/file/d/1SqswZI9SXYRs8jbgwNlJAOAAl5icYjDg/view?usp=drivesdk
 type: lecture
-date: unknown
-tags: ["3d", "mark-pesce", "mit"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+date: 1994
+tags: ["3d", "mark-pesce", "mit", "tony-parisi", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/tony-parisi
     - entities/mit
     - entities/3d
+    - entities/world-wide-web
   concepts:
     - (none)
 related:
   - entities/3d
   - entities/mark-pesce
   - entities/mit
+  - entities/tony-parisi
+  - entities/world-wide-web
 ---
 # Cybersamhain to ChatGPT 1080p.mp4
 
@@ -32,8 +36,10 @@ This recording is a talk by Mark Pesce, a media and technology commentator and f
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/tony-parisi]] (Tony Parisi)
 - [[entities/mit]] (MIT)
 - [[entities/3d]] (3D)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - (none identified)

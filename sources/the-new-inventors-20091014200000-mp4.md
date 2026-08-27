@@ -6,16 +6,24 @@ drive_id: 10QmX_EHa4m0Ho3UYxaIZBsA3ccVDT9wJ
 source_link: https://drive.google.com/file/d/10QmX_EHa4m0Ho3UYxaIZBsA3ccVDT9wJ/view?usp=drivesdk
 type: panel
 date: unknown
-tags: []
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["christine-kininmonth", "james-bradfield-moody", "james-ologhlin", "richard-vaughan", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/james-ologhlin
+    - entities/james-bradfield-moody
+    - entities/richard-vaughan
+    - entities/christine-kininmonth
+    - entities/the-new-inventors
   concepts:
     - (none)
 related:
-  - (none)
+  - entities/christine-kininmonth
+  - entities/james-bradfield-moody
+  - entities/james-ologhlin
+  - entities/richard-vaughan
+  - entities/the-new-inventors
 ---
 # The New Inventors-20091014200000.mp4
 
@@ -27,7 +35,11 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/james-bradfield-moody]] (James Bradfield Moody)
+- [[entities/richard-vaughan]] (Richard Vaughan)
+- [[entities/christine-kininmonth]] (Christine Kininmonth)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - (none identified)

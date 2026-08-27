@@ -6,12 +6,13 @@ drive_id: 1G9HnVqFBOxejmD8Q7TZk74LOBMG4y1di
 source_link: https://drive.google.com/file/d/1G9HnVqFBOxejmD8Q7TZk74LOBMG4y1di/view?usp=drivesdk
 type: interview
 date: 2004
-tags: ["broadcast", "hyperdistribution", "mark-pesce", "networks", "peer-to-peer"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["battlestar-galactica", "broadcast", "hyperdistribution", "mark-pesce", "networks", "peer-to-peer"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/battlestar-galactica
   concepts:
     - concepts/hyperdistribution
     - concepts/networks
@@ -22,6 +23,7 @@ related:
   - concepts/hyperdistribution
   - concepts/networks
   - concepts/peer-to-peer
+  - entities/battlestar-galactica
   - entities/mark-pesce
 ---
 # Piracy_is_Good.mp4
@@ -35,6 +37,7 @@ This recording is a lecture delivered by Mark Pesce at the Australian Film, Tele
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/battlestar-galactica]] (Battlestar Galactica)
 
 ## Related Concepts
 - [[concepts/hyperdistribution]] — Hyperdistribution

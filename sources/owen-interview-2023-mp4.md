@@ -6,12 +6,13 @@ drive_id: 1fAbbb_btvFkTFzbQ0PP4FHJKrHLtsiEe
 source_link: https://drive.google.com/file/d/1fAbbb_btvFkTFzbQ0PP4FHJKrHLtsiEe/view?usp=drivesdk
 type: interview
 date: 2023
-tags: ["identity", "mark-pesce", "networks", "virtual-reality", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["identity", "mark-pesce", "networks", "tony-parisi", "virtual-reality", "vrml"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/tony-parisi
     - entities/vrml
   concepts:
     - concepts/virtual-reality
@@ -22,6 +23,7 @@ related:
   - concepts/networks
   - concepts/virtual-reality
   - entities/mark-pesce
+  - entities/tony-parisi
   - entities/vrml
 ---
 # Owen-interview-2023.mp4
@@ -35,6 +37,7 @@ This recording is an interview from the Video Game Newsroom Time Machine series,
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/tony-parisi]] (Tony Parisi)
 - [[entities/vrml]] (VRML)
 
 ## Related Concepts

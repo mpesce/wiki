@@ -5,13 +5,14 @@ title: UQ.wav
 drive_id: 1MZFgJdn9j80tKKwjFIzKpgFAikQ-tzPu
 source_link: https://drive.google.com/file/d/1MZFgJdn9j80tKKwjFIzKpgFAikQ-tzPu/view?usp=drivesdk
 type: panel
-date: unknown
-tags: ["abc", "artificial-intelligence", "mark-pesce", "the-future", "virtual-reality", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+date: 2001
+tags: ["abc", "artificial-intelligence", "ivan-sutherland", "mark-pesce", "the-future", "virtual-reality", "vrml"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/ivan-sutherland
     - entities/abc
     - entities/vrml
   concepts:
@@ -23,6 +24,7 @@ related:
   - concepts/the-future
   - concepts/virtual-reality
   - entities/abc
+  - entities/ivan-sutherland
   - entities/mark-pesce
   - entities/vrml
 ---
@@ -37,6 +39,7 @@ This recording is a lecture delivered by Mark Pesce, a computer scientist and fu
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/ivan-sutherland]] (Ivan Sutherland)
 - [[entities/abc]] (ABC)
 - [[entities/vrml]] (VRML)
 

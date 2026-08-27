@@ -5,17 +5,20 @@ title: Reality Remix.wav
 drive_id: 1hTsZnWVqxw5TK1Q3qA-qu99k56lWU8Cw
 source_link: https://drive.google.com/file/d/1hTsZnWVqxw5TK1Q3qA-qu99k56lWU8Cw/view?usp=drivesdk
 type: news
-date: unknown
-tags: ["3d", "google", "mark-pesce", "the-future", "virtual-reality", "vr", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+date: 1990
+tags: ["3d", "google", "ivan-sutherland", "mark-pesce", "the-future", "tony-parisi", "virtual-reality", "vr", "vrml", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/tony-parisi
+    - entities/ivan-sutherland
     - entities/google
     - entities/vrml
     - entities/3d
     - entities/vr
+    - entities/world-wide-web
   concepts:
     - concepts/the-future
     - concepts/virtual-reality
@@ -24,9 +27,12 @@ related:
   - concepts/virtual-reality
   - entities/3d
   - entities/google
+  - entities/ivan-sutherland
   - entities/mark-pesce
+  - entities/tony-parisi
   - entities/vr
   - entities/vrml
+  - entities/world-wide-web
 ---
 # Reality Remix.wav
 
@@ -39,10 +45,13 @@ This recording is a conference talk delivered by Mark Pesce, a media and technol
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/tony-parisi]] (Tony Parisi)
+- [[entities/ivan-sutherland]] (Ivan Sutherland)
 - [[entities/google]] (Google)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
 - [[entities/vr]] (VR)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

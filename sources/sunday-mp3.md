@@ -6,16 +6,18 @@ drive_id: 12YzNJg-L8byG6RTiTQl7CTlKra8LUERq
 source_link: https://drive.google.com/file/d/12YzNJg-L8byG6RTiTQl7CTlKra8LUERq/view?usp=drivesdk
 type: webinar
 date: unknown
-tags: ["mark-pesce", "networks"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["esalen", "mark-pesce", "networks"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/esalen
   concepts:
     - concepts/networks
 related:
   - concepts/networks
+  - entities/esalen
   - entities/mark-pesce
 ---
 # Sunday.mp3
@@ -29,6 +31,7 @@ This recording captures a group discussion session from a seminar, likely held a
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/esalen]] (Esalen Institute)
 
 ## Related Concepts
 - [[concepts/networks]] — Networks

@@ -6,16 +6,18 @@ drive_id: 1jBV9eGUN46_vJnytwfRuAdM0cywmhuRT
 source_link: https://drive.google.com/file/d/1jBV9eGUN46_vJnytwfRuAdM0cywmhuRT/view?usp=drivesdk
 type: news
 date: 1999
-tags: ["mark-pesce", "narrative"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["burning-man", "mark-pesce", "narrative"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/burning-man
   concepts:
     - concepts/narrative
 related:
   - concepts/narrative
+  - entities/burning-man
   - entities/mark-pesce
 ---
 # 3-01 The Audio Tour.mp3
@@ -29,6 +31,7 @@ This recording captures a presentation by artist Peggy Nelson at the third and f
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/burning-man]] (Burning Man)
 
 ## Related Concepts
 - [[concepts/narrative]] — Narrative

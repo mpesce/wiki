@@ -6,17 +6,25 @@ drive_id: 1LMLbSG0SgdTkkEf_OU57ANd3LW4J04gM
 source_link: https://drive.google.com/file/d/1LMLbSG0SgdTkkEf_OU57ANd3LW4J04gM/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["innovation", "mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["alison-page", "chris-russell", "innovation", "james-bradfield-moody", "mark-pesce", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/james-bradfield-moody
+    - entities/chris-russell
+    - entities/alison-page
+    - entities/the-new-inventors
   concepts:
     - concepts/innovation
 related:
   - concepts/innovation
+  - entities/alison-page
+  - entities/chris-russell
+  - entities/james-bradfield-moody
   - entities/mark-pesce
+  - entities/the-new-inventors
 ---
 # The New Inventors-20070829200000.mp4
 
@@ -29,6 +37,10 @@ This recording is an episode of the Australian television program The New Invent
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/james-bradfield-moody]] (James Bradfield Moody)
+- [[entities/chris-russell]] (Chris Russell)
+- [[entities/alison-page]] (Alison Page)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/innovation]] — Innovation

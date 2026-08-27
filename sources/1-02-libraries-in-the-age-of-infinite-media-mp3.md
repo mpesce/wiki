@@ -5,10 +5,10 @@ title: 1-02 Libraries in the Age of Infinite Media.mp3
 drive_id: 1LESctSZkhltq4chz5eX703CsqiXlL_eF
 source_link: https://drive.google.com/file/d/1LESctSZkhltq4chz5eX703CsqiXlL_eF/view?usp=drivesdk
 type: news
-date: unknown
+date: 1999
 tags: ["abc", "digital-distribution", "mark-pesce", "meta", "networks", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

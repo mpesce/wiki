@@ -5,7 +5,7 @@ title: Collaboration
 tags: ["concept"]
 source_count: 15
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---
@@ -20,6 +20,7 @@ related:
 
 ## Key Points
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]] — VR Creative Cluster Mark Pesce 9 Aug video1_er.MP4
+- [[sources/smartsheet-reimagining-the-future-of-work-mp4]] — Smartsheet - Reimagining the Future of Work.mp4
 - [[sources/expandingmind010710-mp3]] — ExpandingMind010710.mp3
 - [[sources/hyperconnectededucation-vitta-30aug11-wav]] — HyperconnectedEducation-VITTA-30Aug11.wav
 - [[sources/four-domains-m4a]] — Four Domains.m4a
@@ -33,7 +34,6 @@ related:
 - [[sources/hownottobeseen-mp4]] — HowNotToBeSeen.mp4
 - [[sources/mark-interviews-bill-wav-2]] — Mark interviews Bill.wav
 - [[sources/aija-wav]] — AIJA.wav
-- [[sources/smartsheet-reimagining-the-future-of-work-mp4]] — Smartsheet - Reimagining the Future of Work.mp4
 
 ## Debates / Open Questions
 
@@ -42,6 +42,7 @@ related:
 ## Sources
 
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]]
+- [[sources/smartsheet-reimagining-the-future-of-work-mp4]]
 - [[sources/expandingmind010710-mp3]]
 - [[sources/hyperconnectededucation-vitta-30aug11-wav]]
 - [[sources/four-domains-m4a]]
@@ -55,4 +56,3 @@ related:
 - [[sources/hownottobeseen-mp4]]
 - [[sources/mark-interviews-bill-wav-2]]
 - [[sources/aija-wav]]
-- [[sources/smartsheet-reimagining-the-future-of-work-mp4]]

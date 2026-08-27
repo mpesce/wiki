@@ -6,9 +6,9 @@ drive_id: 1HkrfDPZrb71DpdWfoYknZ81sJUMWY51q
 source_link: https://drive.google.com/file/d/1HkrfDPZrb71DpdWfoYknZ81sJUMWY51q/view?usp=drivesdk
 type: lecture
 date: 2020-11-12
-tags: ["attention", "bitcoin", "ethereum", "facebook", "mark-pesce", "smart-contracts", "surveillance"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["attention", "bitcoin", "ethereum", "facebook", "libra", "mark-pesce", "smart-contracts", "surveillance"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,6 +16,7 @@ mentions:
     - entities/smart-contracts
     - entities/bitcoin
     - entities/ethereum
+    - entities/libra
   concepts:
     - concepts/surveillance
     - concepts/attention
@@ -25,6 +26,7 @@ related:
   - entities/bitcoin
   - entities/ethereum
   - entities/facebook
+  - entities/libra
   - entities/mark-pesce
   - entities/smart-contracts
 ---
@@ -43,6 +45,7 @@ This recording is a talk delivered by Mark Pesce to the CFO series in Melbourne,
 - [[entities/smart-contracts]] (smart contracts)
 - [[entities/bitcoin]] (Bitcoin)
 - [[entities/ethereum]] (Ethereum)
+- [[entities/libra]] (Libra)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

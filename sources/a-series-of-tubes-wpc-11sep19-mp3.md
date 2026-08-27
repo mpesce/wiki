@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1nm1Tci9d-VSfyQCcxL-dZqV0CmV8Ass_/v
 type: keynote
 date: 2019-09-11
 tags: ["artificial-intelligence", "connectivity", "mark-pesce", "participation", "peer-to-peer", "the-future", "the-future-of-work"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

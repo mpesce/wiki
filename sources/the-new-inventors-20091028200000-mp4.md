@@ -6,16 +6,20 @@ drive_id: 1cfUXSmVzuDDpgY7fWQmGvDfAveOOUtOU
 source_link: https://drive.google.com/file/d/1cfUXSmVzuDDpgY7fWQmGvDfAveOOUtOU/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "bernie-hobbs", "james-bradfield-moody"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/bernie-hobbs
+    - entities/james-bradfield-moody
     - entities/abc
   concepts:
     - (none)
 related:
   - entities/abc
+  - entities/bernie-hobbs
+  - entities/james-bradfield-moody
 ---
 # The New Inventors-20091028200000.mp4
 
@@ -27,6 +31,8 @@ This recording is an episode of the Australian television show New Inventors, ho
 - See summary above.
 
 ## Named Entities
+- [[entities/bernie-hobbs]] (Bernie Hobbs)
+- [[entities/james-bradfield-moody]] (James Bradfield Moody)
 - [[entities/abc]] (ABC)
 
 ## Related Concepts

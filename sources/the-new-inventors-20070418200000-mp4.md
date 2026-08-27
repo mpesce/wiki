@@ -6,16 +6,20 @@ drive_id: 1RtGciBqRoeelaHUWayvtrmFuBVpxkcSk
 source_link: https://drive.google.com/file/d/1RtGciBqRoeelaHUWayvtrmFuBVpxkcSk/view?usp=drivesdk
 type: panel
 date: unknown
-tags: []
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["alison-page", "james-bradfield-moody", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/james-bradfield-moody
+    - entities/alison-page
+    - entities/the-new-inventors
   concepts:
     - (none)
 related:
-  - (none)
+  - entities/alison-page
+  - entities/james-bradfield-moody
+  - entities/the-new-inventors
 ---
 # The New Inventors-20070418200000.mp4
 
@@ -27,7 +31,9 @@ The recording begins with a dramatic audio clip depicting a World War II-era mil
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/james-bradfield-moody]] (James Bradfield Moody)
+- [[entities/alison-page]] (Alison Page)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - (none identified)

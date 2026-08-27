@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/18HMduXCy3CopSDfoW1SGqwQ0SIi1KKYp/v
 type: lecture
 date: unknown
 tags: ["attention", "connectivity", "facebook", "mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

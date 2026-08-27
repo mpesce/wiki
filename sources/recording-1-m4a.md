@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1oY3NvIR67hSSAn3i7Y2Cc3-h0FHRmBD9/v
 type: lecture
 date: unknown
 tags: ["blockchain", "mark-pesce", "peer-to-peer", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

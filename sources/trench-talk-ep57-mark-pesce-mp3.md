@@ -6,14 +6,16 @@ drive_id: 1tvvivab_DJeAyR6EtbXMmsp0Tln5lTzE
 source_link: https://drive.google.com/file/d/1tvvivab_DJeAyR6EtbXMmsp0Tln5lTzE/view?usp=drivesdk
 type: keynote
 date: 2019
-tags: ["facebook", "mark-pesce", "podcast", "smart-contracts", "the-future", "the-future-of-work"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["douglas-rushkoff", "facebook", "libra", "mark-pesce", "podcast", "smart-contracts", "the-future", "the-future-of-work"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/douglas-rushkoff
     - entities/facebook
     - entities/smart-contracts
+    - entities/libra
   concepts:
     - concepts/the-future
     - concepts/podcast
@@ -22,7 +24,9 @@ related:
   - concepts/podcast
   - concepts/the-future
   - concepts/the-future-of-work
+  - entities/douglas-rushkoff
   - entities/facebook
+  - entities/libra
   - entities/mark-pesce
   - entities/smart-contracts
 ---
@@ -37,8 +41,10 @@ This recording is an episode of the Trench Talk podcast, hosted by Matt Reynolds
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/douglas-rushkoff]] (Douglas Rushkoff)
 - [[entities/facebook]] (Facebook)
 - [[entities/smart-contracts]] (smart contracts)
+- [[entities/libra]] (Libra)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

@@ -6,17 +6,23 @@ drive_id: 14qyjrS7n3ua-pENJccmrwYJedx-xwRBo
 source_link: https://drive.google.com/file/d/14qyjrS7n3ua-pENJccmrwYJedx-xwRBo/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "broadcast"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "bernie-hobbs", "broadcast", "james-bradfield-moody", "veena-sahajwala"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/bernie-hobbs
+    - entities/james-bradfield-moody
+    - entities/veena-sahajwala
     - entities/abc
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
   - entities/abc
+  - entities/bernie-hobbs
+  - entities/james-bradfield-moody
+  - entities/veena-sahajwala
 ---
 # The New Inventors-20071120200000.mp4
 
@@ -28,6 +34,9 @@ This recording is a broadcast from the Australian Broadcasting Corporation, feat
 - See summary above.
 
 ## Named Entities
+- [[entities/bernie-hobbs]] (Bernie Hobbs)
+- [[entities/james-bradfield-moody]] (James Bradfield Moody)
+- [[entities/veena-sahajwala]] (Veena Sahajwala)
 - [[entities/abc]] (ABC)
 
 ## Related Concepts

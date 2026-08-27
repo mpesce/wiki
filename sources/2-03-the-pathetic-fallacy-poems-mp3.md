@@ -6,16 +6,17 @@ drive_id: 1BwB9aZhpA66_1pmaSGjbNnMFIhY3WEYt
 source_link: https://drive.google.com/file/d/1BwB9aZhpA66_1pmaSGjbNnMFIhY3WEYt/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["narrative"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["burning-man", "narrative"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/burning-man
   concepts:
     - concepts/narrative
 related:
   - concepts/narrative
+  - entities/burning-man
 ---
 # 2-03 The Pathetic Fallacy _ Poems.mp3
 
@@ -27,7 +28,7 @@ This recording is a spoken word performance and lecture delivered at the Burning
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/burning-man]] (Burning Man)
 
 ## Related Concepts
 - [[concepts/narrative]] — Narrative

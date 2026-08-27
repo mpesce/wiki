@@ -6,12 +6,13 @@ drive_id: 1GogGs61YCfGbM7LDOG_eMOSe4DVUPilU
 source_link: https://drive.google.com/file/d/1GogGs61YCfGbM7LDOG_eMOSe4DVUPilU/view?usp=drivesdk
 type: podcast
 date: 2020-09-10
-tags: ["ethereum", "mark-pesce", "podcast", "remote-work", "smart-contracts"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["ethereum", "mark-pesce", "podcast", "remote-work", "smart-contracts", "the-next-billion-seconds"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/the-next-billion-seconds
     - entities/smart-contracts
     - entities/ethereum
   concepts:
@@ -23,6 +24,7 @@ related:
   - entities/ethereum
   - entities/mark-pesce
   - entities/smart-contracts
+  - entities/the-next-billion-seconds
 ---
 # Beyond the Horizon CFO Series QLD 10Sep20.mp4
 
@@ -35,6 +37,7 @@ This recording is a talk delivered by Mark Pesce, a futurist and host of the pod
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 - [[entities/smart-contracts]] (smart contracts)
 - [[entities/ethereum]] (Ethereum)
 

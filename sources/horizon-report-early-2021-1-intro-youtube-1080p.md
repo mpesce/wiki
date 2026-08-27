@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1-6XI-SVxy3SAmHMb-G9Oj4w5Fjij26dC/v
 type: news
 date: 2021
 tags: ["mark-pesce", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

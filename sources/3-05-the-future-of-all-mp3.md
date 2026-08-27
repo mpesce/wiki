@@ -6,12 +6,13 @@ drive_id: 1Z9UdPu6wJxPehCghlazNiEiMMvhfOObm
 source_link: https://drive.google.com/file/d/1Z9UdPu6wJxPehCghlazNiEiMMvhfOObm/view?usp=drivesdk
 type: interview
 date: 2012
-tags: ["artificial-intelligence", "mark-pesce", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["artificial-intelligence", "mark-pesce", "terence-mckenna", "the-future"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/terence-mckenna
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
@@ -19,6 +20,7 @@ related:
   - concepts/artificial-intelligence
   - concepts/the-future
   - entities/mark-pesce
+  - entities/terence-mckenna
 ---
 # 3-05 The Future of All.mp3
 
@@ -31,6 +33,7 @@ This recording is the third and final talk in a series delivered by Mark Pesce a
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/terence-mckenna]] (Terence McKenna)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

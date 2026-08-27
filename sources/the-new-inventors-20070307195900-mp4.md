@@ -6,17 +6,23 @@ drive_id: 1ZdsMxSE1aILXF_KM6BOWhCGPXyB3ytH8
 source_link: https://drive.google.com/file/d/1ZdsMxSE1aILXF_KM6BOWhCGPXyB3ytH8/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "broadcast"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "alison-page", "broadcast", "chris-russell", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/chris-russell
+    - entities/alison-page
     - entities/abc
+    - entities/the-new-inventors
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
   - entities/abc
+  - entities/alison-page
+  - entities/chris-russell
+  - entities/the-new-inventors
 ---
 # The New Inventors-20070307195900.mp4
 
@@ -28,7 +34,10 @@ This recording is a broadcast of the Australian television program The New Inven
 - See summary above.
 
 ## Named Entities
+- [[entities/chris-russell]] (Chris Russell)
+- [[entities/alison-page]] (Alison Page)
 - [[entities/abc]] (ABC)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

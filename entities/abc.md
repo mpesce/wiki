@@ -5,7 +5,7 @@ title: ABC
 tags: ["organization"]
 source_count: 65
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---
@@ -13,9 +13,11 @@ related:
 # ABC
 
 ## TL;DR
+
 The ABC is Pesce's most sustained institutional platform: the national broadcaster aired The New Inventors (2007-2009) with him as judging panelist, and from 2006 into the 2020s it repeatedly turned to him on radio and television as the explainer for whatever technology had just broken into the news.
 
 ## Overview
+
 The New Inventors dominates the ABC material: the corpus holds 31 episodes from 2007-2009 in which Pesce sits on the judging panel beside hosts James O'Loughlin and Adam Hills, weighing inventions from a reusable glass-ampoule opener to a SIDS-preventing cot sheet ([[sources/the-new-inventors-20070214195900-mp4]], [[sources/the-new-inventors-20081022200000-mp4]]). The role became his public credential — hosts across the corpus introduce him simply as "judge on the ABC series The New Inventors" ([[sources/mind-share-hd-mov]]).
 
 On ABC Radio he was the standing explainer for the emerging internet: game narrative on The Book Show (June 2006) ([[sources/4-03-the-book-show-23-june-2006-mp3]]), Twitter metaphors on Nightlife in 2009 ([[sources/nightlife-twitter-11mar09-mp3]]), the LimeWire shutdown on afternoon television ([[sources/afternoon-live-mov]]), the hacktivist collective Anonymous on Radio National's Common Knowledge (2012) ([[sources/rn-common-knowledge-19feb12-mp3]]), and location tracking of children on Life Matters (2017) ([[sources/lms-20170505-0906-families-privacy-mp3]]).
@@ -25,6 +27,8 @@ The subjects track the news cycle — file-sharing lawsuits (2006-2010), The Soc
 Around the television work sit adjacent broadcast roles. His podcast The Next Billion Seconds ran on Podcast One Australia, where in 2020 he presented the award for best current-affairs podcast to the ABC's own Background Briefing ([[sources/pesce-best-current-affairs-podcast-mp4]]). The consistent thread across two decades: the ABC as employer, stage, and the institution he most wants to see through the transition from broadcast to hypercasting.
 
 ## Key Facts
+- [[sources/1-02-libraries-in-the-age-of-infinite-media-mp3]] — 1-02 Libraries in the Age of Infinite Media.mp3
+- [[sources/uq-wav]] — UQ.wav
 - [[sources/the-new-inventors-20090610200000-mp4]] — The New Inventors-20090610200000.mp4
 - [[sources/4-03-the-book-show-23-june-2006-mp3]] — 4-03 The Book Show 23 June 2006.mp3
 - [[sources/the-new-inventors-20071114200000-mp4]] — The New Inventors-20071114200000.mp4
@@ -50,7 +54,6 @@ Around the television work sit adjacent broadcast roles. His podcast The Next Bi
 - [[sources/abc-14jul20-video-first-mp4]] — ABC 14Jul20 Video First.mp4
 - [[sources/weekdays-28sep20-the-social-dilemma-mp3]] — Weekdays 28Sep20 The Social Dilemma.mp3
 - [[sources/mark-pesce-wtd1-28jun21-wav]] — Mark Pesce WTD1 28Jun21.wav
-- [[sources/1-02-libraries-in-the-age-of-infinite-media-mp3]] — 1-02 Libraries in the Age of Infinite Media.mp3
 - [[sources/7pm-project-mov]] — 7pm-project.mov
 - [[sources/the-new-inventors-20081112200000-mp4]] — The New Inventors-20081112200000.mp4
 - [[sources/the-new-inventors-20071107200000-mp4]] — The New Inventors-20071107200000.mp4
@@ -83,7 +86,6 @@ Around the television work sit adjacent broadcast roles. His podcast The Next Bi
 - [[sources/the-new-inventors-20070228195900-mp4]] — The New Inventors-20070228195900.mp4
 - [[sources/ozwater-wav]] — OzWater.wav
 - [[sources/000000001b4e4d1f-iphone-m4v]] — 000000001b4e4d1f.iPhone.m4v
-- [[sources/uq-wav]] — UQ.wav
 - [[sources/mind-share-hd-mov]] — mind_share_hd.mov
 - [[sources/000000001a6cf0ff-mpg]] — 000000001a6cf0ff.mpg
 - [[sources/0000000014ea5a0f-mpg]] — 0000000014ea5a0f.mpg
@@ -105,6 +107,8 @@ Around the television work sit adjacent broadcast roles. His podcast The Next Bi
 
 ## Sources
 
+- [[sources/1-02-libraries-in-the-age-of-infinite-media-mp3]]
+- [[sources/uq-wav]]
 - [[sources/the-new-inventors-20090610200000-mp4]]
 - [[sources/4-03-the-book-show-23-june-2006-mp3]]
 - [[sources/the-new-inventors-20071114200000-mp4]]
@@ -130,7 +134,6 @@ Around the television work sit adjacent broadcast roles. His podcast The Next Bi
 - [[sources/abc-14jul20-video-first-mp4]]
 - [[sources/weekdays-28sep20-the-social-dilemma-mp3]]
 - [[sources/mark-pesce-wtd1-28jun21-wav]]
-- [[sources/1-02-libraries-in-the-age-of-infinite-media-mp3]]
 - [[sources/7pm-project-mov]]
 - [[sources/the-new-inventors-20081112200000-mp4]]
 - [[sources/the-new-inventors-20071107200000-mp4]]
@@ -163,7 +166,6 @@ Around the television work sit adjacent broadcast roles. His podcast The Next Bi
 - [[sources/the-new-inventors-20070228195900-mp4]]
 - [[sources/ozwater-wav]]
 - [[sources/000000001b4e4d1f-iphone-m4v]]
-- [[sources/uq-wav]]
 - [[sources/mind-share-hd-mov]]
 - [[sources/000000001a6cf0ff-mpg]]
 - [[sources/0000000014ea5a0f-mpg]]

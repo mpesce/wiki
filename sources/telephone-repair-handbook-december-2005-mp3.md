@@ -6,11 +6,12 @@ drive_id: 1vYLu4O3n_KXOLM7UcBs9qkzzZXZ8WgoA
 source_link: https://drive.google.com/file/d/1vYLu4O3n_KXOLM7UcBs9qkzzZXZ8WgoA/view?usp=drivesdk
 type: panel
 date: 2005-12
-tags: ["3d", "communication", "networks", "social-networks"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["3d", "communication", "networks", "social-networks", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/the-new-inventors
     - entities/3d
   concepts:
     - concepts/social-networks
@@ -21,6 +22,7 @@ related:
   - concepts/networks
   - concepts/social-networks
   - entities/3d
+  - entities/the-new-inventors
 ---
 # Telephone Repair Handbook December 2005.mp3
 
@@ -32,6 +34,7 @@ Research talk (with graduate student Angus Fraser) presenting a new ubiquitous-c
 - See summary above.
 
 ## Named Entities
+- [[entities/the-new-inventors]] (The New Inventors)
 - [[entities/3d]] (3D)
 
 ## Related Concepts

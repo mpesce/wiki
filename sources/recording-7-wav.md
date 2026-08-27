@@ -6,17 +6,19 @@ drive_id: 1ViFTZB-AxsBCszsCwN1biYB3UtzEJ41S
 source_link: https://drive.google.com/file/d/1ViFTZB-AxsBCszsCwN1biYB3UtzEJ41S/view?usp=drivesdk
 type: podcast
 date: unknown
-tags: ["mark-pesce", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["mark-pesce", "the-future", "the-next-billion-seconds"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/the-next-billion-seconds
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
   - entities/mark-pesce
+  - entities/the-next-billion-seconds
 ---
 # Recording 7.wav
 
@@ -29,6 +31,7 @@ This recording is a talk titled "Property Over the Next Billion Seconds" deliver
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

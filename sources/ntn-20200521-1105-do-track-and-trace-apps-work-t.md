@@ -6,11 +6,12 @@ drive_id: 1we9dowTWXhqz5gppU_42VRqs9cyvFqch
 source_link: https://drive.google.com/file/d/1we9dowTWXhqz5gppU_42VRqs9cyvFqch/view?usp=drivesdk
 type: interview
 date: 2020-05-21
-tags: ["apple", "attention", "broadcast", "google"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "attention", "broadcast", "google", "mark-pesce"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/mark-pesce
     - entities/apple
     - entities/google
   concepts:
@@ -21,6 +22,7 @@ related:
   - concepts/broadcast
   - entities/apple
   - entities/google
+  - entities/mark-pesce
 ---
 # ntn-20200521-1105-do_track_and_trace_apps_work_top_amazon_engineer_rage_quits-128.mp3
 
@@ -32,6 +34,7 @@ This recording is a segment from a morning news broadcast featuring an interview
 - See summary above.
 
 ## Named Entities
+- [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/google]] (Google)
 

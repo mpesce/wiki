@@ -6,15 +6,16 @@ drive_id: 1Pa1o4oRFrt9djhcAXT5KtQVaGBsGrAFq
 source_link: https://drive.google.com/file/d/1Pa1o4oRFrt9djhcAXT5KtQVaGBsGrAFq/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["3d", "communication", "mark-pesce", "virtual-reality", "vr", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["3d", "communication", "mark-pesce", "virtual-reality", "vr", "vrml", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vrml
     - entities/3d
     - entities/vr
+    - entities/world-wide-web
   concepts:
     - concepts/virtual-reality
     - concepts/communication
@@ -25,6 +26,7 @@ related:
   - entities/mark-pesce
   - entities/vr
   - entities/vrml
+  - entities/world-wide-web
 ---
 # vrml-interview.mp4
 
@@ -40,6 +42,7 @@ This recording is a talk by Mark Pesce discussing the development and implicatio
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
 - [[entities/vr]] (VR)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

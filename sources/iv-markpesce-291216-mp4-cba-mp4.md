@@ -6,18 +6,20 @@ drive_id: 1K4_tI8OGZSfAJJnt-XkY27ht2FZQSero
 source_link: https://drive.google.com/file/d/1K4_tI8OGZSfAJJnt-XkY27ht2FZQSero/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["mark-pesce", "virtual-reality", "vr"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["mark-pesce", "pokemon-go", "virtual-reality", "vr"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/vr
+    - entities/pokemon-go
   concepts:
     - concepts/virtual-reality
 related:
   - concepts/virtual-reality
   - entities/mark-pesce
+  - entities/pokemon-go
   - entities/vr
 ---
 # iv_MarkPesce_291216_mp4_cba.mp4
@@ -32,6 +34,7 @@ This recording is a television news interview featuring Mark Pesce, a futurist, 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/vr]] (VR)
+- [[entities/pokemon-go]] (Pokemon Go)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

@@ -5,7 +5,7 @@ title: Microsoft
 tags: ["organization"]
 source_count: 22
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---
@@ -19,6 +19,7 @@ related:
 <Compile a cross-source synthesis of Microsoft. What is consistent and what changed over time.>
 
 ## Key Facts
+- [[sources/ala-wav]] — ALA.wav
 - [[sources/mark-pesce-session-1-wav]] — Mark Pesce session 1.wav
 - [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]] — Pesce - SIGGRAPH FRONTIERS - The AR Dilemmas.mp4
 - [[sources/avatars96-keynotes-pesce-parisi-512kb-mp4]] — avatars96-keynotes-pesce-parisi_512kb.mp4
@@ -27,6 +28,7 @@ related:
 - [[sources/hack-tues-2010-01-19-mp3]] — hack_tues_2010_01_19.mp3
 - [[sources/the-drum-youtube-1-m4v]] — The Drum-YouTube (1).m4v
 - [[sources/the-drum-youtube-m4v]] — The Drum-YouTube.m4v
+- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] — Mark Pesce - Digital Depth in Augmented Reality.mp4
 - [[sources/theroadahead-17may18-mp3]] — TheRoadAhead_17May18.mp3
 - [[sources/arin6904-5sep18-mp3]] — ARIN6904 5Sep18.mp3
 - [[sources/accanet-12sep18-mp3]] — ACCANet 12Sep18.mp3
@@ -39,8 +41,6 @@ related:
 - [[sources/both-and-the-hybrid-future-of-events-mea-28apr21-2]] — Both-And The Hybrid Future of Events MEA 28Apr21.mp4
 - [[sources/mark-pesce-alchemist-23jun21-wav]] — Mark Pesce Alchemist 23Jun21.wav
 - [[sources/how-smart-is-chat-gpt-the-project-nz-original-mp]] — how_smart_is_chat_gpt__the_project_nz (Original).mp4
-- [[sources/ala-wav]] — ALA.wav
-- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] — Mark Pesce - Digital Depth in Augmented Reality.mp4
 
 ## In the Corpus
 
@@ -56,6 +56,7 @@ related:
 
 ## Sources
 
+- [[sources/ala-wav]]
 - [[sources/mark-pesce-session-1-wav]]
 - [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]]
 - [[sources/avatars96-keynotes-pesce-parisi-512kb-mp4]]
@@ -64,6 +65,7 @@ related:
 - [[sources/hack-tues-2010-01-19-mp3]]
 - [[sources/the-drum-youtube-1-m4v]]
 - [[sources/the-drum-youtube-m4v]]
+- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]]
 - [[sources/theroadahead-17may18-mp3]]
 - [[sources/arin6904-5sep18-mp3]]
 - [[sources/accanet-12sep18-mp3]]
@@ -76,5 +78,3 @@ related:
 - [[sources/both-and-the-hybrid-future-of-events-mea-28apr21-2]]
 - [[sources/mark-pesce-alchemist-23jun21-wav]]
 - [[sources/how-smart-is-chat-gpt-the-project-nz-original-mp]]
-- [[sources/ala-wav]]
-- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]]

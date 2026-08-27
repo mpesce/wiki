@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1-MziWrudOMin2ANjQ6-HZpG3uYNcnmVV/v
 type: news
 date: 2020-07-14
 tags: ["abc", "apple", "connectivity", "content-creation", "identity", "mark-pesce", "microsoft", "mozilla"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1h_AgWPCeW_Mr5uOX-Fnas8s8hnk9G17d/v
 type: lecture
 date: 2020-06-24
 tags: ["apple", "mark-pesce", "mozilla", "remote-work"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

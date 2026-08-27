@@ -6,19 +6,23 @@ drive_id: 18o0PVYmE-8M8-lNj-4EMemQ11yhvhUMK
 source_link: https://drive.google.com/file/d/18o0PVYmE-8M8-lNj-4EMemQ11yhvhUMK/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["broadcast", "innovation", "mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["broadcast", "innovation", "james-ologhlin", "mark-pesce", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/james-ologhlin
+    - entities/the-new-inventors
   concepts:
     - concepts/broadcast
     - concepts/innovation
 related:
   - concepts/broadcast
   - concepts/innovation
+  - entities/james-ologhlin
   - entities/mark-pesce
+  - entities/the-new-inventors
 ---
 # The New Inventors-20090408200000.mp4
 
@@ -31,6 +35,8 @@ This recording is an episode of the Australian television program The New Invent
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

@@ -6,13 +6,14 @@ drive_id: 1_iu8PJUmOhLIPg1tMCUip3ETvT-rz2P0
 source_link: https://drive.google.com/file/d/1_iu8PJUmOhLIPg1tMCUip3ETvT-rz2P0/view?usp=drivesdk
 type: interview
 date: 2004
-tags: ["apple", "mark-pesce", "networks", "peer-to-peer", "the-future", "the-swarm", "trust"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "battlestar-galactica", "mark-pesce", "networks", "peer-to-peer", "the-future", "the-swarm", "trust"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
+    - entities/battlestar-galactica
   concepts:
     - concepts/the-future
     - concepts/trust
@@ -26,6 +27,7 @@ related:
   - concepts/the-swarm
   - concepts/trust
   - entities/apple
+  - entities/battlestar-galactica
   - entities/mark-pesce
 ---
 # hyperpeople.mp4
@@ -40,6 +42,7 @@ This recording is a lecture titled "Welcome to the Swarm," delivered by Mark Pes
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
+- [[entities/battlestar-galactica]] (Battlestar Galactica)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

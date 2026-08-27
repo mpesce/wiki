@@ -6,12 +6,13 @@ drive_id: 1UM1neQf8ZPHEalQQ_jRIWycPWieCJFra
 source_link: https://drive.google.com/file/d/1UM1neQf8ZPHEalQQ_jRIWycPWieCJFra/view?usp=drivesdk
 type: news
 date: 2010-03
-tags: ["attention", "connectivity", "mark-pesce", "narrative", "networks", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["attention", "connectivity", "mark-pesce", "narrative", "networks", "the-future", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/world-wide-web
   concepts:
     - concepts/the-future
     - concepts/attention
@@ -25,6 +26,7 @@ related:
   - concepts/networks
   - concepts/the-future
   - entities/mark-pesce
+  - entities/world-wide-web
 ---
 # iif-2010-03-Mark_Pesce (1).mp4
 
@@ -37,6 +39,7 @@ This recording is a talk by Mark Pesce, delivered to an audience that includes a
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

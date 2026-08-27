@@ -6,15 +6,17 @@ drive_id: 1FSON5dr5pXhOv9WlmnKd2aT3bC8DSogN
 source_link: https://drive.google.com/file/d/1FSON5dr5pXhOv9WlmnKd2aT3bC8DSogN/view?usp=drivesdk
 type: podcast
 date: 1993
-tags: ["3d", "collaboration", "mark-pesce", "virtual-reality", "vr", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["3d", "collaboration", "mark-pesce", "tony-parisi", "virtual-reality", "vr", "vrml", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/tony-parisi
     - entities/vrml
     - entities/3d
     - entities/vr
+    - entities/world-wide-web
   concepts:
     - concepts/virtual-reality
     - concepts/collaboration
@@ -23,8 +25,10 @@ related:
   - concepts/virtual-reality
   - entities/3d
   - entities/mark-pesce
+  - entities/tony-parisi
   - entities/vr
   - entities/vrml
+  - entities/world-wide-web
 ---
 # VR Creative Cluster Mark Pesce 9 Aug video1_er.MP4
 
@@ -37,9 +41,11 @@ This recording is a talk delivered by Mark Pesce, a pioneer in consumer virtual 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/tony-parisi]] (Tony Parisi)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
 - [[entities/vr]] (VR)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

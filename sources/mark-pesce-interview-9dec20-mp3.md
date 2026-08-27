@@ -6,13 +6,15 @@ drive_id: 1jfY0KtMSRcj3tABhPjHFFx5zy7a-VsOa
 source_link: https://drive.google.com/file/d/1jfY0KtMSRcj3tABhPjHFFx5zy7a-VsOa/view?usp=drivesdk
 type: interview
 date: 2020-12-09
-tags: ["connectivity", "facebook", "mark-pesce", "podcast", "surveillance", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["connectivity", "facebook", "libra", "mark-pesce", "podcast", "surveillance", "the-future", "the-next-billion-seconds"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
+    - entities/the-next-billion-seconds
+    - entities/libra
   concepts:
     - concepts/the-future
     - concepts/surveillance
@@ -24,7 +26,9 @@ related:
   - concepts/surveillance
   - concepts/the-future
   - entities/facebook
+  - entities/libra
   - entities/mark-pesce
+  - entities/the-next-billion-seconds
 ---
 # Mark Pesce interview 9Dec20.mp3
 
@@ -38,6 +42,8 @@ This recording is a podcast interview featuring host Jon and guest Mark Pesce, w
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
+- [[entities/libra]] (Libra)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

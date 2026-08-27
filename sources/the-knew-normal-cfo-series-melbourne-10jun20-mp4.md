@@ -6,12 +6,13 @@ drive_id: 1WYIAS9Texv_BbWS-5Bll5dsZ2HuJPUBO
 source_link: https://drive.google.com/file/d/1WYIAS9Texv_BbWS-5Bll5dsZ2HuJPUBO/view?usp=drivesdk
 type: podcast
 date: 2020-06-10
-tags: ["apple", "podcast", "remote-work"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "podcast", "remote-work", "the-next-billion-seconds"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/apple
+    - entities/the-next-billion-seconds
   concepts:
     - concepts/podcast
     - concepts/remote-work
@@ -19,6 +20,7 @@ related:
   - concepts/podcast
   - concepts/remote-work
   - entities/apple
+  - entities/the-next-billion-seconds
 ---
 # The Knew Normal CFO Series Melbourne 10Jun20.mp4
 
@@ -31,6 +33,7 @@ This recording is a business presentation or talk delivered by a futurist and ho
 
 ## Named Entities
 - [[entities/apple]] (Apple)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 
 ## Related Concepts
 - [[concepts/podcast]] — Podcasting

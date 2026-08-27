@@ -6,15 +6,16 @@ drive_id: 11M_YqwqJCO3GOCQYNyfHL7veCwuD7biG
 source_link: https://drive.google.com/file/d/11M_YqwqJCO3GOCQYNyfHL7veCwuD7biG/view?usp=drivesdk
 type: keynote
 date: 2016
-tags: ["bitcoin", "blockchain", "collaboration", "distributed-ledger", "innovation", "trust", "unsw"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["bitcoin", "blockchain", "collaboration", "distributed-ledger", "innovation", "trust", "unsw", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/unsw
     - entities/blockchain
     - entities/distributed-ledger
     - entities/bitcoin
+    - entities/world-wide-web
   concepts:
     - concepts/trust
     - concepts/innovation
@@ -27,6 +28,7 @@ related:
   - entities/blockchain
   - entities/distributed-ledger
   - entities/unsw
+  - entities/world-wide-web
 ---
 # ZOOM0013_Tr2.WAV
 
@@ -42,6 +44,7 @@ This recording is the opening keynote and panel discussion for BlockHack 16, a t
 - [[entities/blockchain]] (blockchain)
 - [[entities/distributed-ledger]] (distributed ledger)
 - [[entities/bitcoin]] (Bitcoin)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust

@@ -6,13 +6,14 @@ drive_id: 1wuCshLxhZNnrUWeXGf7mJiNz-pgZHmnL
 source_link: https://drive.google.com/file/d/1wuCshLxhZNnrUWeXGf7mJiNz-pgZHmnL/view?usp=drivesdk
 type: podcast
 date: 2021-05-11
-tags: ["bitcoin", "blockchain", "facebook", "mark-pesce", "podcast", "smart-contracts"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["bitcoin", "blockchain", "facebook", "mark-pesce", "podcast", "smart-contracts", "the-next-billion-seconds"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
+    - entities/the-next-billion-seconds
     - entities/blockchain
     - entities/smart-contracts
     - entities/bitcoin
@@ -25,6 +26,7 @@ related:
   - entities/facebook
   - entities/mark-pesce
   - entities/smart-contracts
+  - entities/the-next-billion-seconds
 ---
 # Post-Classical Finance CFO Series Sydney 11May21.mp4
 
@@ -38,6 +40,7 @@ This recording is a presentation by Mark Pesce, a professional futurist and host
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 - [[entities/blockchain]] (blockchain)
 - [[entities/smart-contracts]] (smart contracts)
 - [[entities/bitcoin]] (Bitcoin)

@@ -6,14 +6,15 @@ drive_id: 1mgYmoXAoA6gWcZgqiW87HuP8Xm2-5iod
 source_link: https://drive.google.com/file/d/1mgYmoXAoA6gWcZgqiW87HuP8Xm2-5iod/view?usp=drivesdk
 type: keynote
 date: 2021-04-21
-tags: ["apple", "innovation", "mark-pesce", "mozilla", "podcast", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "innovation", "mark-pesce", "mozilla", "podcast", "the-future", "the-next-billion-seconds"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
+    - entities/the-next-billion-seconds
   concepts:
     - concepts/the-future
     - concepts/podcast
@@ -25,6 +26,7 @@ related:
   - entities/apple
   - entities/mark-pesce
   - entities/mozilla
+  - entities/the-next-billion-seconds
 ---
 # Business on the Edge 21Apr21.mp4
 
@@ -39,6 +41,7 @@ This recording is a keynote address delivered by Mark Pesce, a technology commen
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

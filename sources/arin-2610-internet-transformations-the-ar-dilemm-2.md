@@ -6,17 +6,20 @@ drive_id: 1YfhzxPxHEo_18awMvzBkp1A_SZZuFF_G
 source_link: https://drive.google.com/file/d/1YfhzxPxHEo_18awMvzBkp1A_SZZuFF_G/view?usp=drivesdk
 type: news
 date: 2021-10-05
-tags: ["3d", "apple", "ar", "facebook", "google", "mark-pesce", "surveillance", "virtual-reality"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["3d", "apple", "ar", "facebook", "google", "mark-pesce", "pokemon-go", "surveillance", "tony-parisi", "virtual-reality", "webgl"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/tony-parisi
     - entities/apple
     - entities/google
     - entities/facebook
     - entities/3d
     - entities/ar
+    - entities/webgl
+    - entities/pokemon-go
   concepts:
     - concepts/virtual-reality
     - concepts/surveillance
@@ -29,6 +32,9 @@ related:
   - entities/facebook
   - entities/google
   - entities/mark-pesce
+  - entities/pokemon-go
+  - entities/tony-parisi
+  - entities/webgl
 ---
 # ARIN 2610 Internet Transformations The AR Dilemmas 5Oct21 1080p.mp4
 
@@ -41,11 +47,14 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/tony-parisi]] (Tony Parisi)
 - [[entities/apple]] (Apple)
 - [[entities/google]] (Google)
 - [[entities/facebook]] (Facebook)
 - [[entities/3d]] (3D)
 - [[entities/ar]] (AR)
+- [[entities/webgl]] (WebGL)
+- [[entities/pokemon-go]] (Pokemon Go)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

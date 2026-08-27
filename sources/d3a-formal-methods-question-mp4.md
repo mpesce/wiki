@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1TMP8u5J11GkhFKHJ3UydX4_6DlGlmJay/v
 type: interview
 date: unknown
 tags: ["artificial-intelligence", "mark-pesce", "the-future", "trust"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

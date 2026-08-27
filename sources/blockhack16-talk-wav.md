@@ -6,13 +6,14 @@ drive_id: 1LnNVNi_5DhgKCRoLHWADjNHZraWVtK4m
 source_link: https://drive.google.com/file/d/1LnNVNi_5DhgKCRoLHWADjNHZraWVtK4m/view?usp=drivesdk
 type: keynote
 date: 2016
-tags: ["blockchain", "innovation", "mark-pesce", "trust"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["blockchain", "innovation", "mark-pesce", "trust", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/blockchain
+    - entities/world-wide-web
   concepts:
     - concepts/trust
     - concepts/innovation
@@ -21,6 +22,7 @@ related:
   - concepts/trust
   - entities/blockchain
   - entities/mark-pesce
+  - entities/world-wide-web
 ---
 # BlockHack16 talk.WAV
 
@@ -34,6 +36,7 @@ This recording captures the opening keynote and panel discussion for BlockHack 1
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/blockchain]] (blockchain)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust

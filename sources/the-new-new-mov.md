@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1nXo1xruYOGQh2fsdzdACcpg12fdXKrem/v
 type: podcast
 date: unknown
 tags: ["connectivity", "education", "mark-pesce", "networks", "stanford", "twitter"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

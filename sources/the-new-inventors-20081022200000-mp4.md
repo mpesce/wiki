@@ -6,17 +6,27 @@ drive_id: 1CCVSjsTawI6kfxUUOiWvL9eYv2C6XliG
 source_link: https://drive.google.com/file/d/1CCVSjsTawI6kfxUUOiWvL9eYv2C6XliG/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "broadcast"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "alison-page", "broadcast", "james-ologhlin", "richard-vaughan", "the-new-inventors", "veena-sahajwala"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/james-ologhlin
+    - entities/richard-vaughan
+    - entities/alison-page
+    - entities/veena-sahajwala
     - entities/abc
+    - entities/the-new-inventors
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
   - entities/abc
+  - entities/alison-page
+  - entities/james-ologhlin
+  - entities/richard-vaughan
+  - entities/the-new-inventors
+  - entities/veena-sahajwala
 ---
 # The New Inventors-20081022200000.mp4
 
@@ -28,7 +38,12 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/richard-vaughan]] (Richard Vaughan)
+- [[entities/alison-page]] (Alison Page)
+- [[entities/veena-sahajwala]] (Veena Sahajwala)
 - [[entities/abc]] (ABC)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

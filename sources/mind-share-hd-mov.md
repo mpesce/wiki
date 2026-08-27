@@ -6,13 +6,15 @@ drive_id: 1kdTB8b6ukuTYiBU_ZYrDQmWmrrZQvTQp
 source_link: https://drive.google.com/file/d/1kdTB8b6ukuTYiBU_ZYrDQmWmrrZQvTQp/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["abc", "connectivity", "mark-pesce", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "connectivity", "mark-pesce", "the-new-inventors", "the-next-billion-seconds", "vrml"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/abc
+    - entities/the-new-inventors
+    - entities/the-next-billion-seconds
     - entities/vrml
   concepts:
     - concepts/connectivity
@@ -20,6 +22,8 @@ related:
   - concepts/connectivity
   - entities/abc
   - entities/mark-pesce
+  - entities/the-new-inventors
+  - entities/the-next-billion-seconds
   - entities/vrml
 ---
 # mind_share_hd.mov
@@ -34,6 +38,8 @@ This recording is a public lecture delivered by Mark Pesce, a media commentator 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/abc]] (ABC)
+- [[entities/the-new-inventors]] (The New Inventors)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 - [[entities/vrml]] (VRML)
 
 ## Related Concepts

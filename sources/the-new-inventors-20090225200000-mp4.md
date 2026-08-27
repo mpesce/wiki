@@ -6,16 +6,26 @@ drive_id: 1aaAWI-hVpkj8vWqFCd8qAMVhhrmeskZ0
 source_link: https://drive.google.com/file/d/1aaAWI-hVpkj8vWqFCd8qAMVhhrmeskZ0/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["abc"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "bernie-hobbs", "james-bradfield-moody", "james-ologhlin", "richard-vaughan", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/james-ologhlin
+    - entities/bernie-hobbs
+    - entities/james-bradfield-moody
+    - entities/richard-vaughan
     - entities/abc
+    - entities/the-new-inventors
   concepts:
     - (none)
 related:
   - entities/abc
+  - entities/bernie-hobbs
+  - entities/james-bradfield-moody
+  - entities/james-ologhlin
+  - entities/richard-vaughan
+  - entities/the-new-inventors
 ---
 # The New Inventors-20090225200000.mp4
 
@@ -27,7 +37,12 @@ This recording is a transcript of an episode of the Australian television progra
 - See summary above.
 
 ## Named Entities
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/bernie-hobbs]] (Bernie Hobbs)
+- [[entities/james-bradfield-moody]] (James Bradfield Moody)
+- [[entities/richard-vaughan]] (Richard Vaughan)
 - [[entities/abc]] (ABC)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - (none identified)

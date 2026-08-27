@@ -6,14 +6,15 @@ drive_id: 1rdFhhHGpZjQZrJgqAlKqfd7E3KyWZyff
 source_link: https://drive.google.com/file/d/1rdFhhHGpZjQZrJgqAlKqfd7E3KyWZyff/view?usp=drivesdk
 type: podcast
 date: 2020
-tags: ["abc", "broadcast", "mark-pesce", "monash", "podcast", "storytelling"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "broadcast", "mark-pesce", "monash", "podcast", "storytelling", "the-next-billion-seconds"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/abc
     - entities/monash
+    - entities/the-next-billion-seconds
   concepts:
     - concepts/podcast
     - concepts/broadcast
@@ -25,6 +26,7 @@ related:
   - entities/abc
   - entities/mark-pesce
   - entities/monash
+  - entities/the-next-billion-seconds
 ---
 # Pesce Best Current Affairs Podcast.mp4
 
@@ -39,6 +41,7 @@ This recording is an audio segment from the podcast The Next Billion Seconds, ho
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/abc]] (ABC)
 - [[entities/monash]] (Monash)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 
 ## Related Concepts
 - [[concepts/podcast]] — Podcasting

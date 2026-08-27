@@ -6,13 +6,15 @@ drive_id: 1vle4V7J3Z6fvtS5KfZdCU7n797pv212J
 source_link: https://drive.google.com/file/d/1vle4V7J3Z6fvtS5KfZdCU7n797pv212J/view?usp=drivesdk
 type: talk
 date: 2001
-tags: ["connectivity", "douglas-rushkoff", "mark-pesce", "virtual-reality"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["connectivity", "douglas-rushkoff", "erik-davis", "esalen", "mark-pesce", "virtual-reality"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/douglas-rushkoff
+    - entities/erik-davis
+    - entities/esalen
   concepts:
     - concepts/virtual-reality
     - concepts/connectivity
@@ -20,6 +22,8 @@ related:
   - concepts/connectivity
   - concepts/virtual-reality
   - entities/douglas-rushkoff
+  - entities/erik-davis
+  - entities/esalen
   - entities/mark-pesce
 ---
 # Techno-Pagans at the End of History 7(Esalen).mp3
@@ -34,6 +38,8 @@ Part of 'Techno-Pagans at the End of History' (Esalen Institute, 2001) — a mul
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/douglas-rushkoff]] (Douglas Rushkoff)
+- [[entities/erik-davis]] (Erik Davis)
+- [[entities/esalen]] (Esalen Institute)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

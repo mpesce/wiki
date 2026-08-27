@@ -6,11 +6,12 @@ drive_id: 1e1pfHNrrGTDrIXpWEBt3hXpgwofkVjTq
 source_link: https://drive.google.com/file/d/1e1pfHNrrGTDrIXpWEBt3hXpgwofkVjTq/view?usp=drivesdk
 type: interview
 date: 2021-06-28
-tags: ["abc", "google", "innovation", "mit", "podcast", "startups", "venture-capital"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "google", "innovation", "mark-pesce", "mit", "podcast", "startups", "venture-capital"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/mark-pesce
     - entities/google
     - entities/abc
     - entities/mit
@@ -26,6 +27,7 @@ related:
   - concepts/venture-capital
   - entities/abc
   - entities/google
+  - entities/mark-pesce
   - entities/mit
 ---
 # Mark Pesce WTD1 28Jun21.wav
@@ -38,6 +40,7 @@ This recording is an interview conducted by Mark Pesci, host of the podcast This
 - See summary above.
 
 ## Named Entities
+- [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
 - [[entities/abc]] (ABC)
 - [[entities/mit]] (MIT)

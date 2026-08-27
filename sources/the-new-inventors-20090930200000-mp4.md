@@ -6,16 +6,24 @@ drive_id: 1gZ47W5ua-778GcYZNa2aXiWiv-IYQotR
 source_link: https://drive.google.com/file/d/1gZ47W5ua-778GcYZNa2aXiWiv-IYQotR/view?usp=drivesdk
 type: panel
 date: unknown
-tags: []
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["chris-russell", "fiona-wood", "james-ologhlin", "sally-deminks", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/james-ologhlin
+    - entities/chris-russell
+    - entities/sally-deminks
+    - entities/fiona-wood
+    - entities/the-new-inventors
   concepts:
     - (none)
 related:
-  - (none)
+  - entities/chris-russell
+  - entities/fiona-wood
+  - entities/james-ologhlin
+  - entities/sally-deminks
+  - entities/the-new-inventors
 ---
 # The New Inventors-20090930200000.mp4
 
@@ -27,7 +35,11 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/chris-russell]] (Chris Russell)
+- [[entities/sally-deminks]] (Sally Deminks)
+- [[entities/fiona-wood]] (Fiona Wood)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - (none identified)

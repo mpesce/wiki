@@ -6,16 +6,17 @@ drive_id: 1ax1ZTNkFp_wlIGm1NnXDA3fGDwUYVu-J
 source_link: https://drive.google.com/file/d/1ax1ZTNkFp_wlIGm1NnXDA3fGDwUYVu-J/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["identity"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["identity", "terence-mckenna"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/terence-mckenna
   concepts:
     - concepts/identity
 related:
   - concepts/identity
+  - entities/terence-mckenna
 ---
 # 3-03 The Future of Entheogens.mp3
 
@@ -27,7 +28,7 @@ This recording captures a collaborative talk by John Hannah and Sylvia Thyssen, 
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/terence-mckenna]] (Terence McKenna)
 
 ## Related Concepts
 - [[concepts/identity]] — Identity

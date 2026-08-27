@@ -6,18 +6,20 @@ drive_id: 1Seel_pGctWl7_3x2t-O5v_uzYA4fhjbL
 source_link: https://drive.google.com/file/d/1Seel_pGctWl7_3x2t-O5v_uzYA4fhjbL/view?usp=drivesdk
 type: workshop
 date: unknown
-tags: ["communication", "mark-pesce", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["burning-man", "communication", "mark-pesce", "the-future"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/burning-man
   concepts:
     - concepts/the-future
     - concepts/communication
 related:
   - concepts/communication
   - concepts/the-future
+  - entities/burning-man
   - entities/mark-pesce
 ---
 # 2-02 The Future of Us.mp3
@@ -31,6 +33,7 @@ This recording is the second part of a three-day talk series titled The Future o
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/burning-man]] (Burning Man)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

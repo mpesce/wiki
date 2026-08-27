@@ -6,16 +6,24 @@ drive_id: 1mB4APT3kv2-4Svt6Gwm6VaEgumWF5uD2
 source_link: https://drive.google.com/file/d/1mB4APT3kv2-4Svt6Gwm6VaEgumWF5uD2/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["chris-russell", "james-ologhlin", "mark-pesce", "the-new-inventors", "veena-sahajwala"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/james-ologhlin
+    - entities/chris-russell
+    - entities/veena-sahajwala
+    - entities/the-new-inventors
   concepts:
     - (none)
 related:
+  - entities/chris-russell
+  - entities/james-ologhlin
   - entities/mark-pesce
+  - entities/the-new-inventors
+  - entities/veena-sahajwala
 ---
 # The New Inventors-20091021200000.mp4
 
@@ -28,6 +36,10 @@ This recording is an episode of the Australian Broadcasting Corporation program 
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/chris-russell]] (Chris Russell)
+- [[entities/veena-sahajwala]] (Veena Sahajwala)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - (none identified)

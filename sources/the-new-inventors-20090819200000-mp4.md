@@ -6,17 +6,25 @@ drive_id: 1sUE3mMyMxbgCReUSqsXpyxt9DSK5xGjN
 source_link: https://drive.google.com/file/d/1sUE3mMyMxbgCReUSqsXpyxt9DSK5xGjN/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "broadcast"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "alison-page", "broadcast", "chris-russell", "james-ologhlin", "veena-sahajwala"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/james-ologhlin
+    - entities/chris-russell
+    - entities/alison-page
+    - entities/veena-sahajwala
     - entities/abc
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
   - entities/abc
+  - entities/alison-page
+  - entities/chris-russell
+  - entities/james-ologhlin
+  - entities/veena-sahajwala
 ---
 # The New Inventors-20090819200000.mp4
 
@@ -28,6 +36,10 @@ This recording is an episode of the Australian Broadcasting Corporation televisi
 - See summary above.
 
 ## Named Entities
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/chris-russell]] (Chris Russell)
+- [[entities/alison-page]] (Alison Page)
+- [[entities/veena-sahajwala]] (Veena Sahajwala)
 - [[entities/abc]] (ABC)
 
 ## Related Concepts

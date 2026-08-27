@@ -6,12 +6,13 @@ drive_id: 1tbizrDndJIHr0NT3Q-uQMmpIZXfWHSX8
 source_link: https://drive.google.com/file/d/1tbizrDndJIHr0NT3Q-uQMmpIZXfWHSX8/view?usp=drivesdk
 type: news
 date: 2018-09-05
-tags: ["3d", "ar", "attention", "google", "mark-pesce", "microsoft", "storytelling", "virtual-reality", "vr"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["3d", "ar", "attention", "google", "ivan-sutherland", "mark-pesce", "microsoft", "storytelling", "virtual-reality", "vr"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/ivan-sutherland
     - entities/google
     - entities/microsoft
     - entities/3d
@@ -28,6 +29,7 @@ related:
   - entities/3d
   - entities/ar
   - entities/google
+  - entities/ivan-sutherland
   - entities/mark-pesce
   - entities/microsoft
   - entities/vr
@@ -43,6 +45,7 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/ivan-sutherland]] (Ivan Sutherland)
 - [[entities/google]] (Google)
 - [[entities/microsoft]] (Microsoft)
 - [[entities/3d]] (3D)

@@ -6,13 +6,14 @@ drive_id: 1u4kbvlwE6yArTp2BBATwuz0a8NWQ2ca7
 source_link: https://drive.google.com/file/d/1u4kbvlwE6yArTp2BBATwuz0a8NWQ2ca7/view?usp=drivesdk
 type: interview
 date: 2011
-tags: ["apple", "bitcoin", "connectivity", "mark-pesce", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "bitcoin", "connectivity", "mark-pesce", "the-next-billion-seconds", "vrml"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
+    - entities/the-next-billion-seconds
     - entities/vrml
     - entities/bitcoin
   concepts:
@@ -22,6 +23,7 @@ related:
   - entities/apple
   - entities/bitcoin
   - entities/mark-pesce
+  - entities/the-next-billion-seconds
   - entities/vrml
 ---
 # hypereconomics 2.flv
@@ -36,6 +38,7 @@ This recording captures a public lecture by Mark Pesce, a media and technology c
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 - [[entities/vrml]] (VRML)
 - [[entities/bitcoin]] (Bitcoin)
 

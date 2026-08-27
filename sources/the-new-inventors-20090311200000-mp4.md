@@ -6,17 +6,25 @@ drive_id: 1yE7zFjqH1jR56oiuRWtq5H1I8x8bBf1V
 source_link: https://drive.google.com/file/d/1yE7zFjqH1jR56oiuRWtq5H1I8x8bBf1V/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "broadcast"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "broadcast", "james-ologhlin", "richard-vaughan", "sally-deminks", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/james-ologhlin
+    - entities/sally-deminks
+    - entities/richard-vaughan
     - entities/abc
+    - entities/the-new-inventors
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
   - entities/abc
+  - entities/james-ologhlin
+  - entities/richard-vaughan
+  - entities/sally-deminks
+  - entities/the-new-inventors
 ---
 # The New Inventors-20090311200000.mp4
 
@@ -28,7 +36,11 @@ This recording is a broadcast of the Australian Broadcasting Corporation televis
 - See summary above.
 
 ## Named Entities
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/sally-deminks]] (Sally Deminks)
+- [[entities/richard-vaughan]] (Richard Vaughan)
 - [[entities/abc]] (ABC)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

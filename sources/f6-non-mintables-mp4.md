@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1xO8WQRbAqv445uJvKY21vKC_3q2dAoQe/v
 type: interview
 date: unknown
 tags: ["artificial-intelligence", "mark-pesce", "networks", "peer-to-peer", "trust"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

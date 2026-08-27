@@ -6,16 +6,24 @@ drive_id: 1huiPngx_Pw3y8PSEoawtcQ4l8amRJ-U_
 source_link: https://drive.google.com/file/d/1huiPngx_Pw3y8PSEoawtcQ4l8amRJ-U_/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "alison-page", "bernie-hobbs", "chris-russell", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/bernie-hobbs
+    - entities/chris-russell
+    - entities/alison-page
     - entities/abc
+    - entities/the-new-inventors
   concepts:
     - (none)
 related:
   - entities/abc
+  - entities/alison-page
+  - entities/bernie-hobbs
+  - entities/chris-russell
+  - entities/the-new-inventors
 ---
 # The New Inventors-20070228195900.mp4
 
@@ -27,7 +35,11 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
+- [[entities/bernie-hobbs]] (Bernie Hobbs)
+- [[entities/chris-russell]] (Chris Russell)
+- [[entities/alison-page]] (Alison Page)
 - [[entities/abc]] (ABC)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - (none identified)

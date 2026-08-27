@@ -5,7 +5,7 @@ title: Social media
 tags: ["concept"]
 source_count: 48
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---
@@ -13,10 +13,16 @@ related:
 # Social media
 
 ## TL;DR
-<48 sources engage with Social media. Synthesize the concept.>
+
+Across 48 recordings, Mark Pesce tracks social media from its connectivist promise — a "human network" that breaks news faster than broadcasters — to its maturation into engagement-optimized platforms he indicts as engines of behavioural modification and manipulation.
 
 ## Overview
-<Synthesize how Social media is treated across the corpus. Themes, debates, evolution.>
+
+Pesce's early social-media work is celebratory and structural. He grounds the phenomenon in evolutionary sociality, arguing the need for coordination in warfare and support during childbirth drove human brain growth — so hyperconnectivity is our species' signature capability ([[sources/singularity-summit-mp4]]). From the mid-2000s he maps its arc: the birth of the web, then Wikipedia-style sharing platforms after the dot-com collapse, then the explosion of social networks after Facebook's 2007 platform launch ([[sources/mark-pesce-btb-vodcast-iphone-m4v]]). When the 3.4 billionth mobile phone was sold, he argued half humanity was plugged into a "human network" ([[sources/nextwave-mp4]]); Twitter had proven its worth beating broadcasters to the 2008 Sichuan earthquake by half an hour ([[sources/01-twitter-and-the-media-m4a]]); and hyperconnectivity was producing "hyper intelligence" through knowledge pooling in organisations ([[sources/connectingup09-11may09-mp3]]).
+
+The corpus then darkens. Pesce documents Facebook's transformation from information distributor into a sophisticated engine of behavioural modification after its 2011 shift to curation ([[sources/mark-pesce-futurist-the-last-days-of-reality-mp4]]), calling its algorithms a "global cognitive bias amplifier" that profiles users to maximize engagement ([[sources/ega-mkv]]). He explains the mechanics — intermittent rewards borrowed from poker machines create habit loops ([[sources/josh-szeps-podcast-17aug21-wav]]) — and argues human weakness, not exceptionalism, is our primary defense against manipulative systems ([[sources/just-so-stories-wds-1nov18-mp3]]).
+
+His responses span personal exit to regulatory analysis. He built Plexus, an open-source "traffic cop" for his social interactions, to leave Facebook over privacy concerns ([[sources/pollenizerpodcast-20100728-mp3]]), and later quit centralized networks entirely as corporate data extraction ([[sources/hownottobeseen-mp4]]), while examining the social cost of permanent connection in a book on digital disconnection ([[sources/abc702-disconnect-13sep11-mp3]]). On the news side he reads The Social Dilemma as confirmation that AI-driven feeds tailor content to individual weaknesses ([[sources/weekdays-28sep20-the-social-dilemma-mp3]]), tracks Russian interference operations like the Peace Data takedown ([[sources/mark-pesce-the-world-2sep20-mp4]]), and flags TikTok as a geopolitical flashpoint over censorship and Chinese ownership ([[sources/ppm-2019-10-21-tik-tok-mp3]]). The through-line is that the same connectivity that empowers communities — as with Indonesia Unite's resilience messaging after the Jakarta bombings ([[sources/hack-thurs-2009-07-30-mp3]]) — also arms the platforms that now shape public belief.
 
 ## Key Points
 - [[sources/technospirit-mkv]] — technospirit.mkv

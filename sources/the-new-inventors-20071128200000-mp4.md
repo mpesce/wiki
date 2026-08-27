@@ -6,17 +6,25 @@ drive_id: 1nPGaPqXhO8z3z264aaNJd2lB_FGYokO3
 source_link: https://drive.google.com/file/d/1nPGaPqXhO8z3z264aaNJd2lB_FGYokO3/view?usp=drivesdk
 type: podcast
 date: 2007
-tags: ["abc", "broadcast"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "bernie-hobbs", "broadcast", "chris-russell", "james-ologhlin", "sally-deminks"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/james-ologhlin
+    - entities/bernie-hobbs
+    - entities/chris-russell
+    - entities/sally-deminks
     - entities/abc
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
   - entities/abc
+  - entities/bernie-hobbs
+  - entities/chris-russell
+  - entities/james-ologhlin
+  - entities/sally-deminks
 ---
 # The New Inventors-20071128200000.mp4
 
@@ -28,6 +36,10 @@ This recording is the grand final of the Australian television program New Inven
 - See summary above.
 
 ## Named Entities
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/bernie-hobbs]] (Bernie Hobbs)
+- [[entities/chris-russell]] (Chris Russell)
+- [[entities/sally-deminks]] (Sally Deminks)
 - [[entities/abc]] (ABC)
 
 ## Related Concepts

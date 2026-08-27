@@ -6,16 +6,22 @@ drive_id: 1TFhfum5oyR4FLmplYQ56kOoqK3YF7SpW
 source_link: https://drive.google.com/file/d/1TFhfum5oyR4FLmplYQ56kOoqK3YF7SpW/view?usp=drivesdk
 type: panel
 date: unknown
-tags: []
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["chris-russell", "sally-deminks", "the-new-inventors", "veena-sahajwala"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/chris-russell
+    - entities/sally-deminks
+    - entities/veena-sahajwala
+    - entities/the-new-inventors
   concepts:
     - (none)
 related:
-  - (none)
+  - entities/chris-russell
+  - entities/sally-deminks
+  - entities/the-new-inventors
+  - entities/veena-sahajwala
 ---
 # The New Inventors-20070404195900.mp4
 
@@ -27,7 +33,10 @@ This recording is an episode of the Australian Broadcasting Corporation program 
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/chris-russell]] (Chris Russell)
+- [[entities/sally-deminks]] (Sally Deminks)
+- [[entities/veena-sahajwala]] (Veena Sahajwala)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - (none identified)

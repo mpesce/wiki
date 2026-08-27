@@ -6,14 +6,15 @@ drive_id: 1PCCBoo5AeSHzvh68HEzHg2nkVXEjPjVn
 source_link: https://drive.google.com/file/d/1PCCBoo5AeSHzvh68HEzHg2nkVXEjPjVn/view?usp=drivesdk
 type: interview
 date: 2011
-tags: ["3d", "abc", "identity", "mark-pesce", "microsoft", "social-media", "trust", "twitter", "virtual-reality"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["3d", "abc", "identity", "mark-pesce", "microsoft", "radio-national", "social-media", "trust", "twitter", "virtual-reality"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/microsoft
     - entities/abc
+    - entities/radio-national
     - entities/3d
   concepts:
     - concepts/social-media
@@ -31,6 +32,7 @@ related:
   - entities/abc
   - entities/mark-pesce
   - entities/microsoft
+  - entities/radio-national
 ---
 # The Drum-YouTube (1).m4v
 
@@ -45,6 +47,7 @@ This recording is an interview from ABC Radio National's The Drum, featuring Mar
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/microsoft]] (Microsoft)
 - [[entities/abc]] (ABC)
+- [[entities/radio-national]] (Radio National)
 - [[entities/3d]] (3D)
 
 ## Related Concepts

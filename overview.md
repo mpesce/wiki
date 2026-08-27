@@ -3,8 +3,8 @@
 ## Purpose
 This wiki compiles a knowledge base of Mark Pesce's audio/video recordings
 (626 transcribed of 628 total in the corpus) into an interlinked,
-evolving document: source pages, entity pages, concept pages, this
-overview, and an index — per the schema in WIKI.md.
+evolving document: source pages, entity pages, concept pages, query
+pages, this overview, and an index — per the schema in WIKI.md.
 
 ## Corpus at a glance
 - **626** transcribed recordings → **625** distinct source pages
@@ -14,31 +14,25 @@ overview, and an index — per the schema in WIKI.md.
   audio stream: `bscast.mov`, `bluestates-capture.mov`).
 - All 626 transcribed recordings are documented as native Google Docs
   in the Drive archive (finalize complete 2026-08-26).
-- Dated sources span 1909–2050; **376 of 625 are undated** (raw clips
-  and re-uploads without a date in filename or summary).
-- Types: 205 interviews, 112 panels, 82 news, 47 lectures, 46 podcasts,
-  38 clips, 51 keynotes, 24 workshops, 19 talks, 1 webinar.
+- Dates normalized 2026-08-27 (`tools/normalize_dates.py`): 289 of 625
+  sources dated (filename-derived where possible), spanning 1989–2025;
+  **336 remain unknown** (raw clips and re-uploads with no recoverable
+  date). Implausible text-mined dates were reset rather than kept.
+- Types: 205 interview, 112 panel, 82 news, 51 keynote, 47 lecture, 46 podcast, 38 clip, 24 workshop, 19 talk, 1 webinar.
 
-## Entities (34 pages)
-- **People (3):** Mark Pesce (388 sources), Douglas Rushkoff (16),
-  Dr. George Greer (1).
-- **Organizations (17):** Apple, Mozilla, Google, Microsoft, Facebook,
-  Meta, MIT, Stanford, UNSW, ANU, Monash, RMIT, USC, NPR, ABC, BBC,
-  Wired.
-- **Technologies (14):** VRML, VR, AR, 3D, metaverse, Git, JavaScript,
-  Python, LLM, ChatGPT, agentic, blockchain, Bitcoin, Ethereum.
+## Entities (61 pages)
+- **People (17):** alison-page, bernie-hobbs, chris-russell, christine-kininmonth, douglas-rushkoff, erik-davis, fiona-wood, george-greer, ivan-sutherland, james-bradfield-moody, james-ologhlin, mark-pesce, richard-vaughan, sally-deminks, terence-mckenna, tony-parisi, veena-sahajwala.
+- **Organizations (25):** abc, anu, apple, battlestar-galactica, bbc, burning-man, esalen, facebook, google, lonely-planet, meta, microsoft, mit, monash, mozilla, npr, radio-national, rmit, stanford, the-new-inventors, the-next-billion-seconds, true-hallucinations, unsw, usc, wired.
+- **Technologies (19):** 3d, agentic, ar, bitcoin, blockchain, chatgpt, decentraland, distributed-ledger, ethereum, javascript, libra, metaverse, pokemon-go, python, smart-contracts, vr, vrml, webgl, world-wide-web.
 
-> Extraction is vocabulary-based (`tools/ingest_wiki.py`): entities not
-> in the curated list are not yet pages. Expanding the vocabulary and
-> re-running ingest + compile is the way to grow this layer.
+> Extraction is vocabulary-based (`tools/ingest_wiki.py`), including ASR
+> misspelling variants ("Mark Pesci", "Venus Sahajwala"). The vocabulary
+> was expanded 2026-08-27; entities not yet in the curated list can be added
+> the same way.
 
 ## Concepts (50 pages)
-Most-engaged themes (word-boundary counts): **broadcast** (119),
-**the future** (117), **networks** (79), **narrative** (49),
-**connectivity** (57), **artificial intelligence** (54), **virtual
-reality** (54), **social media** (48), **trust** (44), **education**
-(36), **communication** (36), **podcast** (33), **innovation** (31),
-**social networks** (37) — full list in INDEX.md.
+Most-engaged themes (word-boundary counts): **broadcast (119), the-future (117), networks (79), connectivity (57), artificial-intelligence (54), virtual-reality (54), narrative (49), social-media (48), trust (44), social-networks (37), communication (36), surveillance (36)** —
+full list in INDEX.md.
 
 ## Key themes
 - **Distribution & the creator economy** — hyperdistribution, digital
@@ -55,18 +49,27 @@ reality** (54), **social media** (48), **trust** (44), **education**
 - **Broadcast & media history** — the corpus' densest theme, tracing
   the migration from broadcast to participatory media.
 
+## Queries (10 pages)
+`queries/` holds cited answers to research questions against the corpus
+(WIKI.md §7.3): VR's evolution, hyperdistribution's arc, social media
+and democracy, AI predictions, education, broadcasting's decline, the
+attention economy, trust, the ABC's role, and the future of work. Each
+answer cites specific source pages. Ask new questions the same way and
+file the answers there.
+
 ## Structure
 - `sources/` — 625 recording summaries, each annotated with entities and concepts.
-- `entities/` — 34 pages (3 people, 17 orgs, 14 technologies).
+- `entities/` — 61 pages (17 people, 25 orgs, 19 technologies).
 - `concepts/` — 50 pages.
-- `queries/` — empty; the QUERY workflow (WIKI.md §7.3) is the next major feature.
-- `lint/` — dated reports; latest: report-2026-08-26.md (clean).
+- `queries/` — 10 cited research answers.
+- `lint/` — dated reports; latest in the directory (clean as of 2026-08-27).
 
 ## Status
-- **Last built:** 2026-08-26 (full-corpus rebuild).
-- **Quality:** clean — 0 broken links, 0 orphans, 0 missing cross-refs.
-- **Known gaps:** undated sources (376); entity vocabulary coverage;
-  entity/concept pages carry template placeholders (TL;DR / Overview)
-  awaiting LLM synthesis; contradiction lint (§7.2.4) not yet run.
-- **Next steps:** seed queries/; synthesize TL;DR/Overview for the
-  highest-traffic pages; expand entity vocabulary; git history.
+- **Last built:** 2026-08-27 (vocabulary-expansion rebuild).
+- **Quality:** lint clean — 0 broken links, 0 orphans, 0 missing
+  cross-refs (see latest `lint/` report).
+- **Known gaps:** 336 undated sources; entity vocabulary still
+  curated (many one-off names not yet pages); most entity/concept pages
+  below the top tier still carry TL;DR/Overview placeholders.
+- **Next steps:** keep seeding queries/; synthesize remaining
+  entity/concept prose; date-normalize the remainder from summary text.

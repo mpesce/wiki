@@ -6,16 +6,25 @@ drive_id: 1dGW2nTLw10xF1GSvAUTirdGOjmIH3NT3
 source_link: https://drive.google.com/file/d/1dGW2nTLw10xF1GSvAUTirdGOjmIH3NT3/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["broadcast"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["broadcast", "chris-russell", "james-ologhlin", "richard-vaughan", "sally-deminks", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/james-ologhlin
+    - entities/chris-russell
+    - entities/sally-deminks
+    - entities/richard-vaughan
+    - entities/the-new-inventors
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
+  - entities/chris-russell
+  - entities/james-ologhlin
+  - entities/richard-vaughan
+  - entities/sally-deminks
+  - entities/the-new-inventors
 ---
 # The New Inventors-20071024200000.mp4
 
@@ -27,7 +36,11 @@ This recording is an episode of the Australian Broadcasting Corporation televisi
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/chris-russell]] (Chris Russell)
+- [[entities/sally-deminks]] (Sally Deminks)
+- [[entities/richard-vaughan]] (Richard Vaughan)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

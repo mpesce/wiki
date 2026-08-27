@@ -6,11 +6,12 @@ drive_id: 1AEbGiY62QbJyKJq5caJGspvvi1Howt2l
 source_link: https://drive.google.com/file/d/1AEbGiY62QbJyKJq5caJGspvvi1Howt2l/view?usp=drivesdk
 type: interview
 date: 2019-10-21
-tags: ["broadcast", "facebook", "social-media"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["broadcast", "facebook", "mark-pesce", "social-media"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/mark-pesce
     - entities/facebook
   concepts:
     - concepts/social-media
@@ -19,6 +20,7 @@ related:
   - concepts/broadcast
   - concepts/social-media
   - entities/facebook
+  - entities/mark-pesce
 ---
 # ppm-2019-10-21-tik-tok.mp3
 
@@ -30,6 +32,7 @@ This recording is a news broadcast segment reporting on the rapid growth of TikT
 - See summary above.
 
 ## Named Entities
+- [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
 
 ## Related Concepts

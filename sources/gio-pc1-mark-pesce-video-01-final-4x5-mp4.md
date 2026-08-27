@@ -6,18 +6,21 @@ drive_id: 1n13n8VdfkuL4PMRKqT1p1XLvQ6L2L2Ny
 source_link: https://drive.google.com/file/d/1n13n8VdfkuL4PMRKqT1p1XLvQ6L2L2Ny/view?usp=drivesdk
 type: podcast
 date: 2020
-tags: ["podcast", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["mark-pesce", "podcast", "the-future", "the-next-billion-seconds"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/mark-pesce
+    - entities/the-next-billion-seconds
   concepts:
     - concepts/the-future
     - concepts/podcast
 related:
   - concepts/podcast
   - concepts/the-future
+  - entities/mark-pesce
+  - entities/the-next-billion-seconds
 ---
 # GIO-PC1_MARK_PESCE-VIDEO_01-FINAL-4x5.mp4
 
@@ -29,7 +32,8 @@ This recording is a promotional audio spot for the Next Billion Seconds podcast,
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

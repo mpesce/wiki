@@ -6,16 +6,22 @@ drive_id: 1KSvbfyc7jj7AVJEDbjVQ-86sRiDFDx57
 source_link: https://drive.google.com/file/d/1KSvbfyc7jj7AVJEDbjVQ-86sRiDFDx57/view?usp=drivesdk
 type: panel
 date: unknown
-tags: []
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["bernie-hobbs", "james-bradfield-moody", "james-ologhlin", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/james-ologhlin
+    - entities/bernie-hobbs
+    - entities/james-bradfield-moody
+    - entities/the-new-inventors
   concepts:
     - (none)
 related:
-  - (none)
+  - entities/bernie-hobbs
+  - entities/james-bradfield-moody
+  - entities/james-ologhlin
+  - entities/the-new-inventors
 ---
 # The New Inventors-20070314195900.mp4
 
@@ -27,7 +33,10 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/bernie-hobbs]] (Bernie Hobbs)
+- [[entities/james-bradfield-moody]] (James Bradfield Moody)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - (none identified)

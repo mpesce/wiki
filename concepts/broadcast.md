@@ -5,7 +5,7 @@ title: Broadcasting
 tags: ["concept"]
 source_count: 119
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---
@@ -13,10 +13,16 @@ related:
 # Broadcasting
 
 ## TL;DR
-<119 sources engage with Broadcasting. Synthesize the concept.>
+
+Across three decades of talks, Pesce treats broadcasting as a doomed architecture: centralised, one-to-many transmission that once aggregated audiences for advertisers loses its gatekeeping power to peer-to-peer hyperdistribution, and is finally absorbed as a subset of the hyperconnected, many-to-many media environment he calls hypercasting.
 
 ## Overview
-<Synthesize how Broadcasting is treated across the corpus. Themes, debates, evolution.>
+
+Broadcasting enters the corpus as both the industry Pesce worked inside — as a panelist on ABC TV's [[sources/the-new-inventors-20071024200000-mp4|The New Inventors]] and a familiar voice across ABC radio — and the centralised model of media whose decline he spent the 2000s chronicling. His landmark 2004 AFTRS lecture [[sources/piracy-is-good-mp4|Piracy is Good]] argues that BitTorrent and the fans who used it were not killing television but rescuing its best content, citing the Battlestar Galactica premiere that leaked online and then delivered record ratings on its official broadcast; piracy, he argues, functions as word-of-mouth marketing. The enemy was never copying but the advertising-supported value chain, in which broadcasters aggregated audiences and sold access to them. His answer was [[sources/4-02-hyperdistribution-mp3|hyperdistribution]]: once a single creator can reach a global audience at zero marginal cost — as Red vs. Blue, Homestar Runner and Happy Tree Friends had already shown — the gatekeeping role of networks and studios simply evaporates.
+
+The interviews and panels of 2005–2012 trace the model's breakdown in real time. On Triple J in 2006 he explains that BitTorrent carries roughly a third of all internet traffic, that Australians download more television than any other audience because they wait longest for it, and that the leaked Doctor Who episode which became the show's highest-rated broadcast proves leaks are promotion rather than loss ([[sources/abc-jjj-14mar06-interview-mp3]]; [[sources/hyperpeople-mp3]]). Broadcast television, he tells the same year's UNSW and JJJ audiences, began as a live medium and will retreat to live events — sport, news, spectacle — while scripted drama migrates to the network. As social platforms rose he reworked the vocabulary: on ABC Nightlife in 2009 Twitter is a "switchboard" that "broadcasts" one tweet to everyone connected ([[sources/nightlife-twitter-11mar09-mp3]]), and by 2010–2012 his ABC segments concern what broadcasting leaves behind — cloud security failures, anonymous hacktivist collectives reconfiguring power "from a position of anonymity" ([[sources/hack-tues-2010-01-19-mp3]]; [[sources/rn-common-knowledge-19feb12-mp3]]), 3D television's health warnings and its 100-million-set sales projections ([[sources/7-30report-3dtv-3jun10-m4v]]), and Facebook as an untrustworthy custodian of the social graph versus generic broadcast advertising ([[sources/lms-20100531-0905-1-mp3]]).
+
+The corpus's late material completes the inversion. Addressing the ACMA in 2018, he frames broadcasting's replacement as a fait accompli: videogrammetry and immersive media will "overwhelm what we think of as television broadcasting today," while autonomous machines, not human audiences, become the network's most demanding and best-paying customers ([[sources/broadcast-and-autonomy-acma-30oct18-mp3]]). TikTok marks the arrival of Chinese-owned algorithmic platforms as the new mass medium, with a musician's million dance videos earning nothing directly because the platform itself is the advertisement ([[sources/ppm-2019-10-21-tik-tok-mp3]]). And in a 2020 ABC address he names the endpoint he had been describing since the 1990s: hypercasting, in which social platforms have become social learning systems, broadcasting survives only as a subset of the hypercasting environment, and the figure-ground has reversed ([[sources/abc-14jul20-video-first-mp4]]). The 1994 recording [[sources/hypercasting-mp3|Hypercasting: The Story So Far]] shows the argument's long arc — big media first fought the network, then, with the Google–YouTube deal and music-licensing settlements, accepted it had lost control of distribution and had to monetise the network instead. Across all 119 sources the constant is that broadcasting's power was always a function of scarcity — of spectrum, of transmission capacity, of audience attention — and every one of those scarcities has since failed.
 
 ## Key Points
 - [[sources/4-02-hyperdistribution-mp3]] — 4-02 Hyperdistribution.mp3
@@ -49,6 +55,7 @@ related:
 - [[sources/0000000019b5b787-mpg]] — 0000000019b5b787.mpg
 - [[sources/marc-pesce-rushes01-mov]] — Marc Pesce_rushes01.mov
 - [[sources/0000000011abc207-iphone-m4v]] — 0000000011abc207.iPhone.m4v
+- [[sources/000000001ab02d7f-mpg]] — 000000001ab02d7f.mpg
 - [[sources/000000001a6e3b77-mpg]] — 000000001a6e3b77.mpg
 - [[sources/000000001a6f8cf7-mpg]] — 000000001a6f8cf7.mpg
 - [[sources/000000001aaee307-mpg]] — 000000001aaee307.mpg
@@ -114,7 +121,6 @@ related:
 - [[sources/the-new-inventors-20070321195900-mp4]] — The New Inventors-20070321195900.mp4
 - [[sources/000000001b4e4d1f-iphone-m4v]] — 000000001b4e4d1f.iPhone.m4v
 - [[sources/wds08-opening-mov]] — WDS08-Opening.mov
-- [[sources/000000001ab02d7f-mpg]] — 000000001ab02d7f.mpg
 - [[sources/000000001b06c69c-iphone-m4v]] — 000000001b06c69c.iPhone.m4v
 - [[sources/000000001b4a7393-iphone-m4v]] — 000000001b4a7393.iPhone.m4v
 - [[sources/iv-pesce-090219-mp4]] — iv_Pesce_090219.mp4
@@ -175,6 +181,7 @@ related:
 - [[sources/0000000019b5b787-mpg]]
 - [[sources/marc-pesce-rushes01-mov]]
 - [[sources/0000000011abc207-iphone-m4v]]
+- [[sources/000000001ab02d7f-mpg]]
 - [[sources/000000001a6e3b77-mpg]]
 - [[sources/000000001a6f8cf7-mpg]]
 - [[sources/000000001aaee307-mpg]]
@@ -240,7 +247,6 @@ related:
 - [[sources/the-new-inventors-20070321195900-mp4]]
 - [[sources/000000001b4e4d1f-iphone-m4v]]
 - [[sources/wds08-opening-mov]]
-- [[sources/000000001ab02d7f-mpg]]
 - [[sources/000000001b06c69c-iphone-m4v]]
 - [[sources/000000001b4a7393-iphone-m4v]]
 - [[sources/iv-pesce-090219-mp4]]

@@ -6,17 +6,19 @@ drive_id: 1mDQiSuV_tnrdx0OvtAkJj4ST27_smSfk
 source_link: https://drive.google.com/file/d/1mDQiSuV_tnrdx0OvtAkJj4ST27_smSfk/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["apple", "ar", "facebook", "google", "mark-pesce", "mozilla", "surveillance"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "ar", "facebook", "google", "ivan-sutherland", "mark-pesce", "mozilla", "pokemon-go", "surveillance"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/ivan-sutherland
     - entities/apple
     - entities/mozilla
     - entities/google
     - entities/facebook
     - entities/ar
+    - entities/pokemon-go
   concepts:
     - concepts/surveillance
 related:
@@ -25,8 +27,10 @@ related:
   - entities/ar
   - entities/facebook
   - entities/google
+  - entities/ivan-sutherland
   - entities/mark-pesce
   - entities/mozilla
+  - entities/pokemon-go
 ---
 # A Digital Reformation.wav
 
@@ -39,11 +43,13 @@ This recording is a keynote speech delivered by Mark Pesce in Toronto, introduce
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/ivan-sutherland]] (Ivan Sutherland)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
 - [[entities/google]] (Google)
 - [[entities/facebook]] (Facebook)
 - [[entities/ar]] (AR)
+- [[entities/pokemon-go]] (Pokemon Go)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

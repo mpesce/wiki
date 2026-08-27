@@ -6,11 +6,12 @@ drive_id: 1EAVEnKcDrGrowaGsx0hBGqWoPnmpNicl
 source_link: https://drive.google.com/file/d/1EAVEnKcDrGrowaGsx0hBGqWoPnmpNicl/view?usp=drivesdk
 type: interview
 date: 2020-09-28
-tags: ["abc", "artificial-intelligence", "facebook", "google", "social-media"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "artificial-intelligence", "facebook", "google", "mark-pesce", "social-media"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/mark-pesce
     - entities/google
     - entities/facebook
     - entities/abc
@@ -23,6 +24,7 @@ related:
   - entities/abc
   - entities/facebook
   - entities/google
+  - entities/mark-pesce
 ---
 # Weekdays 28Sep20 The Social Dilemma.mp3
 
@@ -34,6 +36,7 @@ This recording is a radio interview from the ABC, dated September 28, 2020, feat
 - See summary above.
 
 ## Named Entities
+- [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
 - [[entities/facebook]] (Facebook)
 - [[entities/abc]] (ABC)

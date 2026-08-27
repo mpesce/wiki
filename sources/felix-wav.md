@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1DZl17fWrvRv7R9KlhEY2rKPHRtGCPWkU/v
 type: interview
 date: unknown
 tags: ["apple", "artificial-intelligence", "attention", "creators", "mark-pesce", "mozilla", "narrative", "storytelling", "the-future", "virtual-reality"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

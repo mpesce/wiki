@@ -6,16 +6,18 @@ drive_id: 1P5JbbS3Rs1ilYacJ2sP9y8JFGFTsuWTv
 source_link: https://drive.google.com/file/d/1P5JbbS3Rs1ilYacJ2sP9y8JFGFTsuWTv/view?usp=drivesdk
 type: interview
 date: 2021-04-26
-tags: ["apple", "creators", "facebook", "mark-pesce", "metaverse", "peer-to-peer", "the-future", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "creators", "decentraland", "facebook", "mark-pesce", "metaverse", "peer-to-peer", "the-future", "tony-parisi", "vrml"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/tony-parisi
     - entities/apple
     - entities/facebook
     - entities/vrml
     - entities/metaverse
+    - entities/decentraland
   concepts:
     - concepts/the-future
     - concepts/peer-to-peer
@@ -25,9 +27,11 @@ related:
   - concepts/peer-to-peer
   - concepts/the-future
   - entities/apple
+  - entities/decentraland
   - entities/facebook
   - entities/mark-pesce
   - entities/metaverse
+  - entities/tony-parisi
   - entities/vrml
 ---
 # uptown-radio_recording-1_2021-04-26--t12-31-18am--mpesce.wav
@@ -41,10 +45,12 @@ This recording is an interview featuring Mark Pesce, identified as an Honorary A
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/tony-parisi]] (Tony Parisi)
 - [[entities/apple]] (Apple)
 - [[entities/facebook]] (Facebook)
 - [[entities/vrml]] (VRML)
 - [[entities/metaverse]] (the Metaverse)
+- [[entities/decentraland]] (Decentraland)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

@@ -6,16 +6,19 @@ drive_id: 1vtFBBSP5FpD6-9zPXyLmAY7lKXzfxHck
 source_link: https://drive.google.com/file/d/1vtFBBSP5FpD6-9zPXyLmAY7lKXzfxHck/view?usp=drivesdk
 type: workshop
 date: 2019-06
-tags: ["3d", "bitcoin", "facebook", "mark-pesce", "participation", "the-future", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["3d", "bitcoin", "facebook", "libra", "mark-pesce", "participation", "the-future", "tony-parisi", "vrml", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/tony-parisi
     - entities/facebook
     - entities/vrml
     - entities/3d
     - entities/bitcoin
+    - entities/world-wide-web
+    - entities/libra
   concepts:
     - concepts/the-future
     - concepts/participation
@@ -25,8 +28,11 @@ related:
   - entities/3d
   - entities/bitcoin
   - entities/facebook
+  - entities/libra
   - entities/mark-pesce
+  - entities/tony-parisi
   - entities/vrml
+  - entities/world-wide-web
 ---
 # V20 June 2019 Opening.MTS
 
@@ -39,10 +45,13 @@ This recording is the opening address of the V20 Summit, a two-day conference fo
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/tony-parisi]] (Tony Parisi)
 - [[entities/facebook]] (Facebook)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
 - [[entities/bitcoin]] (Bitcoin)
+- [[entities/world-wide-web]] (World Wide Web)
+- [[entities/libra]] (Libra)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

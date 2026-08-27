@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1DEtjd-G0x9m39N2VVqwLiAiN-z3oslQC/v
 type: lecture
 date: unknown
 tags: ["connectivity", "identity", "mark-pesce", "networks", "peer-to-peer", "the-future", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

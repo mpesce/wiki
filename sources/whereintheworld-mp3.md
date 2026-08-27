@@ -6,14 +6,15 @@ drive_id: 1_bcXF-jIFyjlFzddL6A53JLCBg0Ds1eA
 source_link: https://drive.google.com/file/d/1_bcXF-jIFyjlFzddL6A53JLCBg0Ds1eA/view?usp=drivesdk
 type: interview
 date: 1994
-tags: ["3d", "apple", "digital-distribution", "economic-viability", "google", "mark-pesce", "networks", "social-networks", "virtual-reality", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["3d", "apple", "digital-distribution", "economic-viability", "google", "lonely-planet", "mark-pesce", "networks", "social-networks", "virtual-reality", "vrml"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/google
+    - entities/lonely-planet
     - entities/vrml
     - entities/3d
   concepts:
@@ -31,6 +32,7 @@ related:
   - entities/3d
   - entities/apple
   - entities/google
+  - entities/lonely-planet
   - entities/mark-pesce
   - entities/vrml
 ---
@@ -47,6 +49,7 @@ This recording is a presentation and subsequent Q&A session by Mark Pesce, a med
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/google]] (Google)
+- [[entities/lonely-planet]] (Lonely Planet)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
 

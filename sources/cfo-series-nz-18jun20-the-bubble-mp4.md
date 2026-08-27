@@ -6,12 +6,13 @@ drive_id: 1IBwbvuC76IGHdTGpVKepBq1hOuPjY2bm
 source_link: https://drive.google.com/file/d/1IBwbvuC76IGHdTGpVKepBq1hOuPjY2bm/view?usp=drivesdk
 type: podcast
 date: 2020-06-18
-tags: ["mark-pesce", "podcast", "remote-work", "trust"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["mark-pesce", "podcast", "remote-work", "the-next-billion-seconds", "trust"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/the-next-billion-seconds
   concepts:
     - concepts/trust
     - concepts/podcast
@@ -21,6 +22,7 @@ related:
   - concepts/remote-work
   - concepts/trust
   - entities/mark-pesce
+  - entities/the-next-billion-seconds
 ---
 # CFO Series NZ 18Jun20 The Bubble.mp4
 
@@ -33,6 +35,7 @@ This recording is a talk delivered by Mark Pesce, a futurist and host of the pod
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 
 ## Related Concepts
 - [[concepts/trust]] — Trust

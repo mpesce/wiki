@@ -6,19 +6,23 @@ drive_id: 1t4GAZh1byBu2_hWx4P3U1aWox8vbZE_h
 source_link: https://drive.google.com/file/d/1t4GAZh1byBu2_hWx4P3U1aWox8vbZE_h/view?usp=drivesdk
 type: workshop
 date: 2001
-tags: ["douglas-rushkoff", "mark-pesce", "virtual-reality", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["douglas-rushkoff", "erik-davis", "esalen", "mark-pesce", "virtual-reality", "vrml"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/douglas-rushkoff
+    - entities/erik-davis
+    - entities/esalen
     - entities/vrml
   concepts:
     - concepts/virtual-reality
 related:
   - concepts/virtual-reality
   - entities/douglas-rushkoff
+  - entities/erik-davis
+  - entities/esalen
   - entities/mark-pesce
   - entities/vrml
 ---
@@ -34,6 +38,8 @@ Part of 'Techno-Pagans at the End of History' (Esalen Institute, 2001) — a mul
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/douglas-rushkoff]] (Douglas Rushkoff)
+- [[entities/erik-davis]] (Erik Davis)
+- [[entities/esalen]] (Esalen Institute)
 - [[entities/vrml]] (VRML)
 
 ## Related Concepts

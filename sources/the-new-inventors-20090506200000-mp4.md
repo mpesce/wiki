@@ -6,16 +6,23 @@ drive_id: 10fMN-HJ-CaJTrYjeJ1E3lLcGJOJrY52l
 source_link: https://drive.google.com/file/d/10fMN-HJ-CaJTrYjeJ1E3lLcGJOJrY52l/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["broadcast"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["bernie-hobbs", "broadcast", "james-bradfield-moody", "james-ologhlin", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/james-ologhlin
+    - entities/bernie-hobbs
+    - entities/james-bradfield-moody
+    - entities/the-new-inventors
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
+  - entities/bernie-hobbs
+  - entities/james-bradfield-moody
+  - entities/james-ologhlin
+  - entities/the-new-inventors
 ---
 # The New Inventors-20090506200000.mp4
 
@@ -27,7 +34,10 @@ This recording is an episode of the Australian Broadcasting Corporation program 
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/bernie-hobbs]] (Bernie Hobbs)
+- [[entities/james-bradfield-moody]] (James Bradfield Moody)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

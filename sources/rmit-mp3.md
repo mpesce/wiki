@@ -5,10 +5,10 @@ title: RMIT.mp3
 drive_id: 1niaDFj1wj5NR5_5FatPBAzfTmV3bR-7t
 source_link: https://drive.google.com/file/d/1niaDFj1wj5NR5_5FatPBAzfTmV3bR-7t/view?usp=drivesdk
 type: keynote
-date: unknown
+date: 2000
 tags: ["mit", "rmit", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mit

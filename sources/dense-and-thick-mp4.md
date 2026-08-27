@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1OIBd5Lz8ISGmse4qF95aOeQi0bbUiVq3/v
 type: keynote
 date: 1993
 tags: ["apple", "communication", "connectivity", "mark-pesce", "networks", "participation", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

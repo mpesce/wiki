@@ -6,12 +6,13 @@ drive_id: 1ms_DiGyail8Zp4ipI0OzB8ev6EEKl3ms
 source_link: https://drive.google.com/file/d/1ms_DiGyail8Zp4ipI0OzB8ev6EEKl3ms/view?usp=drivesdk
 type: interview
 date: 2013-04-09
-tags: ["attention", "connectivity", "mark-pesce", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["attention", "connectivity", "mark-pesce", "the-next-billion-seconds", "vrml"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/the-next-billion-seconds
     - entities/vrml
   concepts:
     - concepts/attention
@@ -20,6 +21,7 @@ related:
   - concepts/attention
   - concepts/connectivity
   - entities/mark-pesce
+  - entities/the-next-billion-seconds
   - entities/vrml
 ---
 # PowersOfThen-9Apr13.m4v
@@ -33,6 +35,7 @@ This recording is a guest lecture delivered by Mark Pesce to a university class,
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 - [[entities/vrml]] (VRML)
 
 ## Related Concepts

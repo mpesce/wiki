@@ -6,13 +6,14 @@ drive_id: 13n-ikMAZ388a8o1Yb-4jK74i3VS4h4Ok
 source_link: https://drive.google.com/file/d/13n-ikMAZ388a8o1Yb-4jK74i3VS4h4Ok/view?usp=drivesdk
 type: interview
 date: 2012-08-17
-tags: ["connectivity", "mark-pesce", "mit", "narrative", "surveillance"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["connectivity", "mark-pesce", "mit", "narrative", "surveillance", "the-next-billion-seconds"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/mit
+    - entities/the-next-billion-seconds
   concepts:
     - concepts/surveillance
     - concepts/narrative
@@ -23,6 +24,7 @@ related:
   - concepts/surveillance
   - entities/mark-pesce
   - entities/mit
+  - entities/the-next-billion-seconds
 ---
 # Embiggen-17Aug12.mp4
 
@@ -36,6 +38,7 @@ This recording captures a book launch event in Melbourne featuring Mark Pesce, w
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/mit]] (MIT)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

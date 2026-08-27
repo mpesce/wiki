@@ -6,15 +6,16 @@ drive_id: 1Vg26iffkrJSCCiM5T2m03GnmizHxZZb1
 source_link: https://drive.google.com/file/d/1Vg26iffkrJSCCiM5T2m03GnmizHxZZb1/view?usp=drivesdk
 type: interview
 date: 2021-06-23
-tags: ["apple", "bitcoin", "education", "innovation", "mark-pesce", "microsoft", "mozilla", "podcast", "remote-work", "the-future", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "bitcoin", "education", "innovation", "mark-pesce", "microsoft", "mozilla", "podcast", "remote-work", "the-future", "the-next-billion-seconds", "vrml"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
     - entities/microsoft
+    - entities/the-next-billion-seconds
     - entities/vrml
     - entities/bitcoin
   concepts:
@@ -34,6 +35,7 @@ related:
   - entities/mark-pesce
   - entities/microsoft
   - entities/mozilla
+  - entities/the-next-billion-seconds
   - entities/vrml
 ---
 # Mark Pesce Alchemist 23Jun21.wav
@@ -50,6 +52,7 @@ This recording is an interview featuring Mark Pesce, a media and technology comm
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
 - [[entities/microsoft]] (Microsoft)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 - [[entities/vrml]] (VRML)
 - [[entities/bitcoin]] (Bitcoin)
 

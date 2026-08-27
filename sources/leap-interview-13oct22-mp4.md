@@ -6,13 +6,14 @@ drive_id: 1qzRc3qiNVHjn9uO_Ky6SD_Yf0PCw3UEE
 source_link: https://drive.google.com/file/d/1qzRc3qiNVHjn9uO_Ky6SD_Yf0PCw3UEE/view?usp=drivesdk
 type: interview
 date: 2022-10-13
-tags: ["apple", "connectivity", "innovation", "mark-pesce", "metaverse", "podcast", "twitter"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "burning-man", "connectivity", "innovation", "mark-pesce", "metaverse", "podcast", "twitter"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
+    - entities/burning-man
     - entities/metaverse
   concepts:
     - concepts/twitter
@@ -25,6 +26,7 @@ related:
   - concepts/podcast
   - concepts/twitter
   - entities/apple
+  - entities/burning-man
   - entities/mark-pesce
   - entities/metaverse
 ---
@@ -40,6 +42,7 @@ This recording is an interview conducted for a corporate magazine, featuring Mar
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
+- [[entities/burning-man]] (Burning Man)
 - [[entities/metaverse]] (the Metaverse)
 
 ## Related Concepts

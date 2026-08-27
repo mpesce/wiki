@@ -6,21 +6,23 @@ drive_id: 1kXK3tnpNir1gyFRHu6gBx56VEUTp44My
 source_link: https://drive.google.com/file/d/1kXK3tnpNir1gyFRHu6gBx56VEUTp44My/view?usp=drivesdk
 type: interview
 date: 2021-04-26
-tags: ["3d", "blockchain", "ethereum", "mark-pesce", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["3d", "blockchain", "decentraland", "ethereum", "mark-pesce", "the-future"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/3d
     - entities/blockchain
     - entities/ethereum
+    - entities/decentraland
   concepts:
     - concepts/the-future
 related:
   - concepts/the-future
   - entities/3d
   - entities/blockchain
+  - entities/decentraland
   - entities/ethereum
   - entities/mark-pesce
 ---
@@ -38,6 +40,7 @@ This recording is an interview between a journalist and Mark Pesce, a media and 
 - [[entities/3d]] (3D)
 - [[entities/blockchain]] (blockchain)
 - [[entities/ethereum]] (Ethereum)
+- [[entities/decentraland]] (Decentraland)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

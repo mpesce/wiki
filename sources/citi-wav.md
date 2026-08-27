@@ -6,13 +6,15 @@ drive_id: 1l9dYfaDWT3E8CilSk6ZuYjicEhYyFs2H
 source_link: https://drive.google.com/file/d/1l9dYfaDWT3E8CilSk6ZuYjicEhYyFs2H/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["artificial-intelligence", "education", "facebook", "mark-pesce", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["artificial-intelligence", "education", "facebook", "libra", "mark-pesce", "the-future", "the-next-billion-seconds"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
+    - entities/the-next-billion-seconds
+    - entities/libra
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
@@ -22,7 +24,9 @@ related:
   - concepts/education
   - concepts/the-future
   - entities/facebook
+  - entities/libra
   - entities/mark-pesce
+  - entities/the-next-billion-seconds
 ---
 # Citi.wav
 
@@ -36,6 +40,8 @@ This recording captures a 35-minute keynote presentation by Mark Pesce, a media 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
+- [[entities/libra]] (Libra)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

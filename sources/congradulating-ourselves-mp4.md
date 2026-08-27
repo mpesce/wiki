@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/10k7j8tTVh9kV02tOC_eKC5qaeKr8GuLX/v
 type: lecture
 date: unknown
 tags: ["mark-pesce", "narrative"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

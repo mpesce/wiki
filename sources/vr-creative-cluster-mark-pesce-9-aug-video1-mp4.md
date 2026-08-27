@@ -6,17 +6,20 @@ drive_id: 1L5a3e40pEq8Lo3e8Ghh7_zcA7-55o2sq
 source_link: https://drive.google.com/file/d/1L5a3e40pEq8Lo3e8Ghh7_zcA7-55o2sq/view?usp=drivesdk
 type: podcast
 date: 1991
-tags: ["3d", "apple", "mark-pesce", "mozilla", "virtual-reality", "vr", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["3d", "apple", "mark-pesce", "mozilla", "tony-parisi", "virtual-reality", "vr", "vrml", "webgl", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/tony-parisi
     - entities/apple
     - entities/mozilla
     - entities/vrml
     - entities/3d
     - entities/vr
+    - entities/world-wide-web
+    - entities/webgl
   concepts:
     - concepts/virtual-reality
 related:
@@ -25,8 +28,11 @@ related:
   - entities/apple
   - entities/mark-pesce
   - entities/mozilla
+  - entities/tony-parisi
   - entities/vr
   - entities/vrml
+  - entities/webgl
+  - entities/world-wide-web
 ---
 # VR Creative Cluster Mark Pesce 9 Aug video1.MP4
 
@@ -39,11 +45,14 @@ This recording is a talk by Mark Pesce, a media and technology commentator and f
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/tony-parisi]] (Tony Parisi)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
 - [[entities/vr]] (VR)
+- [[entities/world-wide-web]] (World Wide Web)
+- [[entities/webgl]] (WebGL)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

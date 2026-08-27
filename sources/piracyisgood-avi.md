@@ -6,12 +6,13 @@ drive_id: 1puzdf1-XYmWnjE13MzLrqGBJ4FZjJFbQ
 source_link: https://drive.google.com/file/d/1puzdf1-XYmWnjE13MzLrqGBJ4FZjJFbQ/view?usp=drivesdk
 type: news
 date: 2004
-tags: ["broadcast", "hyperdistribution", "mark-pesce", "networks", "social-networks"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["battlestar-galactica", "broadcast", "hyperdistribution", "mark-pesce", "networks", "social-networks"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/battlestar-galactica
   concepts:
     - concepts/hyperdistribution
     - concepts/social-networks
@@ -22,6 +23,7 @@ related:
   - concepts/hyperdistribution
   - concepts/networks
   - concepts/social-networks
+  - entities/battlestar-galactica
   - entities/mark-pesce
 ---
 # PiracyIsGood.avi
@@ -35,6 +37,7 @@ This recording is a talk delivered by Mark Pesce, a media and technology comment
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/battlestar-galactica]] (Battlestar Galactica)
 
 ## Related Concepts
 - [[concepts/hyperdistribution]] — Hyperdistribution

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1vx8VMSMf4Pz3RpsvvTkEbgz_zaf1uvD6/v
 type: news
 date: 2020-06-04
 tags: ["abc", "apple", "mark-pesce", "mozilla", "remote-work"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

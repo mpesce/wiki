@@ -6,17 +6,19 @@ drive_id: 1-ihlrDuWtV7gc4BR9omDui2ymDqZcSE5
 source_link: https://drive.google.com/file/d/1-ihlrDuWtV7gc4BR9omDui2ymDqZcSE5/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["artificial-intelligence", "mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["artificial-intelligence", "mark-pesce", "terence-mckenna"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/terence-mckenna
   concepts:
     - concepts/artificial-intelligence
 related:
   - concepts/artificial-intelligence
   - entities/mark-pesce
+  - entities/terence-mckenna
 ---
 # The Unseen Internet - The Alembic 9Jan26.mp4
 
@@ -29,6 +31,7 @@ This recording captures a book launch event and panel discussion held on a Frida
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/terence-mckenna]] (Terence McKenna)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

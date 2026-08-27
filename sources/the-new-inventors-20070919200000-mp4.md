@@ -6,16 +6,24 @@ drive_id: 13zCZmXaIlhXp3bAtWlAsAPDN1YZL_vYD
 source_link: https://drive.google.com/file/d/13zCZmXaIlhXp3bAtWlAsAPDN1YZL_vYD/view?usp=drivesdk
 type: panel
 date: unknown
-tags: []
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["alison-page", "chris-russell", "james-ologhlin", "the-new-inventors", "veena-sahajwala"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/james-ologhlin
+    - entities/chris-russell
+    - entities/alison-page
+    - entities/veena-sahajwala
+    - entities/the-new-inventors
   concepts:
     - (none)
 related:
-  - (none)
+  - entities/alison-page
+  - entities/chris-russell
+  - entities/james-ologhlin
+  - entities/the-new-inventors
+  - entities/veena-sahajwala
 ---
 # The New Inventors-20070919200000.mp4
 
@@ -27,7 +35,11 @@ This recording is an episode of the television program The New Inventors, hosted
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/chris-russell]] (Chris Russell)
+- [[entities/alison-page]] (Alison Page)
+- [[entities/veena-sahajwala]] (Veena Sahajwala)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - (none identified)

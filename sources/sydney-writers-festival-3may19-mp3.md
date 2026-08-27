@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1lz-ebff5OaQ-7dED7oiXMxWwvfAkqS9J/v
 type: panel
 date: 2019-05-03
 tags: ["artificial-intelligence", "attention", "commons", "mark-pesce", "open-source", "social-media", "surveillance", "surveillance-capitalism", "twitter"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

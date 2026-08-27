@@ -6,17 +6,25 @@ drive_id: 1crCdDlmfrU6pdfrN1EW9s2kyZ1OWpkhd
 source_link: https://drive.google.com/file/d/1crCdDlmfrU6pdfrN1EW9s2kyZ1OWpkhd/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "broadcast"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "bernie-hobbs", "broadcast", "chris-russell", "james-ologhlin", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/james-ologhlin
+    - entities/bernie-hobbs
+    - entities/chris-russell
     - entities/abc
+    - entities/the-new-inventors
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
   - entities/abc
+  - entities/bernie-hobbs
+  - entities/chris-russell
+  - entities/james-ologhlin
+  - entities/the-new-inventors
 ---
 # The New Inventors-20090805200000.mp4
 
@@ -28,7 +36,11 @@ This recording is a broadcast of the Australian Broadcasting Corporation program
 - See summary above.
 
 ## Named Entities
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/bernie-hobbs]] (Bernie Hobbs)
+- [[entities/chris-russell]] (Chris Russell)
 - [[entities/abc]] (ABC)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

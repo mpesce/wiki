@@ -6,16 +6,18 @@ drive_id: 19F4kzWSLspScnla6zHaU-z0f0QISheMd
 source_link: https://drive.google.com/file/d/19F4kzWSLspScnla6zHaU-z0f0QISheMd/view?usp=drivesdk
 type: podcast
 date: 2004
-tags: ["hyperdistribution", "mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["battlestar-galactica", "hyperdistribution", "mark-pesce"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/battlestar-galactica
   concepts:
     - concepts/hyperdistribution
 related:
   - concepts/hyperdistribution
+  - entities/battlestar-galactica
   - entities/mark-pesce
 ---
 # Piracy_is_Good 2.mp4
@@ -29,6 +31,7 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/battlestar-galactica]] (Battlestar Galactica)
 
 ## Related Concepts
 - [[concepts/hyperdistribution]] — Hyperdistribution

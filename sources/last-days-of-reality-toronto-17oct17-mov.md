@@ -6,15 +6,16 @@ drive_id: 11L1WN5RFXkorpgE7b_b0SyelgiY4kNpl
 source_link: https://drive.google.com/file/d/11L1WN5RFXkorpgE7b_b0SyelgiY4kNpl/view?usp=drivesdk
 type: keynote
 date: 2017-10-17
-tags: ["ar", "facebook", "google", "mark-pesce", "surveillance"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["ar", "facebook", "google", "mark-pesce", "pokemon-go", "surveillance"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/google
     - entities/facebook
     - entities/ar
+    - entities/pokemon-go
   concepts:
     - concepts/surveillance
 related:
@@ -23,6 +24,7 @@ related:
   - entities/facebook
   - entities/google
   - entities/mark-pesce
+  - entities/pokemon-go
 ---
 # Last Days of Reality Toronto 17Oct17.mov
 
@@ -38,6 +40,7 @@ This recording is a keynote address delivered by Mark Pesce, a media and technol
 - [[entities/google]] (Google)
 - [[entities/facebook]] (Facebook)
 - [[entities/ar]] (AR)
+- [[entities/pokemon-go]] (Pokemon Go)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

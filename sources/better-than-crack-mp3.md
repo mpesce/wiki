@@ -5,13 +5,14 @@ title: Better-Than-Crack.mp3
 drive_id: 122Utdvfn8w7sZIa6UOc_hHpeTEFFofvZ
 source_link: https://drive.google.com/file/d/122Utdvfn8w7sZIa6UOc_hHpeTEFFofvZ/view?usp=drivesdk
 type: keynote
-date: unknown
-tags: ["connectivity", "mark-pesce", "networks", "social-networks"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+date: 1993
+tags: ["connectivity", "mark-pesce", "networks", "social-networks", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/world-wide-web
   concepts:
     - concepts/social-networks
     - concepts/networks
@@ -21,6 +22,7 @@ related:
   - concepts/networks
   - concepts/social-networks
   - entities/mark-pesce
+  - entities/world-wide-web
 ---
 # Better-Than-Crack.mp3
 
@@ -33,6 +35,7 @@ This recording is a keynote lecture delivered by Mark Pesce, an honorary associa
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks

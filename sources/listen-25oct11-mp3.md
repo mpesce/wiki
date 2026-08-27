@@ -6,12 +6,13 @@ drive_id: 1DwTOa-N9LTFDevpu77ZRRLEoxuHbOiid
 source_link: https://drive.google.com/file/d/1DwTOa-N9LTFDevpu77ZRRLEoxuHbOiid/view?usp=drivesdk
 type: lecture
 date: 2011-10-25
-tags: ["connectivity", "mark-pesce", "twitter"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["connectivity", "mark-pesce", "the-next-billion-seconds", "twitter"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/the-next-billion-seconds
   concepts:
     - concepts/twitter
     - concepts/connectivity
@@ -19,6 +20,7 @@ related:
   - concepts/connectivity
   - concepts/twitter
   - entities/mark-pesce
+  - entities/the-next-billion-seconds
 ---
 # Listen-25Oct11.mp3
 
@@ -31,6 +33,7 @@ This recording is a talk delivered by Mark Pesce, a media and technology comment
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 
 ## Related Concepts
 - [[concepts/twitter]] — Twitter

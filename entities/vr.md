@@ -5,7 +5,7 @@ title: VR
 tags: ["technology"]
 source_count: 23
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---
@@ -19,6 +19,8 @@ related:
 <Compile a cross-source synthesis of VR. What is consistent and what changed over time.>
 
 ## Key Facts
+- [[sources/ala-wav]] — ALA.wav
+- [[sources/reality-remix-wav]] — Reality Remix.wav
 - [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]] — VR Creative Cluster Mark Pesce 9 Aug16 video2.MP4
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]] — VR Creative Cluster Mark Pesce 9 Aug video1.MP4
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]] — VR Creative Cluster Mark Pesce 9 Aug video1_er.MP4
@@ -38,8 +40,6 @@ related:
 - [[sources/internet-transformations-5oct21-mp4]] — Internet Transformations 5Oct21.mp4
 - [[sources/introducing-mark-mp4]] — Introducing Mark.mp4
 - [[sources/vrml-interview-mp4]] — vrml-interview.mp4
-- [[sources/ala-wav]] — ALA.wav
-- [[sources/reality-remix-wav]] — Reality Remix.wav
 - [[sources/iv-markpesce-291216-mp4-cba-mp4]] — iv_MarkPesce_291216_mp4_cba.mp4
 - [[sources/monash-wav]] — Monash.wav
 
@@ -57,6 +57,8 @@ related:
 
 ## Sources
 
+- [[sources/ala-wav]]
+- [[sources/reality-remix-wav]]
 - [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]]
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]]
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]]
@@ -76,7 +78,5 @@ related:
 - [[sources/internet-transformations-5oct21-mp4]]
 - [[sources/introducing-mark-mp4]]
 - [[sources/vrml-interview-mp4]]
-- [[sources/ala-wav]]
-- [[sources/reality-remix-wav]]
 - [[sources/iv-markpesce-291216-mp4-cba-mp4]]
 - [[sources/monash-wav]]

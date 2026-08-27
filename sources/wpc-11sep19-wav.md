@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/18pFPgDdg7Z7wPOh8HEESTC8eASv22BEY/v
 type: keynote
 date: 2019-09-11
 tags: ["artificial-intelligence", "collaboration", "connectivity", "mark-pesce", "participation", "the-future", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

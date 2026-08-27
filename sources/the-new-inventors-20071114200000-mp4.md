@@ -6,12 +6,13 @@ drive_id: 1BZil75JuANLXTm6wgiqWfnzT7kwDbIRx
 source_link: https://drive.google.com/file/d/1BZil75JuANLXTm6wgiqWfnzT7kwDbIRx/view?usp=drivesdk
 type: interview
 date: 2007
-tags: ["abc", "broadcast", "connectivity", "education"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "broadcast", "connectivity", "education", "radio-national"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/abc
+    - entities/radio-national
   concepts:
     - concepts/education
     - concepts/broadcast
@@ -21,6 +22,7 @@ related:
   - concepts/connectivity
   - concepts/education
   - entities/abc
+  - entities/radio-national
 ---
 # The New Inventors-20071114200000.mp4
 
@@ -33,6 +35,7 @@ This recording is a segment from an Australian news broadcast, likely ABC Radio 
 
 ## Named Entities
 - [[entities/abc]] (ABC)
+- [[entities/radio-national]] (Radio National)
 
 ## Related Concepts
 - [[concepts/education]] — Education

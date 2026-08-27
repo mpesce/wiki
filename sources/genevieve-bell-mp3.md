@@ -6,17 +6,19 @@ drive_id: 1e4p_vnUduMsTm_xW2J1m-P3iBkEHRQpC
 source_link: https://drive.google.com/file/d/1e4p_vnUduMsTm_xW2J1m-P3iBkEHRQpC/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["mark-pesce", "podcast"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["mark-pesce", "podcast", "the-next-billion-seconds"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/the-next-billion-seconds
   concepts:
     - concepts/podcast
 related:
   - concepts/podcast
   - entities/mark-pesce
+  - entities/the-next-billion-seconds
 ---
 # Genevieve Bell.mp3
 
@@ -29,6 +31,7 @@ This recording is a pre-interview briefing and partial interview for the podcast
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 
 ## Related Concepts
 - [[concepts/podcast]] — Podcasting

@@ -6,16 +6,20 @@ drive_id: 1f08Z0lmljvxG4V-DhTRtOkXaXQkfAfmd
 source_link: https://drive.google.com/file/d/1f08Z0lmljvxG4V-DhTRtOkXaXQkfAfmd/view?usp=drivesdk
 type: panel
 date: 2008
-tags: []
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["alison-page", "chris-russell", "james-ologhlin"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/james-ologhlin
+    - entities/chris-russell
+    - entities/alison-page
   concepts:
     - (none)
 related:
-  - (none)
+  - entities/alison-page
+  - entities/chris-russell
+  - entities/james-ologhlin
 ---
 # The New Inventors-20081126200000.mp4
 
@@ -27,7 +31,9 @@ This recording is the 2008 Grand Final of the Australian television program New 
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/chris-russell]] (Chris Russell)
+- [[entities/alison-page]] (Alison Page)
 
 ## Related Concepts
 - (none identified)

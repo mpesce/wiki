@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1pRqmF5YXslaZvYPFcbprJw4U-CZxq0fP/v
 type: news
 date: unknown
 tags: ["apple", "blockchain", "mark-pesce", "peer-to-peer", "smart-contracts", "startups", "venture-capital"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

@@ -5,7 +5,7 @@ title: Social networks
 tags: ["concept"]
 source_count: 37
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---
@@ -19,6 +19,7 @@ related:
 <Synthesize how Social networks is treated across the corpus. Themes, debates, evolution.>
 
 ## Key Points
+- [[sources/better-than-crack-mp3]] — Better-Than-Crack.mp3
 - [[sources/hypercasting-mp3]] — hypercasting.mp3
 - [[sources/whereintheworld-mp3]] — whereintheworld.mp3
 - [[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]] — 1-01 _The Kids are Alright_ - Kincoppal-Rose Bay School.mp3
@@ -46,7 +47,6 @@ related:
 - [[sources/the-nuclear-option-mp4]] — The Nuclear Option.mp4
 - [[sources/1-dia-markpesce-1-mp3]] — 1_DIA_MarkPesce (1).mp3
 - [[sources/1-dia-markpesce-mp3]] — 1_DIA_MarkPesce.mp3
-- [[sources/better-than-crack-mp3]] — Better-Than-Crack.mp3
 - [[sources/whenimsixtyfour-part2-mov]] — WhenImSixtyFour-part2.mov
 - [[sources/whenimsixtyfour-part3-mov]] — WhenImSixtyFour-part3.mov
 - [[sources/the-human-use-of-human-networks-1-mp3]] — The Human Use of Human Networks (1).mp3
@@ -63,6 +63,7 @@ related:
 
 ## Sources
 
+- [[sources/better-than-crack-mp3]]
 - [[sources/hypercasting-mp3]]
 - [[sources/whereintheworld-mp3]]
 - [[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]]
@@ -90,7 +91,6 @@ related:
 - [[sources/the-nuclear-option-mp4]]
 - [[sources/1-dia-markpesce-1-mp3]]
 - [[sources/1-dia-markpesce-mp3]]
-- [[sources/better-than-crack-mp3]]
 - [[sources/whenimsixtyfour-part2-mov]]
 - [[sources/whenimsixtyfour-part3-mov]]
 - [[sources/the-human-use-of-human-networks-1-mp3]]

@@ -5,30 +5,34 @@ title: ALA.wav
 drive_id: 1cYD1ES9CeHZMAAZymcUlalZjq0QTxY2z
 source_link: https://drive.google.com/file/d/1cYD1ES9CeHZMAAZymcUlalZjq0QTxY2z/view?usp=drivesdk
 type: news
-date: unknown
-tags: ["3d", "apple", "mark-pesce", "microsoft", "mozilla", "virtual-reality", "vr", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+date: 1989
+tags: ["3d", "apple", "ivan-sutherland", "mark-pesce", "microsoft", "mozilla", "virtual-reality", "vr", "vrml", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/ivan-sutherland
     - entities/apple
     - entities/mozilla
     - entities/microsoft
     - entities/vrml
     - entities/3d
     - entities/vr
+    - entities/world-wide-web
   concepts:
     - concepts/virtual-reality
 related:
   - concepts/virtual-reality
   - entities/3d
   - entities/apple
+  - entities/ivan-sutherland
   - entities/mark-pesce
   - entities/microsoft
   - entities/mozilla
   - entities/vr
   - entities/vrml
+  - entities/world-wide-web
 ---
 # ALA.wav
 
@@ -41,12 +45,14 @@ This recording is a technology talk delivered by Mark Pesce, who introduces hims
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/ivan-sutherland]] (Ivan Sutherland)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
 - [[entities/microsoft]] (Microsoft)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
 - [[entities/vr]] (VR)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

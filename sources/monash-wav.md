@@ -6,16 +6,18 @@ drive_id: 1RucGYudGgk9sBjNrH9w_DrnlyyjqOtFx
 source_link: https://drive.google.com/file/d/1RucGYudGgk9sBjNrH9w_DrnlyyjqOtFx/view?usp=drivesdk
 type: podcast
 date: unknown
-tags: ["communication", "mark-pesce", "monash", "participation", "virtual-reality", "vr", "vrml", "wired"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["communication", "mark-pesce", "monash", "participation", "the-new-inventors", "virtual-reality", "vr", "vrml", "webgl", "wired"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/wired
     - entities/monash
+    - entities/the-new-inventors
     - entities/vrml
     - entities/vr
+    - entities/webgl
   concepts:
     - concepts/virtual-reality
     - concepts/communication
@@ -26,8 +28,10 @@ related:
   - concepts/virtual-reality
   - entities/mark-pesce
   - entities/monash
+  - entities/the-new-inventors
   - entities/vr
   - entities/vrml
+  - entities/webgl
   - entities/wired
 ---
 # Monash.wav
@@ -43,8 +47,10 @@ This recording is a lecture delivered by Mark Pesce to an audience of university
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/wired]] (Wired)
 - [[entities/monash]] (Monash)
+- [[entities/the-new-inventors]] (The New Inventors)
 - [[entities/vrml]] (VRML)
 - [[entities/vr]] (VR)
+- [[entities/webgl]] (WebGL)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

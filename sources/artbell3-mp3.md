@@ -6,19 +6,21 @@ drive_id: 1O98ZOHw3Uf6mipf2xp6qpQUCX1Ut-bu8
 source_link: https://drive.google.com/file/d/1O98ZOHw3Uf6mipf2xp6qpQUCX1Ut-bu8/view?usp=drivesdk
 type: interview
 date: 2005
-tags: ["mark-pesce", "mit", "virtual-reality"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["mark-pesce", "mit", "virtual-reality", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/mit
+    - entities/world-wide-web
   concepts:
     - concepts/virtual-reality
 related:
   - concepts/virtual-reality
   - entities/mark-pesce
   - entities/mit
+  - entities/world-wide-web
 ---
 # artbell3.mp3
 
@@ -32,6 +34,7 @@ This recording is an interview segment from the radio program Coast to Coast AM,
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/mit]] (MIT)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

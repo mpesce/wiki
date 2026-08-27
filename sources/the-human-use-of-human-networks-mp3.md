@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/17gPrSa39g8sbHeKBf-V0HQwp73TBv7Fv/v
 type: interview
 date: unknown
 tags: ["attention", "content-creation", "mark-pesce", "networks", "peer-to-peer", "social-networks"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

@@ -6,17 +6,25 @@ drive_id: 14mJJ9EX_htqUMOcGKeQ0pJqub_d7-lsR
 source_link: https://drive.google.com/file/d/14mJJ9EX_htqUMOcGKeQ0pJqub_d7-lsR/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["mark-pesce", "social-media"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["james-bradfield-moody", "james-ologhlin", "mark-pesce", "social-media", "the-new-inventors", "veena-sahajwala"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/james-ologhlin
+    - entities/james-bradfield-moody
+    - entities/veena-sahajwala
+    - entities/the-new-inventors
   concepts:
     - concepts/social-media
 related:
   - concepts/social-media
+  - entities/james-bradfield-moody
+  - entities/james-ologhlin
   - entities/mark-pesce
+  - entities/the-new-inventors
+  - entities/veena-sahajwala
 ---
 # The New Inventors-20091007200000.mp4
 
@@ -29,6 +37,10 @@ This recording is an episode of the Australian television program The New Invent
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/james-bradfield-moody]] (James Bradfield Moody)
+- [[entities/veena-sahajwala]] (Veena Sahajwala)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

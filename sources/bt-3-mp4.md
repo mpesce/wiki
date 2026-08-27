@@ -6,17 +6,19 @@ drive_id: 1qbgP26taYoYZsagda9xTFiufKSGf1NCb
 source_link: https://drive.google.com/file/d/1qbgP26taYoYZsagda9xTFiufKSGf1NCb/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["identity", "mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["identity", "mark-pesce", "terence-mckenna"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/terence-mckenna
   concepts:
     - concepts/identity
 related:
   - concepts/identity
   - entities/mark-pesce
+  - entities/terence-mckenna
 ---
 # bt-3.mp4
 
@@ -29,6 +31,7 @@ This recording is a philosophical lecture or talk by Mark Pesce, exploring the c
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/terence-mckenna]] (Terence McKenna)
 
 ## Related Concepts
 - [[concepts/identity]] — Identity

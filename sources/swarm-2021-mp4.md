@@ -6,12 +6,13 @@ drive_id: 1tdnzuQ2rhrxSmyew7xgeUrrFgMDupdl8
 source_link: https://drive.google.com/file/d/1tdnzuQ2rhrxSmyew7xgeUrrFgMDupdl8/view?usp=drivesdk
 type: interview
 date: 2021
-tags: ["facebook", "mark-pesce", "metaverse", "the-future", "virtual-reality", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["facebook", "mark-pesce", "metaverse", "the-future", "tony-parisi", "virtual-reality", "vrml"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/tony-parisi
     - entities/facebook
     - entities/vrml
     - entities/metaverse
@@ -24,6 +25,7 @@ related:
   - entities/facebook
   - entities/mark-pesce
   - entities/metaverse
+  - entities/tony-parisi
   - entities/vrml
 ---
 # Swarm 2021.mp4
@@ -37,6 +39,7 @@ This recording is an interview with Mark Pesce, a veteran of the virtual reality
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/tony-parisi]] (Tony Parisi)
 - [[entities/facebook]] (Facebook)
 - [[entities/vrml]] (VRML)
 - [[entities/metaverse]] (the Metaverse)

@@ -6,13 +6,14 @@ drive_id: 1IKai_ZZZFEZcaBupssJsGeQqyTSjTXqZ
 source_link: https://drive.google.com/file/d/1IKai_ZZZFEZcaBupssJsGeQqyTSjTXqZ/view?usp=drivesdk
 type: interview
 date: 2010
-tags: ["abc", "communication", "connectivity", "innovation", "mark-pesce", "networks", "the-future", "virtual-reality"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "communication", "connectivity", "innovation", "mark-pesce", "networks", "the-future", "virtual-reality", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/abc
+    - entities/world-wide-web
   concepts:
     - concepts/the-future
     - concepts/virtual-reality
@@ -29,6 +30,7 @@ related:
   - concepts/virtual-reality
   - entities/abc
   - entities/mark-pesce
+  - entities/world-wide-web
 ---
 # Guestroom - Futurist Mark Pesce.mp3
 
@@ -42,6 +44,7 @@ This recording is an interview from the ABC Local Online radio program The Guest
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/abc]] (ABC)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

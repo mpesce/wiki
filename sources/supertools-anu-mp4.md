@@ -6,19 +6,21 @@ drive_id: 1LoYw8CRzGfu8pObCCEPz_SiRwXscgvYK
 source_link: https://drive.google.com/file/d/1LoYw8CRzGfu8pObCCEPz_SiRwXscgvYK/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["apple", "artificial-intelligence", "mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "artificial-intelligence", "mark-pesce", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
+    - entities/world-wide-web
   concepts:
     - concepts/artificial-intelligence
 related:
   - concepts/artificial-intelligence
   - entities/apple
   - entities/mark-pesce
+  - entities/world-wide-web
 ---
 # Supertools-ANU.mp4
 
@@ -32,6 +34,7 @@ This recording is a keynote talk delivered by Mark Pesce, a technology commentat
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

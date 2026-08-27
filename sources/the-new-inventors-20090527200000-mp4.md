@@ -6,17 +6,25 @@ drive_id: 1oXdFVOiODxwLtkzLRNZt0k7oU-gpr9En
 source_link: https://drive.google.com/file/d/1oXdFVOiODxwLtkzLRNZt0k7oU-gpr9En/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["broadcast", "mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["broadcast", "james-ologhlin", "mark-pesce", "sally-deminks", "the-new-inventors", "veena-sahajwala"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/james-ologhlin
+    - entities/sally-deminks
+    - entities/veena-sahajwala
+    - entities/the-new-inventors
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
+  - entities/james-ologhlin
   - entities/mark-pesce
+  - entities/sally-deminks
+  - entities/the-new-inventors
+  - entities/veena-sahajwala
 ---
 # The New Inventors-20090527200000.mp4
 
@@ -29,6 +37,10 @@ This recording is an episode of the Australian television program The New Invent
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/sally-deminks]] (Sally Deminks)
+- [[entities/veena-sahajwala]] (Veena Sahajwala)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

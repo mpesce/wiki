@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1NaiP5dT71ysAxoh08Z5QzfT0tr1EWbG0/v
 type: panel
 date: 2010
 tags: ["connectivity", "mark-pesce", "open-source"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

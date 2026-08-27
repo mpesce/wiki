@@ -6,14 +6,16 @@ drive_id: 1Yx54f9lAe9V8w8XqK9y1BiFD_JYVarPQ
 source_link: https://drive.google.com/file/d/1Yx54f9lAe9V8w8XqK9y1BiFD_JYVarPQ/view?usp=drivesdk
 type: interview
 date: 2017-05-05
-tags: ["abc", "apple", "google", "networks", "surveillance", "trust"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "apple", "google", "mark-pesce", "networks", "radio-national", "surveillance", "trust"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/mark-pesce
     - entities/apple
     - entities/google
     - entities/abc
+    - entities/radio-national
   concepts:
     - concepts/surveillance
     - concepts/trust
@@ -25,6 +27,8 @@ related:
   - entities/abc
   - entities/apple
   - entities/google
+  - entities/mark-pesce
+  - entities/radio-national
 ---
 # lms_20170505_0906 families privacy.mp3
 
@@ -36,9 +40,11 @@ This recording is a segment from the ABC Radio National program Life Matters, fe
 - See summary above.
 
 ## Named Entities
+- [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/google]] (Google)
 - [[entities/abc]] (ABC)
+- [[entities/radio-national]] (Radio National)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

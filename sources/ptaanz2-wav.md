@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/19XJOu5e_uqLFDv7704KhOYdXr-kQdQKG/v
 type: keynote
 date: unknown
 tags: ["mark-pesce", "remote-work"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

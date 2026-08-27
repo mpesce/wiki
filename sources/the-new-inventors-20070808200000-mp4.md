@@ -6,16 +6,25 @@ drive_id: 10lQV0cr1Yqm0De4N6Rxa9mkkvpS3PCHb
 source_link: https://drive.google.com/file/d/10lQV0cr1Yqm0De4N6Rxa9mkkvpS3PCHb/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["alignment"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["alignment", "bernie-hobbs", "chris-russell", "james-ologhlin", "richard-vaughan", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/james-ologhlin
+    - entities/bernie-hobbs
+    - entities/chris-russell
+    - entities/richard-vaughan
+    - entities/the-new-inventors
   concepts:
     - concepts/alignment
 related:
   - concepts/alignment
+  - entities/bernie-hobbs
+  - entities/chris-russell
+  - entities/james-ologhlin
+  - entities/richard-vaughan
+  - entities/the-new-inventors
 ---
 # The New Inventors-20070808200000.mp4
 
@@ -27,7 +36,11 @@ This recording is an episode of the Australian Broadcasting Corporation televisi
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/bernie-hobbs]] (Bernie Hobbs)
+- [[entities/chris-russell]] (Chris Russell)
+- [[entities/richard-vaughan]] (Richard Vaughan)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/alignment]] — AI alignment

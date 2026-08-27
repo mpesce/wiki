@@ -6,17 +6,25 @@ drive_id: 1uuy7rB48I6K9Td9ZQMEyCs1-EVpBtb8I
 source_link: https://drive.google.com/file/d/1uuy7rB48I6K9Td9ZQMEyCs1-EVpBtb8I/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "broadcast"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "alison-page", "broadcast", "chris-russell", "the-new-inventors", "veena-sahajwala"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/chris-russell
+    - entities/alison-page
+    - entities/veena-sahajwala
     - entities/abc
+    - entities/the-new-inventors
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
   - entities/abc
+  - entities/alison-page
+  - entities/chris-russell
+  - entities/the-new-inventors
+  - entities/veena-sahajwala
 ---
 # The New Inventors-20071107200000.mp4
 
@@ -28,7 +36,11 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
+- [[entities/chris-russell]] (Chris Russell)
+- [[entities/alison-page]] (Alison Page)
+- [[entities/veena-sahajwala]] (Veena Sahajwala)
 - [[entities/abc]] (ABC)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

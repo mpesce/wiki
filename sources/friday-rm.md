@@ -6,18 +6,24 @@ drive_id: 1nxOXodHLSTpCWMDCqdKRoeEvqVNe9gIu
 source_link: https://drive.google.com/file/d/1nxOXodHLSTpCWMDCqdKRoeEvqVNe9gIu/view?usp=drivesdk
 type: workshop
 date: 2001
-tags: ["douglas-rushkoff", "mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["douglas-rushkoff", "erik-davis", "esalen", "mark-pesce", "terence-mckenna"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/douglas-rushkoff
+    - entities/erik-davis
+    - entities/terence-mckenna
+    - entities/esalen
   concepts:
     - (none)
 related:
   - entities/douglas-rushkoff
+  - entities/erik-davis
+  - entities/esalen
   - entities/mark-pesce
+  - entities/terence-mckenna
 ---
 # Friday.rm
 
@@ -31,6 +37,9 @@ Opening session of 'Trialogues for a New Millennium' (Esalen, 2001) — a multi-
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/douglas-rushkoff]] (Douglas Rushkoff)
+- [[entities/erik-davis]] (Erik Davis)
+- [[entities/terence-mckenna]] (Terence McKenna)
+- [[entities/esalen]] (Esalen Institute)
 
 ## Related Concepts
 - (none identified)

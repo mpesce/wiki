@@ -6,13 +6,15 @@ drive_id: 1aiodh1OalvRXhCr0srbhliaEAGiH3BbC
 source_link: https://drive.google.com/file/d/1aiodh1OalvRXhCr0srbhliaEAGiH3BbC/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["abc", "artificial-intelligence", "mark-pesce", "open-source", "podcast", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "artificial-intelligence", "mark-pesce", "open-source", "podcast", "the-future", "the-next-billion-seconds", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/abc
+    - entities/the-next-billion-seconds
+    - entities/world-wide-web
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
@@ -25,6 +27,8 @@ related:
   - concepts/the-future
   - entities/abc
   - entities/mark-pesce
+  - entities/the-next-billion-seconds
+  - entities/world-wide-web
 ---
 # OzWater.wav
 
@@ -38,6 +42,8 @@ This recording captures a keynote address by Mark Pesce, an inventor, author, an
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/abc]] (ABC)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

@@ -6,17 +6,23 @@ drive_id: 1qIOnUBJ6ZBVfk7Gir5K83ucRkmFa8z-b
 source_link: https://drive.google.com/file/d/1qIOnUBJ6ZBVfk7Gir5K83ucRkmFa8z-b/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["abc", "broadcast"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["abc", "broadcast", "fiona-wood", "james-bradfield-moody", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/james-bradfield-moody
+    - entities/fiona-wood
     - entities/abc
+    - entities/the-new-inventors
   concepts:
     - concepts/broadcast
 related:
   - concepts/broadcast
   - entities/abc
+  - entities/fiona-wood
+  - entities/james-bradfield-moody
+  - entities/the-new-inventors
 ---
 # The New Inventors-20090325200000.mp4
 
@@ -28,7 +34,10 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
+- [[entities/james-bradfield-moody]] (James Bradfield Moody)
+- [[entities/fiona-wood]] (Fiona Wood)
 - [[entities/abc]] (ABC)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/broadcast]] — Broadcasting

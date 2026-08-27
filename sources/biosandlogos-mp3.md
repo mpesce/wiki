@@ -6,17 +6,19 @@ drive_id: 1MiAEl7YzDJS8K72VxeJRAoygO2GWuZYN
 source_link: https://drive.google.com/file/d/1MiAEl7YzDJS8K72VxeJRAoygO2GWuZYN/view?usp=drivesdk
 type: interview
 date: unknown
-tags: ["communication", "mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["communication", "mark-pesce", "terence-mckenna"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/terence-mckenna
   concepts:
     - concepts/communication
 related:
   - concepts/communication
   - entities/mark-pesce
+  - entities/terence-mckenna
 ---
 # BiosAndLogos.mp3
 
@@ -29,6 +31,7 @@ This recording is a lecture or talk by Mark Pesce, likely delivered at the Alche
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/terence-mckenna]] (Terence McKenna)
 
 ## Related Concepts
 - [[concepts/communication]] — Communication

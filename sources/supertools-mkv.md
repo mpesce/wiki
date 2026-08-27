@@ -6,13 +6,14 @@ drive_id: 1Duqn42aIILgJBjeRfqP77F4TewdobeAT
 source_link: https://drive.google.com/file/d/1Duqn42aIILgJBjeRfqP77F4TewdobeAT/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["ar", "artificial-intelligence", "attention", "mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["ar", "artificial-intelligence", "attention", "mark-pesce", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/ar
+    - entities/world-wide-web
   concepts:
     - concepts/artificial-intelligence
     - concepts/attention
@@ -21,6 +22,7 @@ related:
   - concepts/attention
   - entities/ar
   - entities/mark-pesce
+  - entities/world-wide-web
 ---
 # supertools.mkv
 
@@ -34,6 +36,7 @@ This recording is a keynote talk delivered by Mark Pesce, a media and technology
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/ar]] (AR)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/artificial-intelligence]] — Artificial intelligence

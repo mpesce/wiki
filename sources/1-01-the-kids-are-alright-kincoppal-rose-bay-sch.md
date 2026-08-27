@@ -6,9 +6,9 @@ drive_id: 1mTBWZGZqQ0hTM7NqVo9yXwVulKZ36C3l
 source_link: https://drive.google.com/file/d/1mTBWZGZqQ0hTM7NqVo9yXwVulKZ36C3l/view?usp=drivesdk
 type: podcast
 date: 2000
-tags: ["apple", "communication", "education", "google", "mark-pesce", "mit", "mozilla", "networks", "participation", "social-networks"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "communication", "education", "google", "mark-pesce", "mit", "mozilla", "networks", "participation", "social-networks", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -16,6 +16,7 @@ mentions:
     - entities/mozilla
     - entities/google
     - entities/mit
+    - entities/world-wide-web
   concepts:
     - concepts/social-networks
     - concepts/networks
@@ -33,6 +34,7 @@ related:
   - entities/mark-pesce
   - entities/mit
   - entities/mozilla
+  - entities/world-wide-web
 ---
 # 1-01 _The Kids are Alright_ - Kincoppal-Rose Bay School.mp3
 
@@ -49,6 +51,7 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 - [[entities/mozilla]] (Mozilla)
 - [[entities/google]] (Google)
 - [[entities/mit]] (MIT)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks

@@ -6,12 +6,13 @@ drive_id: 1qQrBmV27KD689YYaJZn9jnwh0dX188pV
 source_link: https://drive.google.com/file/d/1qQrBmV27KD689YYaJZn9jnwh0dX188pV/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["ar", "facebook", "social-media", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["ar", "facebook", "social-media", "the-future", "the-next-billion-seconds"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/facebook
+    - entities/the-next-billion-seconds
     - entities/ar
   concepts:
     - concepts/the-future
@@ -21,6 +22,7 @@ related:
   - concepts/the-future
   - entities/ar
   - entities/facebook
+  - entities/the-next-billion-seconds
 ---
 # Walking with the Ancestors.mp3
 
@@ -33,6 +35,7 @@ Talk for a memorials/celebrant industry audience. Mark starts by debunking the '
 
 ## Named Entities
 - [[entities/facebook]] (Facebook)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 - [[entities/ar]] (AR)
 
 ## Related Concepts

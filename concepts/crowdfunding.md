@@ -5,7 +5,7 @@ title: Crowdfunding
 tags: ["concept"]
 source_count: 1
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---

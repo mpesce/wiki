@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/19EyoIli4n1Xii1_eQJmbxX1-hWL6yA55/v
 type: panel
 date: 2004
 tags: ["education", "facebook", "mark-pesce", "networks", "social-media", "social-networks"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

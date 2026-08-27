@@ -5,7 +5,7 @@ title: AR
 tags: ["technology"]
 source_count: 21
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---
@@ -21,6 +21,7 @@ related:
 ## Key Facts
 - [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]] — VR Creative Cluster Mark Pesce 9 Aug16 video2.MP4
 - [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]] — Pesce - SIGGRAPH FRONTIERS - The AR Dilemmas.mp4
+- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] — Mark Pesce - Digital Depth in Augmented Reality.mp4
 - [[sources/last-days-of-reality-toronto-17oct17-mov]] — Last Days of Reality Toronto 17Oct17.mov
 - [[sources/arin6904-5sep18-mp3]] — ARIN6904 5Sep18.mp3
 - [[sources/the-world-and-its-double-deco-2200-mp3]] — The World and Its Double DECO 2200.mp3
@@ -39,7 +40,6 @@ related:
 - [[sources/a-digital-reformation-wav]] — A Digital Reformation.wav
 - [[sources/supertools-mkv]] — supertools.mkv
 - [[sources/bill-martens-wav]] — Bill Martens.wav
-- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] — Mark Pesce - Digital Depth in Augmented Reality.mp4
 
 ## In the Corpus
 
@@ -57,6 +57,7 @@ related:
 
 - [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]]
 - [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]]
+- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]]
 - [[sources/last-days-of-reality-toronto-17oct17-mov]]
 - [[sources/arin6904-5sep18-mp3]]
 - [[sources/the-world-and-its-double-deco-2200-mp3]]
@@ -75,4 +76,3 @@ related:
 - [[sources/a-digital-reformation-wav]]
 - [[sources/supertools-mkv]]
 - [[sources/bill-martens-wav]]
-- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]]

@@ -3,9 +3,9 @@ kind: entity
 slug: mark-pesce
 title: Mark Pesce
 tags: ["person"]
-source_count: 388
+source_count: 401
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---
@@ -13,9 +13,11 @@ related:
 # Mark Pesce
 
 ## TL;DR
+
 Mark Pesce is the subject of the corpus: a Sydney-based futurist, inventor, educator and broadcaster whose arc runs from consumer-VR startup founder and VRML co-inventor (1991-1997), through hyperdistribution theory and a decade as the ABC's on-air technology judge, to books, podcasts and, after 2023, warnings about the agentic-AI era.
 
 ## Overview
+
 Across the corpus Mark Pesce appears as speaker, subject, or interviewer in hundreds of recordings spanning the early 1990s to the mid-2020s, and his self-presentation is remarkably stable: from the 2000s onward he is introduced — and introduces himself — as a "former Apple and Mozilla engineer," VRML co-inventor, author, and futurist ([[sources/friday-mp3]], [[sources/hypereconomics-flv]]). The career résumé that recurs across talks is consistent: Ono-Sendai, the first consumer VR company in the United States, founded in 1991, whose low-cost orientation tracking was licensed to Sega before the project's July 1993 cancellation collapsed the company ([[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]]); his discovery of the World Wide Web in the same month; and, in early 1994, the first VRML browser built with Tony Parisi ([[sources/mark-pesce-session-1-wav]]).
 
 The 1994-1997 material centers on that VRML era: presenting at the first International World Wide Web conference at CERN in May 1994 and the SIGGRAPH 1994 demonstration that digitized the US Holocaust Memorial Museum's "Daniel's Story" exhibition ([[sources/mark-pesce-session-1-wav]]), then the community-driven standardization effort described at the Avatars!96 conference ([[sources/avatars96-keynotes-pesce-parisi-512kb-mp4]]). Looking back at linux.conf.au 2011, he drew the era's lesson explicitly — VRML succeeded because it was open-sourced, and "shared resources increase in value," a philosophy he carried into his later work as educator, author, and commentator ([[sources/lca2011-keynote-mov]]).
@@ -25,14 +27,20 @@ From the mid-2000s the emphasis shifts to hyperdistribution. Lectures tracing th
 From about 2010 the corpus pivots to The Next Billion Seconds — his argument that hyperconnectivity between 1995 and 2026 is transforming markets, education, and family life as profoundly as the birth of language ([[sources/hypereconomics-flv]]) — then to augmented reality ("digital depth," the "right to write," Pokémon Go as proof of concept) ([[sources/internet-transformations-5oct21-mp4]]), and finally to AI. His 2025 address to tertiary educators treats ChatGPT's release as a disruption comparable to the web itself, warns that entry-level knowledge work is already collapsing, and proposes "resistance" to automation as the measure of a durable career ([[sources/facing-the-machine-ibsuniversity-27jun25-mp4]]). The through-lines never change — openness, networks over gatekeepers, sharing as value creation — while the subject matter migrates from building 3D standards, to explaining hyperconnectivity, to warning about machines that use their users.
 
 ## Key Facts
+- [[sources/ala-wav]] — ALA.wav
+- [[sources/reality-remix-wav]] — Reality Remix.wav
 - [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]] — VR Creative Cluster Mark Pesce 9 Aug16 video2.MP4
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]] — VR Creative Cluster Mark Pesce 9 Aug video1.MP4
+- [[sources/better-than-crack-1-mp3]] — Better-Than-Crack (1).mp3
+- [[sources/better-than-crack-mp3]] — Better-Than-Crack.mp3
 - [[sources/mark-pesce-session-1-wav]] — Mark Pesce session 1.wav
 - [[sources/dense-and-thick-mp4]] — dense-and-thick.mp4
 - [[sources/dense-and-thick-mp4-2]] — dense-and-thick.mp4
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]] — VR Creative Cluster Mark Pesce 9 Aug video1_er.MP4
 - [[sources/hypercasting-mp3]] — hypercasting.mp3
 - [[sources/whereintheworld-mp3]] — whereintheworld.mp3
+- [[sources/mark-pesce-session-2-wav]] — Mark Pesce session 2.wav
+- [[sources/cybersamhain-to-chatgpt-1080p-mp4]] — Cybersamhain to ChatGPT 1080p.mp4
 - [[sources/sca-wav]] — SCA.wav
 - [[sources/technospirit-mkv]] — technospirit.mkv
 - [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]] — Pesce - SIGGRAPH FRONTIERS - The AR Dilemmas.mp4
@@ -45,6 +53,7 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/singularity-summit-mp4]] — singularity_summit.mp4
 - [[sources/3-01-the-audio-tour-mp3]] — 3-01 The Audio Tour.mp3
 - [[sources/4-02-hyperdistribution-mp3]] — 4-02 Hyperdistribution.mp3
+- [[sources/1-02-libraries-in-the-age-of-infinite-media-mp3]] — 1-02 Libraries in the Age of Infinite Media.mp3
 - [[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]] — 1-01 _The Kids are Alright_ - Kincoppal-Rose Bay School.mp3
 - [[sources/johnhalpern-lsdsymposium-wmv]] — JohnHalpern-LSDsymposium.wmv
 - [[sources/friday-rm]] — Friday.rm
@@ -59,6 +68,7 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/techno-pagans-at-the-end-of-history-11-esalen-mp]] — Techno-Pagans at the End of History 11(Esalen).mp3
 - [[sources/techno-pagans-at-the-end-of-history-4-esalen-mp3]] — Techno-Pagans at the End of History 4(Esalen).mp3
 - [[sources/techno-pagans-at-the-end-of-history-8-esalen-mp3]] — Techno-Pagans at the End of History 8(Esalen).mp3
+- [[sources/uq-wav]] — UQ.wav
 - [[sources/mindstates2003-mp3]] — Mindstates2003.mp3
 - [[sources/hyperpeople-mp3]] — hyperpeople.mp3
 - [[sources/hyperpeople-mobile-mp4]] — hyperpeople-mobile.mp4
@@ -72,6 +82,7 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/hyperpeople-mp4]] — hyperpeople.mp4
 - [[sources/piracyisgood-avi]] — PiracyIsGood.avi
 - [[sources/artbell3-mp3]] — artbell3.mp3
+- [[sources/forum-just-shoot-it-part1-2005-mp3]] — forum-just-shoot-it-part1-2005.mp3
 - [[sources/the-swarm-parts-i-ii-and-iii-mp3]] — The Swarm (Parts I, II, and III).mp3
 - [[sources/newinventors-mp4]] — newinventors.mp4
 - [[sources/the-new-inventors-20070425200000-mp4]] — The New Inventors-20070425200000.mp4
@@ -83,6 +94,7 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/notquiteart-2008-ep02-mp4]] — notquiteart_2008_ep02.mp4
 - [[sources/alcove-interview-23jun08-m4v]] — alcove-interview-23Jun08.m4v
 - [[sources/jjj-hack-future-3dec08-mp3]] — JJJ_HACK_FUTURE_3Dec08.mp3
+- [[sources/the-new-inventors-20090204200000-mp4]] — The New Inventors-20090204200000.mp4
 - [[sources/afternoon-live-mov]] — Afternoon Live.mov
 - [[sources/afternoon-live-mov-2]] — Afternoon Live.mov
 - [[sources/pdf-pdf2009markpesce112-mov]] — Pdf-PDF2009MarkPesce112.mov
@@ -150,6 +162,7 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/new-cities-new-economies-wav]] — New Cities : New Economies.wav
 - [[sources/cfo-wav]] — CFO.wav
 - [[sources/launch-festival-2016-awards-ceremony-xs1cy6hj4pu]] — LAUNCH Festival 2016 Awards Ceremony-XS1CY6hJ4pU.mp4
+- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] — Mark Pesce - Digital Depth in Augmented Reality.mp4
 - [[sources/smarter-money-19oct16-mp3]] — Smarter Money 19Oct16.mp3
 - [[sources/web3d2017-mp3]] — Web3D2017.mp3
 - [[sources/web3d2017-m4a]] — Web3D2017.m4a
@@ -157,9 +170,11 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/slv-wav]] — SLV.wav
 - [[sources/ega-wav]] — EGA.wav
 - [[sources/mark-pesce-futurist-the-last-days-of-reality-mp4]] — Mark Pesce - Futurist - The Last Days of Reality.mp4
+- [[sources/lms-20170505-0906-families-privacy-mp3]] — lms_20170505_0906 families privacy.mp3
 - [[sources/last-days-of-reality-toronto-17oct17-mov]] — Last Days of Reality Toronto 17Oct17.mov
 - [[sources/the-last-days-of-reality-ega-8dec17-mkv]] — The Last Days of Reality - EGA 8Dec17.mkv
 - [[sources/ega-mp3]] — EGA.mp3
+- [[sources/rnd-20180319-1825-mp3]] — rnd_20180319_1825.mp3
 - [[sources/fte-20180415-mp3]] — fte_20180415.mp3
 - [[sources/theroadahead-17may18-mp3]] — TheRoadAhead_17May18.mp3
 - [[sources/loreto-toorak-15aug18-mp3]] — Loreto Toorak 15Aug18.mp3
@@ -167,10 +182,12 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/accanet-12sep18-mp3]] — ACCANet 12Sep18.mp3
 - [[sources/just-so-stories-wds-1nov18-mp3]] — Just-So Stories WDS 1Nov18.mp3
 - [[sources/pesce-thesymposium-9dec18-mp4]] — Pesce-TheSymposium-9Dec18.mp4
+- [[sources/four-day-week-mp4]] — Four Day Week.mp4
 - [[sources/trench-talk-ep57-mark-pesce-mp3]] — Trench_Talk_EP57_-_Mark_Pesce.mp3
 - [[sources/asx-new-money-hvec-480p-mp4]] — ASX New Money HVEC 480p.mp4
 - [[sources/hashrate-mkv]] — hashrate.mkv
 - [[sources/asx-new-money-lbr-mp4]] — ASX New Money LBR.mp4
+- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]] — Smartsheet - Reimagining the Future of Work HEVC.mp4
 - [[sources/skype-interview-march-2019-mp4]] — Skype interview March 2019.mp4
 - [[sources/sydney-writers-festival-3may19-mp3]] — Sydney Writers Festival 3May19.mp3
 - [[sources/v20-june-2019-opening-mts]] — V20 June 2019 Opening.MTS
@@ -180,19 +197,24 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/a-series-of-tubes-wpc-11sep19-mp3]] — A Series of Tubes WPC 11Sep19.mp3
 - [[sources/wpc-11sep19-wav]] — WPC 11Sep19.wav
 - [[sources/citi-how-to-thrive-in-the-2020s-16oct19-mp3]] — Citi How to Thrive in the 2020s 16Oct19.mp3
+- [[sources/ppm-2019-10-21-tik-tok-mp3]] — ppm-2019-10-21-tik-tok.mp3
 - [[sources/unknown-knowns-31oct19-mp3]] — Unknown Knowns 31Oct19.mp3
+- [[sources/ntn-20191114-1105-should-we-really-trust-big-tec]] — ntn-20191114-1105-should_we_really_trust_big_tech_with_our_health_data-128.mp3
 - [[sources/the-bell-can-not-be-unrung-mp4]] — The Bell can not be unrung.mp4
 - [[sources/gio-pc1-mark-pesce-video-02-final-4x5-mp4]] — GIO-PC1_MARK_PESCE-VIDEO_02-FINAL-4x5.mp4
+- [[sources/gio-pc1-mark-pesce-video-01-final-4x5-mp4]] — GIO-PC1_MARK_PESCE-VIDEO_01-FINAL-4x5.mp4
 - [[sources/pesce-best-current-affairs-podcast-mp4]] — Pesce Best Current Affairs Podcast.mp4
 - [[sources/national-trust-sense-in-place-mp4]] — National Trust - 'Sense in Place'.mp4
 - [[sources/v20-day-one-mp4]] — V20 Day One.mp4
 - [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]] — Outer Space Cyberspace Digital Depth HEVC.mp4
 - [[sources/v20-day-three-mp4]] — V20 Day Three.mp4
 - [[sources/common-factor-1-future-of-work-clean-mp4]] — Common Factor 1_Future of Work_CLEAN.mp4
+- [[sources/ntn-20200402-1107-tech-during-covid-brings-out-t]] — ntn-20200402-1107-tech_during_covid_brings_out_the_bad_the_ugly_and_the_good-128.mp3
 - [[sources/pandemic-time-3ai-15may20-wav]] — Pandemic Time 3Ai 15May20.wav
 - [[sources/pandemic-time-15may20-small-mp4]] — Pandemic Time 15May20 small.mp4
 - [[sources/pandemic-time-pesce-3ai-15may20-final-mp4]] — Pandemic Time Pesce 3Ai 15May20 final.mp4
 - [[sources/pesce-pandemic-time-anu-3ai-15may20-mp4]] — Pesce Pandemic Time ANU 3Ai 15May20.mp4
+- [[sources/ntn-20200521-1105-do-track-and-trace-apps-work-t]] — ntn-20200521-1105-do_track_and_trace_apps_work_top_amazon_engineer_rage_quits-128.mp3
 - [[sources/good-shout-29may20-m4v]] — good_shout 29May20.m4v
 - [[sources/horizons-and-trajectories-4jun20-mp4]] — Horizons and Trajectories 4Jun20.mp4
 - [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]] — Horizons and Trajectories 4Jun20 YouTube 720p.mp4
@@ -202,6 +224,7 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/abc-14jul20-video-first-mp4]] — ABC 14Jul20 Video First.mp4
 - [[sources/mark-pesce-the-world-2sep20-mp4]] — Mark Pesce The World 2Sep20.mp4
 - [[sources/beyond-the-horizon-cfo-series-qld-10sep20-mp4]] — Beyond the Horizon CFO Series QLD 10Sep20.mp4
+- [[sources/weekdays-28sep20-the-social-dilemma-mp3]] — Weekdays 28Sep20 The Social Dilemma.mp3
 - [[sources/surveillance-status-arin2610-20oct20-mp4]] — Surveillance Status ARIN2610 20Oct20.mp4
 - [[sources/cfo-series-melbourne-while-you-were-out-12nov20]] — CFO Series Melbourne While You Were Out 12Nov20.mp4
 - [[sources/voices-of-vr-mark-pesce-20nov20-mp3]] — Voices of VR Mark Pesce 20Nov20.mp3
@@ -220,6 +243,7 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/post-classical-finance-cfo-series-sydney-11may21]] — Post-Classical Finance CFO Series Sydney 11May21.mp4
 - [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]] — The No Normal CFO Series NZ 8Jun21.mp4
 - [[sources/mark-pesce-alchemist-23jun21-wav]] — Mark Pesce Alchemist 23Jun21.wav
+- [[sources/mark-pesce-wtd1-28jun21-wav]] — Mark Pesce WTD1 28Jun21.wav
 - [[sources/mark-chaser-podcast-21jul21-wav]] — Mark Chaser podcast 21Jul21.wav
 - [[sources/mark-interview-29jul21-wav]] — Mark interview 29Jul21.wav
 - [[sources/josh-szeps-podcast-17aug21-wav]] — Josh Szeps podcast 17Aug21.wav
@@ -282,7 +306,6 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/a10-leaderships-one-job-mp4]] — A10_leaderships-one-job.mp4
 - [[sources/incident-mov]] — Incident.mov
 - [[sources/transition-without-wrecking-economy-mp4]] — Transition without wrecking economy.mp4
-- [[sources/1-02-libraries-in-the-age-of-infinite-media-mp3]] — 1-02 Libraries in the Age of Infinite Media.mp3
 - [[sources/congradulating-ourselves-mp4]] — Congradulating ourselves.mp4
 - [[sources/green-cement-mp4]] — Green Cement.mp4
 - [[sources/the-moment-mp4]] — The Moment.mp4
@@ -297,15 +320,12 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/hungry-for-a-change-mp4]] — Hungry for a change.mp4
 - [[sources/terror-and-transhumanism-mp3]] — Terror and Transhumanism.mp3
 - [[sources/7pm-project-mov]] — 7pm-project.mov
-- [[sources/better-than-crack-1-mp3]] — Better-Than-Crack (1).mp3
-- [[sources/better-than-crack-mp3]] — Better-Than-Crack.mp3
 - [[sources/biosandlogos-mp3]] — BiosAndLogos.mp3
 - [[sources/green-steel-mp4]] — Green Steel.mp4
 - [[sources/mentoring-as-the-unbeatable-advantage-mp4]] — Mentoring as the unbeatable advantage.mp4
 - [[sources/the-smartwatch-solution-mp4]] — The Smartwatch Solution.mp4
 - [[sources/vr-simulation-future-of-work-mp4]] — VR Simulation future of work.mp4
 - [[sources/whenimsixtyfour-part2-mov]] — WhenImSixtyFour-part2.mov
-- [[sources/four-day-week-mp4]] — Four Day Week.mp4
 - [[sources/sunday-mp3]] — Sunday.mp3
 - [[sources/shouting-shaming-shuning-mp4]] — Shouting Shaming Shuning.mp4
 - [[sources/whenimsixtyfour-part3-mov]] — WhenImSixtyFour-part3.mov
@@ -333,6 +353,8 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/media-hungary-talk-end-mp4]] — media-hungary-talk-end.mp4
 - [[sources/the-new-inventors-20091021200000-mp4]] — The New Inventors-20091021200000.mp4
 - [[sources/vrml-interview-mp4]] — vrml-interview.mp4
+- [[sources/the-new-inventors-20090715200000-mp4]] — The New Inventors-20090715200000.mp4
+- [[sources/the-new-inventors-20081119200000-mp4]] — The New Inventors-20081119200000.mp4
 - [[sources/the-new-inventors-20090909200000-mp4]] — The New Inventors-20090909200000.mp4
 - [[sources/the-new-inventors-20090513200000-mp4]] — The New Inventors-20090513200000.mp4
 - [[sources/the-new-inventors-20090408200000-mp4]] — The New Inventors-20090408200000.mp4
@@ -354,12 +376,10 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/the-new-inventors-20070815200000-mp4]] — The New Inventors-20070815200000.mp4
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-m4v]] — mark pesce AISWA BTB questions iPhone.m4v
 - [[sources/the-new-inventors-20070829200000-mp4]] — The New Inventors-20070829200000.mp4
-- [[sources/mark-pesce-session-2-wav]] — Mark Pesce session 2.wav
 - [[sources/pdf-pesce-mov]] — Pdf-Pesce.mov
 - [[sources/loreto-mp3]] — Loreto.mp3
 - [[sources/steve-at-60-mp4]] — Steve at 60.mp4
 - [[sources/how-smart-is-chat-gpt-the-project-nz-original-mp]] — how_smart_is_chat_gpt__the_project_nz (Original).mp4
-- [[sources/ala-wav]] — ALA.wav
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-mp4]] — avatars96-pesce-leonard-dipaola_512kb.mp4
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-2-mp4]] — avatars96-pesce-leonard-dipaola_512kb 2.mp4
 - [[sources/open-state-wav]] — Open State.wav
@@ -369,17 +389,14 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/a-digital-reformation-wav]] — A Digital Reformation.wav
 - [[sources/felix-wav]] — Felix.wav
 - [[sources/000000001b4e4d1f-iphone-m4v]] — 000000001b4e4d1f.iPhone.m4v
-- [[sources/reality-remix-wav]] — Reality Remix.wav
 - [[sources/fintech-futures-wav]] — Fintech Futures.wav
 - [[sources/just-so-stories-wav]] — Just-So Stories.wav
 - [[sources/wds08-opening-mov]] — WDS08-Opening.mov
-- [[sources/cybersamhain-to-chatgpt-1080p-mp4]] — Cybersamhain to ChatGPT 1080p.mp4
 - [[sources/digirupt-preview-mp4]] — digirupt-preview.mp4
 - [[sources/gt-mel-wav]] — GT  MEL.wav
 - [[sources/thefuturists-mp4]] — TheFuturists.mp4
 - [[sources/thefuturists-mp4-2]] — TheFuturists.mp4
 - [[sources/saatchi-wav]] — Saatchi.wav
-- [[sources/uq-wav]] — UQ.wav
 - [[sources/a-house-built-on-sand-interoperability-in-the-me]] — A House Built on Sand - Interoperability in the Metaverse.mp4
 - [[sources/recording-7-wav]] — Recording 7.wav
 - [[sources/supertools-mkv]] — supertools.mkv
@@ -398,7 +415,6 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/supertools-anu-mp4]] — Supertools-ANU.mp4
 - [[sources/planetoftheappsakl-mp4]] — planetoftheappsAKL.mp4
 - [[sources/the-new-new-m4v]] — The New New.m4v
-- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]] — Smartsheet - Reimagining the Future of Work HEVC.mp4
 - [[sources/highcastledinner-17jan26-mp4]] — HighCastleDinner-17Jan26.mp4
 - [[sources/mindstates-naturalselection-mp4]] — mindstates-naturalselection.mp4
 - [[sources/mind-share-hd-mov]] — mind_share_hd.mov
@@ -411,7 +427,6 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/0000000019b06a7f-mpg]] — 0000000019b06a7f.mpg
 - [[sources/prime-life-event-mp4]] — Prime Life Event.mp4
 - [[sources/0000000019779ddf-mpg]] — 0000000019779ddf.mpg
-- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] — Mark Pesce - Digital Depth in Augmented Reality.mp4
 - [[sources/0000000019d17518-mpg]] — 0000000019d17518.mpg
 
 ## In the Corpus
@@ -428,14 +443,20 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 
 ## Sources
 
+- [[sources/ala-wav]]
+- [[sources/reality-remix-wav]]
 - [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]]
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]]
+- [[sources/better-than-crack-1-mp3]]
+- [[sources/better-than-crack-mp3]]
 - [[sources/mark-pesce-session-1-wav]]
 - [[sources/dense-and-thick-mp4]]
 - [[sources/dense-and-thick-mp4-2]]
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]]
 - [[sources/hypercasting-mp3]]
 - [[sources/whereintheworld-mp3]]
+- [[sources/mark-pesce-session-2-wav]]
+- [[sources/cybersamhain-to-chatgpt-1080p-mp4]]
 - [[sources/sca-wav]]
 - [[sources/technospirit-mkv]]
 - [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]]
@@ -448,6 +469,7 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/singularity-summit-mp4]]
 - [[sources/3-01-the-audio-tour-mp3]]
 - [[sources/4-02-hyperdistribution-mp3]]
+- [[sources/1-02-libraries-in-the-age-of-infinite-media-mp3]]
 - [[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]]
 - [[sources/johnhalpern-lsdsymposium-wmv]]
 - [[sources/friday-rm]]
@@ -462,6 +484,7 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/techno-pagans-at-the-end-of-history-11-esalen-mp]]
 - [[sources/techno-pagans-at-the-end-of-history-4-esalen-mp3]]
 - [[sources/techno-pagans-at-the-end-of-history-8-esalen-mp3]]
+- [[sources/uq-wav]]
 - [[sources/mindstates2003-mp3]]
 - [[sources/hyperpeople-mp3]]
 - [[sources/hyperpeople-mobile-mp4]]
@@ -475,6 +498,7 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/hyperpeople-mp4]]
 - [[sources/piracyisgood-avi]]
 - [[sources/artbell3-mp3]]
+- [[sources/forum-just-shoot-it-part1-2005-mp3]]
 - [[sources/the-swarm-parts-i-ii-and-iii-mp3]]
 - [[sources/newinventors-mp4]]
 - [[sources/the-new-inventors-20070425200000-mp4]]
@@ -486,6 +510,7 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/notquiteart-2008-ep02-mp4]]
 - [[sources/alcove-interview-23jun08-m4v]]
 - [[sources/jjj-hack-future-3dec08-mp3]]
+- [[sources/the-new-inventors-20090204200000-mp4]]
 - [[sources/afternoon-live-mov]]
 - [[sources/afternoon-live-mov-2]]
 - [[sources/pdf-pdf2009markpesce112-mov]]
@@ -553,6 +578,7 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/new-cities-new-economies-wav]]
 - [[sources/cfo-wav]]
 - [[sources/launch-festival-2016-awards-ceremony-xs1cy6hj4pu]]
+- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]]
 - [[sources/smarter-money-19oct16-mp3]]
 - [[sources/web3d2017-mp3]]
 - [[sources/web3d2017-m4a]]
@@ -560,9 +586,11 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/slv-wav]]
 - [[sources/ega-wav]]
 - [[sources/mark-pesce-futurist-the-last-days-of-reality-mp4]]
+- [[sources/lms-20170505-0906-families-privacy-mp3]]
 - [[sources/last-days-of-reality-toronto-17oct17-mov]]
 - [[sources/the-last-days-of-reality-ega-8dec17-mkv]]
 - [[sources/ega-mp3]]
+- [[sources/rnd-20180319-1825-mp3]]
 - [[sources/fte-20180415-mp3]]
 - [[sources/theroadahead-17may18-mp3]]
 - [[sources/loreto-toorak-15aug18-mp3]]
@@ -570,10 +598,12 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/accanet-12sep18-mp3]]
 - [[sources/just-so-stories-wds-1nov18-mp3]]
 - [[sources/pesce-thesymposium-9dec18-mp4]]
+- [[sources/four-day-week-mp4]]
 - [[sources/trench-talk-ep57-mark-pesce-mp3]]
 - [[sources/asx-new-money-hvec-480p-mp4]]
 - [[sources/hashrate-mkv]]
 - [[sources/asx-new-money-lbr-mp4]]
+- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]]
 - [[sources/skype-interview-march-2019-mp4]]
 - [[sources/sydney-writers-festival-3may19-mp3]]
 - [[sources/v20-june-2019-opening-mts]]
@@ -583,19 +613,24 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/a-series-of-tubes-wpc-11sep19-mp3]]
 - [[sources/wpc-11sep19-wav]]
 - [[sources/citi-how-to-thrive-in-the-2020s-16oct19-mp3]]
+- [[sources/ppm-2019-10-21-tik-tok-mp3]]
 - [[sources/unknown-knowns-31oct19-mp3]]
+- [[sources/ntn-20191114-1105-should-we-really-trust-big-tec]]
 - [[sources/the-bell-can-not-be-unrung-mp4]]
 - [[sources/gio-pc1-mark-pesce-video-02-final-4x5-mp4]]
+- [[sources/gio-pc1-mark-pesce-video-01-final-4x5-mp4]]
 - [[sources/pesce-best-current-affairs-podcast-mp4]]
 - [[sources/national-trust-sense-in-place-mp4]]
 - [[sources/v20-day-one-mp4]]
 - [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]]
 - [[sources/v20-day-three-mp4]]
 - [[sources/common-factor-1-future-of-work-clean-mp4]]
+- [[sources/ntn-20200402-1107-tech-during-covid-brings-out-t]]
 - [[sources/pandemic-time-3ai-15may20-wav]]
 - [[sources/pandemic-time-15may20-small-mp4]]
 - [[sources/pandemic-time-pesce-3ai-15may20-final-mp4]]
 - [[sources/pesce-pandemic-time-anu-3ai-15may20-mp4]]
+- [[sources/ntn-20200521-1105-do-track-and-trace-apps-work-t]]
 - [[sources/good-shout-29may20-m4v]]
 - [[sources/horizons-and-trajectories-4jun20-mp4]]
 - [[sources/horizons-and-trajectories-4jun20-youtube-720p-mp]]
@@ -605,6 +640,7 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/abc-14jul20-video-first-mp4]]
 - [[sources/mark-pesce-the-world-2sep20-mp4]]
 - [[sources/beyond-the-horizon-cfo-series-qld-10sep20-mp4]]
+- [[sources/weekdays-28sep20-the-social-dilemma-mp3]]
 - [[sources/surveillance-status-arin2610-20oct20-mp4]]
 - [[sources/cfo-series-melbourne-while-you-were-out-12nov20]]
 - [[sources/voices-of-vr-mark-pesce-20nov20-mp3]]
@@ -623,6 +659,7 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/post-classical-finance-cfo-series-sydney-11may21]]
 - [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]]
 - [[sources/mark-pesce-alchemist-23jun21-wav]]
+- [[sources/mark-pesce-wtd1-28jun21-wav]]
 - [[sources/mark-chaser-podcast-21jul21-wav]]
 - [[sources/mark-interview-29jul21-wav]]
 - [[sources/josh-szeps-podcast-17aug21-wav]]
@@ -685,7 +722,6 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/a10-leaderships-one-job-mp4]]
 - [[sources/incident-mov]]
 - [[sources/transition-without-wrecking-economy-mp4]]
-- [[sources/1-02-libraries-in-the-age-of-infinite-media-mp3]]
 - [[sources/congradulating-ourselves-mp4]]
 - [[sources/green-cement-mp4]]
 - [[sources/the-moment-mp4]]
@@ -700,15 +736,12 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/hungry-for-a-change-mp4]]
 - [[sources/terror-and-transhumanism-mp3]]
 - [[sources/7pm-project-mov]]
-- [[sources/better-than-crack-1-mp3]]
-- [[sources/better-than-crack-mp3]]
 - [[sources/biosandlogos-mp3]]
 - [[sources/green-steel-mp4]]
 - [[sources/mentoring-as-the-unbeatable-advantage-mp4]]
 - [[sources/the-smartwatch-solution-mp4]]
 - [[sources/vr-simulation-future-of-work-mp4]]
 - [[sources/whenimsixtyfour-part2-mov]]
-- [[sources/four-day-week-mp4]]
 - [[sources/sunday-mp3]]
 - [[sources/shouting-shaming-shuning-mp4]]
 - [[sources/whenimsixtyfour-part3-mov]]
@@ -736,6 +769,8 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/media-hungary-talk-end-mp4]]
 - [[sources/the-new-inventors-20091021200000-mp4]]
 - [[sources/vrml-interview-mp4]]
+- [[sources/the-new-inventors-20090715200000-mp4]]
+- [[sources/the-new-inventors-20081119200000-mp4]]
 - [[sources/the-new-inventors-20090909200000-mp4]]
 - [[sources/the-new-inventors-20090513200000-mp4]]
 - [[sources/the-new-inventors-20090408200000-mp4]]
@@ -757,12 +792,10 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/the-new-inventors-20070815200000-mp4]]
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-m4v]]
 - [[sources/the-new-inventors-20070829200000-mp4]]
-- [[sources/mark-pesce-session-2-wav]]
 - [[sources/pdf-pesce-mov]]
 - [[sources/loreto-mp3]]
 - [[sources/steve-at-60-mp4]]
 - [[sources/how-smart-is-chat-gpt-the-project-nz-original-mp]]
-- [[sources/ala-wav]]
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-mp4]]
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-2-mp4]]
 - [[sources/open-state-wav]]
@@ -772,17 +805,14 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/a-digital-reformation-wav]]
 - [[sources/felix-wav]]
 - [[sources/000000001b4e4d1f-iphone-m4v]]
-- [[sources/reality-remix-wav]]
 - [[sources/fintech-futures-wav]]
 - [[sources/just-so-stories-wav]]
 - [[sources/wds08-opening-mov]]
-- [[sources/cybersamhain-to-chatgpt-1080p-mp4]]
 - [[sources/digirupt-preview-mp4]]
 - [[sources/gt-mel-wav]]
 - [[sources/thefuturists-mp4]]
 - [[sources/thefuturists-mp4-2]]
 - [[sources/saatchi-wav]]
-- [[sources/uq-wav]]
 - [[sources/a-house-built-on-sand-interoperability-in-the-me]]
 - [[sources/recording-7-wav]]
 - [[sources/supertools-mkv]]
@@ -801,7 +831,6 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/supertools-anu-mp4]]
 - [[sources/planetoftheappsakl-mp4]]
 - [[sources/the-new-new-m4v]]
-- [[sources/smartsheet-reimagining-the-future-of-work-hevc-m]]
 - [[sources/highcastledinner-17jan26-mp4]]
 - [[sources/mindstates-naturalselection-mp4]]
 - [[sources/mind-share-hd-mov]]
@@ -814,5 +843,4 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 - [[sources/0000000019b06a7f-mpg]]
 - [[sources/prime-life-event-mp4]]
 - [[sources/0000000019779ddf-mpg]]
-- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]]
 - [[sources/0000000019d17518-mpg]]

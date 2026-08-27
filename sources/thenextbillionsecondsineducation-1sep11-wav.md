@@ -6,14 +6,15 @@ drive_id: 1hucXgWxU5o1dmben0Kb-jNF0nuKHW2_R
 source_link: https://drive.google.com/file/d/1hucXgWxU5o1dmben0Kb-jNF0nuKHW2_R/view?usp=drivesdk
 type: keynote
 date: 2011-09-01
-tags: ["apple", "connectivity", "education", "mark-pesce", "mozilla", "the-future", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "connectivity", "education", "mark-pesce", "mozilla", "the-future", "the-next-billion-seconds", "vrml"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
+    - entities/the-next-billion-seconds
     - entities/vrml
   concepts:
     - concepts/the-future
@@ -26,6 +27,7 @@ related:
   - entities/apple
   - entities/mark-pesce
   - entities/mozilla
+  - entities/the-next-billion-seconds
   - entities/vrml
 ---
 # TheNextBillionSecondsInEducation-1Sep11.wav
@@ -41,6 +43,7 @@ This recording captures a keynote address by Mark Pesce, a media commentator, wr
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 - [[entities/vrml]] (VRML)
 
 ## Related Concepts

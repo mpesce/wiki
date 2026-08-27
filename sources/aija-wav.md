@@ -6,14 +6,15 @@ drive_id: 1i0qd08k8R--Y-30AJxTtzUvehoz-A-P8
 source_link: https://drive.google.com/file/d/1i0qd08k8R--Y-30AJxTtzUvehoz-A-P8/view?usp=drivesdk
 type: keynote
 date: unknown
-tags: ["apple", "artificial-intelligence", "collaboration", "education", "mark-pesce", "mozilla", "the-future", "the-future-of-work"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "artificial-intelligence", "collaboration", "education", "mark-pesce", "mozilla", "the-future", "the-future-of-work", "the-next-billion-seconds"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/apple
     - entities/mozilla
+    - entities/the-next-billion-seconds
   concepts:
     - concepts/the-future
     - concepts/artificial-intelligence
@@ -29,6 +30,7 @@ related:
   - entities/apple
   - entities/mark-pesce
   - entities/mozilla
+  - entities/the-next-billion-seconds
 ---
 # AIJA.wav
 
@@ -43,6 +45,7 @@ This recording features a keynote address by Mark Pesce, a futurist, author, and
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/apple]] (Apple)
 - [[entities/mozilla]] (Mozilla)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 
 ## Related Concepts
 - [[concepts/the-future]] — The future

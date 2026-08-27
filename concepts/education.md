@@ -5,7 +5,7 @@ title: Education
 tags: ["concept"]
 source_count: 36
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---
@@ -13,10 +13,14 @@ related:
 # Education
 
 ## TL;DR
-<36 sources engage with Education. Synthesize the concept.>
+Education is the corpus's most persistent theme: Mark Pesce argues hyperconnectivity dissolved the industrial model of once-educated-for-life schooling, replacing it with lifelong, peer-driven, mentor-rich learning — a thesis he now extends into the AI era.
 
 ## Overview
-<Synthesize how Education is treated across the corpus. Themes, debates, evolution.>
+Pesce's education thinking begins with children and toys: The Playful World, inspired by a friend's child born in 2000, uses Furby and other smart toys as entry points to argue that constructivist learning — children building understanding through interaction — now extends into technology ([[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]], [[sources/four-domains-m4a]]). He recalls being the first panelist to mention Wikipedia to Australian teachers in 2004, and frames three cultural shifts reshaping pedagogy: the birth of the web, the rise of sharing platforms after the dot-com collapse, and the explosion of social networks after Facebook's 2007 platform launch ([[sources/mark-pesce-btb-vodcast-iphone-m4v]]). To educators at eLearning 2008 his prescription was maximal openness: share courseware as broadly as possible, because "the more something is shared, the more valuable it becomes" ([[sources/elearning08-mark-pesce-20081104-mp3]]).
+
+A middle strand documents hyperconnectivity reaching the classroom. He cites an ethnographic survey showing the average age of first mobile-phone ownership falling from eleven to eight or nine within a decade, making device ownership inevitable for schoolchildren ([[sources/hyperconnectededucation-vitta-30aug11-wav]]); situates 1995–2026 as a transformation comparable to the birth of language ([[sources/thenextbillionsecondsineducation-1sep11-wav]]); and catalogues peer-produced knowledge — Wikipedia versus Britannica, RateMyProfessors wrenching faculty power toward students — as evidence that the balance of authority has shifted from institutions to networked learners ([[sources/inconvenience-whole-mov]], [[sources/collisions-and-smash-repairs-mp4]]).
+
+The later recordings consolidate the argument. Against automation panic, Pesce argues industrial schooling "educated once for an industrial culture" and is being reorganized around "a net of relationality, of mentoring" ([[sources/wave-of-automation-2aug19-mp3]]); machines handle routine tasks while humans excel at exceptions, so peer mentoring and peer assessment should be treated as core curriculum alongside literacy and numeracy ([[sources/loreto-toorak-15aug18-mp3]], [[sources/unknown-knowns-31oct19-mp3]]). By 2025 he warns tertiary education may no longer be fit for purpose, citing AI-driven displacement of entry-level knowledge work and proposing "resistance" — a measure of how well a career withstands automation — as a planning concept for institutions ([[sources/facing-the-machine-ibsuniversity-27jun25-mp4]]).
 
 ## Key Points
 - [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]] — VR Creative Cluster Mark Pesce 9 Aug16 video2.MP4

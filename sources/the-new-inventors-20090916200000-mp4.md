@@ -6,18 +6,21 @@ drive_id: 15WniCxhZG49O2BBo1G--QyQi3TBnOMKx
 source_link: https://drive.google.com/file/d/15WniCxhZG49O2BBo1G--QyQi3TBnOMKx/view?usp=drivesdk
 type: podcast
 date: unknown
-tags: ["attention", "broadcast"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["attention", "broadcast", "james-ologhlin", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/james-ologhlin
+    - entities/the-new-inventors
   concepts:
     - concepts/attention
     - concepts/broadcast
 related:
   - concepts/attention
   - concepts/broadcast
+  - entities/james-ologhlin
+  - entities/the-new-inventors
 ---
 # The New Inventors-20090916200000.mp4
 
@@ -29,7 +32,8 @@ This recording is an episode of the Australian television program The New Invent
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/attention]] — Attention

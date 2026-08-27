@@ -6,9 +6,9 @@ drive_id: 1W7wDg1YfUdNmuMaTxmeHACE8bmLaXJrX
 source_link: https://drive.google.com/file/d/1W7wDg1YfUdNmuMaTxmeHACE8bmLaXJrX/view?usp=drivesdk
 type: news
 date: 2021-10-05
-tags: ["apple", "ar", "attention", "facebook", "google", "mark-pesce", "mozilla", "surveillance"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "ar", "attention", "facebook", "google", "mark-pesce", "mozilla", "pokemon-go", "surveillance"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
@@ -17,6 +17,7 @@ mentions:
     - entities/google
     - entities/facebook
     - entities/ar
+    - entities/pokemon-go
   concepts:
     - concepts/surveillance
     - concepts/attention
@@ -29,6 +30,7 @@ related:
   - entities/google
   - entities/mark-pesce
   - entities/mozilla
+  - entities/pokemon-go
 ---
 # ARIN 2610 Internet Transformations The AR Dilemmas 5Oct21 720p.mp4
 
@@ -46,6 +48,7 @@ This recording is a lecture delivered by Mark Pesce, a media and technology comm
 - [[entities/google]] (Google)
 - [[entities/facebook]] (Facebook)
 - [[entities/ar]] (AR)
+- [[entities/pokemon-go]] (Pokemon Go)
 
 ## Related Concepts
 - [[concepts/surveillance]] — Surveillance

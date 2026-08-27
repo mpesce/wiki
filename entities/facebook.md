@@ -5,7 +5,7 @@ title: Facebook
 tags: ["organization"]
 source_count: 71
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:36:11Z
+last_updated: 2026-08-27T10:51:23Z
 related:
   - (populate via lint)
 ---
@@ -13,10 +13,16 @@ related:
 # Facebook
 
 ## TL;DR
-<71 sources reference Facebook. Compile the one-line synthesis from the sources below.>
+Facebook is the corpus's central villain: across 71 sources (2010–2021) Pesce tracks it from "the world's largest extractable marketing database" through surveillance capitalism, Cambridge Analytica, and Libra, to the engine of a fragmented, curated "post-real" reality.
 
 ## Overview
-<Compile a cross-source synthesis of Facebook. What is consistent and what changed over time.>
+Facebook enters the corpus in 2010 as a privacy antagonist. Pesce — who had just deleted his own account — tells ABC's Life Matters that Facebook has gathered "the largest wealth of marketing data in history" and cannot be trusted with it, that the social graph is an asset extracted from users' minds, and that Facebook imposes terms unilaterally rather than negotiating them ([[sources/lms-20100531-0905-mp3]]). The same month he unveils Plexus, an open-source "traffic cop" for social media designed to let users leave Facebook without abandoning their connections, explicitly because Facebook owns the social graph and does not allow export ([[sources/pollenizerpodcast-20100728-mp3]]). He carries this argument to linux.conf.au 2011, where he frames Facebook as having weaponized human mimesis by capturing the social graph inside a closed, proprietary system, and cites the WikiLeaks deplatforming as proof that the net can be censored by state-aligned corporate forces ([[sources/lca2011-keynote-mov]]).
+
+From 2017 the critique hardens into a coherent theory of surveillance capitalism. In talks at EGA, the Golden Age Cinema and the State Library of Victoria, Pesce calls Facebook a "global cognitive bias amplifier": citing The Australian's 2017 report on Facebook pitching advertisers access to emotionally vulnerable teens, and the 2014 emotional-contagion study on 689,000 users, he argues that machine-learning news-feed curation confirms users' existing beliefs, erodes the public sphere, and fuels polarization ([[sources/ega-wav]], [[sources/mark-pesce-futurist-the-last-days-of-reality-mp4]], [[sources/slv-wav]]). Cambridge Analytica becomes the centerpiece: the 50-million-profile harvest shows the platform functions fundamentally as a data-collection engine that weaponizes user information for engagement and sales ([[sources/rnd-20180319-1825-mp3]]). His October 2017 Toronto keynote, on the 500th anniversary of Luther's 95 Theses, names this "digital colonialism" — Facebook colonized public digital space by offering community tools users adopted without considering the cost — and calls for a "digital reformation" ([[sources/last-days-of-reality-toronto-17oct17-mov]], [[sources/a-digital-reformation-wav]]).
+
+In 2019 Facebook appears in an unexpected register: money. Pesce's RN Drive interview on Libra presents it as a stablecoin aimed at the roughly four billion smartphone owners without credit cards, with Facebook as the "900 pound gorilla" bringing Visa, MasterCard, PayPal and Vodafone into payments — while warning that Libra would hand Facebook a permanent, auditable trail of financial transactions and that regulators feared erosion of the state's money-creation monopoly ([[sources/rnd-20190619-1906-fb-libra-mp3]], [[sources/asx-new-money-lbr-mp4]]). He frames the endgame geopolitically as "one world, two systems": a battle between a private company, Facebook, and China's digital yuan ([[sources/knew-money-24sep19-mp3]], [[sources/png2019-mkv]]).
+
+The final arc, 2020–2021, is reckoning. Pesce reads The Social Dilemma on air as confirmation of his long-running critique — AI-tuned feeds that tailor content to individual weaknesses, radicalizing users down rabbit holes toward QAnon and anti-vax content ([[sources/weekdays-28sep20-the-social-dilemma-mp3]]); he covers the Stop Hate for Profit advertiser boycott and argues Facebook's engagement-driven model makes policy change difficult without revenue pressure ([[sources/ninetonoon-25jun20-mp3]]). In a 2021 podcast he traces the machinery itself — intermittent dopamine rewards borrowed from pokie machines, techniques Sheryl Sandberg brought from Google, infinite scroll, and engagement-amplifying algorithms that push YouTube viewers toward extremism ([[sources/josh-szeps-podcast-17aug21-wav]]). His ARIN2610 lecture closes the loop by connecting Facebook's Project Aria AR glasses and gaze detection to "negative engagement" algorithms revealed in whistleblower reports ([[sources/arin-2610-internet-transformations-the-ar-dilemm]]). What stays consistent from 2010 to 2021 is the core claim: the business model — engagement maximized through profiling — is the problem, not any single scandal; only the evidence keeps escalating.
 
 ## Key Facts
 - [[sources/sca-wav]] — SCA.wav
@@ -34,6 +40,7 @@ related:
 - [[sources/sea-20110514-0805-1-mp3]] — sea_20110514_0805 (1).mp3
 - [[sources/sea-20110514-0805-mp3]] — sea_20110514_0805.mp3
 - [[sources/ega-mkv]] — EGA.mkv
+- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] — Mark Pesce - Digital Depth in Augmented Reality.mp4
 - [[sources/saatchi-wav-2]] — Saatchi.wav
 - [[sources/slv-wav]] — SLV.wav
 - [[sources/ega-wav]] — EGA.wav
@@ -89,7 +96,6 @@ related:
 - [[sources/saatchi-wav]] — Saatchi.wav
 - [[sources/citi-wav]] — Citi.wav
 - [[sources/000000001a0b5af7-mpg]] — 000000001a0b5af7.mpg
-- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] — Mark Pesce - Digital Depth in Augmented Reality.mp4
 
 ## In the Corpus
 
@@ -120,6 +126,7 @@ related:
 - [[sources/sea-20110514-0805-1-mp3]]
 - [[sources/sea-20110514-0805-mp3]]
 - [[sources/ega-mkv]]
+- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]]
 - [[sources/saatchi-wav-2]]
 - [[sources/slv-wav]]
 - [[sources/ega-wav]]
@@ -175,4 +182,3 @@ related:
 - [[sources/saatchi-wav]]
 - [[sources/citi-wav]]
 - [[sources/000000001a0b5af7-mpg]]
-- [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]]

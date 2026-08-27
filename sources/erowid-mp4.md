@@ -6,16 +6,16 @@ drive_id: 12Cyt7Nvu2ol6HlzLXICreuyLz5-SyHFv
 source_link: https://drive.google.com/file/d/12Cyt7Nvu2ol6HlzLXICreuyLz5-SyHFv/view?usp=drivesdk
 type: clip
 date: unknown
-tags: []
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["true-hallucinations"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/true-hallucinations
   concepts:
     - (none)
 related:
-  - (none)
+  - entities/true-hallucinations
 ---
 # erowid.mp4
 
@@ -27,7 +27,7 @@ Short clip related to the 'True Hallucinations' project (eROWID context). Brief 
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/true-hallucinations]] (True Hallucinations)
 
 ## Related Concepts
 - (none identified)

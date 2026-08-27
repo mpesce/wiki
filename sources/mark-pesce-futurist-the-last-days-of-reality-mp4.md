@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1deAsmuuZGHlpHK3WF6AOL0Gaa8GO80r3/v
 type: news
 date: 2017
 tags: ["facebook", "mark-pesce", "social-media"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

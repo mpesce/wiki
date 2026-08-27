@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1MxaS8815Q4NLAu-INDYk9BMCfU6Ka0AK/v
 type: panel
 date: 2020
 tags: ["mark-pesce", "remote-work", "the-future", "the-future-of-work", "vr"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

@@ -6,16 +6,16 @@ drive_id: 12nEUiqBUAfw3yJe2JRDNAyquDQqyRElT
 source_link: https://drive.google.com/file/d/12nEUiqBUAfw3yJe2JRDNAyquDQqyRElT/view?usp=drivesdk
 type: talk
 date: unknown
-tags: []
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["true-hallucinations"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
-    - (none)
+    - entities/true-hallucinations
   concepts:
     - (none)
 related:
-  - (none)
+  - entities/true-hallucinations
 ---
 # Strophariad384.rm
 
@@ -27,7 +27,7 @@ Music track (384kHz .rm) from the 'True Hallucinations' psychedelic audio projec
 - See summary above.
 
 ## Named Entities
-- (none named)
+- [[entities/true-hallucinations]] (True Hallucinations)
 
 ## Related Concepts
 - (none identified)

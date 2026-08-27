@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/19XlExpI3FlfyR-PiFmvunNX7VvPCrcV3/v
 type: keynote
 date: unknown
 tags: ["3d"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/3d

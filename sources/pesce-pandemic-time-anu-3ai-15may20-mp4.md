@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1nDw5u8CUgUOtTSGSJij-v5tj7Ou1K--u/v
 type: news
 date: 2020-05-15
 tags: ["apple", "mark-pesce", "mozilla", "the-future", "wired"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

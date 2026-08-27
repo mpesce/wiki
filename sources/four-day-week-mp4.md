@@ -5,10 +5,10 @@ title: Four Day Week.mp4
 drive_id: 1a2J081ulzIZF_aU7W1kdE2agaAJ-V0Z7
 source_link: https://drive.google.com/file/d/1a2J081ulzIZF_aU7W1kdE2agaAJ-V0Z7/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2019
 tags: ["mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

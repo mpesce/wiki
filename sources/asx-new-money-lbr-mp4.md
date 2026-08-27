@@ -6,20 +6,22 @@ drive_id: 18OYrOy6l2tOn0cpzf_R5i48ulkycS4u3
 source_link: https://drive.google.com/file/d/18OYrOy6l2tOn0cpzf_R5i48ulkycS4u3/view?usp=drivesdk
 type: lecture
 date: 2019
-tags: ["bitcoin", "facebook", "innovation", "mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["bitcoin", "facebook", "innovation", "libra", "mark-pesce"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/facebook
     - entities/bitcoin
+    - entities/libra
   concepts:
     - concepts/innovation
 related:
   - concepts/innovation
   - entities/bitcoin
   - entities/facebook
+  - entities/libra
   - entities/mark-pesce
 ---
 # ASX New Money LBR.mp4
@@ -35,6 +37,7 @@ This recording is a talk by Mark Pesce, a media and technology commentator, disc
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/facebook]] (Facebook)
 - [[entities/bitcoin]] (Bitcoin)
+- [[entities/libra]] (Libra)
 
 ## Related Concepts
 - [[concepts/innovation]] — Innovation

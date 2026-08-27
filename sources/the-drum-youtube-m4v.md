@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1i78LklYKWMNp0mX9Lh99YZwk-x-8TC5U/v
 type: interview
 date: 2011
 tags: ["abc", "mark-pesce", "microsoft", "networks", "social-media", "social-networks", "trust", "twitter", "virtual-reality"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

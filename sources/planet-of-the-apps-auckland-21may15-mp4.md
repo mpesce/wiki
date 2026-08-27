@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/15vN5qg8-Nk40PQXc1l0JN6obMMMKlZVO/v
 type: keynote
 date: 2015-05-21
 tags: ["connectivity", "innovation", "mark-pesce", "the-future"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce

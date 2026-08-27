@@ -6,22 +6,26 @@ drive_id: 10JNvsVW2VBNV-a1nZ4vqq8_TepPtIwa6
 source_link: https://drive.google.com/file/d/10JNvsVW2VBNV-a1nZ4vqq8_TepPtIwa6/view?usp=drivesdk
 type: news
 date: unknown
-tags: ["mark-pesce", "meta", "metaverse", "virtual-reality", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["decentraland", "mark-pesce", "meta", "metaverse", "tony-parisi", "virtual-reality", "vrml"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/tony-parisi
     - entities/meta
     - entities/vrml
     - entities/metaverse
+    - entities/decentraland
   concepts:
     - concepts/virtual-reality
 related:
   - concepts/virtual-reality
+  - entities/decentraland
   - entities/mark-pesce
   - entities/meta
   - entities/metaverse
+  - entities/tony-parisi
   - entities/vrml
 ---
 # A House Built on Sand - Interoperability in the Metaverse.mp4
@@ -35,9 +39,11 @@ In this talk, Mark Pesce, a media and technology commentator and former engineer
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/tony-parisi]] (Tony Parisi)
 - [[entities/meta]] (Meta)
 - [[entities/vrml]] (VRML)
 - [[entities/metaverse]] (the Metaverse)
+- [[entities/decentraland]] (Decentraland)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

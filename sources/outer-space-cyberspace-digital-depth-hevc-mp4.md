@@ -6,16 +6,18 @@ drive_id: 193t-gG6icE1lSXA0xYAI6-OydG-F2_h8
 source_link: https://drive.google.com/file/d/193t-gG6icE1lSXA0xYAI6-OydG-F2_h8/view?usp=drivesdk
 type: news
 date: 2020
-tags: ["apple", "ar", "facebook", "mark-pesce", "microsoft", "narrative", "virtual-reality"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["apple", "ar", "facebook", "ivan-sutherland", "mark-pesce", "microsoft", "narrative", "pokemon-go", "virtual-reality"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/ivan-sutherland
     - entities/apple
     - entities/microsoft
     - entities/facebook
     - entities/ar
+    - entities/pokemon-go
   concepts:
     - concepts/virtual-reality
     - concepts/narrative
@@ -25,8 +27,10 @@ related:
   - entities/apple
   - entities/ar
   - entities/facebook
+  - entities/ivan-sutherland
   - entities/mark-pesce
   - entities/microsoft
+  - entities/pokemon-go
 ---
 # Outer Space Cyberspace Digital Depth HEVC.mp4
 
@@ -39,10 +43,12 @@ This recording is a lecture by Mark Pesce, a media and technology commentator, d
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/ivan-sutherland]] (Ivan Sutherland)
 - [[entities/apple]] (Apple)
 - [[entities/microsoft]] (Microsoft)
 - [[entities/facebook]] (Facebook)
 - [[entities/ar]] (AR)
+- [[entities/pokemon-go]] (Pokemon Go)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

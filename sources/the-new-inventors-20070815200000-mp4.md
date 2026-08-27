@@ -6,16 +6,22 @@ drive_id: 1ZldgePYNkg_l7wL26V1fyBtl95-1Y2t3
 source_link: https://drive.google.com/file/d/1ZldgePYNkg_l7wL26V1fyBtl95-1Y2t3/view?usp=drivesdk
 type: panel
 date: unknown
-tags: ["mark-pesce"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["james-bradfield-moody", "james-ologhlin", "mark-pesce", "the-new-inventors"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/james-ologhlin
+    - entities/james-bradfield-moody
+    - entities/the-new-inventors
   concepts:
     - (none)
 related:
+  - entities/james-bradfield-moody
+  - entities/james-ologhlin
   - entities/mark-pesce
+  - entities/the-new-inventors
 ---
 # The New Inventors-20070815200000.mp4
 
@@ -28,6 +34,9 @@ This recording is a transcript from an episode of the Australian television prog
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/james-ologhlin]] (James O'Loghlin)
+- [[entities/james-bradfield-moody]] (James Bradfield Moody)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - (none identified)

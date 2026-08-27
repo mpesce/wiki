@@ -6,12 +6,13 @@ drive_id: 1rsAD8SY8490QCrJ-zblE4tBMZOnA-HxW
 source_link: https://drive.google.com/file/d/1rsAD8SY8490QCrJ-zblE4tBMZOnA-HxW/view?usp=drivesdk
 type: podcast
 date: 2008
-tags: ["connectivity", "journalism", "mark-pesce", "social-media", "twitter"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["connectivity", "journalism", "mark-pesce", "social-media", "the-new-inventors", "twitter"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/the-new-inventors
   concepts:
     - concepts/social-media
     - concepts/twitter
@@ -23,6 +24,7 @@ related:
   - concepts/social-media
   - concepts/twitter
   - entities/mark-pesce
+  - entities/the-new-inventors
 ---
 # 01 Twitter and the Media.m4a
 
@@ -35,6 +37,7 @@ This recording is a talk by Mark Pesce, a media and technology commentator, disc
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/the-new-inventors]] (The New Inventors)
 
 ## Related Concepts
 - [[concepts/social-media]] — Social media

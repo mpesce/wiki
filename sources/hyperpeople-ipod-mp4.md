@@ -6,12 +6,13 @@ drive_id: 1aveRdaKVl7yrv1d0nJQOEyd4cjVTCvPD
 source_link: https://drive.google.com/file/d/1aveRdaKVl7yrv1d0nJQOEyd4cjVTCvPD/view?usp=drivesdk
 type: interview
 date: 2004
-tags: ["creators", "mark-pesce", "networks", "peer-to-peer", "social-networks", "trust"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["battlestar-galactica", "creators", "mark-pesce", "networks", "peer-to-peer", "social-networks", "trust"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
+    - entities/battlestar-galactica
   concepts:
     - concepts/social-networks
     - concepts/trust
@@ -24,6 +25,7 @@ related:
   - concepts/peer-to-peer
   - concepts/social-networks
   - concepts/trust
+  - entities/battlestar-galactica
   - entities/mark-pesce
 ---
 # hyperpeople-iPod.mp4
@@ -37,6 +39,7 @@ This recording is a talk by Mark Pesce, a media and technology commentator, deli
 
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
+- [[entities/battlestar-galactica]] (Battlestar Galactica)
 
 ## Related Concepts
 - [[concepts/social-networks]] — Social networks

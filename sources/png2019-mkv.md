@@ -6,21 +6,23 @@ drive_id: 1ol7nbfoU7sQhfRdRAxYRQoLxCiwT0DaH
 source_link: https://drive.google.com/file/d/1ol7nbfoU7sQhfRdRAxYRQoLxCiwT0DaH/view?usp=drivesdk
 type: keynote
 date: 2019
-tags: ["distributed-ledger", "facebook", "google", "microsoft"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["distributed-ledger", "facebook", "google", "libra", "microsoft"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/google
     - entities/microsoft
     - entities/facebook
     - entities/distributed-ledger
+    - entities/libra
   concepts:
     - (none)
 related:
   - entities/distributed-ledger
   - entities/facebook
   - entities/google
+  - entities/libra
   - entities/microsoft
 ---
 # PNG2019.mkv
@@ -37,6 +39,7 @@ This recording is a keynote address delivered by a speaker identifying himself a
 - [[entities/microsoft]] (Microsoft)
 - [[entities/facebook]] (Facebook)
 - [[entities/distributed-ledger]] (distributed ledger)
+- [[entities/libra]] (Libra)
 
 ## Related Concepts
 - (none identified)

@@ -6,16 +6,18 @@ drive_id: 1R48xm8A_w5E7ZZ90iogKiVKUm-fab9re
 source_link: https://drive.google.com/file/d/1R48xm8A_w5E7ZZ90iogKiVKUm-fab9re/view?usp=drivesdk
 type: interview
 date: 1993
-tags: ["3d", "mark-pesce", "metaverse", "microsoft", "podcast", "virtual-reality", "vrml"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["3d", "mark-pesce", "metaverse", "microsoft", "podcast", "the-next-billion-seconds", "virtual-reality", "vrml", "world-wide-web"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
     - entities/mark-pesce
     - entities/microsoft
+    - entities/the-next-billion-seconds
     - entities/vrml
     - entities/3d
     - entities/metaverse
+    - entities/world-wide-web
   concepts:
     - concepts/virtual-reality
     - concepts/podcast
@@ -26,7 +28,9 @@ related:
   - entities/mark-pesce
   - entities/metaverse
   - entities/microsoft
+  - entities/the-next-billion-seconds
   - entities/vrml
+  - entities/world-wide-web
 ---
 # Mark Pesce session 1.wav
 
@@ -40,9 +44,11 @@ This recording is a conversation between Mark Pesce and an interviewer, likely R
 ## Named Entities
 - [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/microsoft]] (Microsoft)
+- [[entities/the-next-billion-seconds]] (The Next Billion Seconds)
 - [[entities/vrml]] (VRML)
 - [[entities/3d]] (3D)
 - [[entities/metaverse]] (the Metaverse)
+- [[entities/world-wide-web]] (World Wide Web)
 
 ## Related Concepts
 - [[concepts/virtual-reality]] — Virtual reality

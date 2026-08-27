@@ -6,11 +6,12 @@ drive_id: 1jondHHQHdM24LDnfsd17bE9ZARItBub8
 source_link: https://drive.google.com/file/d/1jondHHQHdM24LDnfsd17bE9ZARItBub8/view?usp=drivesdk
 type: interview
 date: 2019-11-14
-tags: ["artificial-intelligence", "google", "surveillance"]
-created: 2026-08-26T13:13:22Z
-last_updated: 2026-08-26T13:13:22Z
+tags: ["artificial-intelligence", "google", "mark-pesce", "surveillance"]
+created: 2026-08-27T10:51:10Z
+last_updated: 2026-08-27T10:51:10Z
 mentions:
   entities:
+    - entities/mark-pesce
     - entities/google
   concepts:
     - concepts/surveillance
@@ -19,6 +20,7 @@ related:
   - concepts/artificial-intelligence
   - concepts/surveillance
   - entities/google
+  - entities/mark-pesce
 ---
 # ntn-20191114-1105-should_we_really_trust_big_tech_with_our_health_data-128.mp3
 
@@ -30,6 +32,7 @@ This recording is a television interview segment featuring tech correspondent Ma
 - See summary above.
 
 ## Named Entities
+- [[entities/mark-pesce]] (Mark Pesce)
 - [[entities/google]] (Google)
 
 ## Related Concepts
