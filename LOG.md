@@ -22,3 +22,5 @@ Grep for the last five actions with: `grep '^## [' LOG.md | tail -5`
 ## [2026-08-27] tool | compile_wiki.py now preserves hand-written TL;DR/Overview prose + created: timestamp on recompile (tested with marker)
 ## [2026-08-27] tool | lint scans queries/ links; build_index.py emits '## Queries' section (auto-listed)
 ## [2026-08-27] query | batch 1 dispatched: 10 query pages + 4 top-entity syntheses in flight
+## [2026-08-27] update | dates normalized: 176 re-dated from filenames, 48 implausible reset (tools/normalize_dates.py, window 1988-2026)
+## [2026-08-27] query | 10 query pages seeded in queries/ (VR evolution, social media & democracy, hyperdistribution, AI, education, broadcasting, attention economy, trust, ABC, future of work)

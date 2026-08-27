@@ -13,11 +13,16 @@ related:
 # VRML
 
 ## TL;DR
-<48 sources reference VRML. Compile the one-line synthesis from the sources below.>
+VRML — the 3D "HTML of worlds" Mark Pesce co-created with Tony Parisi in 1994 — is the corpus's founding open-standards story: a brief global phenomenon, a commercial failure by the early 2000s, and the acknowledged ancestor of WebGL, WebVR and today's metaverse interoperability debates.
 
 ## Overview
-<Compile a cross-source synthesis of VRML. What is consistent and what changed over time.>
+The corpus's VRML story begins with failure. Ono-Sendai, Pesce's 1991 consumer-VR startup, licensed its low-cost orientation tracking to Sega, but the headset project was cancelled in July 1993 and the company collapsed ([[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]]). Fresh from that collapse he discovered the World Wide Web, and with Tony Parisi built the first VRML browser in early 1994, presenting at the first International World Wide Web conference at CERN that May; the first object the new language ever modeled, he tells it, was a banana ([[sources/reality-remix-wav]]). A SIGGRAPH 1994 demonstration digitized the US Holocaust Memorial Museum's "Daniel's Story" exhibition, an early proof that fully realized 3D worlds could run on ordinary PCs ([[sources/mark-pesce-session-1-wav]]).
 
+Sources consistently frame VRML's real achievement as process rather than product: a "global community of approximately 2,000 contributors" creating an open, platform-independent "3D equivalent of HTML" ([[sources/vrml-interview-mp4]]), formalized through the VRML Architecture Group after the "cowboy-style" frontier days of 1995 spent fending off Silicon Graphics and Microsoft ([[sources/avatars96-keynotes-pesce-parisi-512kb-mp4]]), and ultimately taken through the ISO standards process ([[sources/broadcast-and-autonomy-acma-30oct18-mp3]]). Adoption came from unexpected quarters — chemists worldwide adopted it to share and annotate molecular structures — and the vision stretched to a NASA-data "Web Earth" for planetary management, deliberately open-sourced to keep it out of state hands ([[sources/avatars96-pesce-leonard-dipaola-512kb-mp4]]).
+
+The diagnosis of its decline is remarkably consistent across decades. By 2010 Pesce was explaining that VRML "failed to gain widespread adoption because early computers lacked the processing power and broadband speeds required for 3D graphics, and users were not yet familiar with 3D animation" ([[sources/whenimsixtyfour-part1-mov]]). Real-time 3D retreated into game consoles while the web stayed flat. The comeback arrived when smartphones cheapened displays and sensors and WebGL brought performant 3D into browsers — by 2017 Pesce was demonstrating WebVR on a consumer Android television ([[sources/web3d2017-mp3]]) — and consumer VR returned around 2014-2016 ([[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]]).
+
+In the 2020s VRML is invoked as the metaverse's common ancestor and its standing warning. Pesce calls it "an early attempt at the metaverse" and argues that three decades on the metaverse remains "a house built on sand": walled-garden platforms trading virtual deeds that are worthless outside their own worlds, against Tony Parisi's principle that there should be only one metaverse ([[sources/a-house-built-on-sand-interoperability-in-the-me]]). Meanwhile augmented reality — data bound to physical places, from Pokémon Go to the "right to write" — has inherited the spatial-web agenda VRML opened in 1994 ([[sources/internet-transformations-5oct21-mp4]]).
 ## Key Facts
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]] — VR Creative Cluster Mark Pesce 9 Aug video1.MP4
 - [[sources/mark-pesce-session-1-wav]] — Mark Pesce session 1.wav

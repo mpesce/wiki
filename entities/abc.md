@@ -13,10 +13,16 @@ related:
 # ABC
 
 ## TL;DR
-<65 sources reference ABC. Compile the one-line synthesis from the sources below.>
+The ABC is Pesce's most sustained institutional platform: the national broadcaster aired The New Inventors (2007-2009) with him as judging panelist, and from 2006 into the 2020s it repeatedly turned to him on radio and television as the explainer for whatever technology had just broken into the news.
 
 ## Overview
-<Compile a cross-source synthesis of ABC. What is consistent and what changed over time.>
+The New Inventors dominates the ABC material: the corpus holds 31 episodes from 2007-2009 in which Pesce sits on the judging panel beside hosts James O'Loughlin and Adam Hills, weighing inventions from a reusable glass-ampoule opener to a SIDS-preventing cot sheet ([[sources/the-new-inventors-20070214195900-mp4]], [[sources/the-new-inventors-20081022200000-mp4]]). The role became his public credential — hosts across the corpus introduce him simply as "judge on the ABC series The New Inventors" ([[sources/mind-share-hd-mov]]).
+
+On ABC Radio he was the standing explainer for the emerging internet: game narrative on The Book Show (June 2006) ([[sources/4-03-the-book-show-23-june-2006-mp3]]), Twitter metaphors on Nightlife in 2009 ([[sources/nightlife-twitter-11mar09-mp3]]), the LimeWire shutdown on afternoon television ([[sources/afternoon-live-mov]]), the hacktivist collective Anonymous on Radio National's Common Knowledge (2012) ([[sources/rn-common-knowledge-19feb12-mp3]]), and location tracking of children on Life Matters (2017) ([[sources/lms-20170505-0906-families-privacy-mp3]]).
+
+The subjects track the news cycle — file-sharing lawsuits (2006-2010), The Social Dilemma and recommender-driven radicalization (2020) ([[sources/weekdays-28sep20-the-social-dilemma-mp3]]) — but the role never changes: resident explainer. He continues to recount the New Inventors years as a defining chapter in interviews as late as 2021 ([[sources/mark-pesce-wtd1-28jun21-wav]]). By 2020 the relationship also inverted, with Pesce addressing the ABC itself: a July 2020 presentation to staff argued that "hypercasting" had absorbed broadcasting, with social platforms now teaching video production faster than broadcasters could, and offered personalization-and-search advice for the broadcaster's five-year plan ([[sources/abc-14jul20-video-first-mp4]]).
+
+Around the television work sit adjacent broadcast roles. His podcast The Next Billion Seconds ran on Podcast One Australia, where in 2020 he presented the award for best current-affairs podcast to the ABC's own Background Briefing ([[sources/pesce-best-current-affairs-podcast-mp4]]). The consistent thread across two decades: the ABC as employer, stage, and the institution he most wants to see through the transition from broadcast to hypercasting.
 
 ## Key Facts
 - [[sources/the-new-inventors-20090610200000-mp4]] — The New Inventors-20090610200000.mp4

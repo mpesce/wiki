@@ -13,10 +13,16 @@ related:
 # Apple
 
 ## TL;DR
-<76 sources reference Apple. Compile the one-line synthesis from the sources below.>
+Apple is the corpus's recurring touchstone: the former employer whose credential anchors Pesce's authority, the platform whose launches (iPod, iPhone, iPad, App Store) he narrated as they happened, the walled garden he criticizes, and — for three decades running — the presumed maker of the next interface, most recently AR glasses.
 
 ## Overview
-<Compile a cross-source synthesis of Apple. What is consistent and what changed over time.>
+Pesce's Apple credential does steady work across the corpus: from the 2000s onward his standard introduction is "former Apple and Mozilla engineer" ([[sources/friday-mp3]], [[sources/hypereconomics-flv]]). The recordings never dwell on what he did there; the phrase functions as a credibility marker borrowed from inside the company whose platform decisions he most often critiques.
+
+Apple first appears as launch-cycle news. On Triple J's Hack program in October 2006, mid-piracy debate, he flagged Apple's upcoming "iTV" initiative to connect computers and televisions ([[sources/abj-jjj-5oct06-interview-mp3]]). The 2010 ebook moment drew sustained attention: a 7.30 Report segment framed the imminent iPad launch against Amazon's Kindle and publisher price resistance ([[sources/7-30report-ebooks-18mar10-mp4-m4v]]), and a January 2010 Saturday Extra appearance walked through the App Store economy — roughly 140,000 apps, long-tail livelihoods for one- and two-person developers, and Apple's "closed ecosystem with strict approval processes" set against Android's openness ([[sources/sea-20100130-0730-mp3]]). His Webstock keynote made the iPad historically load-bearing: together with the digitization of books, it forms the closing bookend of the web's "golden age" of universal culture ([[sources/dense-and-thick-mp4]]), while the iPod appears in "Welcome to the Swarm" as the device that privatized media consumption into the personal ([[sources/hyperpeople-mp4]]).
+
+The critique thread is consistent but fair-minded. Advising radio listeners in 2017 on family tracking, he noted that Apple offered "more granular" privacy controls than Android's default spillover of location data to Google ([[sources/lms-20170505-0906-families-privacy-mp3]]). But the 2020 contact-tracing episode displays the pattern he distrusts: Apple and Google's OS-level exposure-notification framework, with its stringent security rules, risked conflicting with public health needs ([[sources/ntn-20200521-1105-do-track-and-trace-apps-work-t]]) — platform owners setting terms for everyone downstream.
+
+In the later corpus Apple becomes the assumed manufacturer of the next interface. His AR talks from 2018-2019 promised consumer AR spectacles from Apple "about two years out," ahead of Google and Facebook ([[sources/supertools-aut-9may19-mp3]], [[sources/accanet-12sep18-mp3]]), and his 2020 book tour on augmented reality framed Apple's platform history as the runway AR now walks ([[sources/voices-of-vr-mark-pesce-20nov20-mp3]]). In the agentic-AI era the walled-garden worry generalizes into a law about constrained systems: his warning that a super-intelligent agent inside a weaker harness will end up "using" its user ([[sources/f13-the-agent-is-using-you-mp4]]) extends the Apple thread from product criticism to a principle about intelligence and control.
 
 ## Key Facts
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]] — VR Creative Cluster Mark Pesce 9 Aug video1.MP4
