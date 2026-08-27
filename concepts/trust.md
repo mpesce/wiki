@@ -5,7 +5,7 @@ title: Trust
 tags: ["concept"]
 source_count: 44
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:03:50Z
+last_updated: 2026-08-27T11:06:19Z
 related:
   - (populate via lint)
 ---
@@ -13,10 +13,16 @@ related:
 # Trust
 
 ## TL;DR
-<44 sources engage with Trust. Synthesize the concept.>
+
+In Pesce's corpus, trust is the scarce resource of the connected age: eroded by information oversupply, rebuilt peer-to-peer, and increasingly the difference between institutions that endure and systems that fail.
 
 ## Overview
-<Synthesize how Trust is treated across the corpus. Themes, debates, evolution.>
+
+The corpus treats trust as bidirectional, empirical, and finite — something earned through repeated safe use and destroyed in a single exposure. At the NITV talk that gives the theme its clearest statement, Pesce argued that twenty-five years of global connectivity created a paradox: the internet enables unprecedented sharing and learning while amplifying ignorance and misinformation, so that in information oversupply people subconsciously select facts matching their existing beliefs, eroding institutional trust; trust itself he framed as "a fundamental, bidirectional resource that is increasingly scarce," and NITV as a rare holder of it for Indigenous Australia [[sources/truth-trust-and-story-26jul19-mp3]]. The same logic governs his work on verification: authentication is asymmetric — proof of tampering shows a video is fake, but absence of proof never shows it is real — which is precisely why a crisis of trust lets legitimate content be dismissed as fabricated [[sources/fte-20180415-mp3]].
+
+A long arc of sources shows trust migrating from institutions to networks. The "Hyperpeople" lectures describe a "balkanization of epistemology" in which personalised media — the iPod's "tunnel" of self-referential experience — unravels shared reality, and propose "swarming of understanding" through trust-based social networks as the remedy, with early tools like Outfoxed letting users filter the world through friends rather than authorities [[sources/hyperpeople-ipod-mp4]]. In urban consulting, the finding recurs: residents trust their peer networks more than statutory authorities, so a connected city must make its resources easy to share and engage with resident-driven networks rather than compete with them [[sources/the-connected-city-audio-mov]]. Education follows the same pattern — assessment and mentoring are "fundamentally the same act, relying on trust rather than traditional testing" [[sources/unknown-knowns-31oct19-mp3]].
+
+Where trust is financial, the corpus is unsentimental about its destruction. The FTX collapse is dissected as an internal Ponzi scheme whose fall triggered a bank run, with the telling detail that exchanges previously hostile to regulators began "clamoring for oversight to restore customer trust" through audits and capital reserves — and a prediction that crypto will adopt banking-style prudential regulation to survive [[sources/abctheworld-13dec22-m4v]] [[sources/theworld13dec22-mkv-webm]]. Blockchain events extend the theme constructively: Westpac executives note that "trust is built empirically through safe, incident-free usage over time," while V20 summit work on the FATF travel rule shows the industry building trust mechanisms — directories, counterparty due diligence, interoperable protocols — as infrastructure [[sources/blockhack16-talk-wav]] [[sources/v20-day-three-mp4]]. Even augmented reality enters the frame: because AR lets whoever writes metadata into a space change how people behave there, Pesce insists transparency and trust are prerequisites, and would hand the keys of perception to a trusted community broadcaster rather than a platform [[sources/national-trust-sense-in-place-mp4]]. The through-line is consistent: trust cannot be commanded or engineered directly; it accumulates through behaviour, it runs peer-to-peer before it runs top-down, and when institutions lose it they do not get it back by insisting on it.
 
 ## Key Points
 - [[sources/theworld13dec22-mkv-webm]] — TheWorld13Dec22.mkv.webm

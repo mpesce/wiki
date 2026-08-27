@@ -5,7 +5,7 @@ title: Attention
 tags: ["concept"]
 source_count: 31
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:03:50Z
+last_updated: 2026-08-27T11:06:19Z
 related:
   - (populate via lint)
 ---
@@ -13,10 +13,16 @@ related:
 # Attention
 
 ## TL;DR
-<31 sources engage with Attention. Synthesize the concept.>
+
+Once distribution is abundant, attention becomes the scarce resource: the corpus tracks how hyperconnectivity makes attention the primary currency of media, markets, and platforms.
 
 ## Overview
-<Synthesize how Attention is treated across the corpus. Themes, debates, evolution.>
+
+The argument begins as a consequence of hyperdistribution. In "The Swarm," Pesce concluded that when BitTorrent eliminated the scarcity of distribution channels, "the primary currency of the 21st century has shifted from money to attention" — mass-produced studio content cannot compete with the volume of user-created material, so audiences must rely on social networks to filter noise and find what matters [[sources/the-swarm-parts-i-ii-and-iii-mp3]]. The mechanics of that filtering get a close reading in the 2010 hypertext lecture: the web's "centrifugal force" pulls readers from linear text toward links, commercial news sites minimise links to hold monetised attention, Wikipedia embraces connectivity, and the resulting "TL;DR" phenomenon is a rational response to the opportunity cost of commitment in a hyper-competitive attention economy rather than a shrinking of attention spans [[sources/iif-2010-03-mark-pesce-mp3]] [[sources/iif-2010-03-mark-pesce-mp4]].
+
+From there the corpus develops attention as the base of new business models. The Hyperdistribution lecture names micro-audiences and relevance-over-production-values as the successor to mass media, where commanding attention — not owning a channel — is what a creator sells [[sources/4-02-hyperdistribution-mp3]]. By 2015 Pesce was describing an explicitly attention-based economy for screen professionals: creators monetise by commanding audience attention and translating media experiences into lived experiences, from theme parks to interactive platforms, while long-form world-building is the durable form audiences will pay to inhabit [[sources/marc-pesce-rushes01-mov]]. The Triple J interview supplies the broadcast-era counterpoint: with BitTorrent carrying a third of internet traffic and millions of amateur choices available, the pressure falls exactly on the advertising models that monetised attention at scale [[sources/abc-jjj-14mar06-interview-mp3]].
+
+A later strand asks who else competes for attention, and with what tools. The "Welcome to the Swarm" and Hyperpeople talks frame personalised media as a "tunnel" that captures attention by sealing it inside self-referential experience — the same pull the hypertext lecture describes, operating on an individual rather than a civilisational scale [[sources/hyperpeople-mp3]]. Augmented reality makes the stakes physical: AR devices are instruments of networked surveillance, with gaze detection tracking where attention lands, and engagement algorithms harvesting it — so that "the choice of where to look" becomes, in his 2016 New Year's reflection on 360-degree cameras, the last genuinely human act left in the frame [[sources/arin-2610-internet-transformations-the-ar-dilemm]] [[sources/r0010023-mp4]]. The Sydney Writers' Festival panel adds the personal cost: Pesce's own break from Twitter after years of heavy use, citing the psychological strain of an unfiltered global stream of anger — attention not just as currency but as a physiological budget [[sources/sydney-writers-festival-3may19-mp3]]. Across the corpus, attention moves from an economic abstraction to the central contested resource of the connected age: filtered by networks, monetised by platforms, and defended, imperfectly, by individuals.
 
 ## Key Points
 - [[sources/technospirit-mkv]] — technospirit.mkv

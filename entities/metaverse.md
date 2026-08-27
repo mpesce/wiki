@@ -5,7 +5,7 @@ title: the Metaverse
 tags: ["technology"]
 source_count: 7
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:03:50Z
+last_updated: 2026-08-27T11:06:19Z
 related:
   - (populate via lint)
 ---
