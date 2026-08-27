@@ -5,7 +5,7 @@ title: Google
 tags: ["organization"]
 source_count: 43
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:51:23Z
+last_updated: 2026-08-27T11:03:50Z
 related:
   - (populate via lint)
 ---
@@ -13,9 +13,11 @@ related:
 # Google
 
 ## TL;DR
+
 Google runs through the corpus as both tool and threat: Earth and Cardboard are celebrated as democratizing instruments in the 2000s–2010s, while by 2017–2021 Pesce treats Google alongside Facebook as a surveillance-capitalist monopolist — from the Aurora hack and health-data grabs to AR as the next battleground for the "right to write."
 
 ## Overview
+
 Google first appears in the corpus in the mid-2000s as a disruptor of legacy publishing. Speaking to Lonely Planet staff, Pesce argues Google Earth has "established the world as a database" and positions Google as a strategic threat to traditional publishers that aggregate geographically contextual information — warning against a "walled garden" response and urging syndication instead ([[sources/whereintheworld-mp3]]). To Australian educators he recommends Google Earth as "the ultimate toy" for classrooms, letting students see the world as an active, interdependent system ([[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]], [[sources/four-domains-m4a]]). On triple j's Hack he analyzes the Microsoft–Yahoo search deal as an attempt to buy second place against Google's dominance ([[sources/hack-thurs-2009-07-30-mp3]]), and covers the Aurora intrusions — hackers exploiting Internet Explorer 6 to breach Google, Yahoo and Northrop Grumman — advising listeners to switch to open-source browsers ([[sources/hack-tues-2010-01-19-mp3]]).
 
 The mid-2000s-to-2010s thread treats Google as an astute acquirer of network-scale media. In "Hypercasting," Pesce reads the US$1.65 billion YouTube acquisition and simultaneous licensing deals with Universal and Sony BMG as big media realizing it had lost control of distribution and must monetize the network rather than fight it ([[sources/hypercasting-mp3]]). On radio he contrasts Android's open multi-manufacturer model with Apple's closed ecosystem ([[sources/sea-20100130-0730-mp3]]). At a 2018 symposium panel he moderates, Google's Peter Norvig describes the transition from human-curated taxonomies to machine-driven search as the price of navigating the web's "long tail" ([[sources/pesce-thesymposium-9dec18-mp4]]).

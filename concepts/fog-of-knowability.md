@@ -5,7 +5,7 @@ title: The fog of knowability
 tags: ["concept"]
 source_count: 2
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:51:23Z
+last_updated: 2026-08-27T11:03:50Z
 related:
   - (populate via lint)
 ---

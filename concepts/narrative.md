@@ -5,7 +5,7 @@ title: Narrative
 tags: ["concept"]
 source_count: 49
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:51:23Z
+last_updated: 2026-08-27T11:03:50Z
 related:
   - (populate via lint)
 ---
@@ -13,10 +13,16 @@ related:
 # Narrative
 
 ## TL;DR
-<49 sources engage with Narrative. Synthesize the concept.>
+
+Pesce treats narrative as the oldest human technology for making meaning — and, in an age of information oversupply, as persuasion's most contested instrument.
 
 ## Overview
-<Synthesize how Narrative is treated across the corpus. Themes, debates, evolution.>
+
+Across the corpus, narrative appears first as craft and entertainment and gradually becomes something weightier: the mechanism by which communities select facts, frame the future, and decide what to trust. Speaking to NITV in 2019, Pesce defined futurists as "storytellers" who use narratives about the present to shape visions of the future — a definition that makes story the engine of foresight rather than its decoration [[sources/truth-trust-and-story-26jul19-mp3]]. The earliest source in the set, Peggy Nelson's 1999 audio-tour presentation at Burning Man, shows narrative working in exactly that mode: dream reports and personal anecdotes used to argue that meaning is extrinsic and temporary, with the story itself as the only stable ground [[sources/3-01-the-audio-tour-mp3]].
+
+A second, more formal register examines what happens to story when the medium changes. In a 2010 lecture on hypertext and the future of the book, Pesce argued that the web exerts a "centrifugal force" pulling readers away from linear texts toward linked content; commercial sites minimise links to hold monetised attention while Wikipedia embraces connectivity, and the resulting "TL;DR" phenomenon reflects the opportunity cost of commitment in an attention economy rather than any real shortening of attention spans [[sources/iif-2010-03-mark-pesce-mp3]] [[sources/iif-2010-03-mark-pesce-mp4]]. His prediction was not the death of narrative but its dissolution and recombination: books will become fluid, non-linear hybrids that dissolve into a hyper-connected mass of human expression, and fiction will survive by building immersive universes readers can inhabit — Tolkien's Middle-earth, or Finnegans Wake as a precursor of hypertext's multiplying meanings. The same question animates a 2006 Book Show panel on computer games, where sophisticated narrative elements, player choice, and cutscene-delivered character motivation mark games as the era's newly serious storytelling medium [[sources/4-03-the-book-show-23-june-2006-mp3]], and an interview on the future of screen production to 2030, in which Pesce advised creators to stake their careers on long-form world-building because audiences crave immersive, evolving stories [[sources/marc-pesce-rushes01-mov]].
+
+A third register treats narrative as an instrument of power — for good and ill. Pesce's "Empire" keynote reads architecture itself as narrative: Pisa Cathedral as a "human Wikipedia" whose layered history amplifies culture, St Peter's as an empire that exchanged temporal power for spiritual authority, and the clear cuts of the Pacific Northwest as a media landscape with no ecology [[sources/empire-6-11-06-mp3]]. At the other extreme, the same force becomes manipulation: in the "Technology as a Drug" lectures, algorithmically curated feeds create personalised realities that erode the public sphere [[sources/ega-mp3]], and in his augmented-reality teaching he warns that whoever controls the metadata inscribed in a space controls the behaviour of people in it [[sources/surveillance-status-arin2610-20oct20-mp4]]. His response is not nostalgia but stewardship — augmented reality "returns narrative to place," a practice Indigenous Australian cultures have sustained for millennia, which is why he would trust a community broadcaster rather than a platform with the writing of that layer [[sources/truth-trust-and-story-26jul19-mp3]]. Leadership talks extend the point into management: shifting the organisational story from job loss to role evolution is what turns fearful employees into agents of change [[sources/a10-leaderships-one-job-mp4]]. Across twenty years of recordings, then, narrative is never neutral: it is the interface between evidence and belief, and the corpus's central debate is over who gets to tell it.
 
 ## Key Points
 - [[sources/3-01-the-audio-tour-mp3]] — 3-01 The Audio Tour.mp3

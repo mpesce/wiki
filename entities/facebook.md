@@ -5,7 +5,7 @@ title: Facebook
 tags: ["organization"]
 source_count: 71
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:51:23Z
+last_updated: 2026-08-27T11:03:50Z
 related:
   - (populate via lint)
 ---
@@ -13,9 +13,11 @@ related:
 # Facebook
 
 ## TL;DR
+
 Facebook is the corpus's central villain: across 71 sources (2010–2021) Pesce tracks it from "the world's largest extractable marketing database" through surveillance capitalism, Cambridge Analytica, and Libra, to the engine of a fragmented, curated "post-real" reality.
 
 ## Overview
+
 Facebook enters the corpus in 2010 as a privacy antagonist. Pesce — who had just deleted his own account — tells ABC's Life Matters that Facebook has gathered "the largest wealth of marketing data in history" and cannot be trusted with it, that the social graph is an asset extracted from users' minds, and that Facebook imposes terms unilaterally rather than negotiating them ([[sources/lms-20100531-0905-mp3]]). The same month he unveils Plexus, an open-source "traffic cop" for social media designed to let users leave Facebook without abandoning their connections, explicitly because Facebook owns the social graph and does not allow export ([[sources/pollenizerpodcast-20100728-mp3]]). He carries this argument to linux.conf.au 2011, where he frames Facebook as having weaponized human mimesis by capturing the social graph inside a closed, proprietary system, and cites the WikiLeaks deplatforming as proof that the net can be censored by state-aligned corporate forces ([[sources/lca2011-keynote-mov]]).
 
 From 2017 the critique hardens into a coherent theory of surveillance capitalism. In talks at EGA, the Golden Age Cinema and the State Library of Victoria, Pesce calls Facebook a "global cognitive bias amplifier": citing The Australian's 2017 report on Facebook pitching advertisers access to emotionally vulnerable teens, and the 2014 emotional-contagion study on 689,000 users, he argues that machine-learning news-feed curation confirms users' existing beliefs, erodes the public sphere, and fuels polarization ([[sources/ega-wav]], [[sources/mark-pesce-futurist-the-last-days-of-reality-mp4]], [[sources/slv-wav]]). Cambridge Analytica becomes the centerpiece: the 50-million-profile harvest shows the platform functions fundamentally as a data-collection engine that weaponizes user information for engagement and sales ([[sources/rnd-20180319-1825-mp3]]). His October 2017 Toronto keynote, on the 500th anniversary of Luther's 95 Theses, names this "digital colonialism" — Facebook colonized public digital space by offering community tools users adopted without considering the cost — and calls for a "digital reformation" ([[sources/last-days-of-reality-toronto-17oct17-mov]], [[sources/a-digital-reformation-wav]]).

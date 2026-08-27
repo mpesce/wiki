@@ -5,7 +5,7 @@ title: Erik Davis
 tags: ["person"]
 source_count: 13
 created: 2026-08-27T10:51:23Z
-last_updated: 2026-08-27T10:51:23Z
+last_updated: 2026-08-27T11:03:50Z
 related:
   - (populate via lint)
 ---

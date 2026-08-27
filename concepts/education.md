@@ -5,7 +5,7 @@ title: Education
 tags: ["concept"]
 source_count: 36
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T10:51:23Z
+last_updated: 2026-08-27T11:03:50Z
 related:
   - (populate via lint)
 ---
@@ -13,9 +13,11 @@ related:
 # Education
 
 ## TL;DR
+
 Education is the corpus's most persistent theme: Mark Pesce argues hyperconnectivity dissolved the industrial model of once-educated-for-life schooling, replacing it with lifelong, peer-driven, mentor-rich learning — a thesis he now extends into the AI era.
 
 ## Overview
+
 Pesce's education thinking begins with children and toys: The Playful World, inspired by a friend's child born in 2000, uses Furby and other smart toys as entry points to argue that constructivist learning — children building understanding through interaction — now extends into technology ([[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]], [[sources/four-domains-m4a]]). He recalls being the first panelist to mention Wikipedia to Australian teachers in 2004, and frames three cultural shifts reshaping pedagogy: the birth of the web, the rise of sharing platforms after the dot-com collapse, and the explosion of social networks after Facebook's 2007 platform launch ([[sources/mark-pesce-btb-vodcast-iphone-m4v]]). To educators at eLearning 2008 his prescription was maximal openness: share courseware as broadly as possible, because "the more something is shared, the more valuable it becomes" ([[sources/elearning08-mark-pesce-20081104-mp3]]).
 
 A middle strand documents hyperconnectivity reaching the classroom. He cites an ethnographic survey showing the average age of first mobile-phone ownership falling from eleven to eight or nine within a decade, making device ownership inevitable for schoolchildren ([[sources/hyperconnectededucation-vitta-30aug11-wav]]); situates 1995–2026 as a transformation comparable to the birth of language ([[sources/thenextbillionsecondsineducation-1sep11-wav]]); and catalogues peer-produced knowledge — Wikipedia versus Britannica, RateMyProfessors wrenching faculty power toward students — as evidence that the balance of authority has shifted from institutions to networked learners ([[sources/inconvenience-whole-mov]], [[sources/collisions-and-smash-repairs-mp4]]).
