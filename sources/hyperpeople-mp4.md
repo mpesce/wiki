@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1_iu8PJUmOhLIPg1tMCUip3ETvT-rz2P0/v
 type: interview
 date: 2004
 tags: ["apple", "battlestar-galactica", "mark-pesce", "networks", "peer-to-peer", "the-future", "the-swarm", "trust"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

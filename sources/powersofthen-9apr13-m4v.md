@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1ms_DiGyail8Zp4ipI0OzB8ev6EEKl3ms/v
 type: interview
 date: 2013-04-09
 tags: ["attention", "connectivity", "mark-pesce", "the-next-billion-seconds", "vrml"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

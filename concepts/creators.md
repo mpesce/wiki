@@ -5,7 +5,7 @@ title: Creators
 tags: ["concept"]
 source_count: 16
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -19,7 +19,6 @@ related:
 <Synthesize how Creators is treated across the corpus. Themes, debates, evolution.>
 
 ## Key Points
-- [[sources/technospirit-mkv]] — technospirit.mkv
 - [[sources/4-02-hyperdistribution-mp3]] — 4-02 Hyperdistribution.mp3
 - [[sources/hyperpeople-mp3]] — hyperpeople.mp3
 - [[sources/hyperpeople-ipod-mp4]] — hyperpeople-iPod.mp4
@@ -35,6 +34,7 @@ related:
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-mp4]] — avatars96-pesce-leonard-dipaola_512kb.mp4
 - [[sources/felix-wav]] — Felix.wav
 - [[sources/quantiacs-launch-mov]] — Quantiacs-Launch.mov
+- [[sources/technospirit-mkv]] — technospirit.mkv
 
 ## Debates / Open Questions
 
@@ -42,7 +42,6 @@ related:
 
 ## Sources
 
-- [[sources/technospirit-mkv]]
 - [[sources/4-02-hyperdistribution-mp3]]
 - [[sources/hyperpeople-mp3]]
 - [[sources/hyperpeople-ipod-mp4]]
@@ -58,3 +57,4 @@ related:
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-mp4]]
 - [[sources/felix-wav]]
 - [[sources/quantiacs-launch-mov]]
+- [[sources/technospirit-mkv]]

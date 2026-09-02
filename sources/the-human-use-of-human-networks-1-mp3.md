@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1SMSv3N_qOxRPAHuzW6tfBBR7rP4YlKwp/v
 type: interview
 date: unknown
 tags: ["bbc", "creators", "innovation", "mark-pesce", "networks", "peer-to-peer", "social-networks"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

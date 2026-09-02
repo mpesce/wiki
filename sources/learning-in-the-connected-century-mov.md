@@ -5,10 +5,10 @@ title: Learning in the Connected Century.mov
 drive_id: 1R0qwC2FOncricMpoUY1pgyGKfSi_xV9c
 source_link: https://drive.google.com/file/d/1R0qwC2FOncricMpoUY1pgyGKfSi_xV9c/view?usp=drivesdk
 type: podcast
-date: unknown
+date: 2015
 tags: ["education", "mark-pesce", "mit"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

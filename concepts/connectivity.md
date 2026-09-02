@@ -5,7 +5,7 @@ title: Connectivity
 tags: ["concept"]
 source_count: 57
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -27,10 +27,6 @@ But the corpus gives equal weight to the costs, particularly in the dense 2011 c
 The late corpus completes the arc. In his 2020 ABC talk, connectivity is the substrate of hypercasting — the personalisation and search that broadcasters must now learn from platforms ([[sources/abc-14jul20-video-first-mp4]]); in the 2022 LEAP interview, "planetary-scale connectivity" becomes one of the defining qualities of the metaverse, alongside interactivity and sensory richness ([[sources/leap-interview-13oct22-mp4]]). And the Better-Than-Crack keynote supplies the concept's emotional vocabulary: connectivity as "secret lover," as compulsion, as the mobile phone reshaping social behaviour the way earlier seductions reshaped theirs ([[sources/better-than-crack-mp3]]). Across 57 sources the pattern holds: connectivity is treated as genuinely civilisational in scope — closer in significance to language than to any gadget — yet never as an unalloyed good; every promised capability arrives bundled with a cost that must be managed, individually and institutionally.
 
 ## Key Points
-- [[sources/better-than-crack-1-mp3]] — Better-Than-Crack (1).mp3
-- [[sources/better-than-crack-mp3]] — Better-Than-Crack.mp3
-- [[sources/dense-and-thick-mp4]] — dense-and-thick.mp4
-- [[sources/singularity-summit-mp4]] — singularity_summit.mp4
 - [[sources/techno-pagans-at-the-end-of-history-7-esalen-mp3]] — Techno-Pagans at the End of History 7(Esalen).mp3
 - [[sources/nextwave-mp4]] — NextWave.mp4
 - [[sources/the-new-inventors-20071114200000-mp4]] — The New Inventors-20071114200000.mp4
@@ -41,6 +37,7 @@ The late corpus completes the arc. In his 2020 ABC talk, connectivity is the sub
 - [[sources/pdf-pdf2009markpesce112-mov]] — Pdf-PDF2009MarkPesce112.mov
 - [[sources/asx-wav]] — ASX.wav
 - [[sources/nexus-m4v]] — Nexus.m4v
+- [[sources/the-new-inventors-20090401200000-mp4]] — The New Inventors-20090401200000.mp4
 - [[sources/connectingup09-11may09-mp3]] — ConnectingUp09-11May09.mp3
 - [[sources/guestroom-futurist-mark-pesce-1-mp3]] — Guestroom - Futurist Mark Pesce (1).mp3
 - [[sources/guestroom-futurist-mark-pesce-mp3]] — Guestroom - Futurist Mark Pesce.mp3
@@ -64,6 +61,7 @@ The late corpus completes the arc. In his 2020 ABC talk, connectivity is the sub
 - [[sources/four-domains-m4a]] — Four Domains.m4a
 - [[sources/planet-of-the-apps-auckland-21may15-mp4]] — Planet of the Apps Auckland 21May15.mp4
 - [[sources/new-cities-new-economies-wav]] — New Cities : New Economies.wav
+- [[sources/peet-m4a]] — Peet.m4a
 - [[sources/truth-trust-and-story-26jul19-mp3]] — Truth Trust and Story 26Jul19.mp3
 - [[sources/a-series-of-tubes-wpc-11sep19-mp3]] — A Series of Tubes WPC 11Sep19.mp3
 - [[sources/wpc-11sep19-wav]] — WPC 11Sep19.wav
@@ -72,15 +70,17 @@ The late corpus completes the arc. In his 2020 ABC talk, connectivity is the sub
 - [[sources/leap-interview-13oct22-mp4]] — LEAP interview 13Oct22.mp4
 - [[sources/3-01-hyperpeople-mp3]] — 3-01 Hyperpeople.mp3
 - [[sources/the-new-new-mp3]] — The_New_New.mp3
+- [[sources/better-than-crack-1-mp3]] — Better-Than-Crack (1).mp3
+- [[sources/better-than-crack-mp3]] — Better-Than-Crack.mp3
 - [[sources/telstra-ipod-m4v]] — telstra_ipod.m4v
 - [[sources/tedx-mov]] — tedx.mov
-- [[sources/the-new-inventors-20090401200000-mp4]] — The New Inventors-20090401200000.mp4
 - [[sources/recording-2-m4a]] — Recording 2.m4a
-- [[sources/peet-m4a]] — Peet.m4a
 - [[sources/collisions-and-smash-repairs-mp4]] — Collisions-and-Smash-Repairs.mp4
 - [[sources/1-58269-80068-flvhigh-1-flv]] — 1_58269_80068_flvhigh (1).flv
 - [[sources/1-58269-80068-flvhigh-flv]] — 1_58269_80068_flvhigh.flv
+- [[sources/dense-and-thick-mp4]] — dense-and-thick.mp4
 - [[sources/pdf-pesce-mov]] — Pdf-Pesce.mov
+- [[sources/singularity-summit-mp4]] — singularity_summit.mp4
 - [[sources/the-new-new-m4v]] — The New New.m4v
 - [[sources/mind-share-hd-mov]] — mind_share_hd.mov
 - [[sources/the-new-new-mov]] — The New New.mov
@@ -91,10 +91,6 @@ The late corpus completes the arc. In his 2020 ABC talk, connectivity is the sub
 
 ## Sources
 
-- [[sources/better-than-crack-1-mp3]]
-- [[sources/better-than-crack-mp3]]
-- [[sources/dense-and-thick-mp4]]
-- [[sources/singularity-summit-mp4]]
 - [[sources/techno-pagans-at-the-end-of-history-7-esalen-mp3]]
 - [[sources/nextwave-mp4]]
 - [[sources/the-new-inventors-20071114200000-mp4]]
@@ -105,6 +101,7 @@ The late corpus completes the arc. In his 2020 ABC talk, connectivity is the sub
 - [[sources/pdf-pdf2009markpesce112-mov]]
 - [[sources/asx-wav]]
 - [[sources/nexus-m4v]]
+- [[sources/the-new-inventors-20090401200000-mp4]]
 - [[sources/connectingup09-11may09-mp3]]
 - [[sources/guestroom-futurist-mark-pesce-1-mp3]]
 - [[sources/guestroom-futurist-mark-pesce-mp3]]
@@ -128,6 +125,7 @@ The late corpus completes the arc. In his 2020 ABC talk, connectivity is the sub
 - [[sources/four-domains-m4a]]
 - [[sources/planet-of-the-apps-auckland-21may15-mp4]]
 - [[sources/new-cities-new-economies-wav]]
+- [[sources/peet-m4a]]
 - [[sources/truth-trust-and-story-26jul19-mp3]]
 - [[sources/a-series-of-tubes-wpc-11sep19-mp3]]
 - [[sources/wpc-11sep19-wav]]
@@ -136,15 +134,17 @@ The late corpus completes the arc. In his 2020 ABC talk, connectivity is the sub
 - [[sources/leap-interview-13oct22-mp4]]
 - [[sources/3-01-hyperpeople-mp3]]
 - [[sources/the-new-new-mp3]]
+- [[sources/better-than-crack-1-mp3]]
+- [[sources/better-than-crack-mp3]]
 - [[sources/telstra-ipod-m4v]]
 - [[sources/tedx-mov]]
-- [[sources/the-new-inventors-20090401200000-mp4]]
 - [[sources/recording-2-m4a]]
-- [[sources/peet-m4a]]
 - [[sources/collisions-and-smash-repairs-mp4]]
 - [[sources/1-58269-80068-flvhigh-1-flv]]
 - [[sources/1-58269-80068-flvhigh-flv]]
+- [[sources/dense-and-thick-mp4]]
 - [[sources/pdf-pesce-mov]]
+- [[sources/singularity-summit-mp4]]
 - [[sources/the-new-new-m4v]]
 - [[sources/mind-share-hd-mov]]
 - [[sources/the-new-new-mov]]

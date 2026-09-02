@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1puzdf1-XYmWnjE13MzLrqGBJ4FZjJFbQ/v
 type: news
 date: 2004
 tags: ["battlestar-galactica", "broadcast", "hyperdistribution", "mark-pesce", "networks", "social-networks"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

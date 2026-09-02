@@ -473,5 +473,10 @@
   "date": "unknown",
   "note": "NFTS/Lonely Planet era (~1998-2003); 1994 = VRML recap artifact",
   "mined": "2026-08-28"
+ },
+ "learning-in-the-connected-century-mov": {
+  "date": "2015",
+  "note": "Mathematica free on Raspberry Pi (released Mar 2015) cited as recent; Scratch web shift (2013); Young ICT Explorers NSW",
+  "mined": "2026-08-28"
  }
 }

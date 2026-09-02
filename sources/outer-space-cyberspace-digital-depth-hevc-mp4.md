@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/193t-gG6icE1lSXA0xYAI6-OydG-F2_h8/v
 type: news
 date: 2016
 tags: ["apple", "ar", "facebook", "ivan-sutherland", "mark-pesce", "microsoft", "narrative", "pokemon-go", "virtual-reality"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

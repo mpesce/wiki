@@ -5,7 +5,7 @@ title: Twitter
 tags: ["concept"]
 source_count: 25
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -22,8 +22,9 @@ related:
 - [[sources/nextwave-mp4]] — NextWave.mp4
 - [[sources/01-twitter-and-the-media-m4a]] — 01 Twitter and the Media.m4a
 - [[sources/nightlife-twitter-11mar09-mp3]] — nightlife-twitter-11Mar09.mp3
-- [[sources/expandingmind010710-mp3]] — ExpandingMind010710.mp3
+- [[sources/hownottobeseen-mp4]] — HowNotToBeSeen.mp4
 - [[sources/sat-20100213-1110-mark-pesce-future-gaze-048-mp3]] — sat-20100213-1110-Mark_Pesce_-_future_gaze-048.mp3
+- [[sources/expandingmind010710-mp3]] — ExpandingMind010710.mp3
 - [[sources/pollenizerpodcast-20100728-1-mp3]] — PollenizerPodcast-20100728 (1).mp3
 - [[sources/pollenizerpodcast-20100728-mp3]] — PollenizerPodcast-20100728.mp3
 - [[sources/the-drum-youtube-1-m4v]] — The Drum-YouTube (1).m4v
@@ -41,7 +42,6 @@ related:
 - [[sources/collisions-and-smash-repairs-mp4]] — Collisions-and-Smash-Repairs.mp4
 - [[sources/1-58269-80068-flvhigh-1-flv]] — 1_58269_80068_flvhigh (1).flv
 - [[sources/1-58269-80068-flvhigh-flv]] — 1_58269_80068_flvhigh.flv
-- [[sources/hownottobeseen-mp4]] — HowNotToBeSeen.mp4
 - [[sources/the-new-new-m4v]] — The New New.m4v
 - [[sources/the-new-new-mov]] — The New New.mov
 
@@ -54,8 +54,9 @@ related:
 - [[sources/nextwave-mp4]]
 - [[sources/01-twitter-and-the-media-m4a]]
 - [[sources/nightlife-twitter-11mar09-mp3]]
-- [[sources/expandingmind010710-mp3]]
+- [[sources/hownottobeseen-mp4]]
 - [[sources/sat-20100213-1110-mark-pesce-future-gaze-048-mp3]]
+- [[sources/expandingmind010710-mp3]]
 - [[sources/pollenizerpodcast-20100728-1-mp3]]
 - [[sources/pollenizerpodcast-20100728-mp3]]
 - [[sources/the-drum-youtube-1-m4v]]
@@ -73,6 +74,5 @@ related:
 - [[sources/collisions-and-smash-repairs-mp4]]
 - [[sources/1-58269-80068-flvhigh-1-flv]]
 - [[sources/1-58269-80068-flvhigh-flv]]
-- [[sources/hownottobeseen-mp4]]
 - [[sources/the-new-new-m4v]]
 - [[sources/the-new-new-mov]]

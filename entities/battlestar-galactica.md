@@ -5,7 +5,7 @@ title: Battlestar Galactica
 tags: ["organization"]
 source_count: 9
 created: 2026-08-27T10:51:23Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -19,6 +19,7 @@ related:
 <Compile a cross-source synthesis of Battlestar Galactica. What is consistent and what changed over time.>
 
 ## Key Facts
+- [[sources/piracyisgood-mp3]] — piracyisgood.mp3
 - [[sources/hyperpeople-mp3]] — hyperpeople.mp3
 - [[sources/hyperpeople-mobile-mp4]] — hyperpeople-mobile.mp4
 - [[sources/piracyisgood-smal-avi]] — PiracyIsGood-smal.avi
@@ -27,7 +28,6 @@ related:
 - [[sources/hyperpeople-ipod-mp4]] — hyperpeople-iPod.mp4
 - [[sources/hyperpeople-mp4]] — hyperpeople.mp4
 - [[sources/piracyisgood-avi]] — PiracyIsGood.avi
-- [[sources/piracyisgood-mp3]] — piracyisgood.mp3
 
 ## In the Corpus
 
@@ -43,6 +43,7 @@ related:
 
 ## Sources
 
+- [[sources/piracyisgood-mp3]]
 - [[sources/hyperpeople-mp3]]
 - [[sources/hyperpeople-mobile-mp4]]
 - [[sources/piracyisgood-smal-avi]]
@@ -51,4 +52,3 @@ related:
 - [[sources/hyperpeople-ipod-mp4]]
 - [[sources/hyperpeople-mp4]]
 - [[sources/piracyisgood-avi]]
-- [[sources/piracyisgood-mp3]]

@@ -5,7 +5,7 @@ title: Democratization
 tags: ["concept"]
 source_count: 3
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -19,9 +19,9 @@ related:
 <Synthesize how Democratization is treated across the corpus. Themes, debates, evolution.>
 
 ## Key Points
+- [[sources/peet-m4a]] — Peet.m4a
 - [[sources/fte-20180415-mp3]] — fte_20180415.mp3
 - [[sources/ispy-ipod-m4v]] — ispy_ipod.m4v
-- [[sources/peet-m4a]] — Peet.m4a
 
 ## Debates / Open Questions
 
@@ -29,6 +29,6 @@ related:
 
 ## Sources
 
+- [[sources/peet-m4a]]
 - [[sources/fte-20180415-mp3]]
 - [[sources/ispy-ipod-m4v]]
-- [[sources/peet-m4a]]

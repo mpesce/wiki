@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1saqPDF-MoW4Q58Pt9LzSE62LH8nxNTl7/v
 type: keynote
 date: 2010
 tags: ["3d", "attention", "innovation", "mark-pesce", "the-future", "tony-parisi", "virtual-reality", "vrml"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

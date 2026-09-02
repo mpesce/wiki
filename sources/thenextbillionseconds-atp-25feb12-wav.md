@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1BDzLHNqTiCyR19h3XLphG0JMT3oBJUeG/v
 type: keynote
 date: 2012-02-25
 tags: ["abc", "attention", "communication", "connectivity", "identity", "mark-pesce", "networks", "social-networks", "the-future", "the-next-billion-seconds", "twitter"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

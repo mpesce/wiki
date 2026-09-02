@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1UsDBnTI0c_a3xkE1IuQj-zR7NHTQJNiv/v
 type: interview
 date: 2010-07-28
 tags: ["apple", "communication", "facebook", "innovation", "mark-pesce", "mozilla", "networks", "open-source", "podcast", "social-media", "social-networks", "twitter"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

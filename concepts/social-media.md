@@ -5,7 +5,7 @@ title: Social media
 tags: ["concept"]
 source_count: 48
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -25,13 +25,13 @@ The corpus then darkens. Pesce documents Facebook's transformation from informat
 His responses span personal exit to regulatory analysis. He built Plexus, an open-source "traffic cop" for his social interactions, to leave Facebook over privacy concerns ([[sources/pollenizerpodcast-20100728-mp3]]), and later quit centralized networks entirely as corporate data extraction ([[sources/hownottobeseen-mp4]]), while examining the social cost of permanent connection in a book on digital disconnection ([[sources/abc702-disconnect-13sep11-mp3]]). On the news side he reads The Social Dilemma as confirmation that AI-driven feeds tailor content to individual weaknesses ([[sources/weekdays-28sep20-the-social-dilemma-mp3]]), tracks Russian interference operations like the Peace Data takedown ([[sources/mark-pesce-the-world-2sep20-mp4]]), and flags TikTok as a geopolitical flashpoint over censorship and Chinese ownership ([[sources/ppm-2019-10-21-tik-tok-mp3]]). The through-line is that the same connectivity that empowers communities — as with Indonesia Unite's resilience messaging after the Jakarta bombings ([[sources/hack-thurs-2009-07-30-mp3]]) — also arms the platforms that now shape public belief.
 
 ## Key Points
-- [[sources/technospirit-mkv]] — technospirit.mkv
-- [[sources/singularity-summit-mp4]] — singularity_summit.mp4
-- [[sources/mark-pesce-btb-vodcast-iphone-m4v]] — mark pesce BTB vodcast iphone.m4v
 - [[sources/nextwave-mp4]] — NextWave.mp4
+- [[sources/mark-pesce-btb-vodcast-iphone-m4v]] — mark pesce BTB vodcast iphone.m4v
 - [[sources/01-twitter-and-the-media-m4a]] — 01 Twitter and the Media.m4a
 - [[sources/connectingup09-11may09-mp3]] — ConnectingUp09-11May09.mp3
 - [[sources/hack-thurs-2009-07-30-mp3]] — hack_thurs_2009_07_30.mp3
+- [[sources/the-new-inventors-20091007200000-mp4]] — The New Inventors-20091007200000.mp4
+- [[sources/hownottobeseen-mp4]] — HowNotToBeSeen.mp4
 - [[sources/sat-20100213-1110-mark-pesce-future-gaze-048-mp3]] — sat-20100213-1110-Mark_Pesce_-_future_gaze-048.mp3
 - [[sources/pollenizerpodcast-20100728-1-mp3]] — PollenizerPodcast-20100728 (1).mp3
 - [[sources/pollenizerpodcast-20100728-mp3]] — PollenizerPodcast-20100728.mp3
@@ -47,6 +47,7 @@ His responses span personal exit to regulatory analysis. He built Plexus, an ope
 - [[sources/ega-wav]] — EGA.wav
 - [[sources/mark-pesce-futurist-the-last-days-of-reality-mp4]] — Mark Pesce - Futurist - The Last Days of Reality.mp4
 - [[sources/the-last-days-of-reality-ega-8dec17-mkv]] — The Last Days of Reality - EGA 8Dec17.mkv
+- [[sources/peet-m4a]] — Peet.m4a
 - [[sources/ega-mp3]] — EGA.mp3
 - [[sources/ozwater-9may18-mp3]] — OzWater 9May18.mp3
 - [[sources/just-so-stories-wds-1nov18-mp3]] — Just-So Stories WDS 1Nov18.mp3
@@ -62,14 +63,13 @@ His responses span personal exit to regulatory analysis. He built Plexus, an ope
 - [[sources/walking-with-the-ancestors-mp3]] — Walking with the Ancestors.mp3
 - [[sources/1-dia-markpesce-1-mp3]] — 1_DIA_MarkPesce (1).mp3
 - [[sources/1-dia-markpesce-mp3]] — 1_DIA_MarkPesce.mp3
-- [[sources/the-new-inventors-20091007200000-mp4]] — The New Inventors-20091007200000.mp4
 - [[sources/recording-2-m4a]] — Recording 2.m4a
-- [[sources/peet-m4a]] — Peet.m4a
 - [[sources/1-58269-80068-flvhigh-1-flv]] — 1_58269_80068_flvhigh (1).flv
 - [[sources/1-58269-80068-flvhigh-flv]] — 1_58269_80068_flvhigh.flv
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-1-m4v]] — mark pesce AISWA BTB questions iPhone (1).m4v
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-m4v]] — mark pesce AISWA BTB questions iPhone.m4v
-- [[sources/hownottobeseen-mp4]] — HowNotToBeSeen.mp4
+- [[sources/technospirit-mkv]] — technospirit.mkv
+- [[sources/singularity-summit-mp4]] — singularity_summit.mp4
 - [[sources/000000001557b87f-mpg]] — 000000001557b87f.mpg
 - [[sources/000000001990cd87-mpg]] — 000000001990cd87.mpg
 - [[sources/000000001a0b5af7-mpg]] — 000000001a0b5af7.mpg
@@ -80,13 +80,13 @@ His responses span personal exit to regulatory analysis. He built Plexus, an ope
 
 ## Sources
 
-- [[sources/technospirit-mkv]]
-- [[sources/singularity-summit-mp4]]
-- [[sources/mark-pesce-btb-vodcast-iphone-m4v]]
 - [[sources/nextwave-mp4]]
+- [[sources/mark-pesce-btb-vodcast-iphone-m4v]]
 - [[sources/01-twitter-and-the-media-m4a]]
 - [[sources/connectingup09-11may09-mp3]]
 - [[sources/hack-thurs-2009-07-30-mp3]]
+- [[sources/the-new-inventors-20091007200000-mp4]]
+- [[sources/hownottobeseen-mp4]]
 - [[sources/sat-20100213-1110-mark-pesce-future-gaze-048-mp3]]
 - [[sources/pollenizerpodcast-20100728-1-mp3]]
 - [[sources/pollenizerpodcast-20100728-mp3]]
@@ -102,6 +102,7 @@ His responses span personal exit to regulatory analysis. He built Plexus, an ope
 - [[sources/ega-wav]]
 - [[sources/mark-pesce-futurist-the-last-days-of-reality-mp4]]
 - [[sources/the-last-days-of-reality-ega-8dec17-mkv]]
+- [[sources/peet-m4a]]
 - [[sources/ega-mp3]]
 - [[sources/ozwater-9may18-mp3]]
 - [[sources/just-so-stories-wds-1nov18-mp3]]
@@ -117,14 +118,13 @@ His responses span personal exit to regulatory analysis. He built Plexus, an ope
 - [[sources/walking-with-the-ancestors-mp3]]
 - [[sources/1-dia-markpesce-1-mp3]]
 - [[sources/1-dia-markpesce-mp3]]
-- [[sources/the-new-inventors-20091007200000-mp4]]
 - [[sources/recording-2-m4a]]
-- [[sources/peet-m4a]]
 - [[sources/1-58269-80068-flvhigh-1-flv]]
 - [[sources/1-58269-80068-flvhigh-flv]]
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-1-m4v]]
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-m4v]]
-- [[sources/hownottobeseen-mp4]]
+- [[sources/technospirit-mkv]]
+- [[sources/singularity-summit-mp4]]
 - [[sources/000000001557b87f-mpg]]
 - [[sources/000000001990cd87-mpg]]
 - [[sources/000000001a0b5af7-mpg]]

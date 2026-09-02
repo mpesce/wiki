@@ -5,7 +5,7 @@ title: agentic
 tags: ["technology"]
 source_count: 4
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -21,8 +21,8 @@ related:
 ## Key Facts
 - [[sources/f2-cold-open-mp4]] — F2_cold-open.mp4
 - [[sources/f2b-watershed-in-context-mp4]] — F2b_watershed-in-context.mp4
-- [[sources/a8b-optional-greenfields-danger-mp4]] — A8b_optional-greenfields-danger.mp4
 - [[sources/f10-verification-design-mp4]] — F10_verification-design.mp4
+- [[sources/a8b-optional-greenfields-danger-mp4]] — A8b_optional-greenfields-danger.mp4
 
 ## In the Corpus
 
@@ -40,5 +40,5 @@ related:
 
 - [[sources/f2-cold-open-mp4]]
 - [[sources/f2b-watershed-in-context-mp4]]
-- [[sources/a8b-optional-greenfields-danger-mp4]]
 - [[sources/f10-verification-design-mp4]]
+- [[sources/a8b-optional-greenfields-danger-mp4]]

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1jWfKVcHvEcFGrOjqcy_PWCeraTFV-90Z/v
 type: news
 date: 2020-07-23
 tags: ["microsoft", "remote-work"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/microsoft

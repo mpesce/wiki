@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1gZ47W5ua-778GcYZNa2aXiWiv-IYQotR/v
 type: panel
 date: 2009-09-30
 tags: ["chris-russell", "fiona-wood", "james-ologhlin", "sally-deminks", "the-new-inventors"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/james-ologhlin

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1scEyVA7sJIo8fWwUX0pbJyB-JCjvL9hs/v
 type: lecture
 date: 2001
 tags: ["douglas-rushkoff", "erik-davis", "esalen", "mark-pesce", "virtual-reality"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

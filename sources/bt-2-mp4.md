@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/14pVs93vGXoG42Md92JrVn9PQi-hrZk7Q/v
 type: interview
 date: unknown
 tags: ["broadcast", "communication", "identity", "mark-pesce", "narrative", "the-future"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

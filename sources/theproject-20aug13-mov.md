@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1PWzg2SXZtlcwLK1mDoAneCb4Q3q6X2gY/v
 type: interview
 date: 2013-08-20
 tags: ["open-source"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - (none)

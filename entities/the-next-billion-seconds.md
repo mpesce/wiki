@@ -5,7 +5,7 @@ title: The Next Billion Seconds
 tags: ["organization"]
 source_count: 27
 created: 2026-08-27T10:51:23Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -28,7 +28,9 @@ related:
 - [[sources/thenextbillionseconds-atp-25feb12-wav]] — TheNextBillionSeconds-ATP-25Feb12.wav
 - [[sources/embiggen-17aug12-mp4]] — Embiggen-17Aug12.mp4
 - [[sources/powersofthen-9apr13-m4v]] — PowersOfThen-9Apr13.m4v
+- [[sources/ozwater-wav]] — OzWater.wav
 - [[sources/canterbury-inspire19-mp3]] — Canterbury INSPIRE19.mp3
+- [[sources/citi-wav]] — Citi.wav
 - [[sources/gio-pc1-mark-pesce-video-02-final-4x5-mp4]] — GIO-PC1_MARK_PESCE-VIDEO_02-FINAL-4x5.mp4
 - [[sources/gio-pc1-mark-pesce-video-01-final-4x5-mp4]] — GIO-PC1_MARK_PESCE-VIDEO_01-FINAL-4x5.mp4
 - [[sources/pesce-best-current-affairs-podcast-mp4]] — Pesce Best Current Affairs Podcast.mp4
@@ -41,9 +43,7 @@ related:
 - [[sources/mark-pesce-alchemist-23jun21-wav]] — Mark Pesce Alchemist 23Jun21.wav
 - [[sources/walking-with-the-ancestors-mp3]] — Walking with the Ancestors.mp3
 - [[sources/genevieve-bell-mp3]] — Genevieve Bell.mp3
-- [[sources/ozwater-wav]] — OzWater.wav
 - [[sources/recording-7-wav]] — Recording 7.wav
-- [[sources/citi-wav]] — Citi.wav
 - [[sources/aija-wav]] — AIJA.wav
 - [[sources/mind-share-hd-mov]] — mind_share_hd.mov
 
@@ -70,7 +70,9 @@ related:
 - [[sources/thenextbillionseconds-atp-25feb12-wav]]
 - [[sources/embiggen-17aug12-mp4]]
 - [[sources/powersofthen-9apr13-m4v]]
+- [[sources/ozwater-wav]]
 - [[sources/canterbury-inspire19-mp3]]
+- [[sources/citi-wav]]
 - [[sources/gio-pc1-mark-pesce-video-02-final-4x5-mp4]]
 - [[sources/gio-pc1-mark-pesce-video-01-final-4x5-mp4]]
 - [[sources/pesce-best-current-affairs-podcast-mp4]]
@@ -83,8 +85,6 @@ related:
 - [[sources/mark-pesce-alchemist-23jun21-wav]]
 - [[sources/walking-with-the-ancestors-mp3]]
 - [[sources/genevieve-bell-mp3]]
-- [[sources/ozwater-wav]]
 - [[sources/recording-7-wav]]
-- [[sources/citi-wav]]
 - [[sources/aija-wav]]
 - [[sources/mind-share-hd-mov]]

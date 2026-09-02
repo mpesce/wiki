@@ -5,7 +5,7 @@ title: WebGL
 tags: ["technology"]
 source_count: 4
 created: 2026-08-27T10:51:23Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -19,10 +19,10 @@ related:
 <Compile a cross-source synthesis of WebGL. What is consistent and what changed over time.>
 
 ## Key Facts
+- [[sources/monash-wav]] — Monash.wav
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]] — VR Creative Cluster Mark Pesce 9 Aug video1.MP4
 - [[sources/internet-transformations-5oct21-mp4]] — Internet Transformations 5Oct21.mp4
 - [[sources/arin-2610-internet-transformations-the-ar-dilemm-2]] — ARIN 2610 Internet Transformations The AR Dilemmas 5Oct21 1080p.mp4
-- [[sources/monash-wav]] — Monash.wav
 
 ## In the Corpus
 
@@ -38,7 +38,7 @@ related:
 
 ## Sources
 
+- [[sources/monash-wav]]
 - [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]]
 - [[sources/internet-transformations-5oct21-mp4]]
 - [[sources/arin-2610-internet-transformations-the-ar-dilemm-2]]
-- [[sources/monash-wav]]

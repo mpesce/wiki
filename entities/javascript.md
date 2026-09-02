@@ -5,7 +5,7 @@ title: JavaScript
 tags: ["technology"]
 source_count: 2
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -19,8 +19,8 @@ related:
 <Compile a cross-source synthesis of JavaScript. What is consistent and what changed over time.>
 
 ## Key Facts
-- [[sources/a12-10mb-javascript-mp4]] — A12_10mb-javascript.mp4
 - [[sources/hownottobeseen-mp4]] — HowNotToBeSeen.mp4
+- [[sources/a12-10mb-javascript-mp4]] — A12_10mb-javascript.mp4
 
 ## In the Corpus
 
@@ -36,5 +36,5 @@ related:
 
 ## Sources
 
-- [[sources/a12-10mb-javascript-mp4]]
 - [[sources/hownottobeseen-mp4]]
+- [[sources/a12-10mb-javascript-mp4]]

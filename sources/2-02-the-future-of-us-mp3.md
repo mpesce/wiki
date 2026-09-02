@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1Seel_pGctWl7_3x2t-O5v_uzYA4fhjbL/v
 type: workshop
 date: unknown
 tags: ["burning-man", "communication", "mark-pesce", "the-future"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

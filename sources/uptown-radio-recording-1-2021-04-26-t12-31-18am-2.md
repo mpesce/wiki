@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1kXK3tnpNir1gyFRHu6gBx56VEUTp44My/v
 type: interview
 date: 2021-04-26
 tags: ["3d", "blockchain", "decentraland", "ethereum", "mark-pesce", "the-future"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

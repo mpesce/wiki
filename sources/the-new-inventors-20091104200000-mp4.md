@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1kqT6604JBWjNKuoAtHYpkFc1TIkU87pV/v
 type: panel
 date: 2009-11-04
 tags: ["alison-page", "james-bradfield-moody", "mark-pesce", "the-new-inventors"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

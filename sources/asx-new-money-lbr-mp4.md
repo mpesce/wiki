@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/18OYrOy6l2tOn0cpzf_R5i48ulkycS4u3/v
 type: lecture
 date: 2019
 tags: ["bitcoin", "facebook", "innovation", "libra", "mark-pesce"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

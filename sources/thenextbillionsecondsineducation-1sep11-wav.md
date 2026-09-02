@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1hucXgWxU5o1dmben0Kb-jNF0nuKHW2_R/v
 type: keynote
 date: 2011-09-01
 tags: ["apple", "connectivity", "education", "mark-pesce", "mozilla", "the-future", "the-next-billion-seconds", "vrml"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

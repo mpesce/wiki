@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1TmHgLSqkQj52CBe_GMVnRzNSH0bm5Xyq/v
 type: podcast
 date: 2019
 tags: ["the-future", "the-next-billion-seconds"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/the-next-billion-seconds

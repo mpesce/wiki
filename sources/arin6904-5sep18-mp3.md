@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1tbizrDndJIHr0NT3Q-uQMmpIZXfWHSX8/v
 type: news
 date: 2018-09-05
 tags: ["3d", "ar", "attention", "google", "ivan-sutherland", "mark-pesce", "microsoft", "storytelling", "virtual-reality", "vr"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

@@ -5,7 +5,7 @@ title: Facebook
 tags: ["organization"]
 source_count: 71
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:07Z
 related:
   - (populate via lint)
 ---
@@ -28,11 +28,11 @@ The final arc, 2020–2021, is reckoning. Pesce reads The Social Dilemma on air 
 
 ## Key Facts
 - [[sources/sca-wav]] — SCA.wav
-- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]] — Pesce - SIGGRAPH FRONTIERS - The AR Dilemmas.mp4
 - [[sources/mark-pesce-btb-vodcast-iphone-1-m4v]] — mark pesce BTB vodcast iphone (1).m4v
 - [[sources/mark-pesce-btb-vodcast-iphone-m4v]] — mark pesce BTB vodcast iphone.m4v
 - [[sources/asx-wav]] — ASX.wav
 - [[sources/0000000014d901d3-mpg]] — 0000000014d901d3.mpg
+- [[sources/hownottobeseen-mp4]] — HowNotToBeSeen.mp4
 - [[sources/sat-20100213-1110-mark-pesce-future-gaze-048-mp3]] — sat-20100213-1110-Mark_Pesce_-_future_gaze-048.mp3
 - [[sources/lms-20100531-0905-1-mp3]] — lms_20100531_0905 (1).mp3
 - [[sources/lms-20100531-0905-mp3]] — lms_20100531_0905.mp3
@@ -42,6 +42,8 @@ The final arc, 2020–2021, is reckoning. Pesce reads The Social Dilemma on air 
 - [[sources/sea-20110514-0805-1-mp3]] — sea_20110514_0805 (1).mp3
 - [[sources/sea-20110514-0805-mp3]] — sea_20110514_0805.mp3
 - [[sources/ega-mkv]] — EGA.mkv
+- [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]] — Outer Space Cyberspace Digital Depth HEVC.mp4
+- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]] — Pesce - SIGGRAPH FRONTIERS - The AR Dilemmas.mp4
 - [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] — Mark Pesce - Digital Depth in Augmented Reality.mp4
 - [[sources/saatchi-wav-2]] — Saatchi.wav
 - [[sources/slv-wav]] — SLV.wav
@@ -49,13 +51,16 @@ The final arc, 2020–2021, is reckoning. Pesce reads The Social Dilemma on air 
 - [[sources/mark-pesce-futurist-the-last-days-of-reality-mp4]] — Mark Pesce - Futurist - The Last Days of Reality.mp4
 - [[sources/last-days-of-reality-toronto-17oct17-mov]] — Last Days of Reality Toronto 17Oct17.mov
 - [[sources/the-last-days-of-reality-ega-8dec17-mkv]] — The Last Days of Reality - EGA 8Dec17.mkv
+- [[sources/peet-m4a]] — Peet.m4a
 - [[sources/ega-mp3]] — EGA.mp3
+- [[sources/saatchi-wav]] — Saatchi.wav
 - [[sources/rnd-20180319-1825-mp3]] — rnd_20180319_1825.mp3
 - [[sources/fte-20180415-mp3]] — fte_20180415.mp3
 - [[sources/accanet-12sep18-mp3]] — ACCANet 12Sep18.mp3
 - [[sources/just-so-stories-wds-1nov18-mp3]] — Just-So Stories WDS 1Nov18.mp3
 - [[sources/trench-talk-ep57-mark-pesce-mp3]] — Trench_Talk_EP57_-_Mark_Pesce.mp3
 - [[sources/asx-new-money-hvec-480p-mp4]] — ASX New Money HVEC 480p.mp4
+- [[sources/citi-wav]] — Citi.wav
 - [[sources/asx-new-money-lbr-mp4]] — ASX New Money LBR.mp4
 - [[sources/png2019-mkv]] — PNG2019.mkv
 - [[sources/skype-interview-march-2019-mp4]] — Skype interview March 2019.mp4
@@ -65,7 +70,6 @@ The final arc, 2020–2021, is reckoning. Pesce reads The Social Dilemma on air 
 - [[sources/knew-money-24sep19-mp3]] — Knew Money 24Sep19.mp3
 - [[sources/citi-how-to-thrive-in-the-2020s-16oct19-mp3]] — Citi How to Thrive in the 2020s 16Oct19.mp3
 - [[sources/ppm-2019-10-21-tik-tok-mp3]] — ppm-2019-10-21-tik-tok.mp3
-- [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]] — Outer Space Cyberspace Digital Depth HEVC.mp4
 - [[sources/ntn-20200402-1107-tech-during-covid-brings-out-t]] — ntn-20200402-1107-tech_during_covid_brings_out_the_bad_the_ugly_and_the_good-128.mp3
 - [[sources/good-shout-29may20-m4v]] — good_shout 29May20.m4v
 - [[sources/ninetonoon-25jun20-mp3]] — NineToNoon 25Jun20.mp3
@@ -86,17 +90,13 @@ The final arc, 2020–2021, is reckoning. Pesce reads The Social Dilemma on air 
 - [[sources/1-dia-markpesce-1-mp3]] — 1_DIA_MarkPesce (1).mp3
 - [[sources/1-dia-markpesce-mp3]] — 1_DIA_MarkPesce.mp3
 - [[sources/tedx-mov]] — tedx.mov
-- [[sources/peet-m4a]] — Peet.m4a
 - [[sources/1-58269-80068-flvhigh-1-flv]] — 1_58269_80068_flvhigh (1).flv
 - [[sources/1-58269-80068-flvhigh-flv]] — 1_58269_80068_flvhigh.flv
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-1-m4v]] — mark pesce AISWA BTB questions iPhone (1).m4v
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-m4v]] — mark pesce AISWA BTB questions iPhone.m4v
 - [[sources/open-state-wav]] — Open State.wav
-- [[sources/hownottobeseen-mp4]] — HowNotToBeSeen.mp4
 - [[sources/a-digital-reformation-wav]] — A Digital Reformation.wav
 - [[sources/just-so-stories-wav]] — Just-So Stories.wav
-- [[sources/saatchi-wav]] — Saatchi.wav
-- [[sources/citi-wav]] — Citi.wav
 - [[sources/000000001a0b5af7-mpg]] — 000000001a0b5af7.mpg
 
 ## In the Corpus
@@ -114,11 +114,11 @@ The final arc, 2020–2021, is reckoning. Pesce reads The Social Dilemma on air 
 ## Sources
 
 - [[sources/sca-wav]]
-- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]]
 - [[sources/mark-pesce-btb-vodcast-iphone-1-m4v]]
 - [[sources/mark-pesce-btb-vodcast-iphone-m4v]]
 - [[sources/asx-wav]]
 - [[sources/0000000014d901d3-mpg]]
+- [[sources/hownottobeseen-mp4]]
 - [[sources/sat-20100213-1110-mark-pesce-future-gaze-048-mp3]]
 - [[sources/lms-20100531-0905-1-mp3]]
 - [[sources/lms-20100531-0905-mp3]]
@@ -128,6 +128,8 @@ The final arc, 2020–2021, is reckoning. Pesce reads The Social Dilemma on air 
 - [[sources/sea-20110514-0805-1-mp3]]
 - [[sources/sea-20110514-0805-mp3]]
 - [[sources/ega-mkv]]
+- [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]]
+- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]]
 - [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]]
 - [[sources/saatchi-wav-2]]
 - [[sources/slv-wav]]
@@ -135,13 +137,16 @@ The final arc, 2020–2021, is reckoning. Pesce reads The Social Dilemma on air 
 - [[sources/mark-pesce-futurist-the-last-days-of-reality-mp4]]
 - [[sources/last-days-of-reality-toronto-17oct17-mov]]
 - [[sources/the-last-days-of-reality-ega-8dec17-mkv]]
+- [[sources/peet-m4a]]
 - [[sources/ega-mp3]]
+- [[sources/saatchi-wav]]
 - [[sources/rnd-20180319-1825-mp3]]
 - [[sources/fte-20180415-mp3]]
 - [[sources/accanet-12sep18-mp3]]
 - [[sources/just-so-stories-wds-1nov18-mp3]]
 - [[sources/trench-talk-ep57-mark-pesce-mp3]]
 - [[sources/asx-new-money-hvec-480p-mp4]]
+- [[sources/citi-wav]]
 - [[sources/asx-new-money-lbr-mp4]]
 - [[sources/png2019-mkv]]
 - [[sources/skype-interview-march-2019-mp4]]
@@ -151,7 +156,6 @@ The final arc, 2020–2021, is reckoning. Pesce reads The Social Dilemma on air 
 - [[sources/knew-money-24sep19-mp3]]
 - [[sources/citi-how-to-thrive-in-the-2020s-16oct19-mp3]]
 - [[sources/ppm-2019-10-21-tik-tok-mp3]]
-- [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]]
 - [[sources/ntn-20200402-1107-tech-during-covid-brings-out-t]]
 - [[sources/good-shout-29may20-m4v]]
 - [[sources/ninetonoon-25jun20-mp3]]
@@ -172,15 +176,11 @@ The final arc, 2020–2021, is reckoning. Pesce reads The Social Dilemma on air 
 - [[sources/1-dia-markpesce-1-mp3]]
 - [[sources/1-dia-markpesce-mp3]]
 - [[sources/tedx-mov]]
-- [[sources/peet-m4a]]
 - [[sources/1-58269-80068-flvhigh-1-flv]]
 - [[sources/1-58269-80068-flvhigh-flv]]
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-1-m4v]]
 - [[sources/mark-pesce-aiswa-btb-questions-iphone-m4v]]
 - [[sources/open-state-wav]]
-- [[sources/hownottobeseen-mp4]]
 - [[sources/a-digital-reformation-wav]]
 - [[sources/just-so-stories-wav]]
-- [[sources/saatchi-wav]]
-- [[sources/citi-wav]]
 - [[sources/000000001a0b5af7-mpg]]

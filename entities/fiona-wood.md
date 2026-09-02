@@ -5,7 +5,7 @@ title: Fiona Wood
 tags: ["person"]
 source_count: 7
 created: 2026-08-27T10:51:23Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -19,13 +19,13 @@ related:
 <Compile a cross-source synthesis of Fiona Wood. What is consistent and what changed over time.>
 
 ## Key Facts
-- [[sources/the-new-inventors-20090617200000-mp4]] — The New Inventors-20090617200000.mp4
-- [[sources/the-new-inventors-20090930200000-mp4]] — The New Inventors-20090930200000.mp4
-- [[sources/the-new-inventors-20090401200000-mp4]] — The New Inventors-20090401200000.mp4
 - [[sources/the-new-inventors-20090325200000-mp4]] — The New Inventors-20090325200000.mp4
+- [[sources/the-new-inventors-20090401200000-mp4]] — The New Inventors-20090401200000.mp4
+- [[sources/the-new-inventors-20090617200000-mp4]] — The New Inventors-20090617200000.mp4
+- [[sources/the-new-inventors-20090624200000-mp4]] — The New Inventors-20090624200000.mp4
 - [[sources/the-new-inventors-20090826200000-mp4]] — The New Inventors-20090826200000.mp4
 - [[sources/the-new-inventors-20090923200000-mp4]] — The New Inventors-20090923200000.mp4
-- [[sources/the-new-inventors-20090624200000-mp4]] — The New Inventors-20090624200000.mp4
+- [[sources/the-new-inventors-20090930200000-mp4]] — The New Inventors-20090930200000.mp4
 
 ## In the Corpus
 
@@ -41,10 +41,10 @@ related:
 
 ## Sources
 
-- [[sources/the-new-inventors-20090617200000-mp4]]
-- [[sources/the-new-inventors-20090930200000-mp4]]
-- [[sources/the-new-inventors-20090401200000-mp4]]
 - [[sources/the-new-inventors-20090325200000-mp4]]
+- [[sources/the-new-inventors-20090401200000-mp4]]
+- [[sources/the-new-inventors-20090617200000-mp4]]
+- [[sources/the-new-inventors-20090624200000-mp4]]
 - [[sources/the-new-inventors-20090826200000-mp4]]
 - [[sources/the-new-inventors-20090923200000-mp4]]
-- [[sources/the-new-inventors-20090624200000-mp4]]
+- [[sources/the-new-inventors-20090930200000-mp4]]

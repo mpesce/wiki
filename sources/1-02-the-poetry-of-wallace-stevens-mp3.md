@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1bnRpe2cpkTltBKrny2L3aAaqvTMS2l_-/v
 type: news
 date: unknown
 tags: ["apple", "burning-man", "imagination", "mozilla"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/apple

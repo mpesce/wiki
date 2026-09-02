@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1UjVaf73U1x5umYy-V9mhD-LqPDEZJsOC/v
 type: interview
 date: 2017-12-08
 tags: ["artificial-intelligence", "facebook", "mark-pesce", "social-media", "surveillance", "surveillance-capitalism"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

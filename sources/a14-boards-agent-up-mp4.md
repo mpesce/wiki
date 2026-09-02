@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1s6VhWyNf9Lve-lFEuq-Mn1tV8w7Z5qSv/v
 type: clip
 date: unknown
 tags: ["communication"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - (none)

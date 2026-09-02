@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1IxxjulKLNrJllzJP2x-SUi7nJhH3SUqn/v
 type: lecture
 date: 2017
 tags: ["apple", "artificial-intelligence", "attention", "facebook", "google", "mark-pesce", "surveillance", "surveillance-capitalism", "the-future"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

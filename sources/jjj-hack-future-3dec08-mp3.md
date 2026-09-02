@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1ecyM-Xg6MNzb_9g4SHqTOq8_h1OEH2jV/v
 type: interview
 date: 2008-12-03
 tags: ["3d", "broadcast", "innovation", "mark-pesce", "the-future"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

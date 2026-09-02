@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/16uio4rlh7pLK3xAMao8A3IVygufvTh5c/v
 type: podcast
 date: 2020
 tags: ["mark-pesce", "podcast", "the-future", "the-future-of-work", "the-next-billion-seconds"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

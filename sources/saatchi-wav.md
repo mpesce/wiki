@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1wFV7bv9Rua48TSVIS1KlnRATKpXcjqp4/v
 type: lecture
 date: 2018
 tags: ["apple", "artificial-intelligence", "attention", "facebook", "google", "mark-pesce", "mozilla", "trust"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

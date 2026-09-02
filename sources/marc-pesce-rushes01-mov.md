@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/15T2LH0RH6RwSbE_YDpLy7MojT5_eOzzc/v
 type: interview
 date: 2015
 tags: ["attention", "attention-economy", "broadcast", "creators", "identity", "mark-pesce", "narrative", "networks", "social-networks", "storytelling", "the-future"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

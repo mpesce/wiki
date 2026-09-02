@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1RucGYudGgk9sBjNrH9w_DrnlyyjqOtFx/v
 type: podcast
 date: 2016
 tags: ["communication", "mark-pesce", "monash", "participation", "the-new-inventors", "virtual-reality", "vr", "vrml", "webgl", "wired"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

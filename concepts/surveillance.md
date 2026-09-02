@@ -5,7 +5,7 @@ title: Surveillance
 tags: ["concept"]
 source_count: 36
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -19,13 +19,12 @@ related:
 <Synthesize how Surveillance is treated across the corpus. Themes, debates, evolution.>
 
 ## Key Points
-- [[sources/technospirit-mkv]] — technospirit.mkv
-- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]] — Pesce - SIGGRAPH FRONTIERS - The AR Dilemmas.mp4
 - [[sources/damer-pesce-interview-florence-may1996-1-mp3]] — damer-pesce-interview-florence-may1996 (1).mp3
 - [[sources/lms-20100531-0905-1-mp3]] — lms_20100531_0905 (1).mp3
 - [[sources/hyperconnectededucation-vitta-30aug11-wav]] — HyperconnectedEducation-VITTA-30Aug11.wav
 - [[sources/embiggen-17aug12-mp4]] — Embiggen-17Aug12.mp4
 - [[sources/ega-mkv]] — EGA.mkv
+- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]] — Pesce - SIGGRAPH FRONTIERS - The AR Dilemmas.mp4
 - [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] — Mark Pesce - Digital Depth in Augmented Reality.mp4
 - [[sources/saatchi-wav-2]] — Saatchi.wav
 - [[sources/slv-wav]] — SLV.wav
@@ -52,6 +51,7 @@ related:
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-2-mp4]] — avatars96-pesce-leonard-dipaola_512kb 2.mp4
 - [[sources/a-digital-reformation-wav]] — A Digital Reformation.wav
 - [[sources/000000001b4e4d1f-iphone-m4v]] — 000000001b4e4d1f.iPhone.m4v
+- [[sources/technospirit-mkv]] — technospirit.mkv
 - [[sources/000000001ab15980-mpg]] — 000000001ab15980.mpg
 - [[sources/0000000019779ddf-mpg]] — 0000000019779ddf.mpg
 - [[sources/00000000154d4fa8-mpg]] — 00000000154d4fa8.mpg
@@ -62,13 +62,12 @@ related:
 
 ## Sources
 
-- [[sources/technospirit-mkv]]
-- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]]
 - [[sources/damer-pesce-interview-florence-may1996-1-mp3]]
 - [[sources/lms-20100531-0905-1-mp3]]
 - [[sources/hyperconnectededucation-vitta-30aug11-wav]]
 - [[sources/embiggen-17aug12-mp4]]
 - [[sources/ega-mkv]]
+- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]]
 - [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]]
 - [[sources/saatchi-wav-2]]
 - [[sources/slv-wav]]
@@ -95,6 +94,7 @@ related:
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-2-mp4]]
 - [[sources/a-digital-reformation-wav]]
 - [[sources/000000001b4e4d1f-iphone-m4v]]
+- [[sources/technospirit-mkv]]
 - [[sources/000000001ab15980-mpg]]
 - [[sources/0000000019779ddf-mpg]]
 - [[sources/00000000154d4fa8-mpg]]

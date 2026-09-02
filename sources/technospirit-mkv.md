@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1zfye98f-VEN5kY5tNcl69Zy0Fjw1TMQE/v
 type: panel
 date: unknown
 tags: ["artificial-intelligence", "attention", "creators", "identity", "mark-pesce", "social-media", "surveillance"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

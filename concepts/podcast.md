@@ -5,7 +5,7 @@ title: Podcasting
 tags: ["concept"]
 source_count: 33
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -27,6 +27,7 @@ related:
 - [[sources/level3-e165-hdtv-xvid-l3crew-avi]] — Level3.E165.HDTV.XviD-L3cRew.avi
 - [[sources/pollenizerpodcast-20100728-1-mp3]] — PollenizerPodcast-20100728 (1).mp3
 - [[sources/pollenizerpodcast-20100728-mp3]] — PollenizerPodcast-20100728.mp3
+- [[sources/ozwater-wav]] — OzWater.wav
 - [[sources/trench-talk-ep57-mark-pesce-mp3]] — Trench_Talk_EP57_-_Mark_Pesce.mp3
 - [[sources/hashrate-mkv]] — hashrate.mkv
 - [[sources/gio-pc1-mark-pesce-video-02-final-4x5-mp4]] — GIO-PC1_MARK_PESCE-VIDEO_02-FINAL-4x5.mp4
@@ -47,10 +48,9 @@ related:
 - [[sources/adam-wav]] — Adam.wav
 - [[sources/thefuturists-thewatershed-mkv]] — TheFuturists-TheWatershed.mkv
 - [[sources/leap-interview-13oct22-mp4]] — LEAP interview 13Oct22.mp4
-- [[sources/genevieve-bell-mp3]] — Genevieve Bell.mp3
-- [[sources/ozwater-wav]] — OzWater.wav
 - [[sources/thefuturists-mp4]] — TheFuturists.mp4
 - [[sources/thefuturists-mp4-2]] — TheFuturists.mp4
+- [[sources/genevieve-bell-mp3]] — Genevieve Bell.mp3
 - [[sources/kate-podcast-mkv]] — kate-podcast.mkv
 
 ## Debates / Open Questions
@@ -67,6 +67,7 @@ related:
 - [[sources/level3-e165-hdtv-xvid-l3crew-avi]]
 - [[sources/pollenizerpodcast-20100728-1-mp3]]
 - [[sources/pollenizerpodcast-20100728-mp3]]
+- [[sources/ozwater-wav]]
 - [[sources/trench-talk-ep57-mark-pesce-mp3]]
 - [[sources/hashrate-mkv]]
 - [[sources/gio-pc1-mark-pesce-video-02-final-4x5-mp4]]
@@ -87,8 +88,7 @@ related:
 - [[sources/adam-wav]]
 - [[sources/thefuturists-thewatershed-mkv]]
 - [[sources/leap-interview-13oct22-mp4]]
-- [[sources/genevieve-bell-mp3]]
-- [[sources/ozwater-wav]]
 - [[sources/thefuturists-mp4]]
 - [[sources/thefuturists-mp4-2]]
+- [[sources/genevieve-bell-mp3]]
 - [[sources/kate-podcast-mkv]]

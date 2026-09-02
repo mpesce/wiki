@@ -5,7 +5,7 @@ title: Libra
 tags: ["technology"]
 source_count: 11
 created: 2026-08-27T10:51:23Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -22,6 +22,7 @@ related:
 - [[sources/asx-wav]] — ASX.wav
 - [[sources/trench-talk-ep57-mark-pesce-mp3]] — Trench_Talk_EP57_-_Mark_Pesce.mp3
 - [[sources/asx-new-money-hvec-480p-mp4]] — ASX New Money HVEC 480p.mp4
+- [[sources/citi-wav]] — Citi.wav
 - [[sources/asx-new-money-lbr-mp4]] — ASX New Money LBR.mp4
 - [[sources/png2019-mkv]] — PNG2019.mkv
 - [[sources/v20-june-2019-opening-mts]] — V20 June 2019 Opening.MTS
@@ -29,7 +30,6 @@ related:
 - [[sources/citi-how-to-thrive-in-the-2020s-16oct19-mp3]] — Citi How to Thrive in the 2020s 16Oct19.mp3
 - [[sources/cfo-series-melbourne-while-you-were-out-12nov20]] — CFO Series Melbourne While You Were Out 12Nov20.mp4
 - [[sources/mark-pesce-interview-9dec20-mp3]] — Mark Pesce interview 9Dec20.mp3
-- [[sources/citi-wav]] — Citi.wav
 
 ## In the Corpus
 
@@ -48,6 +48,7 @@ related:
 - [[sources/asx-wav]]
 - [[sources/trench-talk-ep57-mark-pesce-mp3]]
 - [[sources/asx-new-money-hvec-480p-mp4]]
+- [[sources/citi-wav]]
 - [[sources/asx-new-money-lbr-mp4]]
 - [[sources/png2019-mkv]]
 - [[sources/v20-june-2019-opening-mts]]
@@ -55,4 +56,3 @@ related:
 - [[sources/citi-how-to-thrive-in-the-2020s-16oct19-mp3]]
 - [[sources/cfo-series-melbourne-while-you-were-out-12nov20]]
 - [[sources/mark-pesce-interview-9dec20-mp3]]
-- [[sources/citi-wav]]

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1sOmlG_NYdS3Qoe4fJ67eMwLhDpAZIIjK/v
 type: lecture
 date: 2026
 tags: ["mark-pesce", "the-future", "trust", "verification-design"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

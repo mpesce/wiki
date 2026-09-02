@@ -5,7 +5,7 @@ title: Virtual reality
 tags: ["concept"]
 source_count: 54
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -25,13 +25,8 @@ A middle wave of recordings tracks VR's cultural meaning rather than its hardwar
 The recent recordings return to first principles. Pesce traces the metaverse's intellectual lineage through Vinge's True Names, Gibson's cyberspace and Stephenson's Snow Crash, while distinguishing that broad possibility space from Facebook's narrowly instrumental, economically driven version ([[sources/swarm-2021-mp4]]); he judges the contemporary metaverse "a house built on sand," with virtual real estate trading superficial and lacking interoperability three decades after VRML ([[sources/a-house-built-on-sand-interoperability-in-the-me]]). He treats AR as the older, more consequential sibling — invented before VR with Sutherland's head-mounted display, and demonstrated socially by Pokemon Go's 2016 Sydney gatherings ([[sources/outer-space-cyberspace-digital-depth-hevc-mp4]], [[sources/internet-transformations-5oct21-mp4]]) — and positions VR and simulation as interfaces for future work ([[sources/vr-simulation-future-of-work-mp4]], [[sources/web3d2017-mp3]]).
 
 ## Key Points
-- [[sources/ala-wav]] — ALA.wav
-- [[sources/reality-remix-wav]] — Reality Remix.wav
-- [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]] — VR Creative Cluster Mark Pesce 9 Aug16 video2.MP4
-- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]] — VR Creative Cluster Mark Pesce 9 Aug video1.MP4
 - [[sources/mark-pesce-session-1-wav]] — Mark Pesce session 1.wav
-- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]] — VR Creative Cluster Mark Pesce 9 Aug video1_er.MP4
-- [[sources/whereintheworld-mp3]] — whereintheworld.mp3
+- [[sources/reality-remix-wav]] — Reality Remix.wav
 - [[sources/techno-pagans-at-the-end-of-history-2-esalen-mp3]] — Techno-Pagans at the End of History 2(Esalen).mp3
 - [[sources/techno-pagans-at-the-end-of-history-9-esalen-mp3]] — Techno-Pagans at the End of History 9(Esalen).mp3
 - [[sources/techno-pagans-at-the-end-of-history-1-esalen-mp3]] — Techno-Pagans at the End of History 1(Esalen).mp3
@@ -57,26 +52,31 @@ The recent recordings return to first principles. Pesce traces the metaverse's i
 - [[sources/the-drum-youtube-m4v]] — The Drum-YouTube.m4v
 - [[sources/lca2011-keynote-mov]] — LCA2011-Keynote.mov
 - [[sources/000000001a52899f-mpg]] — 000000001a52899f.mpg
+- [[sources/ala-wav]] — ALA.wav
+- [[sources/monash-wav]] — Monash.wav
+- [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]] — Outer Space Cyberspace Digital Depth HEVC.mp4
+- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]] — VR Creative Cluster Mark Pesce 9 Aug video1_er.MP4
+- [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]] — VR Creative Cluster Mark Pesce 9 Aug16 video2.MP4
+- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]] — VR Creative Cluster Mark Pesce 9 Aug video1.MP4
+- [[sources/iv-markpesce-291216-mp4-cba-mp4]] — iv_MarkPesce_291216_mp4_cba.mp4
 - [[sources/web3d2017-mp3]] — Web3D2017.mp3
 - [[sources/web3d2017-m4a]] — Web3D2017.m4a
 - [[sources/theroadahead-17may18-mp3]] — TheRoadAhead_17May18.mp3
 - [[sources/arin6904-5sep18-mp3]] — ARIN6904 5Sep18.mp3
 - [[sources/skype-interview-march-2019-mp4]] — Skype interview March 2019.mp4
 - [[sources/truth-trust-and-story-26jul19-mp3]] — Truth Trust and Story 26Jul19.mp3
-- [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]] — Outer Space Cyberspace Digital Depth HEVC.mp4
 - [[sources/swarm-2021-mp4]] — Swarm 2021.mp4
 - [[sources/internet-transformations-5oct21-mp4]] — Internet Transformations 5Oct21.mp4
 - [[sources/arin-2610-internet-transformations-the-ar-dilemm-2]] — ARIN 2610 Internet Transformations The AR Dilemmas 5Oct21 1080p.mp4
 - [[sources/owen-interview-2023-mp4]] — Owen-interview-2023.mp4
 - [[sources/7pm-project-mov]] — 7pm-project.mov
 - [[sources/vr-simulation-future-of-work-mp4]] — VR Simulation future of work.mp4
+- [[sources/whereintheworld-mp3]] — whereintheworld.mp3
 - [[sources/ai-and-the-future-of-work-mp4]] — AI and the future of work.mp4
 - [[sources/vrml-interview-mp4]] — vrml-interview.mp4
 - [[sources/inconvenience-whole-mov]] — Inconvenience-whole.mov
 - [[sources/felix-wav]] — Felix.wav
 - [[sources/a-house-built-on-sand-interoperability-in-the-me]] — A House Built on Sand - Interoperability in the Metaverse.mp4
-- [[sources/iv-markpesce-291216-mp4-cba-mp4]] — iv_MarkPesce_291216_mp4_cba.mp4
-- [[sources/monash-wav]] — Monash.wav
 - [[sources/bill-martens-wav]] — Bill Martens.wav
 - [[sources/00000000154d4fa8-mpg]] — 00000000154d4fa8.mpg
 
@@ -86,13 +86,8 @@ The recent recordings return to first principles. Pesce traces the metaverse's i
 
 ## Sources
 
-- [[sources/ala-wav]]
-- [[sources/reality-remix-wav]]
-- [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]]
-- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]]
 - [[sources/mark-pesce-session-1-wav]]
-- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]]
-- [[sources/whereintheworld-mp3]]
+- [[sources/reality-remix-wav]]
 - [[sources/techno-pagans-at-the-end-of-history-2-esalen-mp3]]
 - [[sources/techno-pagans-at-the-end-of-history-9-esalen-mp3]]
 - [[sources/techno-pagans-at-the-end-of-history-1-esalen-mp3]]
@@ -118,25 +113,30 @@ The recent recordings return to first principles. Pesce traces the metaverse's i
 - [[sources/the-drum-youtube-m4v]]
 - [[sources/lca2011-keynote-mov]]
 - [[sources/000000001a52899f-mpg]]
+- [[sources/ala-wav]]
+- [[sources/monash-wav]]
+- [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]]
+- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]]
+- [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]]
+- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]]
+- [[sources/iv-markpesce-291216-mp4-cba-mp4]]
 - [[sources/web3d2017-mp3]]
 - [[sources/web3d2017-m4a]]
 - [[sources/theroadahead-17may18-mp3]]
 - [[sources/arin6904-5sep18-mp3]]
 - [[sources/skype-interview-march-2019-mp4]]
 - [[sources/truth-trust-and-story-26jul19-mp3]]
-- [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]]
 - [[sources/swarm-2021-mp4]]
 - [[sources/internet-transformations-5oct21-mp4]]
 - [[sources/arin-2610-internet-transformations-the-ar-dilemm-2]]
 - [[sources/owen-interview-2023-mp4]]
 - [[sources/7pm-project-mov]]
 - [[sources/vr-simulation-future-of-work-mp4]]
+- [[sources/whereintheworld-mp3]]
 - [[sources/ai-and-the-future-of-work-mp4]]
 - [[sources/vrml-interview-mp4]]
 - [[sources/inconvenience-whole-mov]]
 - [[sources/felix-wav]]
 - [[sources/a-house-built-on-sand-interoperability-in-the-me]]
-- [[sources/iv-markpesce-291216-mp4-cba-mp4]]
-- [[sources/monash-wav]]
 - [[sources/bill-martens-wav]]
 - [[sources/00000000154d4fa8-mpg]]

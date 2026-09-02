@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/14mJJ9EX_htqUMOcGKeQ0pJqub_d7-lsR/v
 type: panel
 date: 2009-10-07
 tags: ["james-bradfield-moody", "james-ologhlin", "mark-pesce", "social-media", "the-new-inventors", "veena-sahajwala"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1P5JbbS3Rs1ilYacJ2sP9y8JFGFTsuWTv/v
 type: interview
 date: 2021-04-26
 tags: ["apple", "creators", "decentraland", "facebook", "mark-pesce", "metaverse", "peer-to-peer", "the-future", "tony-parisi", "vrml"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

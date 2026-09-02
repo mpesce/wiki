@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1oINkS7NgITVoeXzofjKwQeMmbswlBIYW/v
 type: panel
 date: 2018-12-09
 tags: ["education", "google", "mark-pesce", "the-future", "trust"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

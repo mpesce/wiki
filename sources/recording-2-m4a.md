@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1p0V_Bn8Vo9rAxgX8M1pwepeWWv9fk_Wt/v
 type: interview
 date: unknown
 tags: ["abc", "ar", "artificial-intelligence", "blockchain", "connectivity", "google", "mark-pesce", "networks", "peer-to-peer", "pokemon-go", "social-media", "social-networks"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

@@ -5,7 +5,7 @@ title: Bitcoin
 tags: ["technology"]
 source_count: 10
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -13,9 +13,11 @@ related:
 # Bitcoin
 
 ## TL;DR
+
 Pesce credits Bitcoin with inventing a genuinely new kind of money — countable, transferable, non-duplicable — but doubts it as everyday currency, framing its real legacy as blockchain and the post-classical finance wave of stablecoins, CBDCs and smart contracts that followed.
 
 ## Overview
+
 The early mentions are sidebars to his hyperconnectivity thesis. In the 2011 "Hypereconomics" lectures, currency appears among the domains friction-eliminating connectivity would transform — alongside Kerala fishermen and Kenya farmers using mobile phones to arbitrage markets — with the predicted endpoint a decentralised economy of direct API-level value exchange [[sources/hypereconomics-flv]], [[sources/hypereconomics-2-flv]]. Bitcoin itself enters as a case study: introduced in 2009 as a decentralized ledger solving the double-spend problem, it solved counterfeiting but its slow settlement times make it unsuitable for everyday commerce [[sources/asx-wav]].
 
 2016 is a pivot year: opening the Westpac BlockHack16 hackathon, he heard bankers draw the same parallel he once used for VRML — that 2016 for blockchain is like 1994 for the web — with Ripple-based cross-border payment trials already running inside the bank [[sources/zoom0013-tr2-wav]].

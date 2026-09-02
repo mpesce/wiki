@@ -14,9 +14,9 @@ pages, this overview, and an index — per the schema in WIKI.md.
   audio stream: `bscast.mov`, `bluestates-capture.mov`).
 - All 626 transcribed recordings are documented as native Google Docs
   in the Drive archive (finalize complete 2026-08-26).
-- Dates normalized 2026-08-27 (`tools/normalize_dates.py`): 289 of 625
-  sources dated (filename-derived where possible), spanning 1989–2025;
-  **336 remain unknown** (raw clips and re-uploads with no recoverable
+- Dates normalized 2026-09-03 (`tools/normalize_dates.py`): 440 of 625
+  sources dated (filename-derived where possible), spanning 1993–2026;
+  **185 remain unknown** (raw clips and re-uploads with no recoverable
   date). Implausible text-mined dates were reset rather than kept.
 - Types: 205 interview, 112 panel, 82 news, 51 keynote, 47 lecture, 46 podcast, 38 clip, 24 workshop, 19 talk, 1 webinar.
 
@@ -27,7 +27,7 @@ pages, this overview, and an index — per the schema in WIKI.md.
 
 > Extraction is vocabulary-based (`tools/ingest_wiki.py`), including ASR
 > misspelling variants ("Mark Pesci", "Venus Sahajwala"). The vocabulary
-> was expanded 2026-08-27; entities not yet in the curated list can be added
+> was expanded 2026-09-03; entities not yet in the curated list can be added
 > the same way.
 
 ## Concepts (50 pages)
@@ -49,7 +49,7 @@ full list in INDEX.md.
 - **Broadcast & media history** — the corpus' densest theme, tracing
   the migration from broadcast to participatory media.
 
-## Queries (10 pages)
+## Queries (20 pages)
 `queries/` holds cited answers to research questions against the corpus
 (WIKI.md §7.3): VR's evolution, hyperdistribution's arc, social media
 and democracy, AI predictions, education, broadcasting's decline, the
@@ -61,14 +61,14 @@ file the answers there.
 - `sources/` — 625 recording summaries, each annotated with entities and concepts.
 - `entities/` — 61 pages (17 people, 25 orgs, 19 technologies).
 - `concepts/` — 50 pages.
-- `queries/` — 10 cited research answers.
-- `lint/` — dated reports; latest in the directory (clean as of 2026-08-27).
+- `queries/` — 20 cited research answers.
+- `lint/` — dated reports; latest in the directory (clean as of 2026-09-03).
 
 ## Status
-- **Last built:** 2026-08-27 (vocabulary-expansion rebuild).
+- **Last built:** 2026-09-03 (vocabulary-expansion rebuild).
 - **Quality:** lint clean — 0 broken links, 0 orphans, 0 missing
   cross-refs (see latest `lint/` report).
-- **Known gaps:** 336 undated sources; entity vocabulary still
+- **Known gaps:** 185 undated sources; entity vocabulary still
   curated (many one-off names not yet pages); most entity/concept pages
   below the top tier still carry TL;DR/Overview placeholders.
 - **Next steps:** keep seeding queries/; synthesize remaining

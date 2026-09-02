@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1O98ZOHw3Uf6mipf2xp6qpQUCX1Ut-bu8/v
 type: interview
 date: 2005
 tags: ["mark-pesce", "mit", "virtual-reality", "world-wide-web"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

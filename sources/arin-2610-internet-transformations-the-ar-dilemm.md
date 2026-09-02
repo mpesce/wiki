@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1W7wDg1YfUdNmuMaTxmeHACE8bmLaXJrX/v
 type: news
 date: 2021-10-05
 tags: ["apple", "ar", "attention", "facebook", "google", "mark-pesce", "mozilla", "pokemon-go", "surveillance"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

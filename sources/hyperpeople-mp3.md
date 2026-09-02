@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1CD5wekrIc0c7zMQl5S0oOXiZEYBergnP/v
 type: interview
 date: 2004
 tags: ["battlestar-galactica", "broadcast", "creators", "mark-pesce", "networks", "peer-to-peer", "social-networks", "the-swarm", "trust"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

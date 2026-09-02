@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1kOBT4c2VFV4zFoF-HmSPKTqyS7tSd6Ee/v
 type: interview
 date: 2016
 tags: ["ar", "content-creation", "education", "google", "mark-pesce", "pokemon-go", "the-future", "virtual-reality", "vr"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

@@ -5,7 +5,7 @@ title: Google
 tags: ["organization"]
 source_count: 43
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -28,21 +28,22 @@ Google also threads through Pesce's VR/AR historiography and platform geography.
 
 ## Key Facts
 - [[sources/reality-remix-wav]] — Reality Remix.wav
-- [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]] — VR Creative Cluster Mark Pesce 9 Aug16 video2.MP4
-- [[sources/hypercasting-mp3]] — hypercasting.mp3
-- [[sources/whereintheworld-mp3]] — whereintheworld.mp3
-- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]] — Pesce - SIGGRAPH FRONTIERS - The AR Dilemmas.mp4
 - [[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]] — 1-01 _The Kids are Alright_ - Kincoppal-Rose Bay School.mp3
+- [[sources/hypercasting-mp3]] — hypercasting.mp3
+- [[sources/hypercasting-wmv]] — hypercasting.wmv
 - [[sources/hack-thurs-2009-07-30-mp3]] — hack_thurs_2009_07_30.mp3
 - [[sources/hack-tues-2010-01-19-mp3]] — hack_tues_2010_01_19.mp3
 - [[sources/sea-20100130-0730-mp3]] — sea_20100130_0730.mp3
 - [[sources/000000001a52899f-mpg]] — 000000001a52899f.mpg
 - [[sources/four-domains-m4a]] — Four Domains.m4a
+- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]] — Pesce - SIGGRAPH FRONTIERS - The AR Dilemmas.mp4
+- [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]] — VR Creative Cluster Mark Pesce 9 Aug16 video2.MP4
 - [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] — Mark Pesce - Digital Depth in Augmented Reality.mp4
 - [[sources/saatchi-wav-2]] — Saatchi.wav
 - [[sources/lms-20170505-0906-families-privacy-mp3]] — lms_20170505_0906 families privacy.mp3
 - [[sources/last-days-of-reality-toronto-17oct17-mov]] — Last Days of Reality Toronto 17Oct17.mov
 - [[sources/ega-mp3]] — EGA.mp3
+- [[sources/saatchi-wav]] — Saatchi.wav
 - [[sources/loreto-toorak-15aug18-mp3]] — Loreto Toorak 15Aug18.mp3
 - [[sources/arin6904-5sep18-mp3]] — ARIN6904 5Sep18.mp3
 - [[sources/accanet-12sep18-mp3]] — ACCANet 12Sep18.mp3
@@ -64,12 +65,11 @@ Google also threads through Pesce's VR/AR historiography and platform geography.
 - [[sources/the-nuclear-option-mp4]] — The Nuclear Option.mp4
 - [[sources/a-new-broome-mp3]] — A New Broome.mp3
 - [[sources/1-dia-markpesce-mp3]] — 1_DIA_MarkPesce.mp3
-- [[sources/hypercasting-wmv]] — hypercasting.wmv
+- [[sources/whereintheworld-mp3]] — whereintheworld.mp3
 - [[sources/recording-2-m4a]] — Recording 2.m4a
 - [[sources/panel-discussion-facilitated-by-host-mark-pesce]] — Panel discussion, facilitated by host Mark Pesce.mp4
 - [[sources/a-digital-reformation-wav]] — A Digital Reformation.wav
 - [[sources/000000001b4e4d1f-iphone-m4v]] — 000000001b4e4d1f.iPhone.m4v
-- [[sources/saatchi-wav]] — Saatchi.wav
 
 ## In the Corpus
 
@@ -86,21 +86,22 @@ Google also threads through Pesce's VR/AR historiography and platform geography.
 ## Sources
 
 - [[sources/reality-remix-wav]]
-- [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]]
-- [[sources/hypercasting-mp3]]
-- [[sources/whereintheworld-mp3]]
-- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]]
 - [[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]]
+- [[sources/hypercasting-mp3]]
+- [[sources/hypercasting-wmv]]
 - [[sources/hack-thurs-2009-07-30-mp3]]
 - [[sources/hack-tues-2010-01-19-mp3]]
 - [[sources/sea-20100130-0730-mp3]]
 - [[sources/000000001a52899f-mpg]]
 - [[sources/four-domains-m4a]]
+- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]]
+- [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]]
 - [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]]
 - [[sources/saatchi-wav-2]]
 - [[sources/lms-20170505-0906-families-privacy-mp3]]
 - [[sources/last-days-of-reality-toronto-17oct17-mov]]
 - [[sources/ega-mp3]]
+- [[sources/saatchi-wav]]
 - [[sources/loreto-toorak-15aug18-mp3]]
 - [[sources/arin6904-5sep18-mp3]]
 - [[sources/accanet-12sep18-mp3]]
@@ -122,9 +123,8 @@ Google also threads through Pesce's VR/AR historiography and platform geography.
 - [[sources/the-nuclear-option-mp4]]
 - [[sources/a-new-broome-mp3]]
 - [[sources/1-dia-markpesce-mp3]]
-- [[sources/hypercasting-wmv]]
+- [[sources/whereintheworld-mp3]]
 - [[sources/recording-2-m4a]]
 - [[sources/panel-discussion-facilitated-by-host-mark-pesce]]
 - [[sources/a-digital-reformation-wav]]
 - [[sources/000000001b4e4d1f-iphone-m4v]]
-- [[sources/saatchi-wav]]

@@ -5,7 +5,7 @@ title: Innovation
 tags: ["concept"]
 source_count: 31
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -19,12 +19,17 @@ related:
 <Synthesize how Innovation is treated across the corpus. Themes, debates, evolution.>
 
 ## Key Points
-- [[sources/dense-and-thick-mp4-2]] — dense-and-thick.mp4
+- [[sources/the-new-inventors-20070725200000-mp4]] — The New Inventors-20070725200000.mp4
+- [[sources/the-new-inventors-20070822200000-mp4]] — The New Inventors-20070822200000.mp4
+- [[sources/the-new-inventors-20070829200000-mp4]] — The New Inventors-20070829200000.mp4
+- [[sources/the-new-inventors-20081105200000-mp4]] — The New Inventors-20081105200000.mp4
 - [[sources/jjj-hack-future-3dec08-mp3]] — JJJ_HACK_FUTURE_3Dec08.mp3
-- [[sources/the-new-inventors-20090204200000-mp4]] — The New Inventors-20090204200000.mp4
 - [[sources/afternoon-live-mov]] — Afternoon Live.mov
 - [[sources/afternoon-live-mov-2]] — Afternoon Live.mov
 - [[sources/asx-wav]] — ASX.wav
+- [[sources/the-new-inventors-20090204200000-mp4]] — The New Inventors-20090204200000.mp4
+- [[sources/the-new-inventors-20090408200000-mp4]] — The New Inventors-20090408200000.mp4
+- [[sources/the-new-inventors-20090415200000-mp4]] — The New Inventors-20090415200000.mp4
 - [[sources/guestroom-futurist-mark-pesce-1-mp3]] — Guestroom - Futurist Mark Pesce (1).mp3
 - [[sources/guestroom-futurist-mark-pesce-mp3]] — Guestroom - Futurist Mark Pesce.mp3
 - [[sources/whenimsixtyfour-part1-mov]] — WhenImSixtyFour-part1.mov
@@ -44,12 +49,7 @@ related:
 - [[sources/a-new-broome-mp3]] — A New Broome.mp3
 - [[sources/terror-and-transhumanism-mp3]] — Terror and Transhumanism.mp3
 - [[sources/the-human-use-of-human-networks-1-mp3]] — The Human Use of Human Networks (1).mp3
-- [[sources/the-new-inventors-20081105200000-mp4]] — The New Inventors-20081105200000.mp4
-- [[sources/the-new-inventors-20090408200000-mp4]] — The New Inventors-20090408200000.mp4
-- [[sources/the-new-inventors-20090415200000-mp4]] — The New Inventors-20090415200000.mp4
-- [[sources/the-new-inventors-20070822200000-mp4]] — The New Inventors-20070822200000.mp4
-- [[sources/the-new-inventors-20070725200000-mp4]] — The New Inventors-20070725200000.mp4
-- [[sources/the-new-inventors-20070829200000-mp4]] — The New Inventors-20070829200000.mp4
+- [[sources/dense-and-thick-mp4-2]] — dense-and-thick.mp4
 
 ## Debates / Open Questions
 
@@ -57,12 +57,17 @@ related:
 
 ## Sources
 
-- [[sources/dense-and-thick-mp4-2]]
+- [[sources/the-new-inventors-20070725200000-mp4]]
+- [[sources/the-new-inventors-20070822200000-mp4]]
+- [[sources/the-new-inventors-20070829200000-mp4]]
+- [[sources/the-new-inventors-20081105200000-mp4]]
 - [[sources/jjj-hack-future-3dec08-mp3]]
-- [[sources/the-new-inventors-20090204200000-mp4]]
 - [[sources/afternoon-live-mov]]
 - [[sources/afternoon-live-mov-2]]
 - [[sources/asx-wav]]
+- [[sources/the-new-inventors-20090204200000-mp4]]
+- [[sources/the-new-inventors-20090408200000-mp4]]
+- [[sources/the-new-inventors-20090415200000-mp4]]
 - [[sources/guestroom-futurist-mark-pesce-1-mp3]]
 - [[sources/guestroom-futurist-mark-pesce-mp3]]
 - [[sources/whenimsixtyfour-part1-mov]]
@@ -82,9 +87,4 @@ related:
 - [[sources/a-new-broome-mp3]]
 - [[sources/terror-and-transhumanism-mp3]]
 - [[sources/the-human-use-of-human-networks-1-mp3]]
-- [[sources/the-new-inventors-20081105200000-mp4]]
-- [[sources/the-new-inventors-20090408200000-mp4]]
-- [[sources/the-new-inventors-20090415200000-mp4]]
-- [[sources/the-new-inventors-20070822200000-mp4]]
-- [[sources/the-new-inventors-20070725200000-mp4]]
-- [[sources/the-new-inventors-20070829200000-mp4]]
+- [[sources/dense-and-thick-mp4-2]]

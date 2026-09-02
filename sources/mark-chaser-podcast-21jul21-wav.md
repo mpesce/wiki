@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1KhLyzjMUZDEVoakd9YzZ4wHx1cPZIBGx/v
 type: podcast
 date: 2021-07-21
 tags: ["mark-pesce", "podcast"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

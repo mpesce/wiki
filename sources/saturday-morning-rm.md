@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/19XlExpI3FlfyR-PiFmvunNX7VvPCrcV3/v
 type: keynote
 date: 2001
 tags: ["3d"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/3d

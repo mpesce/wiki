@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1we9dowTWXhqz5gppU_42VRqs9cyvFqch/v
 type: interview
 date: 2020-05-21
 tags: ["apple", "attention", "broadcast", "google", "mark-pesce"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

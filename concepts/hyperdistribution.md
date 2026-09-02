@@ -5,7 +5,7 @@ title: Hyperdistribution
 tags: ["concept"]
 source_count: 4
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -25,10 +25,10 @@ The later definitional lecture traces the technical lineage that made the condit
 Read as a whole, the four sources show a single argument in two registers — one economic, one architectural. "Piracy is Good" answers the producer's question (who pays when distribution is free?); the definitional lecture answers the system's question (what does the network do to gatekeepers?). Both converge on the same inversion of the broadcast era: scarcity of distribution once made broadcasters the necessary middlemen, and hyperdistribution removes the scarcity, so gatekeeping power drains toward whoever can gather and hold an audience. The concept's subsequent career in the corpus — generalising into frictionless-market "hypereconomics" and the attention economy — is the working-out of that first inversion.
 
 ## Key Points
+- [[sources/piracyisgood-mp3]] — piracyisgood.mp3
 - [[sources/piracy-is-good-mp4]] — Piracy_is_Good.mp4
 - [[sources/piracy-is-good-2-mp4]] — Piracy_is_Good 2.mp4
 - [[sources/piracyisgood-avi]] — PiracyIsGood.avi
-- [[sources/piracyisgood-mp3]] — piracyisgood.mp3
 
 ## Debates / Open Questions
 
@@ -36,7 +36,7 @@ Read as a whole, the four sources show a single argument in two registers — on
 
 ## Sources
 
+- [[sources/piracyisgood-mp3]]
 - [[sources/piracy-is-good-mp4]]
 - [[sources/piracy-is-good-2-mp4]]
 - [[sources/piracyisgood-avi]]
-- [[sources/piracyisgood-mp3]]

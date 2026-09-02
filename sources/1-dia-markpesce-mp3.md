@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1LrXIZwkegFZ9sf8PmITwaM99KAX5mDXd/v
 type: interview
 date: unknown
 tags: ["facebook", "google", "mark-pesce", "networks", "social-media", "social-networks", "the-future", "twitter"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

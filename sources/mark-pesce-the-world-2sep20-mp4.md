@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1sHRm3tKZEIe6Af8YO8GHE8ZvCS4se-ii/v
 type: interview
 date: 2020-09-02
 tags: ["facebook", "mark-pesce", "networks", "social-media", "social-networks"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1d4oy611mwZ-Hwc3axRoh3DP9-M4vwldO/v
 type: workshop
 date: 2009
 tags: ["connectivity", "education"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - (none)

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/10_VBH792-eaRyg3JnJVJ4hHkjp96W_2K/v
 type: interview
 date: 2023
 tags: ["artificial-intelligence", "chatgpt", "education", "mark-pesce", "narrative", "podcast"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

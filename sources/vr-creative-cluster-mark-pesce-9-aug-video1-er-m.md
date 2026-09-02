@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1FSON5dr5pXhOv9WlmnKd2aT3bC8DSogN/v
 type: podcast
 date: 2016
 tags: ["3d", "collaboration", "mark-pesce", "tony-parisi", "virtual-reality", "vr", "vrml", "world-wide-web"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

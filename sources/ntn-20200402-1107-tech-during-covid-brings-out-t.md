@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1qzVpfSJejL7b4NxLwG9bWTBApDXhRDdK/v
 type: interview
 date: 2020-04-02
 tags: ["broadcast", "facebook", "mark-pesce", "networks", "open-source", "remote-work", "surveillance"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

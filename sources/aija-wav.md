@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1i0qd08k8R--Y-30AJxTtzUvehoz-A-P8/v
 type: keynote
 date: unknown
 tags: ["apple", "artificial-intelligence", "collaboration", "education", "mark-pesce", "mozilla", "the-future", "the-future-of-work", "the-next-billion-seconds"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

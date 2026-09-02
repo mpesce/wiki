@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1aNZYo0uikw2JXotc9gvDPBzfygAsrof7/v
 type: interview
 date: 2025-06-27
 tags: ["chatgpt", "education", "mark-pesce", "vrml"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

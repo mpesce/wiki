@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/15I7B1hsPE7zQbP-732aKBk0Zxd4KLD-c/v
 type: interview
 date: 2004
 tags: ["artificial-intelligence", "broadcast", "mark-pesce", "storytelling", "the-future"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

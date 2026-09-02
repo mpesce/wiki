@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1mB4APT3kv2-4Svt6Gwm6VaEgumWF5uD2/v
 type: panel
 date: 2009-10-21
 tags: ["chris-russell", "james-ologhlin", "mark-pesce", "the-new-inventors", "veena-sahajwala"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

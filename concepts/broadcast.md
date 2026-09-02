@@ -5,7 +5,7 @@ title: Broadcasting
 tags: ["concept"]
 source_count: 119
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -26,23 +26,63 @@ The corpus's late material completes the inversion. Addressing the ACMA in 2018,
 
 ## Key Points
 - [[sources/4-02-hyperdistribution-mp3]] — 4-02 Hyperdistribution.mp3
+- [[sources/artbell5-mp3]] — artbell5.mp3
+- [[sources/artbell2-mp3]] — artbell2.mp3
+- [[sources/piracyisgood-mp3]] — piracyisgood.mp3
 - [[sources/hyperpeople-mp3]] — hyperpeople.mp3
-- [[sources/the-new-inventors-20090610200000-mp4]] — The New Inventors-20090610200000.mp4
 - [[sources/piracyisgood-smal-avi]] — PiracyIsGood-smal.avi
 - [[sources/piracy-is-good-mp4]] — Piracy_is_Good.mp4
 - [[sources/piracyisgood-avi]] — PiracyIsGood.avi
 - [[sources/abc-jjj-14mar06-interview-mp3]] — ABC-JJJ-14Mar06-Interview.mp3
 - [[sources/abj-jjj-5oct06-interview-mp3]] — ABJ-JJJ-5Oct06-Interview.mp3
+- [[sources/the-new-inventors-20070214195900-mp4]] — The New Inventors-20070214195900.mp4
+- [[sources/the-new-inventors-20070307195900-mp4]] — The New Inventors-20070307195900.mp4
+- [[sources/the-new-inventors-20070321195900-mp4]] — The New Inventors-20070321195900.mp4
+- [[sources/the-new-inventors-20070822200000-mp4]] — The New Inventors-20070822200000.mp4
+- [[sources/the-new-inventors-20071024200000-mp4]] — The New Inventors-20071024200000.mp4
+- [[sources/the-new-inventors-20071107200000-mp4]] — The New Inventors-20071107200000.mp4
 - [[sources/the-new-inventors-20071114200000-mp4]] — The New Inventors-20071114200000.mp4
+- [[sources/the-new-inventors-20071120200000-mp4]] — The New Inventors-20071120200000.mp4
 - [[sources/the-new-inventors-20071121200000-mp4]] — The New Inventors-20071121200000.mp4
 - [[sources/the-new-inventors-20071128200000-mp4]] — The New Inventors-20071128200000.mp4
+- [[sources/today-tonight-20080320183000-mp4]] — Today Tonight-20080320183000.mp4
+- [[sources/today-tonight-20080709183000-mp4]] — Today Tonight-20080709183000.mp4
+- [[sources/the-new-inventors-20080924200000-mp4]] — The New Inventors-20080924200000.mp4
+- [[sources/the-new-inventors-20081001200000-mp4]] — The New Inventors-20081001200000.mp4
+- [[sources/the-new-inventors-20081008200000-mp4]] — The New Inventors-20081008200000.mp4
+- [[sources/the-new-inventors-20081015200000-mp4]] — The New Inventors-20081015200000.mp4
+- [[sources/the-new-inventors-20081022200000-mp4]] — The New Inventors-20081022200000.mp4
 - [[sources/jjj-hack-future-3dec08-mp3]] — JJJ_HACK_FUTURE_3Dec08.mp3
-- [[sources/the-new-inventors-20090617200000-mp4]] — The New Inventors-20090617200000.mp4
-- [[sources/the-new-inventors-20091125200000-mp4]] — The New Inventors-20091125200000.mp4
 - [[sources/0000000014d901d3-mpg]] — 0000000014d901d3.mpg
+- [[sources/the-new-inventors-20090211200000-mp4]] — The New Inventors-20090211200000.mp4
+- [[sources/the-new-inventors-20090304200000-mp4]] — The New Inventors-20090304200000.mp4
 - [[sources/nightlife-twitter-11mar09-mp3]] — nightlife-twitter-11Mar09.mp3
+- [[sources/the-new-inventors-20090311200000-mp4]] — The New Inventors-20090311200000.mp4
+- [[sources/the-new-inventors-20090325200000-mp4]] — The New Inventors-20090325200000.mp4
+- [[sources/the-new-inventors-20090408200000-mp4]] — The New Inventors-20090408200000.mp4
+- [[sources/the-new-inventors-20090422200000-mp4]] — The New Inventors-20090422200000.mp4
+- [[sources/the-new-inventors-20090506200000-mp4]] — The New Inventors-20090506200000.mp4
+- [[sources/the-new-inventors-20090513200000-mp4]] — The New Inventors-20090513200000.mp4
+- [[sources/the-new-inventors-20090520200000-mp4]] — The New Inventors-20090520200000.mp4
+- [[sources/the-new-inventors-20090527200000-mp4]] — The New Inventors-20090527200000.mp4
+- [[sources/the-new-inventors-20090603200000-mp4]] — The New Inventors-20090603200000.mp4
+- [[sources/the-new-inventors-20090610200000-mp4]] — The New Inventors-20090610200000.mp4
+- [[sources/the-new-inventors-20090617200000-mp4]] — The New Inventors-20090617200000.mp4
 - [[sources/rushkoff-mediasquat-30jun09-mp3]] — Rushkoff-MediaSquat-30Jun09.mp3
+- [[sources/the-new-inventors-20090701200000-mp4]] — The New Inventors-20090701200000.mp4
+- [[sources/the-new-inventors-20090708200000-mp4]] — The New Inventors-20090708200000.mp4
+- [[sources/the-new-inventors-20090715200000-mp4]] — The New Inventors-20090715200000.mp4
+- [[sources/the-new-inventors-20090722200000-mp4]] — The New Inventors-20090722200000.mp4
+- [[sources/the-new-inventors-20090729200000-mp4]] — The New Inventors-20090729200000.mp4
 - [[sources/hack-thurs-2009-07-30-mp3]] — hack_thurs_2009_07_30.mp3
+- [[sources/the-new-inventors-20090805200000-mp4]] — The New Inventors-20090805200000.mp4
+- [[sources/the-new-inventors-20090819200000-mp4]] — The New Inventors-20090819200000.mp4
+- [[sources/the-new-inventors-20090909200000-mp4]] — The New Inventors-20090909200000.mp4
+- [[sources/the-new-inventors-20090916200000-mp4]] — The New Inventors-20090916200000.mp4
+- [[sources/the-new-inventors-20090923200000-mp4]] — The New Inventors-20090923200000.mp4
+- [[sources/the-new-inventors-20091111200000-mp4]] — The New Inventors-20091111200000.mp4
+- [[sources/the-new-inventors-20091118200000-mp4]] — The New Inventors-20091118200000.mp4
+- [[sources/the-new-inventors-20091125200000-mp4]] — The New Inventors-20091125200000.mp4
 - [[sources/hack-tues-2010-01-19-mp3]] — hack_tues_2010_01_19.mp3
 - [[sources/sea-20100130-0730-mp3]] — sea_20100130_0730.mp3
 - [[sources/todaytonight-25may10-mov]] — TodayTonight-25May10.mov
@@ -61,69 +101,29 @@ The corpus's late material completes the inversion. Addressing the ACMA in 2018,
 - [[sources/000000001aaee307-mpg]] — 000000001aaee307.mpg
 - [[sources/theroadahead-17may18-mp3]] — TheRoadAhead_17May18.mp3
 - [[sources/broadcast-and-autonomy-acma-30oct18-mp3]] — Broadcast_and_Autonomy_ACMA_30Oct18.mp3
+- [[sources/iv-pesce-090219-mp4]] — iv_Pesce_090219.mp4
 - [[sources/ppm-2019-10-21-tik-tok-mp3]] — ppm-2019-10-21-tik-tok.mp3
 - [[sources/pesce-best-current-affairs-podcast-mp4]] — Pesce Best Current Affairs Podcast.mp4
 - [[sources/ntn-20200402-1107-tech-during-covid-brings-out-t]] — ntn-20200402-1107-tech_during_covid_brings_out_the_bad_the_ugly_and_the_good-128.mp3
 - [[sources/ntn-20200521-1105-do-track-and-trace-apps-work-t]] — ntn-20200521-1105-do_track_and_trace_apps_work_top_amazon_engineer_rage_quits-128.mp3
+- [[sources/f20-verification-depth-mp4]] — F20_verification-depth.mp4
+- [[sources/f13-the-agent-is-using-you-mp4]] — F13_the-agent-is-using-you.mp4
 - [[sources/radiance56-rm]] — Radiance56.rm
 - [[sources/strophariad56-rm]] — Strophariad56.rm
 - [[sources/incident56-rm]] — Incident56.rm
-- [[sources/artbell5-mp3]] — artbell5.mp3
-- [[sources/artbell2-mp3]] — artbell2.mp3
 - [[sources/artbell7-mp3]] — artbell7.mp3
 - [[sources/artbell6-mp3]] — artbell6.mp3
 - [[sources/radiance-rm]] — Radiance.rm
-- [[sources/f20-verification-depth-mp4]] — F20_verification-depth.mp4
-- [[sources/f13-the-agent-is-using-you-mp4]] — F13_the-agent-is-using-you.mp4
 - [[sources/strophariad-mp4]] — Strophariad.mp4
 - [[sources/unbomb-mp4]] — Unbomb.mp4
 - [[sources/strophariad-mov]] — Strophariad.mov
-- [[sources/piracyisgood-mp3]] — piracyisgood.mp3
 - [[sources/000000001ab03487-mpg]] — 000000001ab03487.mpg
 - [[sources/bt-2-mp4]] — bt-2.mp4
-- [[sources/the-new-inventors-20071107200000-mp4]] — The New Inventors-20071107200000.mp4
-- [[sources/the-new-inventors-20090520200000-mp4]] — The New Inventors-20090520200000.mp4
-- [[sources/the-new-inventors-20090325200000-mp4]] — The New Inventors-20090325200000.mp4
-- [[sources/the-new-inventors-20090506200000-mp4]] — The New Inventors-20090506200000.mp4
-- [[sources/the-new-inventors-20090527200000-mp4]] — The New Inventors-20090527200000.mp4
-- [[sources/the-new-inventors-20090923200000-mp4]] — The New Inventors-20090923200000.mp4
-- [[sources/the-new-inventors-20081008200000-mp4]] — The New Inventors-20081008200000.mp4
-- [[sources/the-new-inventors-20090819200000-mp4]] — The New Inventors-20090819200000.mp4
-- [[sources/the-new-inventors-20091118200000-mp4]] — The New Inventors-20091118200000.mp4
-- [[sources/the-new-inventors-20090422200000-mp4]] — The New Inventors-20090422200000.mp4
-- [[sources/the-new-inventors-20080924200000-mp4]] — The New Inventors-20080924200000.mp4
-- [[sources/the-new-inventors-20071024200000-mp4]] — The New Inventors-20071024200000.mp4
-- [[sources/the-new-inventors-20090211200000-mp4]] — The New Inventors-20090211200000.mp4
-- [[sources/the-new-inventors-20081022200000-mp4]] — The New Inventors-20081022200000.mp4
-- [[sources/the-new-inventors-20090729200000-mp4]] — The New Inventors-20090729200000.mp4
-- [[sources/the-new-inventors-20090701200000-mp4]] — The New Inventors-20090701200000.mp4
-- [[sources/the-new-inventors-20090715200000-mp4]] — The New Inventors-20090715200000.mp4
-- [[sources/the-new-inventors-20090909200000-mp4]] — The New Inventors-20090909200000.mp4
-- [[sources/the-new-inventors-20090805200000-mp4]] — The New Inventors-20090805200000.mp4
-- [[sources/the-new-inventors-20091111200000-mp4]] — The New Inventors-20091111200000.mp4
-- [[sources/the-new-inventors-20090513200000-mp4]] — The New Inventors-20090513200000.mp4
-- [[sources/the-new-inventors-20090916200000-mp4]] — The New Inventors-20090916200000.mp4
-- [[sources/the-new-inventors-20090311200000-mp4]] — The New Inventors-20090311200000.mp4
-- [[sources/the-new-inventors-20090408200000-mp4]] — The New Inventors-20090408200000.mp4
-- [[sources/the-new-inventors-20090708200000-mp4]] — The New Inventors-20090708200000.mp4
-- [[sources/the-new-inventors-20081001200000-mp4]] — The New Inventors-20081001200000.mp4
-- [[sources/the-new-inventors-20090304200000-mp4]] — The New Inventors-20090304200000.mp4
-- [[sources/the-new-inventors-20081015200000-mp4]] — The New Inventors-20081015200000.mp4
-- [[sources/the-new-inventors-20090603200000-mp4]] — The New Inventors-20090603200000.mp4
-- [[sources/the-new-inventors-20090722200000-mp4]] — The New Inventors-20090722200000.mp4
-- [[sources/today-tonight-20080709183000-mp4]] — Today Tonight-20080709183000.mp4
-- [[sources/the-new-inventors-20071120200000-mp4]] — The New Inventors-20071120200000.mp4
-- [[sources/today-tonight-20080320183000-mp4]] — Today Tonight-20080320183000.mp4
 - [[sources/1-58269-80068-flvhigh-1-flv]] — 1_58269_80068_flvhigh (1).flv
-- [[sources/the-new-inventors-20070822200000-mp4]] — The New Inventors-20070822200000.mp4
-- [[sources/the-new-inventors-20070214195900-mp4]] — The New Inventors-20070214195900.mp4
-- [[sources/the-new-inventors-20070307195900-mp4]] — The New Inventors-20070307195900.mp4
-- [[sources/the-new-inventors-20070321195900-mp4]] — The New Inventors-20070321195900.mp4
 - [[sources/000000001b4e4d1f-iphone-m4v]] — 000000001b4e4d1f.iPhone.m4v
 - [[sources/wds08-opening-mov]] — WDS08-Opening.mov
 - [[sources/000000001b06c69c-iphone-m4v]] — 000000001b06c69c.iPhone.m4v
 - [[sources/000000001b4a7393-iphone-m4v]] — 000000001b4a7393.iPhone.m4v
-- [[sources/iv-pesce-090219-mp4]] — iv_Pesce_090219.mp4
 - [[sources/000000001aaed4f8-mpg]] — 000000001aaed4f8.mpg
 - [[sources/000000001ab02678-mpg]] — 000000001ab02678.mpg
 - [[sources/000000001a6ce9bb-mpg]] — 000000001a6ce9bb.mpg
@@ -152,23 +152,63 @@ The corpus's late material completes the inversion. Addressing the ACMA in 2018,
 ## Sources
 
 - [[sources/4-02-hyperdistribution-mp3]]
+- [[sources/artbell5-mp3]]
+- [[sources/artbell2-mp3]]
+- [[sources/piracyisgood-mp3]]
 - [[sources/hyperpeople-mp3]]
-- [[sources/the-new-inventors-20090610200000-mp4]]
 - [[sources/piracyisgood-smal-avi]]
 - [[sources/piracy-is-good-mp4]]
 - [[sources/piracyisgood-avi]]
 - [[sources/abc-jjj-14mar06-interview-mp3]]
 - [[sources/abj-jjj-5oct06-interview-mp3]]
+- [[sources/the-new-inventors-20070214195900-mp4]]
+- [[sources/the-new-inventors-20070307195900-mp4]]
+- [[sources/the-new-inventors-20070321195900-mp4]]
+- [[sources/the-new-inventors-20070822200000-mp4]]
+- [[sources/the-new-inventors-20071024200000-mp4]]
+- [[sources/the-new-inventors-20071107200000-mp4]]
 - [[sources/the-new-inventors-20071114200000-mp4]]
+- [[sources/the-new-inventors-20071120200000-mp4]]
 - [[sources/the-new-inventors-20071121200000-mp4]]
 - [[sources/the-new-inventors-20071128200000-mp4]]
+- [[sources/today-tonight-20080320183000-mp4]]
+- [[sources/today-tonight-20080709183000-mp4]]
+- [[sources/the-new-inventors-20080924200000-mp4]]
+- [[sources/the-new-inventors-20081001200000-mp4]]
+- [[sources/the-new-inventors-20081008200000-mp4]]
+- [[sources/the-new-inventors-20081015200000-mp4]]
+- [[sources/the-new-inventors-20081022200000-mp4]]
 - [[sources/jjj-hack-future-3dec08-mp3]]
-- [[sources/the-new-inventors-20090617200000-mp4]]
-- [[sources/the-new-inventors-20091125200000-mp4]]
 - [[sources/0000000014d901d3-mpg]]
+- [[sources/the-new-inventors-20090211200000-mp4]]
+- [[sources/the-new-inventors-20090304200000-mp4]]
 - [[sources/nightlife-twitter-11mar09-mp3]]
+- [[sources/the-new-inventors-20090311200000-mp4]]
+- [[sources/the-new-inventors-20090325200000-mp4]]
+- [[sources/the-new-inventors-20090408200000-mp4]]
+- [[sources/the-new-inventors-20090422200000-mp4]]
+- [[sources/the-new-inventors-20090506200000-mp4]]
+- [[sources/the-new-inventors-20090513200000-mp4]]
+- [[sources/the-new-inventors-20090520200000-mp4]]
+- [[sources/the-new-inventors-20090527200000-mp4]]
+- [[sources/the-new-inventors-20090603200000-mp4]]
+- [[sources/the-new-inventors-20090610200000-mp4]]
+- [[sources/the-new-inventors-20090617200000-mp4]]
 - [[sources/rushkoff-mediasquat-30jun09-mp3]]
+- [[sources/the-new-inventors-20090701200000-mp4]]
+- [[sources/the-new-inventors-20090708200000-mp4]]
+- [[sources/the-new-inventors-20090715200000-mp4]]
+- [[sources/the-new-inventors-20090722200000-mp4]]
+- [[sources/the-new-inventors-20090729200000-mp4]]
 - [[sources/hack-thurs-2009-07-30-mp3]]
+- [[sources/the-new-inventors-20090805200000-mp4]]
+- [[sources/the-new-inventors-20090819200000-mp4]]
+- [[sources/the-new-inventors-20090909200000-mp4]]
+- [[sources/the-new-inventors-20090916200000-mp4]]
+- [[sources/the-new-inventors-20090923200000-mp4]]
+- [[sources/the-new-inventors-20091111200000-mp4]]
+- [[sources/the-new-inventors-20091118200000-mp4]]
+- [[sources/the-new-inventors-20091125200000-mp4]]
 - [[sources/hack-tues-2010-01-19-mp3]]
 - [[sources/sea-20100130-0730-mp3]]
 - [[sources/todaytonight-25may10-mov]]
@@ -187,69 +227,29 @@ The corpus's late material completes the inversion. Addressing the ACMA in 2018,
 - [[sources/000000001aaee307-mpg]]
 - [[sources/theroadahead-17may18-mp3]]
 - [[sources/broadcast-and-autonomy-acma-30oct18-mp3]]
+- [[sources/iv-pesce-090219-mp4]]
 - [[sources/ppm-2019-10-21-tik-tok-mp3]]
 - [[sources/pesce-best-current-affairs-podcast-mp4]]
 - [[sources/ntn-20200402-1107-tech-during-covid-brings-out-t]]
 - [[sources/ntn-20200521-1105-do-track-and-trace-apps-work-t]]
+- [[sources/f20-verification-depth-mp4]]
+- [[sources/f13-the-agent-is-using-you-mp4]]
 - [[sources/radiance56-rm]]
 - [[sources/strophariad56-rm]]
 - [[sources/incident56-rm]]
-- [[sources/artbell5-mp3]]
-- [[sources/artbell2-mp3]]
 - [[sources/artbell7-mp3]]
 - [[sources/artbell6-mp3]]
 - [[sources/radiance-rm]]
-- [[sources/f20-verification-depth-mp4]]
-- [[sources/f13-the-agent-is-using-you-mp4]]
 - [[sources/strophariad-mp4]]
 - [[sources/unbomb-mp4]]
 - [[sources/strophariad-mov]]
-- [[sources/piracyisgood-mp3]]
 - [[sources/000000001ab03487-mpg]]
 - [[sources/bt-2-mp4]]
-- [[sources/the-new-inventors-20071107200000-mp4]]
-- [[sources/the-new-inventors-20090520200000-mp4]]
-- [[sources/the-new-inventors-20090325200000-mp4]]
-- [[sources/the-new-inventors-20090506200000-mp4]]
-- [[sources/the-new-inventors-20090527200000-mp4]]
-- [[sources/the-new-inventors-20090923200000-mp4]]
-- [[sources/the-new-inventors-20081008200000-mp4]]
-- [[sources/the-new-inventors-20090819200000-mp4]]
-- [[sources/the-new-inventors-20091118200000-mp4]]
-- [[sources/the-new-inventors-20090422200000-mp4]]
-- [[sources/the-new-inventors-20080924200000-mp4]]
-- [[sources/the-new-inventors-20071024200000-mp4]]
-- [[sources/the-new-inventors-20090211200000-mp4]]
-- [[sources/the-new-inventors-20081022200000-mp4]]
-- [[sources/the-new-inventors-20090729200000-mp4]]
-- [[sources/the-new-inventors-20090701200000-mp4]]
-- [[sources/the-new-inventors-20090715200000-mp4]]
-- [[sources/the-new-inventors-20090909200000-mp4]]
-- [[sources/the-new-inventors-20090805200000-mp4]]
-- [[sources/the-new-inventors-20091111200000-mp4]]
-- [[sources/the-new-inventors-20090513200000-mp4]]
-- [[sources/the-new-inventors-20090916200000-mp4]]
-- [[sources/the-new-inventors-20090311200000-mp4]]
-- [[sources/the-new-inventors-20090408200000-mp4]]
-- [[sources/the-new-inventors-20090708200000-mp4]]
-- [[sources/the-new-inventors-20081001200000-mp4]]
-- [[sources/the-new-inventors-20090304200000-mp4]]
-- [[sources/the-new-inventors-20081015200000-mp4]]
-- [[sources/the-new-inventors-20090603200000-mp4]]
-- [[sources/the-new-inventors-20090722200000-mp4]]
-- [[sources/today-tonight-20080709183000-mp4]]
-- [[sources/the-new-inventors-20071120200000-mp4]]
-- [[sources/today-tonight-20080320183000-mp4]]
 - [[sources/1-58269-80068-flvhigh-1-flv]]
-- [[sources/the-new-inventors-20070822200000-mp4]]
-- [[sources/the-new-inventors-20070214195900-mp4]]
-- [[sources/the-new-inventors-20070307195900-mp4]]
-- [[sources/the-new-inventors-20070321195900-mp4]]
 - [[sources/000000001b4e4d1f-iphone-m4v]]
 - [[sources/wds08-opening-mov]]
 - [[sources/000000001b06c69c-iphone-m4v]]
 - [[sources/000000001b4a7393-iphone-m4v]]
-- [[sources/iv-pesce-090219-mp4]]
 - [[sources/000000001aaed4f8-mpg]]
 - [[sources/000000001ab02678-mpg]]
 - [[sources/000000001a6ce9bb-mpg]]

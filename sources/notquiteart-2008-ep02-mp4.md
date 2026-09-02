@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1DuIW7aFsax9B5pxoSU9vkakALBrk2r6r/v
 type: interview
 date: 2008
 tags: ["3d", "commons", "connectivity", "creators", "mark-pesce", "narrative"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

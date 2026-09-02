@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1jls7M2sHoRiu1W9wTPnXtT_db7iVdKLN/v
 type: lecture
 date: 2021
 tags: ["collaboration", "remote-work", "the-future", "the-future-of-work"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - (none)

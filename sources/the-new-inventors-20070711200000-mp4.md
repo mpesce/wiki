@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1SQDFHDWVsyMtp2iIGklzJRfo4nQd4h3H/v
 type: panel
 date: 2007-07-11
 tags: ["bernie-hobbs", "chris-russell", "james-ologhlin", "the-new-inventors", "veena-sahajwala"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/james-ologhlin

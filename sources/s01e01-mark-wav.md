@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1KslE4vn0HMAYeItfiSGCz9eq_W3Xh5sl/v
 type: interview
 date: 1995
 tags: ["blockchain", "journalism", "mark-pesce", "podcast", "startups", "venture-capital"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

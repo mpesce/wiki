@@ -5,7 +5,7 @@ title: Erik Davis
 tags: ["person"]
 source_count: 13
 created: 2026-08-27T10:51:23Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -20,6 +20,7 @@ related:
 
 ## Key Facts
 - [[sources/friday-rm]] — Friday.rm
+- [[sources/saturday-afternoon-rm]] — Saturday Afternoon.rm
 - [[sources/techno-pagans-at-the-end-of-history-2-esalen-mp3]] — Techno-Pagans at the End of History 2(Esalen).mp3
 - [[sources/techno-pagans-at-the-end-of-history-9-esalen-mp3]] — Techno-Pagans at the End of History 9(Esalen).mp3
 - [[sources/techno-pagans-at-the-end-of-history-1-esalen-mp3]] — Techno-Pagans at the End of History 1(Esalen).mp3
@@ -31,7 +32,6 @@ related:
 - [[sources/techno-pagans-at-the-end-of-history-11-esalen-mp]] — Techno-Pagans at the End of History 11(Esalen).mp3
 - [[sources/techno-pagans-at-the-end-of-history-4-esalen-mp3]] — Techno-Pagans at the End of History 4(Esalen).mp3
 - [[sources/techno-pagans-at-the-end-of-history-8-esalen-mp3]] — Techno-Pagans at the End of History 8(Esalen).mp3
-- [[sources/saturday-afternoon-rm]] — Saturday Afternoon.rm
 
 ## In the Corpus
 
@@ -48,6 +48,7 @@ related:
 ## Sources
 
 - [[sources/friday-rm]]
+- [[sources/saturday-afternoon-rm]]
 - [[sources/techno-pagans-at-the-end-of-history-2-esalen-mp3]]
 - [[sources/techno-pagans-at-the-end-of-history-9-esalen-mp3]]
 - [[sources/techno-pagans-at-the-end-of-history-1-esalen-mp3]]
@@ -59,4 +60,3 @@ related:
 - [[sources/techno-pagans-at-the-end-of-history-11-esalen-mp]]
 - [[sources/techno-pagans-at-the-end-of-history-4-esalen-mp3]]
 - [[sources/techno-pagans-at-the-end-of-history-8-esalen-mp3]]
-- [[sources/saturday-afternoon-rm]]

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1R48xm8A_w5E7ZZ90iogKiVKUm-fab9re/v
 type: interview
 date: 1993
 tags: ["3d", "mark-pesce", "metaverse", "microsoft", "podcast", "the-next-billion-seconds", "virtual-reality", "vrml", "world-wide-web"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

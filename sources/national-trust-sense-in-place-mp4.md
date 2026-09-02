@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1QMTVcL_29119SUVGZ2WgQjoNJ1yCZ0ap/v
 type: lecture
 date: 2020
 tags: ["attention", "identity", "mark-pesce", "trust"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

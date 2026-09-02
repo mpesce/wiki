@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1OjYhiUH2thSZUcIkXOSpb9Asy-5IYbXT/v
 type: podcast
 date: 2010-07-01
 tags: ["collaboration", "mark-pesce", "networks", "social-networks", "twitter"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

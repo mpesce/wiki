@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1r6Lbi6a1jn5cbnEJPR_MXLCBVozqw2ip/v
 type: interview
 date: 2010
 tags: ["abc", "communication", "connectivity", "cyberpunk", "innovation", "mark-pesce", "networks", "the-future", "virtual-reality", "vrml", "world-wide-web"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

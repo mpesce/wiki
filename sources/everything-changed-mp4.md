@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1uHWYSdi-4j888YEMcvuh8TOi6l5K_dUU/v
 type: lecture
 date: unknown
 tags: ["education", "mark-pesce"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

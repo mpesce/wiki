@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/12ijF0mhGk2GJQMINv2Cgc4M48jdq7SQK/v
 type: interview
 date: unknown
 tags: ["apple", "mark-pesce", "mozilla"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

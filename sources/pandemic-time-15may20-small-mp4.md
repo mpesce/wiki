@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/126BkvxYyvd9BITyiplv3kcLJH0NnIfQt/v
 type: lecture
 date: 2020-05-15
 tags: ["apple", "mark-pesce", "mozilla", "the-future"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

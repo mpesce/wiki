@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1RKJUeGXEJvqkRN2xH5ubI6dGw2c2hJMa/v
 type: panel
 date: 2008-10-15
 tags: ["broadcast", "chris-russell", "james-ologhlin", "the-new-inventors", "veena-sahajwala"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/james-ologhlin

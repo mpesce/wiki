@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/18D_3Yna_zuy3j7mZjDN1QGemfvnQRfSV/v
 type: panel
 date: 2007-09-12
 tags: ["bernie-hobbs", "james-bradfield-moody", "richard-vaughan", "the-new-inventors"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/bernie-hobbs

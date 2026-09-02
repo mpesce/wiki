@@ -5,7 +5,7 @@ title: VRML
 tags: ["technology"]
 source_count: 48
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -27,13 +27,8 @@ The diagnosis of its decline is remarkably consistent across decades. By 2010 Pe
 In the 2020s VRML is invoked as the metaverse's common ancestor and its standing warning. Pesce calls it "an early attempt at the metaverse" and argues that three decades on the metaverse remains "a house built on sand": walled-garden platforms trading virtual deeds that are worthless outside their own worlds, against Tony Parisi's principle that there should be only one metaverse ([[sources/a-house-built-on-sand-interoperability-in-the-me]]). Meanwhile augmented reality — data bound to physical places, from Pokémon Go to the "right to write" — has inherited the spatial-web agenda VRML opened in 1994 ([[sources/internet-transformations-5oct21-mp4]]).
 
 ## Key Facts
-- [[sources/ala-wav]] — ALA.wav
-- [[sources/reality-remix-wav]] — Reality Remix.wav
-- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]] — VR Creative Cluster Mark Pesce 9 Aug video1.MP4
 - [[sources/mark-pesce-session-1-wav]] — Mark Pesce session 1.wav
-- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]] — VR Creative Cluster Mark Pesce 9 Aug video1_er.MP4
-- [[sources/whereintheworld-mp3]] — whereintheworld.mp3
-- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]] — Pesce - SIGGRAPH FRONTIERS - The AR Dilemmas.mp4
+- [[sources/reality-remix-wav]] — Reality Remix.wav
 - [[sources/avatars96-keynotes-pesce-parisi-512kb-mp4]] — avatars96-keynotes-pesce-parisi_512kb.mp4
 - [[sources/techno-pagans-at-the-end-of-history-1-esalen-mp3]] — Techno-Pagans at the End of History 1(Esalen).mp3
 - [[sources/uq-wav]] — UQ.wav
@@ -48,6 +43,11 @@ In the 2020s VRML is invoked as the metaverse's common ancestor and its standing
 - [[sources/lca2011-keynote-mov]] — LCA2011-Keynote.mov
 - [[sources/thenextbillionsecondsineducation-1sep11-wav]] — TheNextBillionSecondsInEducation-1Sep11.wav
 - [[sources/powersofthen-9apr13-m4v]] — PowersOfThen-9Apr13.m4v
+- [[sources/ala-wav]] — ALA.wav
+- [[sources/monash-wav]] — Monash.wav
+- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]] — Pesce - SIGGRAPH FRONTIERS - The AR Dilemmas.mp4
+- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]] — VR Creative Cluster Mark Pesce 9 Aug video1_er.MP4
+- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]] — VR Creative Cluster Mark Pesce 9 Aug video1.MP4
 - [[sources/web3d2017-mp3]] — Web3D2017.mp3
 - [[sources/web3d2017-m4a]] — Web3D2017.m4a
 - [[sources/theroadahead-17may18-mp3]] — TheRoadAhead_17May18.mp3
@@ -65,12 +65,12 @@ In the 2020s VRML is invoked as the metaverse's common ancestor and its standing
 - [[sources/facing-the-machine-ibsuniversity-27jun25-mp4]] — Facing the Machine IBSUniversity 27Jun25.mp4
 - [[sources/telstra-ipod-m4v]] — telstra_ipod.m4v
 - [[sources/friday-mp3]] — Friday.mp3
+- [[sources/whereintheworld-mp3]] — whereintheworld.mp3
 - [[sources/vrml-interview-mp4]] — vrml-interview.mp4
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-mp4]] — avatars96-pesce-leonard-dipaola_512kb.mp4
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-2-mp4]] — avatars96-pesce-leonard-dipaola_512kb 2.mp4
 - [[sources/a-house-built-on-sand-interoperability-in-the-me]] — A House Built on Sand - Interoperability in the Metaverse.mp4
 - [[sources/wpc-wav]] — WPC.wav
-- [[sources/monash-wav]] — Monash.wav
 - [[sources/bill-martens-wav]] — Bill Martens.wav
 - [[sources/mark-interviews-bill-wav]] — Mark interviews Bill.wav
 - [[sources/mark-interviews-bill-wav-2]] — Mark interviews Bill.wav
@@ -90,13 +90,8 @@ In the 2020s VRML is invoked as the metaverse's common ancestor and its standing
 
 ## Sources
 
-- [[sources/ala-wav]]
-- [[sources/reality-remix-wav]]
-- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]]
 - [[sources/mark-pesce-session-1-wav]]
-- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]]
-- [[sources/whereintheworld-mp3]]
-- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]]
+- [[sources/reality-remix-wav]]
 - [[sources/avatars96-keynotes-pesce-parisi-512kb-mp4]]
 - [[sources/techno-pagans-at-the-end-of-history-1-esalen-mp3]]
 - [[sources/uq-wav]]
@@ -111,6 +106,11 @@ In the 2020s VRML is invoked as the metaverse's common ancestor and its standing
 - [[sources/lca2011-keynote-mov]]
 - [[sources/thenextbillionsecondsineducation-1sep11-wav]]
 - [[sources/powersofthen-9apr13-m4v]]
+- [[sources/ala-wav]]
+- [[sources/monash-wav]]
+- [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]]
+- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-er-m]]
+- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]]
 - [[sources/web3d2017-mp3]]
 - [[sources/web3d2017-m4a]]
 - [[sources/theroadahead-17may18-mp3]]
@@ -128,12 +128,12 @@ In the 2020s VRML is invoked as the metaverse's common ancestor and its standing
 - [[sources/facing-the-machine-ibsuniversity-27jun25-mp4]]
 - [[sources/telstra-ipod-m4v]]
 - [[sources/friday-mp3]]
+- [[sources/whereintheworld-mp3]]
 - [[sources/vrml-interview-mp4]]
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-mp4]]
 - [[sources/avatars96-pesce-leonard-dipaola-512kb-2-mp4]]
 - [[sources/a-house-built-on-sand-interoperability-in-the-me]]
 - [[sources/wpc-wav]]
-- [[sources/monash-wav]]
 - [[sources/bill-martens-wav]]
 - [[sources/mark-interviews-bill-wav]]
 - [[sources/mark-interviews-bill-wav-2]]

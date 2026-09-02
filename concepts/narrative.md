@@ -5,7 +5,7 @@ title: Narrative
 tags: ["concept"]
 source_count: 49
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -27,6 +27,8 @@ A third register treats narrative as an instrument of power — for good and ill
 ## Key Points
 - [[sources/3-01-the-audio-tour-mp3]] — 3-01 The Audio Tour.mp3
 - [[sources/johnhalpern-lsdsymposium-wmv]] — JohnHalpern-LSDsymposium.wmv
+- [[sources/saturday-afternoon-rm]] — Saturday Afternoon.rm
+- [[sources/saturday-afternoon-mp3]] — Saturday Afternoon.mp3
 - [[sources/4-03-the-book-show-23-june-2006-mp3]] — 4-03 The Book Show 23 June 2006.mp3
 - [[sources/notquiteart-2008-ep02-mp4]] — notquiteart_2008_ep02.mp4
 - [[sources/rushkoff-mediasquat-30jun09-mp3]] — Rushkoff-MediaSquat-30Jun09.mp3
@@ -39,19 +41,20 @@ A third register treats narrative as an instrument of power — for good and ill
 - [[sources/000000001515d48d-mpg]] — 000000001515d48d.mpg
 - [[sources/embiggen-17aug12-mp4]] — Embiggen-17Aug12.mp4
 - [[sources/marc-pesce-rushes01-mov]] — Marc Pesce_rushes01.mov
+- [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]] — Outer Space Cyberspace Digital Depth HEVC.mp4
 - [[sources/truth-trust-and-story-26jul19-mp3]] — Truth Trust and Story 26Jul19.mp3
 - [[sources/wave-of-automation-2aug19-mov]] — Wave of Automation 2Aug19.mov
 - [[sources/unknown-knowns-31oct19-mp3]] — Unknown Knowns 31Oct19.mp3
-- [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]] — Outer Space Cyberspace Digital Depth HEVC.mp4
 - [[sources/surveillance-status-arin2610-20oct20-mp4]] — Surveillance Status ARIN2610 20Oct20.mp4
 - [[sources/drilling-down-ega-2022-low-bitrate-1080p-mp4]] — Drilling Down EGA 2022 low bitrate 1080p.mp4
 - [[sources/drilling-down-ega-2022-1080p-mp4]] — Drilling Down EGA 2022 1080p.mp4
 - [[sources/drilling-down-ega-2dec22-720p-mp4]] — Drilling Down EGA 2Dec22 720p.mp4
-- [[sources/strophariad56-rm]] — Strophariad56.rm
+- [[sources/thefuturists-mp4]] — TheFuturists.mp4
+- [[sources/thefuturists-mp4-2]] — TheFuturists.mp4
 - [[sources/f20-verification-depth-mp4]] — F20_verification-depth.mp4
 - [[sources/f18-industry-verification-design-mp4]] — F18_industry-verification-design.mp4
+- [[sources/strophariad56-rm]] — Strophariad56.rm
 - [[sources/incident-rm]] — Incident.rm
-- [[sources/saturday-afternoon-rm]] — Saturday Afternoon.rm
 - [[sources/empire-6-11-06-mp3]] — Empire 6-11-06.mp3
 - [[sources/radiance-ipod-subtitles-mp4]] — Radiance-iPod-Subtitles.mp4
 - [[sources/unbomb-mp4]] — Unbomb.mp4
@@ -60,12 +63,9 @@ A third register treats narrative as an instrument of power — for good and ill
 - [[sources/congradulating-ourselves-mp4]] — Congradulating ourselves.mp4
 - [[sources/the-moment-mp4]] — The Moment.mp4
 - [[sources/bt-1-mp4]] — bt-1.mp4
-- [[sources/saturday-afternoon-mp3]] — Saturday Afternoon.mp3
 - [[sources/bt-2-mp4]] — bt-2.mp4
 - [[sources/tea-faerie-and-burning-dan-clip-wmv]] — Tea Faerie and Burning Dan Clip.wmv
 - [[sources/felix-wav]] — Felix.wav
-- [[sources/thefuturists-mp4]] — TheFuturists.mp4
-- [[sources/thefuturists-mp4-2]] — TheFuturists.mp4
 - [[sources/000000001519e527-iphone-m4v]] — 000000001519e527.iPhone.m4v
 - [[sources/000000001ab02678-mpg]] — 000000001ab02678.mpg
 - [[sources/mindstates-naturalselection-mp4]] — mindstates-naturalselection.mp4
@@ -83,6 +83,8 @@ A third register treats narrative as an instrument of power — for good and ill
 
 - [[sources/3-01-the-audio-tour-mp3]]
 - [[sources/johnhalpern-lsdsymposium-wmv]]
+- [[sources/saturday-afternoon-rm]]
+- [[sources/saturday-afternoon-mp3]]
 - [[sources/4-03-the-book-show-23-june-2006-mp3]]
 - [[sources/notquiteart-2008-ep02-mp4]]
 - [[sources/rushkoff-mediasquat-30jun09-mp3]]
@@ -95,19 +97,20 @@ A third register treats narrative as an instrument of power — for good and ill
 - [[sources/000000001515d48d-mpg]]
 - [[sources/embiggen-17aug12-mp4]]
 - [[sources/marc-pesce-rushes01-mov]]
+- [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]]
 - [[sources/truth-trust-and-story-26jul19-mp3]]
 - [[sources/wave-of-automation-2aug19-mov]]
 - [[sources/unknown-knowns-31oct19-mp3]]
-- [[sources/outer-space-cyberspace-digital-depth-hevc-mp4]]
 - [[sources/surveillance-status-arin2610-20oct20-mp4]]
 - [[sources/drilling-down-ega-2022-low-bitrate-1080p-mp4]]
 - [[sources/drilling-down-ega-2022-1080p-mp4]]
 - [[sources/drilling-down-ega-2dec22-720p-mp4]]
-- [[sources/strophariad56-rm]]
+- [[sources/thefuturists-mp4]]
+- [[sources/thefuturists-mp4-2]]
 - [[sources/f20-verification-depth-mp4]]
 - [[sources/f18-industry-verification-design-mp4]]
+- [[sources/strophariad56-rm]]
 - [[sources/incident-rm]]
-- [[sources/saturday-afternoon-rm]]
 - [[sources/empire-6-11-06-mp3]]
 - [[sources/radiance-ipod-subtitles-mp4]]
 - [[sources/unbomb-mp4]]
@@ -116,12 +119,9 @@ A third register treats narrative as an instrument of power — for good and ill
 - [[sources/congradulating-ourselves-mp4]]
 - [[sources/the-moment-mp4]]
 - [[sources/bt-1-mp4]]
-- [[sources/saturday-afternoon-mp3]]
 - [[sources/bt-2-mp4]]
 - [[sources/tea-faerie-and-burning-dan-clip-wmv]]
 - [[sources/felix-wav]]
-- [[sources/thefuturists-mp4]]
-- [[sources/thefuturists-mp4-2]]
 - [[sources/000000001519e527-iphone-m4v]]
 - [[sources/000000001ab02678-mpg]]
 - [[sources/mindstates-naturalselection-mp4]]

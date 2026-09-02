@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1bynvRgL41s83F5Xh1kPOA7mJIn6GEMCR/v
 type: keynote
 date: 2011
 tags: ["facebook", "mark-pesce", "networks", "open-source", "social-networks", "the-next-billion-seconds", "virtual-reality", "vrml", "world-wide-web"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

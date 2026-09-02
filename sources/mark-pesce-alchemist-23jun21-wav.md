@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1Vg26iffkrJSCCiM5T2m03GnmizHxZZb1/v
 type: interview
 date: 2021-06-23
 tags: ["apple", "bitcoin", "education", "innovation", "mark-pesce", "microsoft", "mozilla", "podcast", "remote-work", "the-future", "the-next-billion-seconds", "vrml"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

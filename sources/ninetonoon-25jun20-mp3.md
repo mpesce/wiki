@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1pJY6dLNik_EegzWMxvn3vNe4VkrjbUG6/v
 type: interview
 date: 2020-06-25
 tags: ["apple", "facebook", "mark-pesce", "social-media"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

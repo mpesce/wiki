@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1EQUvrg0voMKbjpXoVhI3yHFFRjI4DatE/v
 type: keynote
 date: unknown
 tags: ["apple", "mark-pesce", "mozilla", "the-future"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

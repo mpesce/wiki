@@ -22,7 +22,7 @@ no external dependencies, no binary assets. Clone it and read it.
 | `sources/`  | 625 pages — one per recording (summary + key points + named entities/concepts). Immutable. |
 | `entities/` | 61 pages — 17 people, 25 organizations, 19 technologies. |
 | `concepts/` | 50 pages — recurring themes (broadcast, the future, networks, AI, VR, …). |
-| `queries/`  | 10 pages — cited research answers (workflow: WIKI.md §7.3). |
+| `queries/`  | 20 pages — cited research answers (workflow: WIKI.md §7.3). |
 | `lint/`     | dated health reports; see the latest `report-*.md`. |
 | `_ingest_manifest.json` | machine-readable map: slug → entities/concepts/dates/links. The compile + lint + index steps all read from this. |
 
@@ -45,9 +45,9 @@ follow the backlinks.
 
 ## Status
 
-- Last full rebuild: **2026-08-27** (dates normalized; entity vocabulary
+- Last full rebuild: **2026-09-03** (dates normalized; entity vocabulary
   expanded; queries seeded) — lint clean (0 broken links, 0 orphans,
   0 missing cross-refs).
-- Known gaps: 336 undated sources; entity vocabulary is curated and can
+- Known gaps: 185 undated sources; entity vocabulary is curated and can
   be extended; lower-traffic entity/concept pages still carry
   TL;DR/Overview template placeholders.

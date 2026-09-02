@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1qH3gCJOzg3xsYBV3wFwDDD_Nij9e8aEE/v
 type: keynote
 date: 1994
 tags: ["3d", "apple", "artificial-intelligence", "facebook", "mark-pesce", "mozilla", "networks", "podcast", "the-future", "the-future-of-work", "world-wide-web"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1N79jcW1aZDUTU_IXQA5dv-Ywz6B9WCvN/v
 type: interview
 date: unknown
 tags: ["artificial-intelligence", "fog-of-knowability", "mark-pesce", "podcast", "the-future"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

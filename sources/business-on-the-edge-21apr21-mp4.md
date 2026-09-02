@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1mgYmoXAoA6gWcZgqiW87HuP8Xm2-5iod/v
 type: keynote
 date: 2021-04-21
 tags: ["apple", "innovation", "mark-pesce", "mozilla", "podcast", "the-future", "the-next-billion-seconds"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

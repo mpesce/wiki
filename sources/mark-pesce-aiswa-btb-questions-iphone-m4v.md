@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1aGuE57DoL-nG7Mqad69ORCUzAyTukbSq/v
 type: panel
 date: unknown
 tags: ["facebook", "mark-pesce", "networks", "participation", "social-media"]
-created: 2026-08-27T10:51:10Z
-last_updated: 2026-08-27T10:51:10Z
+created: 2026-09-02T18:58:59Z
+last_updated: 2026-09-02T18:58:59Z
 mentions:
   entities:
     - entities/mark-pesce

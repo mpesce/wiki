@@ -5,7 +5,7 @@ title: Mozilla
 tags: ["organization"]
 source_count: 35
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-08-27T11:06:19Z
+last_updated: 2026-09-02T19:00:08Z
 related:
   - (populate via lint)
 ---
@@ -25,15 +25,16 @@ What the corpus does capture is the *substance* behind the credential — the op
 What is *not* in the corpus is any detailed account of Pesce's Mozilla work itself: no sampled source names his dates, role, team, or projects at the company, and none discusses Firefox, Mozilla Foundation governance, or the organization as an institution in its own right. The sampled mozilla-tagged sources are dominated by themes of hyperdistribution, education, AR, and AI — Mozilla functions as biographical shorthand rather than a subject of sustained discussion. Anyone seeking the substance of Pesce's Mozilla era should treat this page as a gap: the corpus documents his open-web *philosophy* (which the credential evokes) but not his Mozilla *employment* in detail.
 
 ## Key Facts
-- [[sources/ala-wav]] — ALA.wav
-- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]] — VR Creative Cluster Mark Pesce 9 Aug video1.MP4
 - [[sources/sca-wav]] — SCA.wav
 - [[sources/4-02-hyperdistribution-mp3]] — 4-02 Hyperdistribution.mp3
 - [[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]] — 1-01 _The Kids are Alright_ - Kincoppal-Rose Bay School.mp3
 - [[sources/pollenizerpodcast-20100728-1-mp3]] — PollenizerPodcast-20100728 (1).mp3
 - [[sources/pollenizerpodcast-20100728-mp3]] — PollenizerPodcast-20100728.mp3
 - [[sources/thenextbillionsecondsineducation-1sep11-wav]] — TheNextBillionSecondsInEducation-1Sep11.wav
+- [[sources/ala-wav]] — ALA.wav
 - [[sources/new-cities-new-economies-wav]] — New Cities : New Economies.wav
+- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]] — VR Creative Cluster Mark Pesce 9 Aug video1.MP4
+- [[sources/saatchi-wav]] — Saatchi.wav
 - [[sources/unknown-knowns-31oct19-mp3]] — Unknown Knowns 31Oct19.mp3
 - [[sources/pandemic-time-15may20-small-mp4]] — Pandemic Time 15May20 small.mp4
 - [[sources/pesce-pandemic-time-anu-3ai-15may20-mp4]] — Pesce Pandemic Time ANU 3Ai 15May20.mp4
@@ -45,8 +46,9 @@ What is *not* in the corpus is any detailed account of Pesce's Mozilla work itse
 - [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]] — The No Normal CFO Series NZ 8Jun21.mp4
 - [[sources/mark-pesce-alchemist-23jun21-wav]] — Mark Pesce Alchemist 23Jun21.wav
 - [[sources/arin-2610-internet-transformations-the-ar-dilemm]] — ARIN 2610 Internet Transformations The AR Dilemmas 5Oct21 720p.mp4
-- [[sources/markpesce-hi-mov]] — markpesce_hi.mov
+- [[sources/thefuturists-mp4]] — TheFuturists.mp4
 - [[sources/f13-the-agent-is-using-you-mp4]] — F13_the-agent-is-using-you.mp4
+- [[sources/markpesce-hi-mov]] — markpesce_hi.mov
 - [[sources/1-02-the-poetry-of-wallace-stevens-mp3]] — 1-02 The Poetry of Wallace Stevens.mp3
 - [[sources/a4-repricing-cognition-mp4]] — A4_repricing-cognition.mp4
 - [[sources/a11-ralph-loop-mp4]] — A11_ralph-loop.mp4
@@ -57,8 +59,6 @@ What is *not* in the corpus is any detailed account of Pesce's Mozilla work itse
 - [[sources/fintech-futures-wav]] — Fintech Futures.wav
 - [[sources/just-so-stories-wav]] — Just-So Stories.wav
 - [[sources/digirupt-preview-mp4]] — digirupt-preview.mp4
-- [[sources/thefuturists-mp4]] — TheFuturists.mp4
-- [[sources/saatchi-wav]] — Saatchi.wav
 - [[sources/aija-wav]] — AIJA.wav
 
 ## In the Corpus
@@ -75,15 +75,16 @@ What is *not* in the corpus is any detailed account of Pesce's Mozilla work itse
 
 ## Sources
 
-- [[sources/ala-wav]]
-- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]]
 - [[sources/sca-wav]]
 - [[sources/4-02-hyperdistribution-mp3]]
 - [[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]]
 - [[sources/pollenizerpodcast-20100728-1-mp3]]
 - [[sources/pollenizerpodcast-20100728-mp3]]
 - [[sources/thenextbillionsecondsineducation-1sep11-wav]]
+- [[sources/ala-wav]]
 - [[sources/new-cities-new-economies-wav]]
+- [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]]
+- [[sources/saatchi-wav]]
 - [[sources/unknown-knowns-31oct19-mp3]]
 - [[sources/pandemic-time-15may20-small-mp4]]
 - [[sources/pesce-pandemic-time-anu-3ai-15may20-mp4]]
@@ -95,8 +96,9 @@ What is *not* in the corpus is any detailed account of Pesce's Mozilla work itse
 - [[sources/the-no-normal-cfo-series-nz-8jun21-mp4]]
 - [[sources/mark-pesce-alchemist-23jun21-wav]]
 - [[sources/arin-2610-internet-transformations-the-ar-dilemm]]
-- [[sources/markpesce-hi-mov]]
+- [[sources/thefuturists-mp4]]
 - [[sources/f13-the-agent-is-using-you-mp4]]
+- [[sources/markpesce-hi-mov]]
 - [[sources/1-02-the-poetry-of-wallace-stevens-mp3]]
 - [[sources/a4-repricing-cognition-mp4]]
 - [[sources/a11-ralph-loop-mp4]]
@@ -107,6 +109,4 @@ What is *not* in the corpus is any detailed account of Pesce's Mozilla work itse
 - [[sources/fintech-futures-wav]]
 - [[sources/just-so-stories-wav]]
 - [[sources/digirupt-preview-mp4]]
-- [[sources/thefuturists-mp4]]
-- [[sources/saatchi-wav]]
 - [[sources/aija-wav]]
