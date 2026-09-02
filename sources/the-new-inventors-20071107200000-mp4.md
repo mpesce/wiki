@@ -5,7 +5,7 @@ title: The New Inventors-20071107200000.mp4
 drive_id: 1uuy7rB48I6K9Td9ZQMEyCs1-EVpBtb8I
 source_link: https://drive.google.com/file/d/1uuy7rB48I6K9Td9ZQMEyCs1-EVpBtb8I/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-11-07
 tags: ["abc", "alison-page", "broadcast", "chris-russell", "the-new-inventors", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

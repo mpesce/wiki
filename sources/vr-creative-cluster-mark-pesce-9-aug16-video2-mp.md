@@ -5,7 +5,7 @@ title: VR Creative Cluster Mark Pesce 9 Aug16 video2.MP4
 drive_id: 1kOBT4c2VFV4zFoF-HmSPKTqyS7tSd6Ee
 source_link: https://drive.google.com/file/d/1kOBT4c2VFV4zFoF-HmSPKTqyS7tSd6Ee/view?usp=drivesdk
 type: interview
-date: 1991
+date: 2016
 tags: ["ar", "content-creation", "education", "google", "mark-pesce", "pokemon-go", "the-future", "virtual-reality", "vr"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

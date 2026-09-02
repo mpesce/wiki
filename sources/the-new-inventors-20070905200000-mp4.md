@@ -5,7 +5,7 @@ title: The New Inventors-20070905200000.mp4
 drive_id: 1ofcURCLZ0ugFpZneTNUx11eCFMTiHQJJ
 source_link: https://drive.google.com/file/d/1ofcURCLZ0ugFpZneTNUx11eCFMTiHQJJ/view?usp=drivesdk
 type: panel
-date: 2020
+date: 2007-09-05
 tags: ["alison-page", "james-ologhlin", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

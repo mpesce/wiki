@@ -5,7 +5,7 @@ title: ALA.wav
 drive_id: 1cYD1ES9CeHZMAAZymcUlalZjq0QTxY2z
 source_link: https://drive.google.com/file/d/1cYD1ES9CeHZMAAZymcUlalZjq0QTxY2z/view?usp=drivesdk
 type: news
-date: 1989
+date: 2016
 tags: ["3d", "apple", "ivan-sutherland", "mark-pesce", "microsoft", "mozilla", "virtual-reality", "vr", "vrml", "world-wide-web"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

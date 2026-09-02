@@ -5,7 +5,7 @@ title: The New Inventors-20070228195900.mp4
 drive_id: 1huiPngx_Pw3y8PSEoawtcQ4l8amRJ-U_
 source_link: https://drive.google.com/file/d/1huiPngx_Pw3y8PSEoawtcQ4l8amRJ-U_/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-02-28
 tags: ["abc", "alison-page", "bernie-hobbs", "chris-russell", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

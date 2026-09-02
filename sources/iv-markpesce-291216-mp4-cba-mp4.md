@@ -5,7 +5,7 @@ title: iv_MarkPesce_291216_mp4_cba.mp4
 drive_id: 1K4_tI8OGZSfAJJnt-XkY27ht2FZQSero
 source_link: https://drive.google.com/file/d/1K4_tI8OGZSfAJJnt-XkY27ht2FZQSero/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2016-12-29
 tags: ["mark-pesce", "pokemon-go", "virtual-reality", "vr"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

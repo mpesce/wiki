@@ -5,7 +5,7 @@ title: The New Inventors-20090923200000.mp4
 drive_id: 1r4p-qsJvKtPhWZCpqANo5dk7FEJlDqzC
 source_link: https://drive.google.com/file/d/1r4p-qsJvKtPhWZCpqANo5dk7FEJlDqzC/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-09-23
 tags: ["broadcast", "fiona-wood", "james-ologhlin", "mark-pesce", "sally-deminks", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

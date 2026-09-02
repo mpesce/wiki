@@ -5,7 +5,7 @@ title: The New Inventors-20070919200000.mp4
 drive_id: 13zCZmXaIlhXp3bAtWlAsAPDN1YZL_vYD
 source_link: https://drive.google.com/file/d/13zCZmXaIlhXp3bAtWlAsAPDN1YZL_vYD/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-09-19
 tags: ["alison-page", "chris-russell", "james-ologhlin", "the-new-inventors", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

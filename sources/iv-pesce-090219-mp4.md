@@ -5,7 +5,7 @@ title: iv_Pesce_090219.mp4
 drive_id: 1ojHNHr9iyetexS1HHK282aSJHB8w4US6
 source_link: https://drive.google.com/file/d/1ojHNHr9iyetexS1HHK282aSJHB8w4US6/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2019-02-09
 tags: ["broadcast", "identity", "mark-pesce", "trust"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

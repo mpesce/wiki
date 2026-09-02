@@ -5,7 +5,7 @@ title: The New Inventors-20070606200000.mp4
 drive_id: 17QrTi2TrHS34ElTDpMMeYOcfxGVF9Y6I
 source_link: https://drive.google.com/file/d/17QrTi2TrHS34ElTDpMMeYOcfxGVF9Y6I/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-06-06
 tags: ["chris-russell", "james-ologhlin", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

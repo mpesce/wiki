@@ -5,7 +5,7 @@ title: IAG.m4a
 drive_id: 1RINl7sInhv2qw6ycSZgaKJmJK5yQzfUR
 source_link: https://drive.google.com/file/d/1RINl7sInhv2qw6ycSZgaKJmJK5yQzfUR/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2017
 tags: ["blockchain", "mark-pesce", "peer-to-peer", "the-future"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

@@ -5,7 +5,7 @@ title: The New Inventors-20091111200000.mp4
 drive_id: 1RY0eDlgGUY9uix4Ga3VxpUZaUyakYHy2
 source_link: https://drive.google.com/file/d/1RY0eDlgGUY9uix4Ga3VxpUZaUyakYHy2/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-11-11
 tags: ["bernie-hobbs", "broadcast", "james-ologhlin", "richard-vaughan", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

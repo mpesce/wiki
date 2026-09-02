@@ -5,7 +5,7 @@ title: D7_second-best-model.mp4
 drive_id: 1UNq2poCXy2PoCWn5vQID-jPRV42EhYNB
 source_link: https://drive.google.com/file/d/1UNq2poCXy2PoCWn5vQID-jPRV42EhYNB/view?usp=drivesdk
 type: clip
-date: unknown
+date: 2025
 tags: []
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

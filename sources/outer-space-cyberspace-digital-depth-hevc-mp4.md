@@ -5,7 +5,7 @@ title: Outer Space Cyberspace Digital Depth HEVC.mp4
 drive_id: 193t-gG6icE1lSXA0xYAI6-OydG-F2_h8
 source_link: https://drive.google.com/file/d/193t-gG6icE1lSXA0xYAI6-OydG-F2_h8/view?usp=drivesdk
 type: news
-date: 2020
+date: 2016
 tags: ["apple", "ar", "facebook", "ivan-sutherland", "mark-pesce", "microsoft", "narrative", "pokemon-go", "virtual-reality"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

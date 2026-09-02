@@ -5,7 +5,7 @@ title: RadianceMarkVocal050403.mp3
 drive_id: 1IXYNDHMKq2VJKiBDpbd1yOJNayKGoK0Q
 source_link: https://drive.google.com/file/d/1IXYNDHMKq2VJKiBDpbd1yOJNayKGoK0Q/view?usp=drivesdk
 type: talk
-date: unknown
+date: 2003-04-05
 tags: ["true-hallucinations"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

@@ -5,7 +5,7 @@ title: PTAANZ2.mp3
 drive_id: 1URlqVnFbMYUDyLcSGUuls6wchrCqrG3F
 source_link: https://drive.google.com/file/d/1URlqVnFbMYUDyLcSGUuls6wchrCqrG3F/view?usp=drivesdk
 type: keynote
-date: unknown
+date: 2020
 tags: ["mark-pesce", "the-future"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

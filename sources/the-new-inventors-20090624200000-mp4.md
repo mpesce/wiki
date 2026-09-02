@@ -5,7 +5,7 @@ title: The New Inventors-20090624200000.mp4
 drive_id: 1PGPzSq8ekz2rrhBVeQWX3qG9lDzm_T9w
 source_link: https://drive.google.com/file/d/1PGPzSq8ekz2rrhBVeQWX3qG9lDzm_T9w/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-06-24
 tags: ["alison-page", "fiona-wood", "james-bradfield-moody", "james-ologhlin", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

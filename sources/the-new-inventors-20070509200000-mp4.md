@@ -5,7 +5,7 @@ title: The New Inventors-20070509200000.mp4
 drive_id: 1sWPKnyjqkhpTL4yrg_ol3JWsjKC2Bzn_
 source_link: https://drive.google.com/file/d/1sWPKnyjqkhpTL4yrg_ol3JWsjKC2Bzn_/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-05-09
 tags: ["james-ologhlin", "mark-pesce", "richard-vaughan", "the-new-inventors", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

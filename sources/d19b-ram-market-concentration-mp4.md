@@ -5,7 +5,7 @@ title: D19b_ram-market-concentration.mp4
 drive_id: 16yx_iFDqzfaR9BcGql9dMbOA2ZgtHZ72
 source_link: https://drive.google.com/file/d/16yx_iFDqzfaR9BcGql9dMbOA2ZgtHZ72/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2025
 tags: ["mark-pesce"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

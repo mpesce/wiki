@@ -5,7 +5,7 @@ title: The New Inventors-20081029200000.mp4
 drive_id: 1OTlLGJ5WYymDCYVVpHfgfOI0a0jgrmKX
 source_link: https://drive.google.com/file/d/1OTlLGJ5WYymDCYVVpHfgfOI0a0jgrmKX/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2008-10-29
 tags: ["bernie-hobbs", "chris-russell", "james-ologhlin", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

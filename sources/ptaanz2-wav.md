@@ -5,7 +5,7 @@ title: PTAANZ2.wav
 drive_id: 19XJOu5e_uqLFDv7704KhOYdXr-kQdQKG
 source_link: https://drive.google.com/file/d/19XJOu5e_uqLFDv7704KhOYdXr-kQdQKG/view?usp=drivesdk
 type: keynote
-date: unknown
+date: 2020
 tags: ["mark-pesce", "remote-work"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

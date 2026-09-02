@@ -5,7 +5,7 @@ title: The New Inventors-20090225200000.mp4
 drive_id: 1aaAWI-hVpkj8vWqFCd8qAMVhhrmeskZ0
 source_link: https://drive.google.com/file/d/1aaAWI-hVpkj8vWqFCd8qAMVhhrmeskZ0/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2009-02-25
 tags: ["abc", "bernie-hobbs", "james-bradfield-moody", "james-ologhlin", "richard-vaughan", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

@@ -5,7 +5,7 @@ title: D3a_formal-methods-question.mp4
 drive_id: 1TMP8u5J11GkhFKHJ3UydX4_6DlGlmJay
 source_link: https://drive.google.com/file/d/1TMP8u5J11GkhFKHJ3UydX4_6DlGlmJay/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2025
 tags: ["artificial-intelligence", "mark-pesce", "the-future", "trust"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

@@ -5,7 +5,7 @@ title: D14_ai-in-practice-governance.mp4
 drive_id: 10quKjMZz6VuQpzPBm8W5Ik81GNhan8Wf
 source_link: https://drive.google.com/file/d/10quKjMZz6VuQpzPBm8W5Ik81GNhan8Wf/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2025
 tags: ["mark-pesce"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

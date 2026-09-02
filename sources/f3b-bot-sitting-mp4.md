@@ -5,7 +5,7 @@ title: F3B_bot-sitting.mp4
 drive_id: 1Qk4lGNgHwuAwVAilNu0sT46223r4s1Hb
 source_link: https://drive.google.com/file/d/1Qk4lGNgHwuAwVAilNu0sT46223r4s1Hb/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2026
 tags: ["artificial-intelligence"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

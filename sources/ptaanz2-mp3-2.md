@@ -5,7 +5,7 @@ title: PTAANZ2.mp3
 drive_id: 10n9mPuBfdxE7zOfM4UNSGk8_2DRSkybZ
 source_link: https://drive.google.com/file/d/10n9mPuBfdxE7zOfM4UNSGk8_2DRSkybZ/view?usp=drivesdk
 type: keynote
-date: unknown
+date: 2020
 tags: ["mark-pesce", "remote-work", "the-future"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

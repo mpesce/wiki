@@ -5,7 +5,7 @@ title: The New Inventors-20081126200000.mp4
 drive_id: 1f08Z0lmljvxG4V-DhTRtOkXaXQkfAfmd
 source_link: https://drive.google.com/file/d/1f08Z0lmljvxG4V-DhTRtOkXaXQkfAfmd/view?usp=drivesdk
 type: panel
-date: 2008
+date: 2008-11-26
 tags: ["alison-page", "chris-russell", "james-ologhlin"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

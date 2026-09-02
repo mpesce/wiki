@@ -5,7 +5,7 @@ title: The New Inventors-20090708200000.mp4
 drive_id: 1PodQHYcE2sP7KR1EtzOpQG3rNcKIF5Np
 source_link: https://drive.google.com/file/d/1PodQHYcE2sP7KR1EtzOpQG3rNcKIF5Np/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-07-08
 tags: ["broadcast", "james-ologhlin", "mark-pesce", "richard-vaughan", "sally-deminks", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

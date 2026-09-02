@@ -5,7 +5,7 @@ title: The New Inventors-20071024200000.mp4
 drive_id: 1dGW2nTLw10xF1GSvAUTirdGOjmIH3NT3
 source_link: https://drive.google.com/file/d/1dGW2nTLw10xF1GSvAUTirdGOjmIH3NT3/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-10-24
 tags: ["broadcast", "chris-russell", "james-ologhlin", "richard-vaughan", "sally-deminks", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

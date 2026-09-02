@@ -5,7 +5,7 @@ title: D13_thinking-deeper.mp4
 drive_id: 1FSGOoCAnbGerrxdQcZm3TmzEUOn51nb4
 source_link: https://drive.google.com/file/d/1FSGOoCAnbGerrxdQcZm3TmzEUOn51nb4/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2025
 tags: ["mark-pesce"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

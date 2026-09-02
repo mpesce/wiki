@@ -5,7 +5,7 @@ title: singularity_summit.mp4
 drive_id: 1EGMhY4QZt83TmIYhfEdf4UDNUXT1danq
 source_link: https://drive.google.com/file/d/1EGMhY4QZt83TmIYhfEdf4UDNUXT1danq/view?usp=drivesdk
 type: interview
-date: 1997
+date: unknown
 tags: ["connectivity", "mark-pesce", "social-media"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

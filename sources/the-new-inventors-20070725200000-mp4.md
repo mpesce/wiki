@@ -5,7 +5,7 @@ title: The New Inventors-20070725200000.mp4
 drive_id: 1yMQNf9dTz49qTh6ch__HQrEjKIyOcC0Y
 source_link: https://drive.google.com/file/d/1yMQNf9dTz49qTh6ch__HQrEjKIyOcC0Y/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-07-25
 tags: ["alison-page", "innovation", "james-bradfield-moody", "richard-vaughan", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

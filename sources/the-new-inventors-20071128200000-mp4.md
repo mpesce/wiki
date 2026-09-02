@@ -5,7 +5,7 @@ title: The New Inventors-20071128200000.mp4
 drive_id: 1nPGaPqXhO8z3z264aaNJd2lB_FGYokO3
 source_link: https://drive.google.com/file/d/1nPGaPqXhO8z3z264aaNJd2lB_FGYokO3/view?usp=drivesdk
 type: podcast
-date: 2007
+date: 2007-11-28
 tags: ["abc", "bernie-hobbs", "broadcast", "chris-russell", "james-ologhlin", "sally-deminks"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

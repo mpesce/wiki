@@ -5,7 +5,7 @@ title: Sunday.mp3
 drive_id: 12YzNJg-L8byG6RTiTQl7CTlKra8LUERq
 source_link: https://drive.google.com/file/d/12YzNJg-L8byG6RTiTQl7CTlKra8LUERq/view?usp=drivesdk
 type: webinar
-date: unknown
+date: 2001
 tags: ["esalen", "mark-pesce", "networks"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

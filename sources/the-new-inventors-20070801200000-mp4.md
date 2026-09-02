@@ -5,7 +5,7 @@ title: The New Inventors-20070801200000.mp4
 drive_id: 14c6UyJ0C5I0ca-6v533k6GRylxFzAfkZ
 source_link: https://drive.google.com/file/d/14c6UyJ0C5I0ca-6v533k6GRylxFzAfkZ/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-08-01
 tags: ["alison-page", "chris-russell", "james-ologhlin", "richard-vaughan", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

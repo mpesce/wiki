@@ -5,7 +5,7 @@ title: dense-and-thick.mp4
 drive_id: 1OIBd5Lz8ISGmse4qF95aOeQi0bbUiVq3
 source_link: https://drive.google.com/file/d/1OIBd5Lz8ISGmse4qF95aOeQi0bbUiVq3/view?usp=drivesdk
 type: keynote
-date: 1993
+date: unknown
 tags: ["apple", "communication", "connectivity", "mark-pesce", "networks", "participation", "the-future"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

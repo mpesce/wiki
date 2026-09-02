@@ -5,7 +5,7 @@ title: F17_telematics-insurance.mp4
 drive_id: 15I3k8us1HtxUYaTpG0bHSJaOV54L6-2E
 source_link: https://drive.google.com/file/d/15I3k8us1HtxUYaTpG0bHSJaOV54L6-2E/view?usp=drivesdk
 type: lecture
-date: unknown
+date: 2026
 tags: ["artificial-intelligence", "mark-pesce", "trust"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

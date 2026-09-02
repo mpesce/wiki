@@ -5,7 +5,7 @@ title: The New Inventors-20081008200000.mp4
 drive_id: 10k69rKacPoqFM2TZiZ2ujpmJYNM0B43p
 source_link: https://drive.google.com/file/d/10k69rKacPoqFM2TZiZ2ujpmJYNM0B43p/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2008-10-08
 tags: ["broadcast", "james-ologhlin", "the-future", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

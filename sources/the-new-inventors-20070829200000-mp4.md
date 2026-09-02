@@ -5,7 +5,7 @@ title: The New Inventors-20070829200000.mp4
 drive_id: 1LMLbSG0SgdTkkEf_OU57ANd3LW4J04gM
 source_link: https://drive.google.com/file/d/1LMLbSG0SgdTkkEf_OU57ANd3LW4J04gM/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-08-29
 tags: ["alison-page", "chris-russell", "innovation", "james-bradfield-moody", "mark-pesce", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

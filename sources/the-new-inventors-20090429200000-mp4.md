@@ -5,7 +5,7 @@ title: The New Inventors-20090429200000.mp4
 drive_id: 1iXJ9jrz96cRgPGAJQ609BWbSEvrMzxHG
 source_link: https://drive.google.com/file/d/1iXJ9jrz96cRgPGAJQ609BWbSEvrMzxHG/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-04-29
 tags: ["abc", "chris-russell", "james-ologhlin", "the-new-inventors", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

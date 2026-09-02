@@ -5,7 +5,7 @@ title: hypercasting.wmv
 drive_id: 1KJGjrmqVrAmrS_55EE3XRX5Q7LGZHbS2
 source_link: https://drive.google.com/file/d/1KJGjrmqVrAmrS_55EE3XRX5Q7LGZHbS2/view?usp=drivesdk
 type: news
-date: unknown
+date: 2006
 tags: ["content-creation", "google", "mark-pesce", "networks", "peer-to-peer", "social-networks", "the-future"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

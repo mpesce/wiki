@@ -5,7 +5,7 @@ title: TheFuturists.mp4
 drive_id: 10_VBH792-eaRyg3JnJVJ4hHkjp96W_2K
 source_link: https://drive.google.com/file/d/10_VBH792-eaRyg3JnJVJ4hHkjp96W_2K/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2023
 tags: ["artificial-intelligence", "chatgpt", "education", "mark-pesce", "narrative", "podcast"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

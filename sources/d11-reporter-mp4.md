@@ -5,7 +5,7 @@ title: D11_reporter.mp4
 drive_id: 1Lfk49VwwRIsRqGRB9wzYoyJHwGziU8JR
 source_link: https://drive.google.com/file/d/1Lfk49VwwRIsRqGRB9wzYoyJHwGziU8JR/view?usp=drivesdk
 type: news
-date: unknown
+date: 2025
 tags: ["the-future"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

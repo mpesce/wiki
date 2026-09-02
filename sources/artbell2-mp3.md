@@ -5,7 +5,7 @@ title: artbell2.mp3
 drive_id: 1oFbTjI0Zt1ynnOPw4eeY70LqDgDmI8T2
 source_link: https://drive.google.com/file/d/1oFbTjI0Zt1ynnOPw4eeY70LqDgDmI8T2/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2004
 tags: ["artificial-intelligence", "broadcast", "mark-pesce", "mit"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

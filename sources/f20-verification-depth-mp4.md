@@ -5,7 +5,7 @@ title: F20_verification-depth.mp4
 drive_id: 1V2XpCAFk4hJY77gwtwlmSK6qFm4NyRRD
 source_link: https://drive.google.com/file/d/1V2XpCAFk4hJY77gwtwlmSK6qFm4NyRRD/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2026
 tags: ["broadcast", "narrative"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

@@ -5,7 +5,7 @@ title: The New Inventors-20071120200000.mp4
 drive_id: 14qyjrS7n3ua-pENJccmrwYJedx-xwRBo
 source_link: https://drive.google.com/file/d/14qyjrS7n3ua-pENJccmrwYJedx-xwRBo/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-11-20
 tags: ["abc", "bernie-hobbs", "broadcast", "james-bradfield-moody", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

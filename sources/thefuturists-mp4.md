@@ -5,7 +5,7 @@ title: TheFuturists.mp4
 drive_id: 1GRaX7Bv80JkX92uds1QwHUPSnlL9gUSF
 source_link: https://drive.google.com/file/d/1GRaX7Bv80JkX92uds1QwHUPSnlL9gUSF/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2023
 tags: ["apple", "artificial-intelligence", "chatgpt", "education", "mark-pesce", "mozilla", "narrative", "podcast"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

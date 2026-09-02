@@ -5,7 +5,7 @@ title: The New Inventors-20090325200000.mp4
 drive_id: 1qIOnUBJ6ZBVfk7Gir5K83ucRkmFa8z-b
 source_link: https://drive.google.com/file/d/1qIOnUBJ6ZBVfk7Gir5K83ucRkmFa8z-b/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-03-25
 tags: ["abc", "broadcast", "fiona-wood", "james-bradfield-moody", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

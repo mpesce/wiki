@@ -5,7 +5,7 @@ title: D19_memory-gpu-prices.mp4
 drive_id: 1OBTtOALlp2eG-nTf5C1Ktyl0mCNdBH0E
 source_link: https://drive.google.com/file/d/1OBTtOALlp2eG-nTf5C1Ktyl0mCNdBH0E/view?usp=drivesdk
 type: clip
-date: unknown
+date: 2025
 tags: []
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

@@ -5,7 +5,7 @@ title: The New Inventors-20090610200000.mp4
 drive_id: 1vogoWHcQ5YrVyijtP8202xVYSM594B2q
 source_link: https://drive.google.com/file/d/1vogoWHcQ5YrVyijtP8202xVYSM594B2q/view?usp=drivesdk
 type: panel
-date: 2004
+date: 2009-06-10
 tags: ["abc", "broadcast", "james-bradfield-moody", "james-ologhlin", "mark-pesce", "open-source", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

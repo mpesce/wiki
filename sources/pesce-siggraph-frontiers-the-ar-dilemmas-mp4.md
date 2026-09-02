@@ -5,7 +5,7 @@ title: Pesce - SIGGRAPH FRONTIERS - The AR Dilemmas.mp4
 drive_id: 1U99eihnZRMYp5RH5xbpb47vqlNBw5uV1
 source_link: https://drive.google.com/file/d/1U99eihnZRMYp5RH5xbpb47vqlNBw5uV1/view?usp=drivesdk
 type: news
-date: 1994
+date: 2016
 tags: ["3d", "apple", "ar", "attention", "facebook", "google", "ivan-sutherland", "mark-pesce", "microsoft", "pokemon-go", "surveillance", "vrml"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

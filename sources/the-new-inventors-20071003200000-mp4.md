@@ -5,7 +5,7 @@ title: The New Inventors-20071003200000.mp4
 drive_id: 18yCLfbPyZhbdsbmGgcSpaYCE0Bg5YtKw
 source_link: https://drive.google.com/file/d/18yCLfbPyZhbdsbmGgcSpaYCE0Bg5YtKw/view?usp=drivesdk
 type: interview
-date: 2007
+date: 2007-10-03
 tags: ["chris-russell", "mark-pesce", "the-future"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

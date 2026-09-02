@@ -5,7 +5,7 @@ title: artbell5.mp3
 drive_id: 15I7B1hsPE7zQbP-732aKBk0Zxd4KLD-c
 source_link: https://drive.google.com/file/d/15I7B1hsPE7zQbP-732aKBk0Zxd4KLD-c/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2004
 tags: ["artificial-intelligence", "broadcast", "mark-pesce", "storytelling", "the-future"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

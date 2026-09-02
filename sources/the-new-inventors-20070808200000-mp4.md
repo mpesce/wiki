@@ -5,7 +5,7 @@ title: The New Inventors-20070808200000.mp4
 drive_id: 10lQV0cr1Yqm0De4N6Rxa9mkkvpS3PCHb
 source_link: https://drive.google.com/file/d/10lQV0cr1Yqm0De4N6Rxa9mkkvpS3PCHb/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-08-08
 tags: ["alignment", "bernie-hobbs", "chris-russell", "james-ologhlin", "richard-vaughan", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

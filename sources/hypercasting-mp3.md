@@ -5,7 +5,7 @@ title: hypercasting.mp3
 drive_id: 1WRjjzxCwKEM3PEBsLIamSGyHV7TSfpT5
 source_link: https://drive.google.com/file/d/1WRjjzxCwKEM3PEBsLIamSGyHV7TSfpT5/view?usp=drivesdk
 type: news
-date: 1994
+date: 2006
 tags: ["content-creation", "digital-distribution", "google", "mark-pesce", "networks", "peer-to-peer", "social-networks"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

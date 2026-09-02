@@ -5,7 +5,7 @@ title: The New Inventors-20090408200000.mp4
 drive_id: 18o0PVYmE-8M8-lNj-4EMemQ11yhvhUMK
 source_link: https://drive.google.com/file/d/18o0PVYmE-8M8-lNj-4EMemQ11yhvhUMK/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-04-08
 tags: ["broadcast", "innovation", "james-ologhlin", "mark-pesce", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

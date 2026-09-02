@@ -5,7 +5,7 @@ title: The New Inventors-20081105200000.mp4
 drive_id: 1BHKojnM7zqXuiYhBmZ2bQpbUrRISa0g2
 source_link: https://drive.google.com/file/d/1BHKojnM7zqXuiYhBmZ2bQpbUrRISa0g2/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2008-11-05
 tags: ["innovation", "james-bradfield-moody", "james-ologhlin", "the-new-inventors", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

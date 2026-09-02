@@ -5,7 +5,7 @@ title: TheWorld13Dec22.mkv.webm
 drive_id: 1wY1-fvZuT6yEFWk8TdgpRl0uY7MCp2Hz
 source_link: https://drive.google.com/file/d/1wY1-fvZuT6yEFWk8TdgpRl0uY7MCp2Hz/view?usp=drivesdk
 type: interview
-date: 1997
+date: 2022-12-13
 tags: ["mark-pesce", "trust"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

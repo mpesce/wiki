@@ -5,7 +5,7 @@ title: The New Inventors-20081015200000.mp4
 drive_id: 1RKJUeGXEJvqkRN2xH5ubI6dGw2c2hJMa
 source_link: https://drive.google.com/file/d/1RKJUeGXEJvqkRN2xH5ubI6dGw2c2hJMa/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2008-10-15
 tags: ["broadcast", "chris-russell", "james-ologhlin", "the-new-inventors", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

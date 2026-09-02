@@ -5,7 +5,7 @@ title: Saturday Afternoon.rm
 drive_id: 1n5eI7MvR7NxCUuoJ6khhjyWuSqIH4VKx
 source_link: https://drive.google.com/file/d/1n5eI7MvR7NxCUuoJ6khhjyWuSqIH4VKx/view?usp=drivesdk
 type: talk
-date: unknown
+date: 2001
 tags: ["erik-davis", "narrative", "npr"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

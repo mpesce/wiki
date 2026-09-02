@@ -5,7 +5,7 @@ title: D2_fog-of-knowability.mp4
 drive_id: 1_hIVuTAt4NynRgaOCR_6gOb2_xvYHtAL
 source_link: https://drive.google.com/file/d/1_hIVuTAt4NynRgaOCR_6gOb2_xvYHtAL/view?usp=drivesdk
 type: clip
-date: unknown
+date: 2025
 tags: ["fog-of-knowability"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

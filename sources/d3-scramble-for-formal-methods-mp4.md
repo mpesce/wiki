@@ -5,7 +5,7 @@ title: D3_scramble-for-formal-methods.mp4
 drive_id: 1Ruu1aKgpTixZ8tHKW-ae2F47DqFHm7vy
 source_link: https://drive.google.com/file/d/1Ruu1aKgpTixZ8tHKW-ae2F47DqFHm7vy/view?usp=drivesdk
 type: clip
-date: unknown
+date: 2025
 tags: ["trust"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

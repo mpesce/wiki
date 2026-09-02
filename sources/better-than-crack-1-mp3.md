@@ -5,7 +5,7 @@ title: Better-Than-Crack (1).mp3
 drive_id: 1WYNIHI0mM0rfADjJXCj6YajxXnhRIqkO
 source_link: https://drive.google.com/file/d/1WYNIHI0mM0rfADjJXCj6YajxXnhRIqkO/view?usp=drivesdk
 type: interview
-date: 1993
+date: unknown
 tags: ["connectivity", "mark-pesce", "world-wide-web"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

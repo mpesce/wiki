@@ -5,7 +5,7 @@ title: Citi.wav
 drive_id: 1l9dYfaDWT3E8CilSk6ZuYjicEhYyFs2H
 source_link: https://drive.google.com/file/d/1l9dYfaDWT3E8CilSk6ZuYjicEhYyFs2H/view?usp=drivesdk
 type: keynote
-date: unknown
+date: 2019
 tags: ["artificial-intelligence", "education", "facebook", "libra", "mark-pesce", "the-future", "the-next-billion-seconds"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

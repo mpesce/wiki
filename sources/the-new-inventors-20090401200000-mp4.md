@@ -5,7 +5,7 @@ title: The New Inventors-20090401200000.mp4
 drive_id: 1U1KCI3nDb8C2uDz1Wx97chQcOHbsVPBc
 source_link: https://drive.google.com/file/d/1U1KCI3nDb8C2uDz1Wx97chQcOHbsVPBc/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-04-01
 tags: ["bernie-hobbs", "connectivity", "fiona-wood", "james-ologhlin", "mark-pesce", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

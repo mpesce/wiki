@@ -5,7 +5,7 @@ title: The New Inventors-20090218200000.mp4
 drive_id: 19jA12aHOAGxYcAT7MnLR4fI9AHnIUgY7
 source_link: https://drive.google.com/file/d/19jA12aHOAGxYcAT7MnLR4fI9AHnIUgY7/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-02-18
 tags: ["abc", "alison-page", "bernie-hobbs", "chris-russell", "james-ologhlin", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

@@ -5,7 +5,7 @@ title: The New Inventors-20090722200000.mp4
 drive_id: 1gzxhHnn0CBxjWhd2Ut4pB-npj-RiRZ16
 source_link: https://drive.google.com/file/d/1gzxhHnn0CBxjWhd2Ut4pB-npj-RiRZ16/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-07-22
 tags: ["abc", "broadcast", "chris-russell", "james-ologhlin", "mark-pesce", "the-future", "the-new-inventors", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

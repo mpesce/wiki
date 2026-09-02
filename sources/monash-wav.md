@@ -5,7 +5,7 @@ title: Monash.wav
 drive_id: 1RucGYudGgk9sBjNrH9w_DrnlyyjqOtFx
 source_link: https://drive.google.com/file/d/1RucGYudGgk9sBjNrH9w_DrnlyyjqOtFx/view?usp=drivesdk
 type: podcast
-date: unknown
+date: 2016
 tags: ["communication", "mark-pesce", "monash", "participation", "the-new-inventors", "virtual-reality", "vr", "vrml", "webgl", "wired"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

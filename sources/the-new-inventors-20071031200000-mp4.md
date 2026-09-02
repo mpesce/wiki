@@ -5,7 +5,7 @@ title: The New Inventors-20071031200000.mp4
 drive_id: 1kHVXuQzApVnyrCvXNpa2AMlUYo-nNYqE
 source_link: https://drive.google.com/file/d/1kHVXuQzApVnyrCvXNpa2AMlUYo-nNYqE/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-10-31
 tags: ["abc", "alison-page", "chris-russell", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

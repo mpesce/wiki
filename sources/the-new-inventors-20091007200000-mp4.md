@@ -5,7 +5,7 @@ title: The New Inventors-20091007200000.mp4
 drive_id: 14mJJ9EX_htqUMOcGKeQ0pJqub_d7-lsR
 source_link: https://drive.google.com/file/d/14mJJ9EX_htqUMOcGKeQ0pJqub_d7-lsR/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-10-07
 tags: ["james-bradfield-moody", "james-ologhlin", "mark-pesce", "social-media", "the-new-inventors", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

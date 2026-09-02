@@ -5,7 +5,7 @@ title: The New Inventors-20091028200000.mp4
 drive_id: 1cfUXSmVzuDDpgY7fWQmGvDfAveOOUtOU
 source_link: https://drive.google.com/file/d/1cfUXSmVzuDDpgY7fWQmGvDfAveOOUtOU/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-10-28
 tags: ["abc", "bernie-hobbs", "james-bradfield-moody"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

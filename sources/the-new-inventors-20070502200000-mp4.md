@@ -5,7 +5,7 @@ title: The New Inventors-20070502200000.mp4
 drive_id: 1O_jWg2uUXCDhsWK91upo8t_XXthBl3hI
 source_link: https://drive.google.com/file/d/1O_jWg2uUXCDhsWK91upo8t_XXthBl3hI/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-05-02
 tags: ["alison-page", "chris-russell", "richard-vaughan", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

@@ -5,7 +5,7 @@ title: The New Inventors-20091104200000.mp4
 drive_id: 1kqT6604JBWjNKuoAtHYpkFc1TIkU87pV
 source_link: https://drive.google.com/file/d/1kqT6604JBWjNKuoAtHYpkFc1TIkU87pV/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-11-04
 tags: ["alison-page", "james-bradfield-moody", "mark-pesce", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

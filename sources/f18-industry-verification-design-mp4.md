@@ -5,7 +5,7 @@ title: F18_industry-verification-design.mp4
 drive_id: 1Ke7Q2z-EerrcPaZPQYASv-4pf8UbNT8H
 source_link: https://drive.google.com/file/d/1Ke7Q2z-EerrcPaZPQYASv-4pf8UbNT8H/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2026
 tags: ["narrative", "verification-design"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

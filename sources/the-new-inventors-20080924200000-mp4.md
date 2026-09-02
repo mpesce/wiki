@@ -5,7 +5,7 @@ title: The New Inventors-20080924200000.mp4
 drive_id: 1iELpWMmpdZDcdVRcht2WhsnOuke_y8b9
 source_link: https://drive.google.com/file/d/1iELpWMmpdZDcdVRcht2WhsnOuke_y8b9/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2008-09-24
 tags: ["alison-page", "broadcast", "chris-russell", "james-ologhlin", "richard-vaughan", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

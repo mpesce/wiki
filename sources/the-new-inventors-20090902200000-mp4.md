@@ -5,7 +5,7 @@ title: The New Inventors-20090902200000.mp4
 drive_id: 1wYIt9dcpNXfA50mUc1gIxNdQVdTf_ILk
 source_link: https://drive.google.com/file/d/1wYIt9dcpNXfA50mUc1gIxNdQVdTf_ILk/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-09-02
 tags: ["alison-page", "chris-russell", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

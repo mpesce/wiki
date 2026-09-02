@@ -5,7 +5,7 @@ title: The New Inventors-20070912200000.mp4
 drive_id: 18D_3Yna_zuy3j7mZjDN1QGemfvnQRfSV
 source_link: https://drive.google.com/file/d/18D_3Yna_zuy3j7mZjDN1QGemfvnQRfSV/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-09-12
 tags: ["bernie-hobbs", "james-bradfield-moody", "richard-vaughan", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

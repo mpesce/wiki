@@ -5,7 +5,7 @@ title: Saturday Morning.mp3
 drive_id: 1JPjF9V_91I4m7ZGJo9e6ZC00rixV68fI
 source_link: https://drive.google.com/file/d/1JPjF9V_91I4m7ZGJo9e6ZC00rixV68fI/view?usp=drivesdk
 type: news
-date: 1996
+date: 2001
 tags: ["attention", "mark-pesce", "open-source"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

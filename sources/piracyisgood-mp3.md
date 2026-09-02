@@ -5,7 +5,7 @@ title: piracyisgood.mp3
 drive_id: 1Xvgb0fTfpaJxvo6JoqJvoDSBLSv3BOUE
 source_link: https://drive.google.com/file/d/1Xvgb0fTfpaJxvo6JoqJvoDSBLSv3BOUE/view?usp=drivesdk
 type: podcast
-date: unknown
+date: 2004
 tags: ["battlestar-galactica", "broadcast", "hyperdistribution", "mark-pesce", "networks"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

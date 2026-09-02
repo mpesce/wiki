@@ -5,7 +5,7 @@ title: The New Inventors-20090909200000.mp4
 drive_id: 1OAlkMRqwqdmIhgtY47nXtHvkg6BBHjt0
 source_link: https://drive.google.com/file/d/1OAlkMRqwqdmIhgtY47nXtHvkg6BBHjt0/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-09-09
 tags: ["bernie-hobbs", "broadcast", "james-bradfield-moody", "james-ologhlin", "mark-pesce", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

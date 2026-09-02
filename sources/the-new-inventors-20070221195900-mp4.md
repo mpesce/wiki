@@ -5,7 +5,7 @@ title: The New Inventors-20070221195900.mp4
 drive_id: 1XNPeFJaChaXuaDlWMfU5ASM2netq4gRT
 source_link: https://drive.google.com/file/d/1XNPeFJaChaXuaDlWMfU5ASM2netq4gRT/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-02-21
 tags: ["chris-russell", "james-ologhlin", "sally-deminks", "the-new-inventors", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

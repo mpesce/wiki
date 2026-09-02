@@ -5,7 +5,7 @@ title: The New Inventors-20071114200000.mp4
 drive_id: 1BZil75JuANLXTm6wgiqWfnzT7kwDbIRx
 source_link: https://drive.google.com/file/d/1BZil75JuANLXTm6wgiqWfnzT7kwDbIRx/view?usp=drivesdk
 type: interview
-date: 2007
+date: 2007-11-14
 tags: ["abc", "broadcast", "connectivity", "education", "radio-national"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

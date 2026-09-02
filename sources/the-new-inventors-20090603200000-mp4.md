@@ -5,7 +5,7 @@ title: The New Inventors-20090603200000.mp4
 drive_id: 14JEt-JHGfeL_IYEK3-8Rkgg0CP5berqx
 source_link: https://drive.google.com/file/d/14JEt-JHGfeL_IYEK3-8Rkgg0CP5berqx/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-06-03
 tags: ["alison-page", "broadcast", "chris-russell", "james-ologhlin", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

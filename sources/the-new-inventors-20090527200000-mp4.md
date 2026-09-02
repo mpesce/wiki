@@ -5,7 +5,7 @@ title: The New Inventors-20090527200000.mp4
 drive_id: 1oXdFVOiODxwLtkzLRNZt0k7oU-gpr9En
 source_link: https://drive.google.com/file/d/1oXdFVOiODxwLtkzLRNZt0k7oU-gpr9En/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-05-27
 tags: ["broadcast", "james-ologhlin", "mark-pesce", "sally-deminks", "the-new-inventors", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

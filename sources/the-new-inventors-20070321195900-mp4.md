@@ -5,7 +5,7 @@ title: The New Inventors-20070321195900.mp4
 drive_id: 19om3AMk_vi6ABvUy1C7xVYz1hq_qRsxQ
 source_link: https://drive.google.com/file/d/19om3AMk_vi6ABvUy1C7xVYz1hq_qRsxQ/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-03-21
 tags: ["abc", "alison-page", "broadcast", "chris-russell", "james-ologhlin", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

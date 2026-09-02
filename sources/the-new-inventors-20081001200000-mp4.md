@@ -5,7 +5,7 @@ title: The New Inventors-20081001200000.mp4
 drive_id: 1QtmBgIfvTAv6hcO-dSNASraTIBb2OTW3
 source_link: https://drive.google.com/file/d/1QtmBgIfvTAv6hcO-dSNASraTIBb2OTW3/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2008-10-01
 tags: ["abc", "alison-page", "bernie-hobbs", "broadcast", "identity", "james-bradfield-moody", "james-ologhlin", "the-new-inventors", "the-swarm"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

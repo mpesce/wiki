@@ -5,7 +5,7 @@ title: The New Inventors-20070926200000.mp4
 drive_id: 1bklD-Cg_AmAm_G-lDFcyFNri_qKeUG6N
 source_link: https://drive.google.com/file/d/1bklD-Cg_AmAm_G-lDFcyFNri_qKeUG6N/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-09-26
 tags: ["chris-russell", "richard-vaughan", "sally-deminks", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

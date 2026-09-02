@@ -5,7 +5,7 @@ title: The New Inventors-20090304200000.mp4
 drive_id: 16h5tndWq5z1W5e-BGmTuTjhsYKarmEKp
 source_link: https://drive.google.com/file/d/16h5tndWq5z1W5e-BGmTuTjhsYKarmEKp/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-03-04
 tags: ["abc", "alison-page", "broadcast", "chris-russell", "james-ologhlin", "veena-sahajwala", "wired"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

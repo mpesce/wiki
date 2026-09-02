@@ -5,7 +5,7 @@ title: OzWater.wav
 drive_id: 1aiodh1OalvRXhCr0srbhliaEAGiH3BbC
 source_link: https://drive.google.com/file/d/1aiodh1OalvRXhCr0srbhliaEAGiH3BbC/view?usp=drivesdk
 type: keynote
-date: unknown
+date: 2017
 tags: ["abc", "artificial-intelligence", "mark-pesce", "open-source", "podcast", "the-future", "the-next-billion-seconds", "world-wide-web"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

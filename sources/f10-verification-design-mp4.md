@@ -5,7 +5,7 @@ title: F10_verification-design.mp4
 drive_id: 1_7HTzU0MhcstOtRCLWGDOBeLi7ofLJUX
 source_link: https://drive.google.com/file/d/1_7HTzU0MhcstOtRCLWGDOBeLi7ofLJUX/view?usp=drivesdk
 type: news
-date: unknown
+date: 2026
 tags: ["agentic", "agentic-systems", "trust", "verification-design"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

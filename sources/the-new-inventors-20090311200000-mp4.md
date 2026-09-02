@@ -5,7 +5,7 @@ title: The New Inventors-20090311200000.mp4
 drive_id: 1yE7zFjqH1jR56oiuRWtq5H1I8x8bBf1V
 source_link: https://drive.google.com/file/d/1yE7zFjqH1jR56oiuRWtq5H1I8x8bBf1V/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-03-11
 tags: ["abc", "broadcast", "james-ologhlin", "richard-vaughan", "sally-deminks", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

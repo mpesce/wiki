@@ -5,7 +5,7 @@ title: F17-F19_insurance-thesis-combo.mp4
 drive_id: 1sOmlG_NYdS3Qoe4fJ67eMwLhDpAZIIjK
 source_link: https://drive.google.com/file/d/1sOmlG_NYdS3Qoe4fJ67eMwLhDpAZIIjK/view?usp=drivesdk
 type: lecture
-date: unknown
+date: 2026
 tags: ["mark-pesce", "the-future", "trust", "verification-design"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

@@ -5,7 +5,7 @@ title: BiosAndLogos.mp3
 drive_id: 1MiAEl7YzDJS8K72VxeJRAoygO2GWuZYN
 source_link: https://drive.google.com/file/d/1MiAEl7YzDJS8K72VxeJRAoygO2GWuZYN/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2013
 tags: ["communication", "mark-pesce", "terence-mckenna"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

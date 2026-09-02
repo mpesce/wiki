@@ -5,7 +5,7 @@ title: The New Inventors-20090826200000.mp4
 drive_id: 1o6raVSR4JWFB3WB0WF7c7DGHuUkqRRAk
 source_link: https://drive.google.com/file/d/1o6raVSR4JWFB3WB0WF7c7DGHuUkqRRAk/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-08-26
 tags: ["abc", "alison-page", "fiona-wood", "james-ologhlin", "mark-pesce", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

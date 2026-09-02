@@ -5,7 +5,7 @@ title: The New Inventors-20090318200000.mp4
 drive_id: 1UHHONSMbZnkS4KJDrC3zmoWuJKarg94O
 source_link: https://drive.google.com/file/d/1UHHONSMbZnkS4KJDrC3zmoWuJKarg94O/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-03-18
 tags: ["bernie-hobbs", "chris-russell", "james-ologhlin", "sally-deminks", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

@@ -5,7 +5,7 @@ title: D17_cost-of-not-being-thorough.mp4
 drive_id: 1sfVw5yZAKz_EEfzuukXpk4mH8MbRYuVT
 source_link: https://drive.google.com/file/d/1sfVw5yZAKz_EEfzuukXpk4mH8MbRYuVT/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2025
 tags: []
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

@@ -5,7 +5,7 @@ title: The New Inventors-20090422200000.mp4
 drive_id: 1eBL6CVGZLE7MLnJcZsngMjcxCiCOZAwt
 source_link: https://drive.google.com/file/d/1eBL6CVGZLE7MLnJcZsngMjcxCiCOZAwt/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2009-04-22
 tags: ["abc", "broadcast", "james-ologhlin", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

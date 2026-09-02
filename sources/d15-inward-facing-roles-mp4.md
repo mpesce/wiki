@@ -5,7 +5,7 @@ title: D15_inward-facing-roles.mp4
 drive_id: 1b4IDNr1XZBR-3-GKwhAHDlHRdHuysfbT
 source_link: https://drive.google.com/file/d/1b4IDNr1XZBR-3-GKwhAHDlHRdHuysfbT/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2025
 tags: ["mark-pesce"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

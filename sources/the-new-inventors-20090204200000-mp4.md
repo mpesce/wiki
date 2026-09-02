@@ -5,7 +5,7 @@ title: The New Inventors-20090204200000.mp4
 drive_id: 1YU_ozvVOPDwtbMznbKMTI-x6UoNy1idA
 source_link: https://drive.google.com/file/d/1YU_ozvVOPDwtbMznbKMTI-x6UoNy1idA/view?usp=drivesdk
 type: panel
-date: 2009
+date: 2009-02-04
 tags: ["abc", "alison-page", "chris-russell", "innovation", "james-ologhlin", "mark-pesce", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

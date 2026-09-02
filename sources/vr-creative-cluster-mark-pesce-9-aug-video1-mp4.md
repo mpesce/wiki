@@ -5,7 +5,7 @@ title: VR Creative Cluster Mark Pesce 9 Aug video1.MP4
 drive_id: 1L5a3e40pEq8Lo3e8Ghh7_zcA7-55o2sq
 source_link: https://drive.google.com/file/d/1L5a3e40pEq8Lo3e8Ghh7_zcA7-55o2sq/view?usp=drivesdk
 type: podcast
-date: 1991
+date: 2016
 tags: ["3d", "apple", "mark-pesce", "mozilla", "tony-parisi", "virtual-reality", "vr", "vrml", "webgl", "world-wide-web"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

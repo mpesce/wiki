@@ -5,7 +5,7 @@ title: The New Inventors-20070404195900.mp4
 drive_id: 1TFhfum5oyR4FLmplYQ56kOoqK3YF7SpW
 source_link: https://drive.google.com/file/d/1TFhfum5oyR4FLmplYQ56kOoqK3YF7SpW/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-04-04
 tags: ["chris-russell", "sally-deminks", "the-new-inventors", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

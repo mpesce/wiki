@@ -5,7 +5,7 @@ title: The New Inventors-20090520200000.mp4
 drive_id: 1a6YjmYSSd_JJq2sov_TLY9Nn808I5rbx
 source_link: https://drive.google.com/file/d/1a6YjmYSSd_JJq2sov_TLY9Nn808I5rbx/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-05-20
 tags: ["bernie-hobbs", "broadcast", "chris-russell", "sally-deminks", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

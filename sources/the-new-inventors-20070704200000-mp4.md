@@ -5,7 +5,7 @@ title: The New Inventors-20070704200000.mp4
 drive_id: 1oNF3WS0SIn0gbxf-XPwjR4C8PbPTPJDm
 source_link: https://drive.google.com/file/d/1oNF3WS0SIn0gbxf-XPwjR4C8PbPTPJDm/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-07-04
 tags: ["bernie-hobbs", "chris-russell", "sally-deminks", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

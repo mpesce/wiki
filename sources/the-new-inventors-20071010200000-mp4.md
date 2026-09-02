@@ -5,7 +5,7 @@ title: The New Inventors-20071010200000.mp4
 drive_id: 1A7sh_SBZkj_Rw1R4cYy-ahME-a1UaJNe
 source_link: https://drive.google.com/file/d/1A7sh_SBZkj_Rw1R4cYy-ahME-a1UaJNe/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-10-10
 tags: ["the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

@@ -5,7 +5,7 @@ title: F12b_optional-control-rods-tail.mp4
 drive_id: 1MpY5KTwOwu7VXf0sKuaxCKQa0JBihmnm
 source_link: https://drive.google.com/file/d/1MpY5KTwOwu7VXf0sKuaxCKQa0JBihmnm/view?usp=drivesdk
 type: talk
-date: unknown
+date: 2026
 tags: []
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

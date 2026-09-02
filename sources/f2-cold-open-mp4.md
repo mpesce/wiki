@@ -5,7 +5,7 @@ title: F2_cold-open.mp4
 drive_id: 1rFPUMdkRG1XbANEy-728Wx1LC9GubyyP
 source_link: https://drive.google.com/file/d/1rFPUMdkRG1XbANEy-728Wx1LC9GubyyP/view?usp=drivesdk
 type: clip
-date: unknown
+date: 2026
 tags: ["agentic"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

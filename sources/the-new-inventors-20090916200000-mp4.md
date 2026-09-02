@@ -5,7 +5,7 @@ title: The New Inventors-20090916200000.mp4
 drive_id: 15WniCxhZG49O2BBo1G--QyQi3TBnOMKx
 source_link: https://drive.google.com/file/d/15WniCxhZG49O2BBo1G--QyQi3TBnOMKx/view?usp=drivesdk
 type: podcast
-date: unknown
+date: 2009-09-16
 tags: ["attention", "broadcast", "james-ologhlin", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

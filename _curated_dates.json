@@ -1,0 +1,477 @@
+{
+ "piracyisgood-mp3": {
+  "date": "2004",
+  "note": "Battlestar Galactica premiere 18 Oct 2004 + \"before this year is out\" -> late 2004",
+  "mined": "2026-08-28"
+ },
+ "loreto-mp3": {
+  "date": "2018",
+  "note": "\"this is the actual picture of where we are now in 2018\"",
+  "mined": "2026-08-28"
+ },
+ "saatchi-wav": {
+  "date": "2018",
+  "note": "\"In 2018, we're now facing this really unpleasant truth\" (web ad model)",
+  "mined": "2026-08-28"
+ },
+ "supertools-mkv": {
+  "date": "2019",
+  "note": "\"in 2019, this is still something people almost never do in VR\" + 4bn phones in 12 years (2007->2019)",
+  "mined": "2026-08-28"
+ },
+ "planetoftheappsakl-mp4": {
+  "date": "2015",
+  "note": "\"now, in 2015\" + \"by 2020, 60 months from now\"; Uber apps 5 years ago (2010)",
+  "mined": "2026-08-28"
+ },
+ "ozwater-wav": {
+  "date": "2017",
+  "note": "AlphaGo vs Lee Sedol \"just a year ago\" (March 2016)",
+  "mined": "2026-08-28"
+ },
+ "monash-wav": {
+  "date": "2016",
+  "note": "PlayStation VR \"which will happen in October this year\" (Oct 2016)",
+  "mined": "2026-08-28"
+ },
+ "citi-wav": {
+  "date": "2019",
+  "note": "Libra announced \"on the 18th of June this year\" (18 Jun 2019); web 30th anniversary",
+  "mined": "2026-08-28"
+ },
+ "peet-m4a": {
+  "date": "2018",
+  "note": "\"2014 at Google's developer conference, so four years ago\"",
+  "mined": "2026-08-28"
+ },
+ "thefuturists-mp4": {
+  "date": "2023",
+  "note": "ChatGPT (end 2022) and OpenAI API (early 2023) as recent history; Dubai event \"a few weeks from now\"",
+  "mined": "2026-08-28"
+ },
+ "thefuturists-mp4-2": {
+  "date": "2023",
+  "note": "same talk re-upload",
+  "mined": "2026-08-28"
+ },
+ "ptaanz2-mp3": {
+  "date": "2020",
+  "note": "pandemic \"first 10 weeks... March the 23rd, 2020\" still being digested",
+  "mined": "2026-08-28"
+ },
+ "ptaanz2-mp3-2": {
+  "date": "2020",
+  "note": "same talk re-upload",
+  "mined": "2026-08-28"
+ },
+ "ptaanz2-wav": {
+  "date": "2020",
+  "note": "same talk re-upload",
+  "mined": "2026-08-28"
+ },
+ "biosandlogos-mp3": {
+  "date": "2013",
+  "note": "McFadden \"Quantum Evolution\": \"published in America last year [2012], in Britain two years ago [2011]\"",
+  "mined": "2026-08-28"
+ },
+ "iag-m4a": {
+  "date": "2017",
+  "note": "\"Later this year, settlements on the ASX will be done via a blockchain\" (announced 2017)",
+  "mined": "2026-08-28"
+ },
+ "sharingpower-mov": {
+  "date": "2009",
+  "note": "Guardian crowdsources MPs expenses scandal (Nov 2009); \"a year ago\" = 2008 election conference",
+  "mined": "2026-08-28"
+ },
+ "saturday-morning-rm": {
+  "date": "2001",
+  "note": "\"Trilogues for a New Millennium\" 3-day Esalen weekend; McKenna memorial \"last year\" (d. Nov 2000)",
+  "mined": "2026-08-28"
+ },
+ "saturday-afternoon-rm": {
+  "date": "2001",
+  "note": "\"Trilogues for a New Millennium\" 3-day Esalen weekend; McKenna memorial \"last year\" (d. Nov 2000)",
+  "mined": "2026-08-28"
+ },
+ "saturday-afternoon-mp3": {
+  "date": "2001",
+  "note": "\"Trilogues for a New Millennium\" 3-day Esalen weekend; McKenna memorial \"last year\" (d. Nov 2000)",
+  "mined": "2026-08-28"
+ },
+ "sunday-rm": {
+  "date": "2001",
+  "note": "\"Trilogues for a New Millennium\" 3-day Esalen weekend; McKenna memorial \"last year\" (d. Nov 2000)",
+  "mined": "2026-08-28"
+ },
+ "sunday-mp3": {
+  "date": "2001",
+  "note": "\"Trilogues for a New Millennium\" 3-day Esalen weekend; McKenna memorial \"last year\" (d. Nov 2000)",
+  "mined": "2026-08-28"
+ },
+ "saturday-morning-mp3": {
+  "date": "2001",
+  "note": "\"Trilogues for a New Millennium\" 3-day Esalen weekend; McKenna memorial \"last year\" (d. Nov 2000)",
+  "mined": "2026-08-28"
+ },
+ "artbell2-mp3": {
+  "date": "2004",
+  "note": "Kismet/COG era; \"like in 2001\" retrospective (approximate)",
+  "mined": "2026-08-28"
+ },
+ "artbell5-mp3": {
+  "date": "2004",
+  "note": "Majestic \"a new game that's coming out\" (released Nov 2004) (approximate)",
+  "mined": "2026-08-28"
+ },
+ "hownottobeseen-mp4": {
+  "date": "2010",
+  "note": "Plexus + Posterous era (approximate)",
+  "mined": "2026-08-28"
+ },
+ "d1-brighter-than-you-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d10-uninsurable-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d11-reporter-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d12-waze-skynet-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d13-thinking-deeper-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d14-ai-in-practice-governance-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d15-inward-facing-roles-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d17-cost-of-not-being-thorough-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d18-compute-demand-agent-safety-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d19-d18-investor-sequence-combo-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d19-memory-gpu-prices-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d19b-ram-market-concentration-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d2-fog-of-knowability-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d3-scramble-for-formal-methods-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d3a-formal-methods-question-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d4-sticking-it-to-the-agent-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d5-not-firing-the-missiles-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d6-pacemakers-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d7-second-best-model-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d8-hack-comes-from-inside-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "d9-easy-to-be-safe-mp4": {
+  "date": "2025",
+  "note": "AI in Practice D talk: d19 \"that week\" CXMT IPO (China largest ever, Aug 2025)",
+  "mined": "2026-08-28"
+ },
+ "f1-agent-definition-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f10-verification-design-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f11-the-wheel-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f12-supercritical-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f12b-optional-control-rods-tail-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f13-the-agent-is-using-you-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f14-delphic-oracle-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f15-specification-over-code-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f16-set-point-human-signature-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f17-f19-insurance-thesis-combo-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f17-telematics-insurance-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f18-industry-verification-design-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f19-room-on-the-loop-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f2-cold-open-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f20-verification-depth-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f2b-watershed-in-context-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f3a-task-horizon-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f3b-bot-sitting-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f4-theres-a-floor-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f5-barbell-vacuum-cleaners-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f6-non-mintables-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f7-regulation-is-the-moat-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f8-relative-superintelligence-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f9a-reflection-cycle-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "f9b-auditor-ato-mp4": {
+  "date": "2026",
+  "note": "AI in Practice F talk: f3a \"November of last year\" GPT 5.2/Gemini 3.1/Opus 4.6",
+  "mined": "2026-08-28"
+ },
+ "hypercasting-mp3": {
+  "date": "2006",
+  "note": "YouTube upload \"September the 26th of this year\" + Google-YouTube acquisition as news (Nov 2006); 1994 = first-year text artifact",
+  "mined": "2026-08-28"
+ },
+ "hypercasting-wmv": {
+  "date": "2006",
+  "note": "same talk, wmv encoding",
+  "mined": "2026-08-28"
+ },
+ "mark-pesce-btb-vodcast-iphone-m4v": {
+  "date": "2007",
+  "note": "vodcast captured on an iPhone (post-2007); 2004 impossible",
+  "mined": "2026-08-28"
+ },
+ "mark-pesce-btb-vodcast-iphone-1-m4v": {
+  "date": "2007",
+  "note": "same talk re-upload",
+  "mined": "2026-08-28"
+ },
+ "cybersamhain-to-chatgpt-1080p-mp4": {
+  "date": "2023",
+  "note": "ChatGPT-era talk with land acknowledgment; 1994 = Parisi/VRML recap artifact",
+  "mined": "2026-08-28"
+ },
+ "smartsheet-reimagining-the-future-of-work-mp4": {
+  "date": "2021",
+  "note": "post-pandemic talk; \"the March 2020 lockdown revealed\"",
+  "mined": "2026-08-28"
+ },
+ "smartsheet-reimagining-the-future-of-work-hevc-m": {
+  "date": "2021",
+  "note": "same event, hevc encoding",
+  "mined": "2026-08-28"
+ },
+ "outer-space-cyberspace-digital-depth-hevc-mp4": {
+  "date": "2016",
+  "note": "\"upcoming book, Augmented Reality\" + sibling digital-depth talk = 2016",
+  "mined": "2026-08-28"
+ },
+ "vr-creative-cluster-mark-pesce-9-aug-video1-mp4": {
+  "date": "2016",
+  "note": "\"9 Aug\" [2016] VR Creative Cluster",
+  "mined": "2026-08-28"
+ },
+ "vr-creative-cluster-mark-pesce-9-aug-video1-er-m": {
+  "date": "2016",
+  "note": "same event",
+  "mined": "2026-08-28"
+ },
+ "vr-creative-cluster-mark-pesce-9-aug16-video2-mp": {
+  "date": "2016",
+  "note": "\"9 Aug16\"",
+  "mined": "2026-08-28"
+ },
+ "better-than-crack-mp3": {
+  "date": "unknown",
+  "note": "iPhone anecdote -> post-2007; stored 1993 impossible; year unknown",
+  "mined": "2026-08-28"
+ },
+ "better-than-crack-1-mp3": {
+  "date": "unknown",
+  "note": "same talk re-upload",
+  "mined": "2026-08-28"
+ },
+ "dense-and-thick-mp4": {
+  "date": "unknown",
+  "note": "SilverStripe/Webstock (NZ) -> post-2003; stored 1993 impossible; year unknown",
+  "mined": "2026-08-28"
+ },
+ "dense-and-thick-mp4-2": {
+  "date": "unknown",
+  "note": "same talk re-upload",
+  "mined": "2026-08-28"
+ },
+ "canterbury-inspire19-mp3": {
+  "date": "2019",
+  "note": "INSPIRE19 in filename",
+  "mined": "2026-08-28"
+ },
+ "avatars96-keynotes-pesce-parisi-512kb-mp4": {
+  "date": "1996",
+  "note": "\"avatars96\" in filename (approximate)",
+  "mined": "2026-08-28"
+ },
+ "pesce-siggraph-frontiers-the-ar-dilemmas-mp4": {
+  "date": "2016",
+  "note": "Pokemon Go Sydney (Jul 2016) as current; 1994 = VRML recap artifact",
+  "mined": "2026-08-28"
+ },
+ "reality-remix-wav": {
+  "date": "1995",
+  "note": "VRML banana (1994) + Netscape-era audience incl. Scott Fisher (approximate)",
+  "mined": "2026-08-28"
+ },
+ "ala-wav": {
+  "date": "2016",
+  "note": "VR resurgence \"between 2014 and 2016\" as recent (approximate)",
+  "mined": "2026-08-28"
+ },
+ "singularity-summit-mp4": {
+  "date": "unknown",
+  "note": "1997 = first-trip-to-Australia anecdote, not event date",
+  "mined": "2026-08-28"
+ },
+ "technospirit-mkv": {
+  "date": "unknown",
+  "note": "contemporary Afrofuture panel (Lafleur); 1994 = Wiccan ritual recap artifact",
+  "mined": "2026-08-28"
+ },
+ "whereintheworld-mp3": {
+  "date": "unknown",
+  "note": "NFTS/Lonely Planet era (~1998-2003); 1994 = VRML recap artifact",
+  "mined": "2026-08-28"
+ }
+}

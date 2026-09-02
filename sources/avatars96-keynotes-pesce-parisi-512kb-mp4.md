@@ -5,7 +5,7 @@ title: avatars96-keynotes-pesce-parisi_512kb.mp4
 drive_id: 1k4v4bwTQ3S1NJjIZ7xnEbZ3M7DszdYS9
 source_link: https://drive.google.com/file/d/1k4v4bwTQ3S1NJjIZ7xnEbZ3M7DszdYS9/view?usp=drivesdk
 type: keynote
-date: 1995
+date: 1996
 tags: ["communication", "identity", "mark-pesce", "microsoft", "vrml", "world-wide-web"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

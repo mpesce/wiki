@@ -5,7 +5,7 @@ title: D12_waze-skynet.mp4
 drive_id: 190A97wzRUMtFYkOkHwKCwqSacUDWrcDt
 source_link: https://drive.google.com/file/d/190A97wzRUMtFYkOkHwKCwqSacUDWrcDt/view?usp=drivesdk
 type: clip
-date: unknown
+date: 2025
 tags: []
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

@@ -5,7 +5,7 @@ title: The New Inventors-20070418200000.mp4
 drive_id: 1RtGciBqRoeelaHUWayvtrmFuBVpxkcSk
 source_link: https://drive.google.com/file/d/1RtGciBqRoeelaHUWayvtrmFuBVpxkcSk/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-04-18
 tags: ["alison-page", "james-bradfield-moody", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

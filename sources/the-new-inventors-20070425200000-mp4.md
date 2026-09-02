@@ -5,7 +5,7 @@ title: The New Inventors-20070425200000.mp4
 drive_id: 1ZD4kCfzqrm7OHHZOVSt6U23IRsQzPnJa
 source_link: https://drive.google.com/file/d/1ZD4kCfzqrm7OHHZOVSt6U23IRsQzPnJa/view?usp=drivesdk
 type: panel
-date: 2006
+date: 2007-04-25
 tags: ["alison-page", "james-bradfield-moody", "james-ologhlin", "mark-pesce", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

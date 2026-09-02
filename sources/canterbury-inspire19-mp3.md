@@ -5,7 +5,7 @@ title: Canterbury INSPIRE19.mp3
 drive_id: 1TmHgLSqkQj52CBe_GMVnRzNSH0bm5Xyq
 source_link: https://drive.google.com/file/d/1TmHgLSqkQj52CBe_GMVnRzNSH0bm5Xyq/view?usp=drivesdk
 type: podcast
-date: 2014
+date: 2019
 tags: ["the-future", "the-next-billion-seconds"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

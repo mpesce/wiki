@@ -5,7 +5,7 @@ title: The New Inventors-20070523200000.mp4
 drive_id: 1KRHBZJUi-R75-wjgWpABJfidmPJuvOlB
 source_link: https://drive.google.com/file/d/1KRHBZJUi-R75-wjgWpABJfidmPJuvOlB/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-05-23
 tags: ["bernie-hobbs", "james-bradfield-moody", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

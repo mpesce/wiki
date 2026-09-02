@@ -5,7 +5,7 @@ title: The New Inventors-20081022200000.mp4
 drive_id: 1CCVSjsTawI6kfxUUOiWvL9eYv2C6XliG
 source_link: https://drive.google.com/file/d/1CCVSjsTawI6kfxUUOiWvL9eYv2C6XliG/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2008-10-22
 tags: ["abc", "alison-page", "broadcast", "james-ologhlin", "richard-vaughan", "the-new-inventors", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

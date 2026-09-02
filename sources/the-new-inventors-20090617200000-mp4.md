@@ -5,7 +5,7 @@ title: The New Inventors-20090617200000.mp4
 drive_id: 13uvRx0-5L3Ey7W6GnNkRVJGPFKc2ng5e
 source_link: https://drive.google.com/file/d/13uvRx0-5L3Ey7W6GnNkRVJGPFKc2ng5e/view?usp=drivesdk
 type: panel
-date: 2009
+date: 2009-06-17
 tags: ["broadcast", "chris-russell", "christine-kininmonth", "fiona-wood", "james-ologhlin", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

@@ -5,7 +5,7 @@ title: The New Inventors-20070711200000.mp4
 drive_id: 1SQDFHDWVsyMtp2iIGklzJRfo4nQd4h3H
 source_link: https://drive.google.com/file/d/1SQDFHDWVsyMtp2iIGklzJRfo4nQd4h3H/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-07-11
 tags: ["bernie-hobbs", "chris-russell", "james-ologhlin", "the-new-inventors", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

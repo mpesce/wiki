@@ -5,7 +5,7 @@ title: The New Inventors-20070314195900.mp4
 drive_id: 1KSvbfyc7jj7AVJEDbjVQ-86sRiDFDx57
 source_link: https://drive.google.com/file/d/1KSvbfyc7jj7AVJEDbjVQ-86sRiDFDx57/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-03-14
 tags: ["bernie-hobbs", "james-bradfield-moody", "james-ologhlin", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

@@ -5,7 +5,7 @@ title: F13_the-agent-is-using-you.mp4
 drive_id: 15EAlCx-G_1iWApx3Fb8Wq46kpl73iY4z
 source_link: https://drive.google.com/file/d/15EAlCx-G_1iWApx3Fb8Wq46kpl73iY4z/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2026
 tags: ["alignment", "apple", "artificial-intelligence", "broadcast", "mark-pesce", "mozilla"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

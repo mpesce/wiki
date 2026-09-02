@@ -5,7 +5,7 @@ title: whereintheworld.mp3
 drive_id: 1_bcXF-jIFyjlFzddL6A53JLCBg0Ds1eA
 source_link: https://drive.google.com/file/d/1_bcXF-jIFyjlFzddL6A53JLCBg0Ds1eA/view?usp=drivesdk
 type: interview
-date: 1994
+date: unknown
 tags: ["3d", "apple", "digital-distribution", "economic-viability", "google", "lonely-planet", "mark-pesce", "networks", "social-networks", "virtual-reality", "vrml"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

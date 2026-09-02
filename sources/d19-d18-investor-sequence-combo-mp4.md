@@ -5,7 +5,7 @@ title: D19-D18_investor-sequence-combo.mp4
 drive_id: 1i6ABscGcAyhc_pYGe5CAkU648d6xGseK
 source_link: https://drive.google.com/file/d/1i6ABscGcAyhc_pYGe5CAkU648d6xGseK/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2025
 tags: ["artificial-intelligence", "mark-pesce", "the-future"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

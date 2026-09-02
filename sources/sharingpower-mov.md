@@ -5,7 +5,7 @@ title: SharingPower.mov
 drive_id: 1ImuJBKVWk9pDblCaKl2DEWoJ0jyHaV4a
 source_link: https://drive.google.com/file/d/1ImuJBKVWk9pDblCaKl2DEWoJ0jyHaV4a/view?usp=drivesdk
 type: clip
-date: unknown
+date: 2009
 tags: []
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

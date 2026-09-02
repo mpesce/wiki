@@ -5,7 +5,7 @@ title: F6_non-mintables.mp4
 drive_id: 1xO8WQRbAqv445uJvKY21vKC_3q2dAoQe
 source_link: https://drive.google.com/file/d/1xO8WQRbAqv445uJvKY21vKC_3q2dAoQe/view?usp=drivesdk
 type: interview
-date: unknown
+date: 2026
 tags: ["artificial-intelligence", "mark-pesce", "networks", "peer-to-peer", "trust"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

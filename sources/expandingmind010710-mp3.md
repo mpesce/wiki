@@ -5,7 +5,7 @@ title: ExpandingMind010710.mp3
 drive_id: 1OjYhiUH2thSZUcIkXOSpb9Asy-5IYbXT
 source_link: https://drive.google.com/file/d/1OjYhiUH2thSZUcIkXOSpb9Asy-5IYbXT/view?usp=drivesdk
 type: podcast
-date: 2010
+date: 2010-07-01
 tags: ["collaboration", "mark-pesce", "networks", "social-networks", "twitter"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

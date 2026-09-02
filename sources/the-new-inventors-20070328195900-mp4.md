@@ -5,7 +5,7 @@ title: The New Inventors-20070328195900.mp4
 drive_id: 1zjuM81BSexMwZlbZU_UgwM0nNcgeHhPC
 source_link: https://drive.google.com/file/d/1zjuM81BSexMwZlbZU_UgwM0nNcgeHhPC/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-03-28
 tags: ["alignment", "bernie-hobbs", "richard-vaughan", "the-new-inventors", "veena-sahajwala"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

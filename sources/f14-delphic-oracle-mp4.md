@@ -5,7 +5,7 @@ title: F14_delphic-oracle.mp4
 drive_id: 1904w_lJIpmkQfE1bCaddtvb5DLXV1T9J
 source_link: https://drive.google.com/file/d/1904w_lJIpmkQfE1bCaddtvb5DLXV1T9J/view?usp=drivesdk
 type: workshop
-date: unknown
+date: 2026
 tags: ["trust"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

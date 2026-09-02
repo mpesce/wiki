@@ -5,7 +5,7 @@ title: The New Inventors-20071121200000.mp4
 drive_id: 1yph9Jhot8wSgEi4cUY3-NEvDM7aNXpli
 source_link: https://drive.google.com/file/d/1yph9Jhot8wSgEi4cUY3-NEvDM7aNXpli/view?usp=drivesdk
 type: interview
-date: 2007
+date: 2007-11-21
 tags: ["bernie-hobbs", "broadcast", "james-bradfield-moody", "james-ologhlin", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

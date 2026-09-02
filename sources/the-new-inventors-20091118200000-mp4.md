@@ -5,7 +5,7 @@ title: The New Inventors-20091118200000.mp4
 drive_id: 1jK7T4ntZsSx1Hu1IxRIFRElsD0VgVkL3
 source_link: https://drive.google.com/file/d/1jK7T4ntZsSx1Hu1IxRIFRElsD0VgVkL3/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-11-18
 tags: ["abc", "broadcast", "james-bradfield-moody", "james-ologhlin", "richard-vaughan", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

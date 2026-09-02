@@ -5,7 +5,7 @@ title: The New Inventors-20091014200000.mp4
 drive_id: 10QmX_EHa4m0Ho3UYxaIZBsA3ccVDT9wJ
 source_link: https://drive.google.com/file/d/10QmX_EHa4m0Ho3UYxaIZBsA3ccVDT9wJ/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2009-10-14
 tags: ["christine-kininmonth", "james-bradfield-moody", "james-ologhlin", "richard-vaughan", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

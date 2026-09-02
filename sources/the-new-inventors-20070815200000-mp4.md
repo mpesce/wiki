@@ -5,7 +5,7 @@ title: The New Inventors-20070815200000.mp4
 drive_id: 1ZldgePYNkg_l7wL26V1fyBtl95-1Y2t3
 source_link: https://drive.google.com/file/d/1ZldgePYNkg_l7wL26V1fyBtl95-1Y2t3/view?usp=drivesdk
 type: panel
-date: unknown
+date: 2007-08-15
 tags: ["james-bradfield-moody", "james-ologhlin", "mark-pesce", "the-new-inventors"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

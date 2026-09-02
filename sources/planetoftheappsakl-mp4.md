@@ -5,7 +5,7 @@ title: planetoftheappsAKL.mp4
 drive_id: 1xYPCdwRCIzR0YOv1-C3PoQmimukBnU2D
 source_link: https://drive.google.com/file/d/1xYPCdwRCIzR0YOv1-C3PoQmimukBnU2D/view?usp=drivesdk
 type: keynote
-date: unknown
+date: 2015
 tags: ["mark-pesce", "the-future"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z

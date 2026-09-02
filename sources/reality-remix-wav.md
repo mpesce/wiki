@@ -5,7 +5,7 @@ title: Reality Remix.wav
 drive_id: 1hTsZnWVqxw5TK1Q3qA-qu99k56lWU8Cw
 source_link: https://drive.google.com/file/d/1hTsZnWVqxw5TK1Q3qA-qu99k56lWU8Cw/view?usp=drivesdk
 type: news
-date: 1990
+date: 1995
 tags: ["3d", "google", "ivan-sutherland", "mark-pesce", "the-future", "tony-parisi", "virtual-reality", "vr", "vrml", "world-wide-web"]
 created: 2026-08-27T10:51:10Z
 last_updated: 2026-08-27T10:51:10Z
