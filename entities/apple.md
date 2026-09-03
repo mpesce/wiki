@@ -5,7 +5,7 @@ title: Apple
 tags: ["organization"]
 source_count: 76
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-09-02T19:00:08Z
+last_updated: 2026-09-03T21:42:28Z
 related:
   - (populate via lint)
 ---
@@ -106,15 +106,27 @@ In the later corpus Apple becomes the assumed manufacturer of the next interface
 
 ## In the Corpus
 
-<evolution over time>
+
+The corpus holds Apple in four registers, layered over two decades:
+
+- **The credential.** From the 2000s onward the standard intro is "former Apple and Mozilla engineer" — a credibility marker borrowed from inside the company, rarely elaborated ([[sources/sca-wav]], [[sources/hypereconomics-flv]]).
+- **The launch-cycle news.** The iTV initiative flagged mid-piracy debate on Hack (2006) [[sources/abj-jjj-5oct06-interview-mp3]], the 2010 ebook moment (the iPad against the Kindle) [[sources/7-30report-ebooks-18mar10-mp4-m4v]], the 2010 App Store economy (≈140,000 apps, long-tail developers, the closed ecosystem) [[sources/sea-20100130-0730-mp3]], the Webstock iPad as the bookend of the web's "golden age" [[sources/dense-and-thick-mp4]], and the iPod in "Welcome to the Swarm" as the device that privatized media consumption [[sources/hyperpeople-mp4]].
+- **The critique.** Apple's more granular family-tracking privacy controls (2017) [[sources/lms-20170505-0906-families-privacy-mp3]], the 2014 iCloud hacking scandal advice [[sources/0000000019b5b787-mpg]], the 2020 contact-tracing OS framework that risked conflicting with public health [[sources/ntn-20200521-1105-do-track-and-trace-apps-work-t]], and the AR-glasses prediction (Apple "about two years out", ahead of Google and Facebook) [[sources/supertools-aut-9may19-mp3]].
+- **The next-interface presumption.** Apple as the assumed maker of the AR spectacle, the runway AR now walks, and — in the agentic era — the walled-garden worry generalized into a law about constrained systems ("using" its user) [[sources/f13-the-agent-is-using-you-mp4]].
 
 ## Cross References
 
-<link to concepts/ and other entities>
+
+- Entities: [[entities/mark-pesce]] (the explainer and the former engineer), [[entities/mozilla]] (the co-credential), [[entities/google]] (Android, the open-ecosystem contrast, the joint contact-tracing partner, Google Cardboard), [[entities/facebook]] (the walled-garden comparator, the AR race), [[entities/world-wide-web]], [[entities/vr]] (the AR-glasses thread).
+- Concepts: [[concepts/innovation]], [[concepts/media-theory]] (Apple as the next interface), [[concepts/open-source]] (the closed ecosystem's contrast), [[concepts/surveillance]] (the tracking and contact-tracing threads), [[concepts/attention-economy]] (the App Store and the next interface), [[concepts/democratization]] (the long-tail developers), [[concepts/peer-to-peer]] (the walled garden's counter-current), [[concepts/the-future]] (the AR-glasses prediction).
 
 ## Debates / Open Questions
 
-<tensions, unresolved>
+
+- **The credential.** The corpus never states what Pesce did at Apple; "former Apple and Mozilla engineer" is used purely as a credibility marker. The page holds the credential as a marker and notes the silence on his specific role.
+- **Closed vs open.** The recurring Apple/Android contrast (the "closed ecosystem with strict approval processes" against Android's openness) is the corpus's standing critique. The page holds the contrast as the corpus states it, noting it recurs in the App Store, the family-tracking privacy, and the contact-tracing framework.
+- **Apple as the next interface.** The corpus predicts Apple's AR spectacles ("about two years out", ahead of Google and Facebook) and frames Apple's platform history as AR's runway. The page holds the prediction as the corpus's stance and notes the agentic-era generalization (the walled-garden warning about constrained systems) as the latest register.
+- **Fair-mindedness.** The corpus is consistent but fair-minded: it credits Apple's more granular privacy controls while criticizing the walled garden and the OS-level contact-tracing terms. The page holds both the praise and the critique as the corpus's balanced stance.
 
 ## Sources
 

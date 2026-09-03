@@ -5,7 +5,7 @@ title: AR
 tags: ["technology"]
 source_count: 21
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-09-02T19:00:08Z
+last_updated: 2026-09-03T21:42:28Z
 related:
   - (populate via lint)
 ---
@@ -51,15 +51,30 @@ What stays constant is the double character: the same locative awareness that en
 
 ## In the Corpus
 
-<evolution over time>
+
+The corpus holds AR as a two-register thread — a mid-2010s capability wave and a 2017–2021 governance systematisation:
+
+- **The mid-2010s capability wave.** WebVR reaching "hundreds of millions of devices" and shifting focus from hardware to content (VR Creative Cluster, 2016) [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]], the "Digital Depth in AR" and SIGGRAPH Frontiers lectures (AR as binding metadata to space, Pokémon Go as the proof) [[sources/mark-pesce-digital-depth-in-augmented-reality-mp]] [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]], and the AR-spectacle timelines (Apple ~2 years, Google, Facebook) [[sources/supertools-aut-9may19-mp3]].
+- **2017 — the governance turn.** "Last Days of Reality" (Toronto) frames AR as the third stage of digital colonialism (web → smartphone → AR) and the "Pollyanna machine"; the Mixed Reality Service (MRS) permission protocol is proposed [[sources/last-days-of-reality-toronto-17oct17-mov]].
+- **2018–2019 — the social-engineering frame.** ARIN 6904 (AR as the smartphone's successor) [[sources/arin6904-5sep18-mp3]], DECO 2200 (AR as "the central problem in design computing") [[sources/the-world-and-its-double-deco-2200-mp3]], the Kimberley/Broome and NITV talks (AR tourism, Indigenous storytelling, the "walk with the ancestors" roadmap) [[sources/a-new-broome-mp3]] [[sources/truth-trust-and-story-26jul19-mp3]] [[sources/walking-with-the-ancestors-mp3]].
+- **2020 — the book tour.** "Augmented Reality Unboxing": AR as the consequence of 30 years of HCI design, SLAM as unavoidable surveillance, gaze tracking, the ICANN-like regulatory proposal [[sources/voices-of-vr-mark-pesce-20nov20-mp3]] [[sources/mark-pesce-20nov20-wav]].
+- **2021 — the AR Dilemmas.** The "right to write" as the central open question, the panopticon, and AR's transparency/sustainability benefits [[sources/arin-2610-internet-transformations-the-ar-dilemm]] [[sources/internet-transformations-5oct21-mp4]].
 
 ## Cross References
 
-<link to concepts/ and other entities>
+
+- Entities: [[entities/mark-pesce]] (the author of the whole AR thread), [[entities/pokemon-go]] (the recurring mass-market proof), [[entities/facebook]] (Project Aria, the digital-colonialism target), [[entities/google]] (Project Tango, Google Cardboard, Niantic), [[entities/apple]] (the AR spectacle, TrueDepth), [[entities/microsoft]] (HoloLens, the Kinect), [[entities/ivan-sutherland]] (the Ultimate Display lineage), [[entities/vr]] (the device category AR is distinguished from), [[entities/3d]] (the substrate), [[entities/world-wide-web]], [[entities/the-next-billion-seconds]].
+- Concepts: [[concepts/virtual-reality]] (the AR/VR distinction), [[concepts/surveillance]] (SLAM and gaze tracking), [[concepts/attention-economy]] (the spectacle and the next interface), [[concepts/media-theory]] (AR as a human practice, not a device), [[concepts/participation]], [[concepts/innovation]], [[concepts/environmental-sustainability]] (the AR transparency benefit), [[concepts/storytelling]] (the Indigenous and Kimberley narratives).
 
 ## Debates / Open Questions
 
-<tensions, unresolved>
+
+- **AR vs VR.** The corpus is explicit that AR is not a device category but a human practice (binding metadata to space) and that AR was invented *before* VR (Sutherland's 1968 HMD as the first AR system). The page holds that distinction and the "device" framing as a historical artifact.
+- **The surveillance dilemma.** The same locative awareness that enables AR's benefits (transparency, sustainability) is what makes it a panopticon: SLAM is unavoidable, and gaze tracking reveals private physiological data (Project Aria). The page holds this as the corpus's core double character.
+- **The "right to write".** The corpus's unresolved open question: who may place digital content in shared physical space, without consent from the space's other claimants? The corpus proposes an ICANN-like regulatory body and the MRS permission framework. The page holds the proposal as the corpus's stance.
+- **Digital colonialism.** "Last Days of Reality" frames AR as the third stage of digital colonialism (after the web and the smartphone) and the source of the "Pollyanna machine". The page holds the 500th-anniversary-of-Luther framing as the corpus's rhetorical anchor.
+- **The spectacle timeline.** The corpus predicts consumer AR spectacles on a predictable timeline (Apple ~2 years, Google a year or two, Facebook three to four). The page holds the prediction and notes the agentic-era shift toward a "digital reformation" as the later register.
+- **Spatial audio.** The Bill Martens interview (spatial audio, holoesthesia, "hearables") is the corpus's AR-adjacent thread on the missing sensory modality. The page holds it as AR's audio dimension and the VR-discomfort contrast.
 
 ## Sources
 

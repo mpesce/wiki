@@ -5,7 +5,7 @@ title: Mark Pesce
 tags: ["person"]
 source_count: 401
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-09-02T19:00:07Z
+last_updated: 2026-09-03T21:42:28Z
 related:
   - (populate via lint)
 ---
@@ -431,15 +431,31 @@ From about 2010 the corpus pivots to The Next Billion Seconds — his argument t
 
 ## In the Corpus
 
-<evolution over time>
+
+The corpus holds Pesce as its subject across a four-decade arc, in five phases:
+
+- **1991–1997 — the VR/VRML builder.** Ono-Sendai (the first US consumer VR company, 1991), the low-cost orientation tracking licensed to Sega, the July 1993 cancellation, the discovery of the web the same month, and the 1994 VRML browser built with Tony Parisi (the cyber-banana, the CERN first-WWW-conference presentation, the SIGGRAPH 1994 Daniel's Story demo) [[sources/mark-pesce-session-1-wav]] [[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]], followed by the community-driven VRML standardization (Avatars!96) [[sources/avatars96-keynotes-pesce-parisi-512kb-mp4]].
+- **1999–2009 — the hyperdistribution theorist and the broadcast decade.** The Napster→BitTorrent lineage (peer-to-peer removes the gatekeepers) [[sources/4-02-hyperdistribution-mp3]], the 2001 Esalen trialogue (with Rushkoff and Davis) [[sources/friday-rm]], *The Playful World* (education), and the 2007–2009 ABC *New Inventors* judging panel that made him Australia's most visible technology explainer [[sources/the-new-inventors-20070214195900-mp4]].
+- **2010–2016 — the book and the departure.** *The Next Billion Seconds* (hyperconnectivity, 1995–2026) [[sources/hypereconomics-flv]], the Plexus departure from Facebook ("digital refugee") [[sources/hownottobeseen-mp4]], the linux.conf.au "design guide for anarchists" [[sources/lca2011-keynote-mov]], and the crowdfunding workshop (the Lite-by-Morris-Cloud failure as the lesson) [[sources/crowdfunding-31jul14-wmv]].
+- **2016–2021 — the augmented-reality ethicist.** "Digital Depth," the "right to write," Pokémon Go as the proof of concept, the ICANN-like regulatory proposal, and *Augmented Reality Unboxing* (2020) [[sources/internet-transformations-5oct21-mp4]] [[sources/pesce-siggraph-frontiers-the-ar-dilemmas-mp4]].
+- **2022–2025 — the agentic-AI warnor.** The watershed (late 2022), "on the loop" supervision, verification design, the Wisely AI consultancy, "vibe coding," the 2025 "Facing the Machine" education reckoning, and the "resistance" concept [[sources/facing-the-machine-ibsuniversity-27jun25-mp4]] [[sources/thefuturists-thewatershed-mkv]] [[sources/ai-and-the-future-of-work-mp4]].
 
 ## Cross References
 
-<link to concepts/ and other entities>
+
+- Entities: [[entities/tony-parisi]] (the VRML co-inventor, the cyber-banana), [[entities/ivan-sutherland]] (Sketchpad, the Ultimate Display), [[entities/apple]] and [[entities/mozilla]] (the "former Apple and Mozilla engineer" credential), [[entities/google]] and [[entities/facebook]] (the platforms he critiques, the surveillance-capitalist monopolists), [[entities/abc]] (the broadcast home, the New Inventors employer), [[entities/the-new-inventors]] (the judging panel), [[entities/esalen]] (the 2001 venue), [[entities/erik-davis]] and [[entities/douglas-rushkoff]] (the 2001 co-hosts), [[entities/terence-mckenna]] (the spirit of the trialogue), [[entities/mit]], [[entities/stanford]], [[entities/unsw]], [[entities/monash]] (the academic affiliations and venues), [[entities/vrml]], [[entities/vr]], [[entities/webgl]], [[entities/ar]], [[entities/3d]] (the technical arc), [[entities/world-wide-web]] (the platform he co-shape), [[entities/metaverse]] (the redefined concept), [[entities/pokemon-go]] (the AR proof of concept), [[entities/the-next-billion-seconds]] (the book and the podcast), [[entities/blockchain]], [[entities/bitcoin]], [[entities/smart-contracts]] (the post-classical finance arc), [[entities/python]] (the Plexus language), [[entities/agentic]] (the 2026 era), [[entities/chatgpt]] (the watershed), [[entities/james-ologhlin]], [[entities/chris-russell]], [[entities/bernie-hobbs]], [[entities/alison-page]], [[entities/sally-deminks]], [[entities/richard-vaughan]], [[entities/veena-sahajwala]], [[entities/christine-kininmonth]] (the New Inventors co-judges), [[entities/radio-national]] (the radio home).
+- Concepts: [[concepts/innovation]], [[concepts/entrepreneurship]] (Ono-Sendai, the crowdfunding), [[concepts/education]] (The Playful World, the 2025 reckoning), [[concepts/media-theory]] (the hyperdistribution and the cognitive-bias-amplifier theories), [[concepts/public-speaking]] (the career's medium), [[concepts/collaboration]] (the VRML open-source ethos), [[concepts/participation]], [[concepts/storytelling]], [[concepts/the-future]] (the futurist's discipline), [[concepts/the-future-of-work]] (the agentic reprice), [[concepts/verification-design]] (the adversarial-AI-judge proposal), [[concepts/artificial-intelligence]], [[concepts/hyperdistribution]] (the core thesis), [[concepts/fog-of-knowability]], [[concepts/surveillance-capitalism]] (the Facebook/Google critique), [[concepts/attention-economy]], [[concepts/peer-to-peer]], [[concepts/open-source]], [[concepts/democratization]].
 
 ## Debates / Open Questions
 
-<tensions, unresolved>
+
+- **The stable credential.** From the 2000s onward the intro is consistently "former Apple and Mozilla engineer," VRML co-inventor, author, futurist. The corpus never elaborates the specific Apple/Mozilla roles; the phrase functions as a credibility marker. The page holds the credential as a marker and notes the silence.
+- **The career timeline.** The corpus's career dates are internally consistent: Ono-Sendai 1991, Sega cancellation July 1993, VRML early 1994, the first WWW conference May 1994 (CERN), SIGGRAPH 1994 (Daniel's Story), Avatars!96. The page holds the timeline and notes the corpus treats it as settled.
+- **The ASR variants.** Pesce's name drifts in the corpus ("Pesch", "Pesci", "Pescie"); the page holds the variants as ASR drift and does not treat them as distinct people.
+- **The arc: builder → explainer → futurist → warnor.** The corpus holds the four-phase arc (VR/VRML builder, hyperdistribution explainer, AR ethicist, agentic-AI warnor) with constant through-lines (openness, networks over gatekeepers, sharing as value creation). The page holds the arc and the through-lines as the corpus's framing.
+- **The futurist definition.** The corpus is explicit that a futurist is "a lot more similar to what a climate scientist does" (reads the data and trends, tells you how to lean into the coming world), not a psychic. The page holds the definition as the corpus's stance.
+- **The Wisely AI consultancy.** The 2023–2025 corpus credits Pesce as the founder of Wisely AI (helping organizations implement AI safely). The page holds the consultancy as the corpus's latest professional register.
+- **The "using" its user.** The 2026 agentic-era warning: a super-intelligent agent inside a weaker harness will end up "using" its user. The page holds the warning as the corpus's latest agentic register and cross-references the Agentic page.
 
 ## Sources
 

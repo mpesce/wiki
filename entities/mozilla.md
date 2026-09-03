@@ -5,7 +5,7 @@ title: Mozilla
 tags: ["organization"]
 source_count: 35
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-09-02T19:00:08Z
+last_updated: 2026-09-03T21:42:28Z
 related:
   - (populate via lint)
 ---
@@ -63,15 +63,27 @@ What is *not* in the corpus is any detailed account of Pesce's Mozilla work itse
 
 ## In the Corpus
 
-<evolution over time>
+
+The corpus holds Mozilla almost entirely as a credential, with the *substance* captured as an open-web philosophy:
+
+- **The fixed credential.** From 1999 onward, source after source introduces Pesce as "a media and technology commentator and former Apple and Mozilla engineer" — a fixed formula in keynote intros, podcast bios, and his own self-introductions, marking the end of his industry career and the start of the commentator/futurist phase ([[sources/4-02-hyperdistribution-mp3]] [[sources/pollenizerpodcast-20100728-mp3]] [[sources/thenextbillionsecondsineducation-1sep11-wav]] [[sources/voices-of-vr-mark-pesce-20nov20-mp3]]).
+- **The open-web philosophy.** The 2011 linux.conf.au keynote: VRML succeeded because the code was open-sourced, "shared resources increase in value," and the "design guide for anarchists" (distribute everything, transport independence, strong encryption, open source) [[sources/lca2011-keynote-mov]]. The 2010 Plexus interviews (open-source social software modeled on the Linux kernel) [[sources/pollenizerpodcast-20100728-mp3]], the 2010 Hack commentary praising Firefox's open-source model for faster security-bug identification [[sources/hack-tues-2010-01-19-mp3]], and the commons-based thinking over market-driven solutions for the Facebook problem [[sources/ega-wav]].
+- **The one employment claim.** A sampled source credits his Mozilla period with WebVR and Daydream-era browser VR infrastructure [[sources/vr-creative-cluster-mark-pesce-9-aug16-video2-mp]] — but that source's dating is unreliable and no other sampled source elaborates.
 
 ## Cross References
 
-<link to concepts/ and other entities>
+
+- Entities: [[entities/mark-pesce]] (the bearer of the credential and the open-web philosopher), [[entities/apple]] (the co-credential, the closed-ecosystem contrast), [[entities/world-wide-web]] (the open web the credential evokes), [[entities/vrml]] (the open-sourced standard that succeeded), [[entities/webgl]] (the browser VR infrastructure the one source credits), [[entities/python]] (the Plexus implementation language, the open-source ethos), [[entities/facebook]] (the target of the commons-based critique), [[entities/the-next-billion-seconds]] (the futurism that treats connectivity as infrastructure to be opened).
+- Concepts: [[concepts/open-source]] (the core philosophy), [[concepts/peer-to-peer]] (the distributed systems), [[concepts/commons]] (the commons-based thinking), [[concepts/collaboration]] (the shared-resources-gain-value), [[concepts/innovation]] (the resilient-systems design guide), [[concepts/democratization]] (the open web over the walled garden), [[concepts/media-theory]] (the connectivity-as-infrastructure frame).
 
 ## Debates / Open Questions
 
-<tensions, unresolved>
+
+- **Credential vs subject.** The corpus documents Pesce's open-web *philosophy* (which the credential evokes) but not his Mozilla *employment* in detail: no sampled source names his dates, role, team, or projects, and none discusses Firefox, the Mozilla Foundation's governance, or the organization as an institution in its own right. The page holds Mozilla as biographical shorthand and notes the employment as a corpus gap.
+- **The WebVR/Daydream claim.** One sampled source credits his Mozilla period with WebVR and Daydream-era browser VR infrastructure. The page holds the claim but flags the source's unreliable dating and notes no other sampled source corroborates it.
+- **The open-web philosophy.** The corpus captures the substance the credential signals: open source, shared resources gaining value when shared, resilient distributed systems (the "design guide for anarchists"), Plexus modeled on the Linux kernel, and commons-based thinking. The page holds this as the corpus's Mozilla substance and treats it as the standing philosophy.
+- **The Firefox security praise.** The 2010 Hack segment praises Firefox's open-source model as allowing faster identification of security bugs than proprietary code (the IE6 zero-day context). The page holds the praise as the corpus's open-source argument.
+- **The commons-based alternative.** The corpus invokes commons-based thinking over market-driven solutions for the Facebook problem (EGA). The page holds the commons-based frame as the corpus's alternative to the walled garden.
 
 ## Sources
 

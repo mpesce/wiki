@@ -5,7 +5,7 @@ title: Chris Russell
 tags: ["person"]
 source_count: 44
 created: 2026-08-27T10:51:23Z
-last_updated: 2026-09-02T19:00:08Z
+last_updated: 2026-09-03T21:42:28Z
 related:
   - (populate via lint)
 ---
@@ -13,10 +13,14 @@ related:
 # Chris Russell
 
 ## TL;DR
-<44 sources reference Chris Russell. Compile the one-line synthesis from the sources below.>
+
+The agricultural scientist who sat on *The New Inventors* judging panel through its run, the vote that most often decided farm, safety, and cost-effectiveness arguments.
 
 ## Overview
-<Compile a cross-source synthesis of Chris Russell. What is consistent and what changed over time.>
+
+Chris Russell appears in the corpus exclusively as a judge on *The New Inventors*, consistently introduced as the "agricultural scientist" (sometimes "ag scientist") on the rotating panel ([[sources/the-new-inventors-20070221195900-mp4]], [[sources/the-new-inventors-20070502200000-mp4]], [[sources/the-new-inventors-20090304200000-mp4]]). His voting pattern across the 44 episode pages is remarkably stable: he weighs inventions against real cost and real need, and he is the panel's champion for agricultural and workplace-safety fixes — the silo-lid win (safety in the grain industry), the metered sheep-roller, the Easy As stocking applicator, the Banana Blankie (cutting banana handling from fifteen touches to two), the hay caps, the aeration manager for grain silos, and the Vaxac vaccine cooler all drew his vote ([[sources/the-new-inventors-20070502200000-mp4]], [[sources/the-new-inventors-20070321195900-mp4]], [[sources/the-new-inventors-20070704200000-mp4]], [[sources/the-new-inventors-20090204200000-mp4]], [[sources/the-new-inventors-20090513200000-mp4]], [[sources/the-new-inventors-20090805200000-mp4]], [[sources/the-new-inventors-20091021200000-mp4]]).
+
+He is also the panel's price-checker: he raises cost objections that other judges wave through (the Conehead helmet's price in 2007, the $42,000 catering unit's hygiene and assembly in 2009), and he co-hosted the 2007 Bright Sparks young-inventor episode with Bernie Hobbs and Sally Deminks ([[sources/the-new-inventors-20070822200000-mp4]], [[sources/the-new-inventors-20090520200000-mp4]], [[sources/the-new-inventors-20070704200000-mp4]]). He judged the 2007 and 2009 grand finals, and on the 2007 "predictions for 2020" special he was part of the panel that discussed smart homes, virtual fencing, and artificial photosynthesis ([[sources/the-new-inventors-20071128200000-mp4]], [[sources/the-new-inventors-20091125200000-mp4]], [[sources/the-new-inventors-20071003200000-mp4]]).
 
 ## Key Facts
 - [[sources/the-new-inventors-20070221195900-mp4]] — The New Inventors-20070221195900.mp4
@@ -66,15 +70,20 @@ related:
 
 ## In the Corpus
 
-<evolution over time>
+
+- 44 episode pages, all from the 2007–2009 run of *The New Inventors* (including the 2007 and 2009 grand finals and the 2007 predictions special). No standalone interviews — his identity in the corpus is entirely the judge's chair ([[sources/the-new-inventors-20071128200000-mp4]], [[sources/the-new-inventors-20091125200000-mp4]]).
 
 ## Cross References
 
-<link to concepts/ and other entities>
+
+- Entities: [[entities/the-new-inventors]], [[entities/abc]], [[entities/james-ologhlin]], [[entities/bernie-hobbs]], [[entities/james-bradfield-moody]], [[entities/alison-page]], [[entities/sally-deminks]], [[entities/veena-sahajwala]], [[entities/fiona-wood]], [[entities/mark-pesce]].
+- Concepts: [[concepts/broadcast]], [[concepts/innovation]], [[concepts/environmental-sustainability]].
 
 ## Debates / Open Questions
 
-<tensions, unresolved>
+
+- **Person vs role.** As with O'Loghlin, the corpus gives Russell no biography beyond the panel credit; his professional home (a university or CSIRO, the summaries imply agricultural research) is never stated. The entity page describes a role, not a person.
+- **His verdicts as a barometer.** Russell's votes track the show's editorial line — safety first, cost honest, agriculture visible — making his page a useful proxy for what ABC thought "Australian invention" should look like in 2007–2009.
 
 ## Sources
 

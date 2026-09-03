@@ -5,7 +5,7 @@ title: Bitcoin
 tags: ["technology"]
 source_count: 10
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-09-02T19:00:08Z
+last_updated: 2026-09-03T21:42:28Z
 related:
   - (populate via lint)
 ---
@@ -40,15 +40,29 @@ By the 2020–2021 CFO series talks, Bitcoin has become the first chapter of a l
 
 ## In the Corpus
 
-<evolution over time>
+
+The corpus holds Bitcoin as a seven-year arc that ends up being the first chapter of a larger financial story:
+
+- **2009 — the case study.** Bitcoin introduced as a decentralized ledger that solved the double-spend problem but suffered slow settlement times (the ASX keynote) [[sources/asx-wav]].
+- **2011 — the currency domain.** In the Hypereconomics lectures, currency is one of the domains friction-eliminating connectivity transforms, with the endpoint a decentralised API-level value economy [[sources/hypereconomics-flv]] [[sources/hypereconomics-2-flv]].
+- **2016 — the enterprise pivot.** Opening Westpac's BlockHack16, he hears bankers draw the 1994-for-the-web parallel and note Ripple cross-border trials; "Bitcoin 1.0 faced adoption hurdles" but enterprise iterations are more promising [[sources/zoom0013-tr2-wav]].
+- **2019 — the Libra pivot.** RN Drive (Bitcoin designed for the unbanked, but too slow; Libra as the stablecoin that wins), the ASX "New Money" talk (the digital yuan as Libra's forced accelerant), and the V20 summit (crypto's move from pioneers to FATF-regulated settlers; Gavin Bell as the Bitcoin Foundation's first chief scientist) [[sources/rnd-20190619-1906-fb-libra-mp3]] [[sources/asx-new-money-lbr-mp4]] [[sources/v20-june-2019-opening-mts]].
+- **2020–2021 — the post-classical finance frame.** PayPal's crypto checkout (a regulated walled garden), China's digital yuan targeting the 2022 Olympics, and the 2008 whitepaper as the origin of smart contracts and DeFi alongside Diem, the digital euro, and RBA pilots [[sources/cfo-series-melbourne-while-you-were-out-12nov20]] [[sources/post-classical-finance-cfo-series-sydney-11may21]].
 
 ## Cross References
 
-<link to concepts/ and other entities>
+
+- Entities: [[entities/mark-pesce]] (the author of the arc), [[entities/libra]] (the stablecoin that displaced Bitcoin as the corpus's focus), [[entities/blockchain]] (Bitcoin's durable legacy), [[entities/ethereum]] (the RBA wholesale currency, the smart-contract base), [[entities/facebook]] (Libra's maker, the data-worry source), [[entities/distributed-ledger]] (the enterprise synonym), [[entities/smart-contracts]] (the application layer that followed), [[entities/decentraland]] (the MANA virtual-world currency), [[entities/the-next-billion-seconds]] (the book that previews the post-classical frame), [[entities/microsoft]] (the Alchemist interview's cloud pivot).
+- Concepts: [[concepts/peer-to-peer]] (the decentralised value exchange), [[concepts/trust]] (blockchain as a protocol for exchanging value and trust), [[concepts/verification-design]] (consensus-based verification of data integrity), [[concepts/economic-viability]] (the unbanked and the SME argument), [[concepts/innovation]], [[concepts/the-future]] (the post-classical finance prediction).
 
 ## Debates / Open Questions
 
-<tensions, unresolved>
+
+- **Coin vs legacy.** The corpus is consistent that Bitcoin's real legacy is the technology stack (blockchain, smart contracts, DeFi), not the coin: Pesce credits Bitcoin with proving money can be countable, transferable and non-duplicable without a central issuer, while doubting that slow, volatile, pioneer-phase Bitcoin itself is the form that wins. The page holds that stance.
+- **The settlement-time objection.** The corpus's standing objection to Bitcoin as everyday currency is its slow settlement times; this is the reason Libra (and later CBDCs) are framed as the winners. The page holds the objection as the corpus's argument.
+- **Libra as the forced accelerant.** The corpus frames Facebook's Libra as the event that forced the digital yuan and, by extension, the global CBDC race. The page holds Libra as the pivot and notes the ASX-wav date-metadata caveat (the 2009 file-system date on 2019 content) is flagged on the Libra page.
+- **Gavin Bell / the Bitcoin Foundation.** The corpus credits Gavin Bell (VRML co-author) as the first chief scientist of the Bitcoin Foundation, working on post-quantum cryptography. The page holds the Bell connection as the corpus states it.
+- **The pioneers-to-settlers frame.** The V20 opening casts crypto's transition to FATF regulation as the move from "anarchic pioneering phase" to regulated settlement (pioneers to settlers). The page holds the metaphor as the corpus's framing.
 
 ## Sources
 

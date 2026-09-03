@@ -5,7 +5,7 @@ title: Erik Davis
 tags: ["person"]
 source_count: 13
 created: 2026-08-27T10:51:23Z
-last_updated: 2026-09-02T19:00:08Z
+last_updated: 2026-09-03T21:42:28Z
 related:
   - (populate via lint)
 ---
@@ -13,10 +13,14 @@ related:
 # Erik Davis
 
 ## TL;DR
-<13 sources reference Erik Davis. Compile the one-line synthesis from the sources below.>
+
+The journalist and author who, with Pesce and Rushkoff, co-hosted the 2001 Esalen "Trilogues for a New Millennium" weekend — in the corpus, almost entirely a co-presence.
 
 ## Overview
-<Compile a cross-source synthesis of Erik Davis. What is consistent and what changed over time.>
+
+Erik Davis (ASR variants: Erik Davis, Eric Reiss) appears in the corpus in exactly one context: the 2001 Esalen weekend "Trilogues for a New Millennium", where he is one of the three co-hosts alongside Mark Pesce and Douglas Rushkoff ([[sources/friday-rm]], [[sources/friday-mp3]]). The event was conceived in the spirit of Terence McKenna's conversations; after McKenna's 2000 death, his Esalen memorial that year inspired Nancy Lunney to ask the three of them to carry the work forward ([[sources/friday-rm]]). In the introductory session Davis gives the event's motivation and recalls that he and Pesce "didn't remember ever meeting" — a 1994 SIGGRAPH conversation, or a mix-up with a shorter friend of Pesce's ([[sources/techno-pagans-at-the-end-of-history-1-esalen-mp3]]).
+
+His substantive on-record moments in the corpus are the **Saturday Afternoon** session, where he opens by reading (and skimming) Philip K. Dick's "The Electric Ant" — the tale of T. Garson Pool, waking in a hospital ward with no right hand and no pain, in a world of "splunked" orders and mercantile squids — as a lens onto the weekend's themes of narrative, programming and "shocks", before the conversation turns to agency (whether the agent is an illusion; "agent of compassion"), the PBS/NPR documentary *Merchants of Cool*, and urban planning ([[sources/saturday-afternoon-rm]]). The friday-mp3 digest identifies him as a journalist and author of *Technosis* (the ASR of *TechGnosis*) approaching the topic anthropologically — how magical and religious impulses persist in new media, gaming and subcultiles, and the influence of Tolkien on computer games ([[sources/friday-mp3]]). In the long-form numbered sessions he is mostly a listener while Pesce carries the arguments (gray goo, time waves, overpopulation, TVision) — the corpus's Davis is defined by presence and the single PKD reading rather than by a body of argument.
 
 ## Key Facts
 - [[sources/friday-rm]] — Friday.rm
@@ -35,15 +39,21 @@ related:
 
 ## In the Corpus
 
-<evolution over time>
+
+- All 13 sources are the 2001 Esalen weekend (the eleven numbered "Techno-Pagans" sessions plus Friday/Saturday/Sunday recordings) ([[sources/friday-rm]], [[sources/saturday-afternoon-rm]], [[sources/sunday-mp3]]).
+- His speaking role: the Saturday PKD reading, the Episode 1 introduction, and the anthropological framing of friday-mp3 ([[sources/saturday-afternoon-rm]], [[sources/techno-pagans-at-the-end-of-history-1-esalen-mp3]], [[sources/friday-mp3]]).
 
 ## Cross References
 
-<link to concepts/ and other entities>
+
+- Entities: [[entities/esalen]] (the venue), [[entities/mark-pesce]] and [[entities/douglas-rushkoff]] (co-hosts), [[entities/terence-mckenna]] (the dead co-host whose memorial launched the event), [[entities/apple]] (Pesce's VR work referenced on-site).
+- Concepts: [[concepts/media-theory]] (Merchants of Cool), [[concepts/transhumanism]], [[concepts/imagination]], [[concepts/participation]].
 
 ## Debates / Open Questions
 
-<tensions, unresolved>
+
+- **Speaking vs listening.** The corpus's Davis is largely a co-presence; his only sustained on-record move is the Saturday PKD reading. Whether the published weekend text gives him more is not recoverable from the corpus.
+- **Book title.** The friday-mp3 digest renders his book as *Technosis*; the actual 1999 title is *TechGnosis*. The corpus does not disambiguate.
 
 ## Sources
 

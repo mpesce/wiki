@@ -5,7 +5,7 @@ title: James O'Loghlin
 tags: ["person"]
 source_count: 64
 created: 2026-08-27T10:51:23Z
-last_updated: 2026-09-02T19:00:08Z
+last_updated: 2026-09-03T21:42:28Z
 related:
   - (populate via lint)
 ---
@@ -13,10 +13,16 @@ related:
 # James O'Loghlin
 
 ## TL;DR
-<64 sources reference James O'Loghlin. Compile the one-line synthesis from the sources below.>
+
+The long-running presenter of ABC's *The New Inventors*: the man who introduced every inventor, moderated the panel deliberations, and anchored the corpus's biggest cluster of recordings.
 
 ## Overview
-<Compile a cross-source synthesis of James O'Loghlin. What is consistent and what changed over time.>
+
+James O'Loghlin is the corpus's standing host of *The New Inventors*. Of the show's 64 episode pages, the vast majority are described as "hosted by James O'Loughlin" — the name arriving in ASR variants (O'Loughlin, Lachlan, Loughlin, Mathison) that the ingest layer folds to one slug ([[sources/the-new-inventors-20070214195900-mp4]], [[sources/the-new-inventors-20070221195900-mp4]], [[sources/the-new-inventors-20081029200000-mp4]]). His on-air job was constant: introduce each inventor, walk through the demonstration, steer the judges' debate among design, originality, marketability and need, announce the night's winner as a candidate for the annual Inventor of the Year, invite the People's Choice text-and-phone vote, and close with the program's house quirk of ending on a quote from a writer or poet ([[sources/the-new-inventors-20070314195900-mp4]], [[sources/the-new-inventors-20070411200000-mp4]]).
+
+He was also the show's on-camera tester: the summaries record him trying the Psycho XT exercise swing ("the host tests the skates / demonstrates the equipment"), the wheel skates, and other inventions in the studio ([[sources/the-new-inventors-20090603200000-mp4]], [[sources/the-new-inventors-20090624200000-mp4]]). He hosted the three grand finals in the corpus — 2007 (Conehead helmet liner wins Invention of the Year), 2008 (Join Locks), and 2009 (Colin Chamberlain's safety propeller) — where the year's finalists were judged for the main prize, the Les Ismore Award, and the Bright Spark young-inventor award ([[sources/the-new-inventors-20071128200000-mp4]], [[sources/the-new-inventors-20081126200000-mp4]], [[sources/the-new-inventors-20091125200000-mp4]]).
+
+When he is not at the desk, O'Loghlin is a judge or guest: the 2009 young-inventors special was hosted by Cameron Holmes with "guest judge James O'Loughlin", and the rotating panel — Bradfield Moody, Hobbs, Russell, Page, Deminks, Vaughan, Sahajwala, Kininmonth — took hosting turns in his absence ([[sources/the-new-inventors-20090916200000-mp4]], [[sources/the-new-inventors-20071017200000-mp4]], [[sources/the-new-inventors-20091028200000-mp4]]). The corpus contains no standalone interview in which he is the subject; he exists in it as the program's voice, and his entity page is effectively a role description.
 
 ## Key Facts
 - [[sources/newinventors-mp4]] — newinventors.mp4
@@ -86,15 +92,20 @@ related:
 
 ## In the Corpus
 
-<evolution over time>
+
+- All 64 sources are episodes of *The New Inventors* (February 2007 – November 2009, plus three undated grand finals/specials). He appears in the host credit of most of them, as a guest judge in the 2009 young-inventors special, and — as the rotating panel's anchor — in the program's general framing ([[sources/the-new-inventors-20071128200000-mp4]], [[sources/the-new-inventors-20081126200000-mp4]], [[sources/the-new-inventors-20091125200000-mp4]]).
 
 ## Cross References
 
-<link to concepts/ and other entities>
+
+- Entities: [[entities/the-new-inventors]], [[entities/abc]], [[entities/james-bradfield-moody]], [[entities/bernie-hobbs]], [[entities/chris-russell]], [[entities/alison-page]], [[entities/sally-deminks]], [[entities/richard-vaughan]], [[entities/veena-sahajwala]], [[entities/christine-kininmonth]], [[entities/fiona-wood]], [[entities/mark-pesce]].
+- Concepts: [[concepts/broadcast]], [[concepts/innovation]], [[concepts/public-speaking]].
 
 ## Debates / Open Questions
 
-<tensions, unresolved>
+
+- **One person or several?** The ASR renders the host as "James O'Loughlin", "James A. Lachlan", "James Ray Lachlan", "James Mathison", and even "Dave O'Neill" across episodes. The ingest layer treats these as one entity; the corpus gives no basis to split them, and the program's stable hosting makes a single presenter the parsimonious reading.
+- **Off-program identity.** The corpus offers nothing about him outside the show — no bio, no quotes as a thinker. He is a functionary of the brand, which is itself a finding: the program's continuity was its format, not its people.
 
 ## Sources
 

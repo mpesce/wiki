@@ -5,7 +5,7 @@ title: ABC
 tags: ["organization"]
 source_count: 65
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-09-02T19:00:08Z
+last_updated: 2026-09-03T21:42:28Z
 related:
   - (populate via lint)
 ---
@@ -95,15 +95,27 @@ Around the television work sit adjacent broadcast roles. His podcast The Next Bi
 
 ## In the Corpus
 
-<evolution over time>
+
+The corpus holds the ABC (Australian Broadcasting Corporation) as Pesce's most sustained institutional platform, in four registers:
+
+- **The New Inventors (2007–2009).** The dominant body: 31 episodes in which Pesce sits on the judging panel beside hosts James O'Loughlin and Adam Hills, alongside rotating co-judges ([[sources/the-new-inventors-20070214195900-mp4]], [[sources/the-new-inventors-20090204200000-mp4]]). The role becomes his public credential — "judge on the ABC series The New Inventors" is the standard intro across the corpus ([[sources/mind-share-hd-mov]]).
+- **The standing radio explainer.** Game narrative on The Book Show (2006) [[sources/4-03-the-book-show-23-june-2006-mp3]], Twitter on Nightlife (2009) [[sources/nightlife-twitter-11mar09-mp3]], the LimeWire shutdown on Afternoon Live (2009) [[sources/afternoon-live-mov]], Anonymous on Radio National's Common Knowledge (2012) [[sources/rn-common-knowledge-19feb12-mp3]], and children's location tracking on Life Matters (2017) [[sources/lms-20170505-0906-families-privacy-mp3]].
+- **The news-cycle explainer on television.** The file-sharing lawsuits (2006–2010), The Social Dilemma (2020) [[sources/weekdays-28sep20-the-social-dilemma-mp3]], and the 3D-TV safety warnings (7:30, 2010) [[sources/7-30report-3dtv-3jun10-m4v]].
+- **The 2020 inversion.** By July 2020 the relationship inverted: Pesce addressed ABC staff directly, arguing that "hypercasting" had absorbed broadcasting and offering personalization-and-search advice for the broadcaster's five-year plan [[sources/abc-14jul20-video-first-mp4]].
 
 ## Cross References
 
-<link to concepts/ and other entities>
+
+- Entities: [[entities/mark-pesce]] (the explainer and the hypercasting presenter), [[entities/the-new-inventors]] (the judging panel), [[entities/james-ologhlin]], [[entities/james-bradfield-moody]], [[entities/chris-russell]], [[entities/bernie-hobbs]], [[entities/alison-page]], [[entities/sally-deminks]], [[entities/richard-vaughan]], [[entities/veena-sahajwala]], [[entities/christine-kininmonth]] (the New Inventors co-judges), [[entities/radio-national]] (the ABC's radio home), [[entities/apple]] and [[entities/google]] (the platforms that absorb the ABC's broadcast role).
+- Concepts: [[concepts/journalism]], [[concepts/broadcast]], [[concepts/media-theory]], [[concepts/storytelling]], [[concepts/public-speaking]], [[concepts/innovation]], [[concepts/the-future-of-work]] (the hypercasting argument), [[concepts/digital-distribution]].
 
 ## Debates / Open Questions
 
-<tensions, unresolved>
+
+- **The slug is one institution.** "ABC" in the corpus is consistently the Australian Broadcasting Corporation — ABC News 24, ABC Radio, ABC One, ABC Radio National — not any other ABC. The page holds the slug as the single public broadcaster.
+- **Employer vs explainer vs subject.** The corpus holds three distinct ABC–Pesce relations: the ABC as employer/stage (The New Inventors), the ABC as the outlet that hires Pesce as the standing explainer (radio/TV), and the ABC as the audience Pesce addresses (the 2020 hypercasting presentation). The page holds all three and notes the 2020 shift from being hired by the ABC to addressing the ABC.
+- **The New Inventors roster.** The corpus's New Inventors episodes show a rotating judge roster; the page holds the named judges (O'Loughlin, Hills, Russell, Hobbs, Page, Deminks, Vaughan, Sahajwala, Kininmonth, Moody) as the corpus states them, noting the ASR drift in a few names (e.g., "Pesci", "Venus Sahajwala", "Bernie Hodges").
+- **The 2007-11-14 file.** The corpus describes the 2007-11-14 *New Inventors* file as an Australian news broadcast "likely ABC Radio National" — the only ABC-attributed source where the attribution is inferred rather than stated ([[sources/the-new-inventors-20071114200000-mp4]]). The page holds the inference as the corpus states it.
 
 ## Sources
 

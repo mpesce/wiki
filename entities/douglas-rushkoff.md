@@ -5,7 +5,7 @@ title: Douglas Rushkoff
 tags: ["person"]
 source_count: 17
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-09-02T19:00:08Z
+last_updated: 2026-09-03T21:42:28Z
 related:
   - (populate via lint)
 ---
@@ -45,15 +45,29 @@ Across three decades, the consistent thread is a shared intellectual project: bo
 
 ## In the Corpus
 
-<evolution over time>
+
+The corpus holds Rushkoff across three decades, with the relationship shifting from co-host to host to interview subject:
+
+- **2001 — the Esalen co-host.** The "Techno-Pagans at the End of History" trialogue (co-hosted with Pesce and Erik Davis, in the spirit of McKenna's conversations). Rushkoff frames the weekend around "beginnings" (he believes in only evolutions of form), identifies as a media theorist with theater/journalism roots, and cites *Siberia* (early-1990s cyberculture) and *Coercion* ([[sources/friday-rm]], [[sources/friday-mp3]]).
+- **2009 — the host.** Rushkoff hosts Pesce on The Media Squat (WFMU, from the Personal Democracy Forum), where Pesce discusses open systems vs closed hierarchies ([[sources/rushkoff-mediasquat-30jun09-mp3]]).
+- **2019 — the recommendation.** In the Trench Talk interview, Pesce recommends Rushkoff's book *Team Human* ([[sources/trench-talk-ep57-mark-pesce-mp3]]).
+- **2021 — the interview subject.** Pesce's "wisdom talks" episode on Rushkoff's 60th birthday: the journey from *Free Rides* through *Siberia*, the argument that the internet's infinite-play promise was co-opted by speculative capitalism, financialization stripping relational value, the transactional-vs-relational distinction, and the return to community theater ([[sources/wisdom-douglas-rushkoff-cuts-us-some-slack-febru]]).
+- **2026 — the recommender.** At the High Castle dinner, Rushkoff (with Erik Davis) is cited as one of the respected figures who recommended Pesce as the speaker ([[sources/highcastledinner-17jan26-mp4]]).
 
 ## Cross References
 
-<link to concepts/ and other entities>
+
+- Entities: [[entities/mark-pesce]] (the friend, co-panelist, interviewer, and speaker he recommended), [[entities/erik-davis]] (the third co-host of the 2001 trialogue), [[entities/esalen]] (the 2001 venue), [[entities/terence-mckenna]] (the spirit in which the trialogue was conceived), [[entities/wired]] (the magazine Rushkoff wrote for, the corpus's cited authority), [[entities/burning-man]] (the participatory-venue comparator).
+- Concepts: [[concepts/media-theory]] (Rushkoff's discipline), [[concepts/participation]] (the trialogue format), [[concepts/collaboration]] (the open systems), [[concepts/social-networks]] (the commodification of communication), [[concepts/commons]] (the relational value), [[concepts/journalism]] (his roots), [[concepts/public-speaking]], [[concepts/communication]] (the rich-dialogue-vs-data-transfer argument), [[concepts/the-future]] (the end-of-history frame).
 
 ## Debates / Open Questions
 
-<tensions, unresolved>
+
+- **The shifting relationship.** The corpus holds the arc: 2001 co-host → 2009 host → 2021 interview subject → 2026 recommender. The page holds the four registers and notes the 2026 reversal (Rushkoff recommending Pesce).
+- **The cyberdelic lineage.** The corpus places Rushkoff (and Pesce, and Davis) in the 1990s cyberdelic counterculture, having watched the open web get captured by commercial platforms. The page holds the lineage as the corpus's framing.
+- **The open-web capture argument.** Rushkoff's argument (the internet's infinite-play promise co-opted by speculative capitalism, financialization stripping relational value) is the corpus's standing critique, shared with Pesce. The page holds the argument as the corpus's stance.
+- **The return to theater.** The 2021 wisdom talk credits Rushkoff's return to community theater (medieval mystery plays, Cervantes' Entremeses) as the human-scale, relational response. The page holds the theater return as the corpus's latest register.
+- **The ASR variant.** The 2001 trialogue's third voice is transcribed inconsistently in the corpus ("Eric Reiss", "Erik Davis"); the page holds the "Eric Reiss / Technosis" drift as an ASR variant and cross-references the Erik Davis page for the resolution.
 
 ## Sources
 

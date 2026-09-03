@@ -5,7 +5,7 @@ title: Google
 tags: ["organization"]
 source_count: 43
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-09-02T19:00:08Z
+last_updated: 2026-09-03T21:42:28Z
 related:
   - (populate via lint)
 ---
@@ -73,15 +73,30 @@ Google also threads through Pesce's VR/AR historiography and platform geography.
 
 ## In the Corpus
 
-<evolution over time>
+
+The corpus holds Google as a dual register — tool and threat — with the balance shifting toward monopoly by 2017:
+
+- **The mid-2000s disruptor.** Google Earth as "the world as a database" (the strategic threat to traditional publishers, the "ultimate toy" for classrooms) [[sources/whereintheworld-mp3]] [[sources/1-01-the-kids-are-alright-kincoppal-rose-bay-sch]], the Microsoft–Yahoo search deal against Google's dominance [[sources/hack-thurs-2009-07-30-mp3]], and the Aurora intrusions (Google, Yahoo, Northrop Grumman breached via IE6) [[sources/hack-tues-2010-01-19-mp3]].
+- **The network acquirer.** The US$1.65B YouTube acquisition and the simultaneous licensing deals (big media monetizing the network) [[sources/hypercasting-mp3]], and Android's open multi-manufacturer model contrasted with Apple's closed ecosystem [[sources/sea-20100130-0730-mp3]].
+- **The symposium peer.** Peter Norvig (Google) describes the transition to machine-driven search as the price of the web's "long tail" [[sources/pesce-thesymposium-9dec18-mp4]].
+- **The monopoly register (2017–2020).** Android phones sending location data to Google by default [[sources/lms-20170505-0906-families-privacy-mp3]], Project Tango as an inherently locative surveillance technology [[sources/last-days-of-reality-toronto-17oct17-mov]], the Ascension medical records (~50M US patients) and the Fitbit acquisition [[sources/ntn-20191114-1105-should-we-really-trust-big-tec]], the Apple–Google contact-tracing framework [[sources/ntn-20200521-1105-do-track-and-trace-apps-work-t]], and the pandemic-deepened data-mining profiles [[sources/good-shout-29may20-m4v]].
+- **The VR/AR historiography and infrastructure.** Google Cardboard (2014) as the VR democratizer [[sources/arin6904-5sep18-mp3]] [[sources/reality-remix-wav]], the AR spectacles (Apple, Google, Facebook as imminent staples) [[sources/accanet-12sep18-mp3]], Google Maps traced to the 2004 Keyhole acquisition (a filtered view of the world) [[sources/surveillance-status-arin2610-20oct20-mp4]], and Project Loon as simple infrastructure in the PNG talk [[sources/png2019-mkv]].
 
 ## Cross References
 
-<link to concepts/ and other entities>
+
+- Entities: [[entities/mark-pesce]] (the explainer and the moderating panelist), [[entities/facebook]] (the co-monopolist, the AR race), [[entities/apple]] (the closed-ecosystem contrast, the contact-tracing partner), [[entities/microsoft]] (the search-deal rival, the other AR player), [[entities/lonely-planet]] (the advised client threatened by Google Earth), [[entities/vr]] (the Cardboard democratization), [[entities/ar]] (Project Tango, the right to write), [[entities/world-wide-web]] (the colonized public space), [[entities/the-next-billion-seconds]] (the book that previews the post-classical frame).
+- Concepts: [[concepts/surveillance-capitalism]] (the monopoly register), [[concepts/attention-economy]] (the search and the data harvesting), [[concepts/media-theory]] (the network acquirer and the filtered world), [[concepts/innovation]], [[concepts/democratization]] (Cardboard and the open ecosystem), [[concepts/open-source]] (the Android contrast), [[concepts/social-networks]] (the data-mining profiles), [[concepts/the-future]] (the AR spectacles and the right to write).
 
 ## Debates / Open Questions
 
-<tensions, unresolved>
+
+- **Tool vs threat.** The corpus holds the dual register: Google Earth and Cardboard are celebrated as democratizing instruments (the "ultimate toy", the VR democratizer), while by 2017–2021 Google is treated as a surveillance-capitalist monopolist (location data, Project Tango, the medical records, the AR "right to write"). The page holds both and notes the balance shifts toward monopoly by 2017.
+- **Google Earth as a database.** The corpus frames Google Earth as "established the world as a database" — a strategic threat to publishers (the aggregation of geographically contextual information) and simultaneously "the ultimate toy" for classrooms. The page holds the dual frame and the walled-garden-vs-syndication advice.
+- **Android vs Apple.** The recurring contrast (Android's open multi-manufacturer model vs Apple's closed ecosystem) is the corpus's standing platform critique. The page holds the contrast and notes it recurs in the App Store, the location-data default, and the contact-tracing framework.
+- **The medical records.** The corpus asserts Google holds the full non-anonymized medical records of ~50M US patients via Ascension and the Fitbit biometric data, raising antitrust-style questions about private control of health data. The page holds the claim as the corpus's stance and notes it is Pesce's cited assertion.
+- **Google Maps / Keyhole.** The surveillance-status lecture traces Maps to the 2004 Keyhole acquisition and argues it presents a filtered version of the world designed to direct behavior, not an objective view. The page holds the filtered-world argument as the corpus's stance.
+- **The Mozilla distinction.** The corpus is explicit that Pesce's employment credential is with Mozilla (not Google); Google appears only as a platform he critiques and a peer (Norvig) he moderates. The page holds the distinction and does not attribute a Google tenure to Pesce.
 
 ## Sources
 

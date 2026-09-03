@@ -45,7 +45,7 @@ follow the backlinks.
 
 ## Status
 
-- Last full rebuild: **2026-09-03** (dates normalized; entity vocabulary
+- Last full rebuild: **2026-09-04** (dates normalized; entity vocabulary
   expanded; queries seeded) — lint clean (0 broken links, 0 orphans,
   0 missing cross-refs).
 - Known gaps: 185 undated sources; entity vocabulary is curated and can

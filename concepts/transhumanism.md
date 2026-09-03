@@ -5,7 +5,7 @@ title: Transhumanism
 tags: ["concept"]
 source_count: 2
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-09-02T19:00:08Z
+last_updated: 2026-09-03T21:42:28Z
 related:
   - (populate via lint)
 ---

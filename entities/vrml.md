@@ -5,7 +5,7 @@ title: VRML
 tags: ["technology"]
 source_count: 48
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-09-02T19:00:08Z
+last_updated: 2026-09-03T21:42:28Z
 related:
   - (populate via lint)
 ---
@@ -78,15 +78,31 @@ In the 2020s VRML is invoked as the metaverse's common ancestor and its standing
 
 ## In the Corpus
 
-<evolution over time>
+
+The corpus's VRML arc (48 sources, 1993–2025) is the founding open-standards story, told consistently across decades:
+
+- **Origins (1994).** Fresh from the Ono Sendai collapse, Pesce discovered the web and with Tony Parisi built the first VRML browser in early 1994, presenting at the first International WWW conference at CERN that May; the first object the language modeled was a banana, and a SIGGRAPH 1994 demo digitized the US Holocaust Memorial Museum's "Daniel's Story" ([[sources/reality-remix-wav]] [[sources/mark-pesce-session-1-wav]]).
+- **The open-standards process.** The real achievement was process: a "global community of approximately 2,000 contributors" making an open, platform-independent "3D equivalent of HTML" ([[sources/vrml-interview-mp4]]), formalized through the VRML Architecture Group after the "cowboy-style" 1995 frontier spent fending off Silicon Graphics and Microsoft ([[sources/avatars96-keynotes-pesce-parisi-512kb-mp4]]) and taken through the ISO standards process ([[sources/broadcast-and-autonomy-acma-30oct18-mp3]]).
+- **Unexpected adoption.** Chemists worldwide adopted it to share and annotate molecular structures, and the vision stretched to a NASA-data "Web Earth" deliberately open-sourced to keep it out of state hands ([[sources/avatars96-pesce-leonard-dipaola-512kb-mp4]]).
+- **Decline diagnosis.** Consistent across decades: VRML "failed to gain widespread adoption because early computers lacked the processing power and broadband speeds required for 3D graphics" ([[sources/whenimsixtyfour-part1-mov]]); real-time 3D retreated into game consoles while the web stayed flat.
+- **The comeback.** Smartphones cheapened displays/sensors and WebGL brought performant 3D into browsers — Pesce demonstrated WebVR on a consumer Android television in 2017 ([[sources/web3d2017-mp3]]) — and consumer VR returned around 2014–2016 ([[sources/vr-creative-cluster-mark-pesce-9-aug-video1-mp4]]).
+- **The metaverse ancestor.** In the 2020s VRML is invoked as "an early attempt at the metaverse" and the standing warning that the metaverse is "a house built on sand" — walled-garden platforms against Parisi's one-metaverse principle ([[sources/a-house-built-on-sand-interoperability-in-the-me]]) — while AR has inherited the spatial-web agenda (Pokémon Go, the "right to write") ([[sources/internet-transformations-5oct21-mp4]]).
 
 ## Cross References
 
-<link to concepts/ and other entities>
+
+- Entities: [[entities/tony-parisi]] (the co-creator), [[entities/mark-pesce]] (the co-creator), [[entities/ivan-sutherland]] (the Ultimate Display / real-time-3D lineage VRML inherits), [[entities/microsoft]] (the frontier-day competitor), [[entities/world-wide-web]] (VRML as the 3D equivalent of HTML), [[entities/vr]] (VRML as the VR web standard), [[entities/webgl]] (the successor that revived 3D in browsers), [[entities/ar]] (the spatial-web agenda AR inherited), [[entities/metaverse]] (VRML as the common ancestor), [[entities/pokemon-go]] (the AR that inherited located metadata), [[entities/3d]] (the real-time-3D lineage), [[entities/the-next-billion-seconds]] (the futurism that recasts VRML as open standards).
+- Concepts: [[concepts/open-source]] (the core achievement — open, platform-independent, kept out of state hands), [[concepts/collaboration]] (the 2,000-contributor global community), [[concepts/innovation]] (the open standards process), [[concepts/virtual-reality]] (the medium VRML standardized for the web), [[concepts/peer-to-peer]] (the decentralized, open architecture), [[concepts/media-theory]] (the spatial-web / mixed-reality agenda), [[concepts/democratization]] (open access, Web Earth as public good).
 
 ## Debates / Open Questions
 
-<tensions, unresolved>
+
+- **The co-creator's name.** Sources overwhelmingly name the co-creator as Tony Parisi, but a sampled Web3D 2017 source calls him "Tony Bogdanoff." The page holds Tony Parisi (the dominant, cross-corroborated form) and treats "Bogdanoff" as an ASR variant of the same co-creator, since no sampled source treats a distinct Tony Bogdanoff as the VRML co-inventor.
+- **Process vs product.** The corpus's consistent frame is that VRML's achievement was *process* (the open standards community, the ISO path) rather than *product* (the browser that never reached mass adoption). The page holds this as the standing reading and notes the tension with the commercial failure.
+- **The metaverse ancestor and the one-metaverse principle.** Pesce calls VRML "an early attempt at the metaverse" and the metaverse "a house built on sand," set against Tony Parisi's principle that there should be only one metaverse. The page holds the one-metaverse / interoperability argument as the corpus's standing position.
+- **The decline diagnosis.** The consistent diagnosis (processing power, broadband, unfamiliarity with 3D animation) is held as the corpus's account, with the comeback attributed to smartphones + WebGL.
+- **The open-sourcing to keep it out of state hands.** The Web Earth vision was deliberately open-sourced to keep it from state control. The page holds this as the corpus's open-standards motivation and treats it as the standing philosophy of the open web.
+- **The spatial-web agenda inherited by AR.** The corpus holds that AR (Pokémon Go, the "right to write") inherited the located-metadata / spatial-web agenda VRML opened in 1994. The page holds the inheritance claim and treats the spatial web as the standing thread from VRML to AR.
 
 ## Sources
 

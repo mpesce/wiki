@@ -5,7 +5,7 @@ title: Facebook
 tags: ["organization"]
 source_count: 71
 created: 2026-08-26T13:20:28Z
-last_updated: 2026-09-02T19:00:07Z
+last_updated: 2026-09-03T21:42:28Z
 related:
   - (populate via lint)
 ---
@@ -101,15 +101,31 @@ The final arc, 2020–2021, is reckoning. Pesce reads The Social Dilemma on air 
 
 ## In the Corpus
 
-<evolution over time>
+
+The corpus holds Facebook across a twelve-arc (2010–2021) in four registers, with the business-model claim constant and the evidence escalating:
+
+- **2010 — the privacy antagonist.** Life Matters (Facebook gathered "the largest wealth of marketing data in history", the social graph as an extracted asset, terms imposed unilaterally) [[sources/lms-20100531-0905-mp3]], the Plexus unveiling (an open-source "traffic cop" to leave without abandoning connections) [[sources/pollenizerpodcast-20100728-mp3]], and the "digital refugee" keynote at the first Python convention [[sources/hownottobeseen-mp4]].
+- **2011 — mimesis weaponized.** linux.conf.au: Facebook weaponized human mimesis by capturing the social graph inside a closed system; the WikiLeaks deplatforming as proof the net can be censored ([[sources/lca2011-keynote-mov]]).
+- **2014–2017 — surveillance capitalism.** The 2014 emotional-contagion study (689,000 users), The Australian's 2017 report on targeting vulnerable teens, and the "global cognitive bias amplifier" frame (EGA, Golden Age Cinema, State Library of Victoria) [[sources/ega-wav]] [[sources/slv-wav]]; Cambridge Analytica (the 50-million-profile harvest) [[sources/rnd-20180319-1825-mp3]]; and "digital colonialism" (the Toronto keynote, the Luther 500th) [[sources/last-days-of-reality-toronto-17oct17-mov]].
+- **2019 — money.** The Libra stablecoin (the "900 pound gorilla" bringing Visa, MasterCard, PayPal, Vodafone), the permanent auditable transaction trail, and "one world, two systems" (Facebook vs the digital yuan) [[sources/rnd-20190619-1906-fb-libra-mp3]] [[sources/knew-money-24sep19-mp3]].
+- **2020–2021 — the reckoning.** The Social Dilemma (AI-tuned feeds radicalizing toward QAnon/anti-vax) [[sources/weekdays-28sep20-the-social-dilemma-mp3]], the Stop Hate for Profit boycott [[sources/ninetonoon-25jun20-mp3]], the engagement machinery (intermittent dopamine, infinite scroll, Sheryl Sandberg's Google-borrowed techniques) [[sources/josh-szeps-podcast-17aug21-wav]], and Project Aria (AR gaze detection, the "negative engagement" whistleblower reports) [[sources/arin-2610-internet-transformations-the-ar-dilemm]].
 
 ## Cross References
 
-<link to concepts/ and other entities>
+
+- Entities: [[entities/mark-pesce]] (the critic and the "digital refugee"), [[entities/libra]] (the stablecoin that displaced Facebook's 2019 focus), [[entities/meta]] (the 2023 rebrand, the corpus's separate successor slug), [[entities/google]] (the data-harvesting contrast, Sandberg's origin, the AR race), [[entities/apple]] (the walled-garden comparator), [[entities/blockchain]] (the Libra/Diem stack), [[entities/python]] (the Plexus implementation language), [[entities/world-wide-web]] (the colonized public space), [[entities/the-next-billion-seconds]] (the book that previews the post-classical frame), [[entities/microsoft]] (the BAT and the other AR player).
+- Concepts: [[concepts/surveillance-capitalism]] (the core theory), [[concepts/social-networks]] (the captured social graph), [[concepts/attention-economy]] (the engagement-maximization model), [[concepts/media-theory]] (the cognitive bias amplifier), [[concepts/open-source]] (the Plexus counter-current), [[concepts/peer-to-peer]] (the decentralized alternatives), [[concepts/participation]], [[concepts/the-future]] (the post-real curated reality), [[concepts/innovation]] (the BAT and the direct brand-consumer shift).
 
 ## Debates / Open Questions
 
-<tensions, unresolved>
+
+- **The central villain.** The consistent claim across the 2010–2021 arc: the business model (engagement maximized through profiling) is the problem, not any single scandal; only the evidence escalates. The page holds this as the corpus's standing position.
+- **The social graph.** The corpus treats the social graph as the most valuable personal data, an asset extracted from users' minds and trapped in a closed system. The page holds the social-graph-as-asset argument and the Plexus counter (portability, export).
+- **Digital colonialism.** The 2017 Toronto keynote names Facebook as the colonizer of public digital space (offering community tools users adopted without considering the cost) and calls for a "digital reformation". The page holds the Luther 500th framing as the corpus's rhetorical anchor.
+- **The money pivot.** The 2019 Libra register is the corpus's unexpected turn: Facebook as a payments player (the "900 pound gorilla"), with the geopolitical endgame "one world, two systems" (Facebook vs the digital yuan). The page holds the pivot and cross-references the Libra page for the date-metadata caveat.
+- **Project Aria / the AR panopticon.** The 2021 ARIN lecture connects Project Aria (gaze detection) to the "negative engagement" whistleblower reports, completing the surveillance arc from news feeds to physical space. The page holds the AR panopticon as the corpus's latest register.
+- **The In-Q-Tel / Peter Thiel claim.** The 2010 Life Matters interview asserts Facebook is backed by Peter Thiel and the CIA's investment arm In-Q-Tel. The page holds the claim as the corpus states it and notes it is Pesce's cited assertion, not independently verified in the corpus.
+- **The Meta distinction.** The corpus's Facebook arc ends in 2021; the 2023 rebrand to Meta is held as a separate slug ([[entities/meta]]). The page notes the rebrand as the corpus's successor entity and does not fold Meta sources into this page.
 
 ## Sources
 
