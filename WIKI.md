@@ -177,7 +177,7 @@ Entity pages are MUTABLE — they compile and evolve as more sources arrive.
 
 Use double-bracket `[[wiki-relative-path]]` links (Obsidian-style).
 Examples: `[[concepts/hyperdistribution]]`,
-`[[entities/mark-pesce]]`, `[[sources/abc-jjj-14mar06-interview]]`.
+`[[entities/mark-pesce]]`, `[[sources/abc-jjj-14mar06-interview-mp3]]`.
 The LINT pass (§7.2) flags **broken** links (targets that don't exist).
 
 ## 5. INDEX.md
