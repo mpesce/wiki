@@ -48,6 +48,19 @@ follow the backlinks.
 - Last full rebuild: **2026-09-04** (dates normalized; entity vocabulary
   expanded; queries seeded) — lint clean (0 broken links, 0 orphans,
   0 missing cross-refs).
-- Known gaps: 185 undated sources; entity vocabulary is curated and can
-  be extended; lower-traffic entity/concept pages still carry
-  TL;DR/Overview template placeholders.
+- Known gaps: 185 undated sources; the entity vocabulary is curated and
+  can be extended.
+
+## How this was made: the night shift
+
+This wiki is a night-shift deliverable: a long task (the parent
+`nightshift/` project's `TASK.md`) handed to an autonomous LLM agent, which
+worked it across consecutive overnight sessions with no human at the
+keyboard. Each night the agent advanced the work and left a morning
+`RESUME.md` stating exactly how far it had gotten and what was next; the
+following night's agent read it and carried on — which is how the work was
+allowed to take as many nights as it took. That is the "cognition surplus":
+after-hours labour by a machine whose owner was asleep. The design
+requirement is that the output be durable enough for a stranger to clone
+and audit, so the repo ships with its full git history, an append-only
+`LOG.md`, and lint reports that anyone can re-verify.
