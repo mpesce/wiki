@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1RQkGk4IPookWf5ect32ibqLjAXf76Z95/v
 type: interview
 date: 2020-11-20
 tags: ["apple", "ar", "facebook", "ivan-sutherland", "mark-pesce", "microsoft", "mozilla", "networks", "pokemon-go", "surveillance"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

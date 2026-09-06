@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1UuHenkPKFjXMLMCnHfqly0QvMd1t2eOy/v
 type: panel
 date: 2009-02-11
 tags: ["abc", "bernie-hobbs", "broadcast", "james-bradfield-moody", "the-new-inventors"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/bernie-hobbs

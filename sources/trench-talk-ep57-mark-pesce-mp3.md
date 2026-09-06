@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1tvvivab_DJeAyR6EtbXMmsp0Tln5lTzE/v
 type: keynote
 date: 2019
 tags: ["douglas-rushkoff", "facebook", "libra", "mark-pesce", "podcast", "smart-contracts", "the-future", "the-future-of-work"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

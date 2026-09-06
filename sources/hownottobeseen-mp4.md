@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1uQQiDmQX5Ys3G2CDjyhSDSj9itOS6BJ2/v
 type: keynote
 date: 2010
 tags: ["collaboration", "communication", "facebook", "javascript", "mark-pesce", "networks", "open-source", "python", "social-media", "social-networks", "twitter"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

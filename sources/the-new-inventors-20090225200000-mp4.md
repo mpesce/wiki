@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1aaAWI-hVpkj8vWqFCd8qAMVhhrmeskZ0/v
 type: interview
 date: 2009-02-25
 tags: ["abc", "bernie-hobbs", "james-bradfield-moody", "james-ologhlin", "richard-vaughan", "the-new-inventors"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/james-ologhlin

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/12YzNJg-L8byG6RTiTQl7CTlKra8LUERq/v
 type: webinar
 date: 2001
 tags: ["esalen", "mark-pesce", "networks"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

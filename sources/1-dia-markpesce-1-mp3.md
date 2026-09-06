@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1jYk4WAxS1n8cbL5XordFnOijmsWCJ3LX/v
 type: podcast
 date: unknown
 tags: ["facebook", "mark-pesce", "networks", "social-media", "social-networks", "the-future", "twitter"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

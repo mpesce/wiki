@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/19jA12aHOAGxYcAT7MnLR4fI9AHnIUgY7/v
 type: panel
 date: 2009-02-18
 tags: ["abc", "alison-page", "bernie-hobbs", "chris-russell", "james-ologhlin", "the-new-inventors"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/james-ologhlin

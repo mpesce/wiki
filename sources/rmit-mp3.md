@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1niaDFj1wj5NR5_5FatPBAzfTmV3bR-7t/v
 type: keynote
 date: 2000
 tags: ["mit", "rmit", "the-future"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mit

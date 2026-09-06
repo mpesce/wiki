@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1QtmBgIfvTAv6hcO-dSNASraTIBb2OTW3/v
 type: interview
 date: 2008-10-01
 tags: ["abc", "alison-page", "bernie-hobbs", "broadcast", "identity", "james-bradfield-moody", "james-ologhlin", "the-new-inventors", "the-swarm"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/james-ologhlin

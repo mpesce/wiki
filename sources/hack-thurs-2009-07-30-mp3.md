@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/15qAJg_kdrwEMCfq8Jx8-bi94fQTmFN9W/v
 type: interview
 date: 2009-07-30
 tags: ["broadcast", "google", "mark-pesce", "microsoft", "social-media", "the-future"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

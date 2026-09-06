@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1x8ft7ZOy41ccTdY19j7VD72tZsKml-ob/v
 type: interview
 date: 2009
 tags: ["abc", "innovation", "mark-pesce", "peer-to-peer"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

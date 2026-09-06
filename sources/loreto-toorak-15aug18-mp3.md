@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1sppkytZR3H29e1cMrerUqOJtKXDEfBTO/v
 type: lecture
 date: 2018-08-15
 tags: ["artificial-intelligence", "education", "google", "mark-pesce", "networks", "the-future"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1NhWUlWkcX1jl0V3byn3xr3R_4V37ptDF/v
 type: interview
 date: 2010-07-28
 tags: ["apple", "facebook", "mark-pesce", "mozilla", "open-source", "podcast", "social-media", "twitter"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

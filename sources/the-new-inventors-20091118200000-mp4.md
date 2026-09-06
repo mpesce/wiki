@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1jK7T4ntZsSx1Hu1IxRIFRElsD0VgVkL3/v
 type: panel
 date: 2009-11-18
 tags: ["abc", "broadcast", "james-bradfield-moody", "james-ologhlin", "richard-vaughan", "the-new-inventors"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/james-ologhlin

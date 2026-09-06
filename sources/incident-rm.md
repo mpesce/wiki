@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1L6yH51NCFaE5u_uFjmVMSEP7CO_AbzFy/v
 type: interview
 date: unknown
 tags: ["narrative"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - (none)

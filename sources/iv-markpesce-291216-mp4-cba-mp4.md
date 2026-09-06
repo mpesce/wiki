@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1K4_tI8OGZSfAJJnt-XkY27ht2FZQSero/v
 type: interview
 date: 2016-12-29
 tags: ["mark-pesce", "pokemon-go", "virtual-reality", "vr"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

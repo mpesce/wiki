@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1PGPzSq8ekz2rrhBVeQWX3qG9lDzm_T9w/v
 type: panel
 date: 2009-06-24
 tags: ["alison-page", "fiona-wood", "james-bradfield-moody", "james-ologhlin", "the-new-inventors"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/james-ologhlin

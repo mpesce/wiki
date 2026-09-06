@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1mKiztLnVzkP76beh3bM_D_vT6ffdzcXx/v
 type: workshop
 date: 2009
 tags: ["the-future"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - (none)

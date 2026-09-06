@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1KOtr46xevCSOMh3tfSOWFn8Yvfz4IfN8/v
 type: panel
 date: 2009-08-12
 tags: ["bernie-hobbs", "communication", "james-bradfield-moody", "james-ologhlin", "the-new-inventors"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/james-ologhlin

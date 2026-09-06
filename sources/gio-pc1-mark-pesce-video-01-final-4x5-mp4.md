@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1n13n8VdfkuL4PMRKqT1p1XLvQ6L2L2Ny/v
 type: podcast
 date: 2020
 tags: ["mark-pesce", "podcast", "the-future", "the-next-billion-seconds"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

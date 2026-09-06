@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1vtFBBSP5FpD6-9zPXyLmAY7lKXzfxHck/v
 type: workshop
 date: 2019-06
 tags: ["3d", "bitcoin", "facebook", "libra", "mark-pesce", "participation", "the-future", "tony-parisi", "vrml", "world-wide-web"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

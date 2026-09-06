@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1O_jWg2uUXCDhsWK91upo8t_XXthBl3hI/v
 type: panel
 date: 2007-05-02
 tags: ["alison-page", "chris-russell", "richard-vaughan", "the-new-inventors"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/chris-russell

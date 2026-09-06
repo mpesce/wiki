@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1JPjF9V_91I4m7ZGJo9e6ZC00rixV68fI/v
 type: news
 date: 2001
 tags: ["attention", "mark-pesce", "open-source"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

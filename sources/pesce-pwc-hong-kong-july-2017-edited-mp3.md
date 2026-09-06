@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1PJ9siaQqmHz7pOTNKYlND_1soXdUsJrp/v
 type: interview
 date: 2017-07
 tags: ["3d", "vr"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/3d

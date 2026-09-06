@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1wS3rZ33ugMK_H89IVY5pBx_8SEV86Ce1/v
 type: workshop
 date: 2011-08-30
 tags: ["collaboration", "communication", "connectivity", "education", "mark-pesce", "peer-to-peer", "surveillance"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

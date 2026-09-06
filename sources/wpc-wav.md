@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1ekuGi3aFu92zlc1kVT92qZ2RTu-uU80c/v
 type: keynote
 date: unknown
 tags: ["artificial-intelligence", "mark-pesce", "participation", "the-future", "vrml"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

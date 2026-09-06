@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/15y_KH0NJ1_MZlnHj_dGA95NWlAxm9Wni/v
 type: panel
 date: 2005
 tags: ["creators", "education", "mark-pesce", "networks", "social-networks", "the-future"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

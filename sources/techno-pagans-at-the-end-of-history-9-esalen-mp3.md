@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1pytZdtmkqwlmmr4jea_W3W6WyCm6idEm/v
 type: workshop
 date: 2001
 tags: ["douglas-rushkoff", "erik-davis", "esalen", "mark-pesce", "virtual-reality", "vr"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

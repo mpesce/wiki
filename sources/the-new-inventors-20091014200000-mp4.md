@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/10QmX_EHa4m0Ho3UYxaIZBsA3ccVDT9wJ/v
 type: panel
 date: 2009-10-14
 tags: ["christine-kininmonth", "james-bradfield-moody", "james-ologhlin", "richard-vaughan", "the-new-inventors"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/james-ologhlin

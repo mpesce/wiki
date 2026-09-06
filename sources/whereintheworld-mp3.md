@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1_bcXF-jIFyjlFzddL6A53JLCBg0Ds1eA/v
 type: interview
 date: unknown
 tags: ["3d", "apple", "digital-distribution", "economic-viability", "google", "lonely-planet", "mark-pesce", "networks", "social-networks", "virtual-reality", "vrml"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

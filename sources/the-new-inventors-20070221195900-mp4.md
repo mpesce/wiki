@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1XNPeFJaChaXuaDlWMfU5ASM2netq4gRT/v
 type: panel
 date: 2007-02-21
 tags: ["chris-russell", "james-ologhlin", "sally-deminks", "the-new-inventors", "veena-sahajwala"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/james-ologhlin

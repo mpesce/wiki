@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1Yx54f9lAe9V8w8XqK9y1BiFD_JYVarPQ/v
 type: interview
 date: 2017-05-05
 tags: ["abc", "apple", "google", "mark-pesce", "networks", "radio-national", "surveillance", "trust"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/15WniCxhZG49O2BBo1G--QyQi3TBnOMKx/v
 type: podcast
 date: 2009-09-16
 tags: ["attention", "broadcast", "james-ologhlin", "the-new-inventors"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/james-ologhlin

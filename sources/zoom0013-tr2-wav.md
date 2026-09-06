@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/11M_YqwqJCO3GOCQYNyfHL7veCwuD7biG/v
 type: keynote
 date: 2016
 tags: ["bitcoin", "blockchain", "collaboration", "distributed-ledger", "innovation", "trust", "unsw", "world-wide-web"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/unsw

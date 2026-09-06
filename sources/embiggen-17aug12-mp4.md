@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/13n-ikMAZ388a8o1Yb-4jK74i3VS4h4Ok/v
 type: interview
 date: 2012-08-17
 tags: ["connectivity", "mark-pesce", "mit", "narrative", "surveillance", "the-next-billion-seconds"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

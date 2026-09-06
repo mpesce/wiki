@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1Xvgb0fTfpaJxvo6JoqJvoDSBLSv3BOUE/v
 type: podcast
 date: 2004
 tags: ["battlestar-galactica", "broadcast", "hyperdistribution", "mark-pesce", "networks"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

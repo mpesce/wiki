@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1l9dYfaDWT3E8CilSk6ZuYjicEhYyFs2H/v
 type: keynote
 date: 2019
 tags: ["artificial-intelligence", "education", "facebook", "libra", "mark-pesce", "the-future", "the-next-billion-seconds"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

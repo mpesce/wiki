@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1LoYw8CRzGfu8pObCCEPz_SiRwXscgvYK/v
 type: keynote
 date: unknown
 tags: ["apple", "artificial-intelligence", "mark-pesce", "world-wide-web"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

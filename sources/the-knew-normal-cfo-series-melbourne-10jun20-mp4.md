@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1WYIAS9Texv_BbWS-5Bll5dsZ2HuJPUBO/v
 type: podcast
 date: 2020-06-10
 tags: ["apple", "podcast", "remote-work", "the-next-billion-seconds"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/apple

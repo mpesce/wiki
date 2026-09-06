@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1FG5sytt58TJC9UIg2VGal3EguX9s23uZ/v
 type: podcast
 date: 2021-06-08
 tags: ["apple", "mark-pesce", "mozilla", "podcast"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

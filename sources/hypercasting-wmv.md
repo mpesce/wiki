@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1KJGjrmqVrAmrS_55EE3XRX5Q7LGZHbS2/v
 type: news
 date: 2006
 tags: ["content-creation", "google", "mark-pesce", "networks", "peer-to-peer", "social-networks", "the-future"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

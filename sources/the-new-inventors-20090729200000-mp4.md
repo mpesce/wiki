@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1zw0PaeTlPW_AqDtAt1WJ9xLIurl4mD7a/v
 type: panel
 date: 2009-07-29
 tags: ["broadcast", "the-new-inventors"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/the-new-inventors

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1q2tkPFw6lFSfbMgttk4QqgQg3G2-LUB2/v
 type: keynote
 date: 2015
 tags: ["mark-pesce", "the-future"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

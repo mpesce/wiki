@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/11L1WN5RFXkorpgE7b_b0SyelgiY4kNpl/v
 type: keynote
 date: 2017-10-17
 tags: ["ar", "facebook", "google", "mark-pesce", "pokemon-go", "surveillance"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

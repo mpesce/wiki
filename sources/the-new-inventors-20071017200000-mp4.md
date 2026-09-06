@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1b_HZ61WjGqPEsEa21M1mPBii0hrOIzeS/v
 type: panel
 date: 2007-10-17
 tags: ["bernie-hobbs", "james-bradfield-moody"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/bernie-hobbs

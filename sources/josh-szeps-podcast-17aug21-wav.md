@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/18Wu-oumnNVDMuzsw_Ax6vjCcxEZjUPER/v
 type: interview
 date: 2021-08-17
 tags: ["creators", "facebook", "google", "mark-pesce", "social-media"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

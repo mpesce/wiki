@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1V2XpCAFk4hJY77gwtwlmSK6qFm4NyRRD/v
 type: interview
 date: 2026
 tags: ["broadcast", "narrative"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - (none)

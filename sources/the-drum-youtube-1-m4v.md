@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1PCCBoo5AeSHzvh68HEzHg2nkVXEjPjVn/v
 type: interview
 date: 2011
 tags: ["3d", "abc", "identity", "mark-pesce", "microsoft", "radio-national", "social-media", "trust", "twitter", "virtual-reality"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

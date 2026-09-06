@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1BCNvyX4bog3bZq1_-pcoydRSrNIN4ulN/v
 type: podcast
 date: 2018-10-30
 tags: ["3d", "broadcast", "vrml", "world-wide-web"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/vrml

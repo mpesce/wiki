@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1lj7Q7CoHfC6zbbc-tjxwzYeiNzLFdvtY/v
 type: interview
 date: 2010-08-22
 tags: ["mark-pesce", "the-future", "virtual-reality", "vr", "vrml"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1qzRc3qiNVHjn9uO_Ky6SD_Yf0PCw3UEE/v
 type: interview
 date: 2022-10-13
 tags: ["apple", "burning-man", "connectivity", "innovation", "mark-pesce", "metaverse", "podcast", "twitter"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

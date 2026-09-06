@@ -14,7 +14,7 @@ pages, this overview, and an index — per the schema in WIKI.md.
   audio stream: `bscast.mov`, `bluestates-capture.mov`).
 - All 626 transcribed recordings are documented as native Google Docs
   in the Drive archive (finalize complete 2026-08-26).
-- Dates normalized 2026-09-04 (`tools/normalize_dates.py`): 440 of 625
+- Dates normalized 2026-09-06 (`tools/normalize_dates.py`): 440 of 625
   sources dated (filename-derived where possible), spanning 1993–2026;
   **185 remain unknown** (raw clips and re-uploads with no recoverable
   date). Implausible text-mined dates were reset rather than kept.
@@ -27,7 +27,7 @@ pages, this overview, and an index — per the schema in WIKI.md.
 
 > Extraction is vocabulary-based (`tools/ingest_wiki.py`), including ASR
 > misspelling variants ("Mark Pesci", "Venus Sahajwala"). The vocabulary
-> was expanded 2026-09-04; entities not yet in the curated list can be added
+> was expanded 2026-09-06; entities not yet in the curated list can be added
 > the same way.
 
 ## Concepts (50 pages)
@@ -62,10 +62,10 @@ file the answers there.
 - `entities/` — 61 pages (17 people, 25 orgs, 19 technologies).
 - `concepts/` — 50 pages.
 - `queries/` — 20 cited research answers.
-- `lint/` — dated reports; latest in the directory (clean as of 2026-09-04).
+- `lint/` — dated reports; latest in the directory (clean as of 2026-09-06).
 
 ## Status
-- **Last built:** 2026-09-04 (vocabulary-expansion rebuild).
+- **Last built:** 2026-09-06 (vocabulary-expansion rebuild).
 - **Quality:** lint clean — 0 broken links, 0 orphans, 0 missing
   cross-refs (see latest `lint/` report).
 - **Known gaps:** 185 undated sources; entity vocabulary still

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1MZFgJdn9j80tKKwjFIzKpgFAikQ-tzPu/v
 type: panel
 date: 2001
 tags: ["abc", "artificial-intelligence", "ivan-sutherland", "mark-pesce", "the-future", "virtual-reality", "vrml"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

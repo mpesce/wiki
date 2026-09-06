@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1aKOUv-Pb8hKws4s1Jq5SIoEZTtpJpNZq/v
 type: lecture
 date: 2020-05-29
 tags: ["attention", "facebook", "google", "mark-pesce", "social-media", "surveillance"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

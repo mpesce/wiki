@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1wY1-fvZuT6yEFWk8TdgpRl0uY7MCp2Hz/v
 type: interview
 date: 2022-12-13
 tags: ["mark-pesce", "trust"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

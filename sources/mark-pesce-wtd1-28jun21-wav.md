@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1e1pfHNrrGTDrIXpWEBt3hXpgwofkVjTq/v
 type: interview
 date: 2021-06-28
 tags: ["abc", "google", "innovation", "mark-pesce", "mit", "podcast", "startups", "venture-capital"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

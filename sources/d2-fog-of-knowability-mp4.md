@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1_hIVuTAt4NynRgaOCR_6gOb2_xvYHtAL/v
 type: clip
 date: 2025
 tags: ["fog-of-knowability"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - (none)

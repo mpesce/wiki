@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1cOksXAjomQ9UmJChKpvUyBIMtznqlrzn/v
 type: interview
 date: 2011
 tags: ["apple", "bitcoin", "connectivity", "mark-pesce", "the-future", "the-next-billion-seconds", "vrml"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

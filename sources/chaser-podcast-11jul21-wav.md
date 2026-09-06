@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1ZshjVrNZxDUd2GmOYV0Aj-D8bRUS_U5V/v
 type: interview
 date: 2021-07-11
 tags: ["podcast"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - (none)

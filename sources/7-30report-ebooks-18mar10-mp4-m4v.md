@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1WXDoup0Bv60lRbFj71UmzOvr9uuQ2fIi/v
 type: news
 date: 2010-03-18
 tags: ["apple"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/apple

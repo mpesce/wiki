@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1FmjzlwbjbAaZPaeo1mJUP5_eQ2IqduPh/v
 type: interview
 date: 2022
 tags: ["artificial-intelligence", "chatgpt", "mark-pesce", "podcast", "the-future", "verification-design"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

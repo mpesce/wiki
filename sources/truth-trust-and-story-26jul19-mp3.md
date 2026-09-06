@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1lCHAeUHxr6QsccaKHjaMLIvdjXOH-YRh/v
 type: news
 date: 2019-07-26
 tags: ["ar", "connectivity", "mark-pesce", "narrative", "storytelling", "the-future", "trust", "virtual-reality"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/12f829Qe-8UxvU7z0AUgYVtaRMaxn2Pbu/v
 type: news
 date: 2016
 tags: ["apple", "connectivity", "mark-pesce", "mozilla", "networks", "participation"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

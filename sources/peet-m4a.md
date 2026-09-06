@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/16jZufU9V-M9M8CdhfQNR_Pqo95qLY1ZD/v
 type: interview
 date: 2018
 tags: ["abc", "connectivity", "democratization", "facebook", "mark-pesce", "networks", "peer-to-peer", "pokemon-go", "social-media", "the-new-inventors"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

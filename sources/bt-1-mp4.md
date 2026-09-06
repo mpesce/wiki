@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1WhkQrmr3Nh1drR0rkFil7hf8uZXLtwg_/v
 type: lecture
 date: unknown
 tags: ["communication", "mark-pesce", "narrative", "the-future"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

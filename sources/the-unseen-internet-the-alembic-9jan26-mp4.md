@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1-ihlrDuWtV7gc4BR9omDui2ymDqZcSE5/v
 type: panel
 date: unknown
 tags: ["artificial-intelligence", "mark-pesce", "terence-mckenna"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

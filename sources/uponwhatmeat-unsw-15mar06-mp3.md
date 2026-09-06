@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1ONIgcDZE4RsF_yGzJ50UAKkqMzRfIUC5/v
 type: lecture
 date: 2006-03-15
 tags: ["networks", "social-networks", "unsw"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/unsw

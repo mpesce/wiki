@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1iL6Qztb46AB7IVF5R_uWsz04yL9mvM2X/v
 type: lecture
 date: 2019-10-10
 tags: ["apple"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/apple

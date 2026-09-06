@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/13iCd3d_BwdtSbVL7BCwaBN8Zwr0uvK85/v
 type: keynote
 date: 2010
 tags: ["innovation", "mark-pesce"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

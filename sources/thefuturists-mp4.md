@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1GRaX7Bv80JkX92uds1QwHUPSnlL9gUSF/v
 type: interview
 date: 2023
 tags: ["apple", "artificial-intelligence", "chatgpt", "education", "mark-pesce", "mozilla", "narrative", "podcast"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

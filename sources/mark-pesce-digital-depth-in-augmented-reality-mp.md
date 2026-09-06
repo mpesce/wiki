@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1h21FW7M1XOSB0CqE92yZuKTFK1XtAKqL/v
 type: news
 date: 2016
 tags: ["3d", "ar", "facebook", "google", "ivan-sutherland", "mark-pesce", "microsoft", "pokemon-go", "surveillance"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

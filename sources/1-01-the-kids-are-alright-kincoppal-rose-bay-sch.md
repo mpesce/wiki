@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1mTBWZGZqQ0hTM7NqVo9yXwVulKZ36C3l/v
 type: podcast
 date: 2000
 tags: ["apple", "communication", "education", "google", "mark-pesce", "mit", "mozilla", "networks", "participation", "social-networks", "world-wide-web"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce

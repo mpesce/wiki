@@ -7,8 +7,8 @@ source_link: https://drive.google.com/file/d/1H0BKv9wunj155uEEcY9dIWG0dKEnOsIq/v
 type: podcast
 date: 2018-05-17
 tags: ["3d", "broadcast", "collaboration", "ivan-sutherland", "mark-pesce", "microsoft", "virtual-reality", "vr", "vrml", "world-wide-web"]
-created: 2026-09-02T18:58:59Z
-last_updated: 2026-09-02T18:58:59Z
+created: 2026-09-06T08:23:44Z
+last_updated: 2026-09-06T08:23:44Z
 mentions:
   entities:
     - entities/mark-pesce
